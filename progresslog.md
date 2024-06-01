@@ -1,5 +1,7 @@
 ## This is My Thesis Progress Log
 
+# Semester One
+
 #### Stuff has, in fact, happened to date. I will record it eventually
 * Chose poem
 * Chose thesis advisor
