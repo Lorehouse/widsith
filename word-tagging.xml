@@ -4,84 +4,90 @@
 			NOUNS:
 			dp = dem. pronoun
 			rp = rel. pronoun
-			pnoun = pronoun
+			pn = pronoun
 			n = nominative
 			a = accusative
 			d = dative
 			g = genitive 
+      s = singular
+      p = plural
 
       VERBS:
       st = strong
       wk = weak
       v = verb
+
+      adv = adverb
+      adj = adjective
+      prep = preposition
 		
 	-->
 <head>Widsith</head>
 <lg>
-	<l>
-		<word n="001" form="Widsið" lemma="widsið" pos="pnoun" gloss="Widsith"/> 
-		<word n="002" form="maðolade," lemma="maðelian" pos="wk.v" feat="pret.3.sg" gloss="spoke"/> 
+	<l n="1">
+		<word n="001" form="Widsið" lemma="widsið" pos="nsn" gloss="Widsith"/> 
+		<word n="002" form="maðolade," lemma="maðelian" pos="wkv" feat="pret.3.sg" gloss="spoke"/> 
 		<ceasura/>
 		<word n="003" form="wordhord" lemma="wordhord" pos="as" gloss="wordhoard/vocabulary"/> 
-		<word n="004" form="onleac," lemma="onlūcan" pos="st.2.v" feat="pret.3.sg" gloss="unlocked"/> 
+		<word n="004" form="onleac," lemma="onlūcan" pos="st2v" feat="pret.3.sg" gloss="unlocked"/> 
 	</l>
-	<l>
-		<word n="" form="se" lemma="se" pos="dp" gloss="that"/> 
-		<word n="" form="þe" lemma="þe" pos="rp" gloss="that"/>
-		<word n="" form="monna" lemma="monn" pos="gp" gender="m" gloss="men"/> 
-		<word n="" form="mæst" lemma="mæst" pos="adj" gloss="most"/> 
+	<l n="2">
+		<word n="005" form="se" lemma="se" pos="dpn" gloss="that"/> 
+		<word n="006" form="þe" lemma="þe" pos="rpn" gloss="that"/>
+		<word n="007" form="monna" lemma="monn" pos="gpn" gender="m" gloss="men"/> 
+		<word n="008" form="mæst" lemma="mæst" pos="adj" gloss="most"/> 
 		<ceasura/>
-		<word n="" form="mægþa" lemma="mægþ" pos="gp" gender="f" gloss="people"/> 
-		<word n="" form="ofer" lemma="ofer" pos="prep" gloss="over"/> 
-		<word n="" form="eorþan," lemma="eorþe" pos="as" gender="f" gloss="earth"/> 
+		<word n="009" form="mægþa" lemma="mægþ" pos="gpn" gender="f" gloss="people"/> 
+		<word n="010" form="ofer" lemma="ofer" pos="prep" with="acc" gloss="over"/> 
+		<word n="011" form="eorþan," lemma="eorþe" pos="asn" gender="f" gloss="earth"/> 
 	</l>
-	<l>
-		<word n="" form="folca" lemma="" pos="" gloss=""/> 
-		<word n="" form="geondferde;" lemma="" pos="" gloss=""/> 
+	<l n="3">
+		<word n="012" form="folca" lemma="folc" pos="gpn" gender="n" gloss="tribe"/> 
+		<word n="013" form="geondferde;" lemma="geondferan" pos="wkv" gloss="travel over"/> 
 		<ceasura/>
-		<word n="" form="oft" lemma="" pos="" gloss=""/>
-		<word n="" form="he" lemma="" pos="" gloss=""/> 
-		<word n="" form="on" lemma="" pos="" gloss=""/> 
-		<word n="" form="flette" lemma="" pos="" gloss=""/> 
-		<word n="" form="geþah" lemma="" pos="" gloss=""/> 
+		<word n="014" form="oft" lemma="oft" pos="adv" gloss="often"/>
+		<word n="015" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/> 
+		<word n="016" form="on" lemma="on" pos="prep" with="dat" gloss="in"/> 
+		<word n="017" form="flette" lemma="flett" pos="dsn" gloss="great hall"/> 
+		<word n="018" form="geþah" lemma="geþicgan" pos="st5v" feat="pret.3.sg" gloss="received"/> 
 	</l>
-	<l>
-		<word n="" form="mynelicne" lemma="" pos="" gloss=""/> 
-		<word n="" form="maþþum." lemma="" pos="" gloss=""/> 
+	<l n="4">
+		<word n="019" form="mynelicne" lemma="mynelic" pos="adj" gloss="handsome"/> 
+		<word n="020" form="maþþum." lemma="maþþum" pos="asn" gender="m" gloss="treasure/gift"/> 
 		<ceasura/>
-		<word n="" form="Him" lemma="" pos="" gloss=""/> 
-		<word n="" form="from" lemma="" pos="" gloss=""/> 
-		<word n="" form="Myrgingum" lemma="" pos="" gloss=""/> 
+		<word n="021" form="Him"  lemma="he" pos="asn" gender="m" gloss="him"/> <!-- Kemp has "hine" for this word -->
+		<word n="022" form="from" lemma="from" pos="prep" with="dat" gloss="from"/> 
+		<word n="023" form="Myrgingum" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
-		<word n="" form="æþele" lemma="" pos="" gloss=""/> 
-		<word n="" form="onwocon." lemma="" pos="" gloss=""/> 
+	<l n="5">
+		<word n="024" form="æþele" lemma="" pos="" gloss=""/> 
+		<word n="025" form="onwocon." lemma="" pos="" gloss=""/> <!-- Kemp has this as two words: "on wocon"-->
 		<ceasura/>
-		<word n="" form="He" lemma="" pos="" gloss=""/> 
+		<word n="026" form="He" lemma="he" pos="nsppn" gender="m" gloss="he"/> 
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ealhhilde," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="6">
 		<word n="" form="fælre" lemma="" pos="" gloss=""/> 
 		<word n="" form="freoþuwebban," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="forman" lemma="" pos="" gloss=""/> 
 		<word n="" form="siþe" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hmreðcyninges" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="ham" lemma="" pos="" gloss=""/> 
 		<word n="" form="gesohte" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="eastan" lemma="" pos="" gloss=""/> 
 		<word n="" form="of" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ongle," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Eormanrices," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="wraþes" lemma="" pos="" gloss=""/> 
 		<word n="" form="wærlogan." lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -90,7 +96,7 @@
 		<word n="" form="worn" lemma="" pos="" gloss=""/> 
 		<word n="" form="sprecan:" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Fela" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="monna" lemma="" pos="" gloss=""/> 
@@ -99,7 +105,7 @@
 		<word n="" form="mægþum" lemma="" pos="" gloss=""/> 
 		<word n="" form="wealdan!" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Sceal" lemma="" pos="" gloss=""/> 
 		<word n="" form="þeodna" lemma="" pos="" gloss=""/> 
 		<word n="" form="gehwylc" lemma="" pos="" gloss=""/> 
@@ -107,7 +113,7 @@
 		<word n="" form="þeawum" lemma="" pos="" gloss=""/> 
 		<word n="" form="lifgan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="eorl" lemma="" pos="" gloss=""/> 
 		<word n="" form="æfter" lemma="" pos="" gloss=""/> 
 		<word n="" form="oþrum" lemma="" pos="" gloss=""/> 
@@ -115,7 +121,7 @@
 		<word n="" form="eðle" lemma="" pos="" gloss=""/> 
 		<word n="" form="rædan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
 		<word n="" form="his" lemma="" pos="" gloss=""/> 
@@ -124,7 +130,7 @@
 		<word n="" form="geþeon" lemma="" pos="" gloss=""/> 
 		<word n="" form="wile." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þara" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hwala" lemma="" pos="" gloss=""/> 
@@ -132,23 +138,23 @@
 		<word n="" form="hwile" lemma="" pos="" gloss=""/> 
 		<word n="" form="selast," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Alexandreas" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="ealra" lemma="" pos="" gloss=""/> 
 		<word n="" form="ricost" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="monna" lemma="" pos="" gloss=""/> 
 		<word n="" form="cynnes," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
-		<word n="" form="he" lemma="" pos="" gloss=""/> 
+		<word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/> 
 		<word n="" form="mæst" lemma="" pos="" gloss=""/> 
 		<word n="" form="geþah" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þara" lemma="" pos="" gloss=""/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -158,7 +164,7 @@
 		<word n="" form="gefrægen" lemma="" pos="" gloss=""/> 
 		<word n="" form="hæbbe." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ætla" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hunum," lemma="" pos="" gloss=""/> 
@@ -166,14 +172,14 @@
 		<word n="" form="Eormanric" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gotum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Becca" lemma="" pos="" gloss=""/> 
 		<word n="" form="Baningum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Burgendum" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gifica." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Casere" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold" lemma="" pos="" gloss=""/> 
 		<word n="" form="Creacum" lemma="" pos="" gloss=""/> 
@@ -182,7 +188,7 @@
 		<word n="" form="Cælic" lemma="" pos="" gloss=""/> 
 		<word n="" form="Finnum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hagena" lemma="" pos="" gloss=""/> 
 		<word n="" form="Holmrygum" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -190,7 +196,7 @@
 		<word n="" form="Heoden" lemma="" pos="" gloss=""/> 
 		<word n="" form="Glommum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Witta" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold" lemma="" pos="" gloss=""/> 
 		<word n="" form="Swæfum," lemma="" pos="" gloss=""/> 
@@ -198,14 +204,14 @@
 		<word n="" form="Wada" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hælsingum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Meaca" lemma="" pos="" gloss=""/> 
 		<word n="" form="Myrgingum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Mearchealf" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hundingum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þeodric" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold" lemma="" pos="" gloss=""/> 
 		<word n="" form="Froncum," lemma="" pos="" gloss=""/> 
@@ -213,14 +219,14 @@
 		<word n="" form="þyle" lemma="" pos="" gloss=""/> 
 		<word n="" form="Rondingum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Breoca" lemma="" pos="" gloss=""/> 
 		<word n="" form="Brondingum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Billing" lemma="" pos="" gloss=""/> 
 		<word n="" form="Wernum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Oswine" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold" lemma="" pos="" gloss=""/> 
 		<word n="" form="Eowum" lemma="" pos="" gloss=""/> 
@@ -229,49 +235,49 @@
 		<word n="" form="Ytum" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gefwulf," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Fin" lemma="" pos="" gloss=""/> 
 		<word n="" form="Folcwalding" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Fresna" lemma="" pos="" gloss=""/> 
 		<word n="" form="cynne." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Sigehere" lemma="" pos="" gloss=""/> 
 		<word n="" form="lengest" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Sædenum" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hnæf" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hocingum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Helm" lemma="" pos="" gloss=""/> 
 		<word n="" form="Wulfingum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Wald" lemma="" pos="" gloss=""/> 
 		<word n="" form="Woingum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Wod" lemma="" pos="" gloss=""/> 
 		<word n="" form="þyringum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Sæferð" lemma="" pos="" gloss=""/> 
 		<word n="" form="Sycgum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Sweom" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ongendþeow," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Sceafthere" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ymbrum," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Sceafa" lemma="" pos="" gloss=""/> 
 		<word n="" form="Longbeardum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hun" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hætwerum" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -279,7 +285,7 @@
 		<word n="" form="Holen" lemma="" pos="" gloss=""/> 
 		<word n="" form="Wrosnum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hringweald" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
 		<word n="" form="haten" lemma="" pos="" gloss=""/> 
@@ -287,7 +293,7 @@
 		<word n="" form="Herefarena" lemma="" pos="" gloss=""/> 
 		<word n="" form="cyning." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Offa" lemma="" pos="" gloss=""/> 
 		<word n="" form="weold" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ongle," lemma="" pos="" gloss=""/> 
@@ -295,7 +301,7 @@
 		<word n="" form="Alewih" lemma="" pos="" gloss=""/> 
 		<word n="" form="Denum;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
 		<word n="" form="þara" lemma="" pos="" gloss=""/> 
@@ -304,17 +310,17 @@
 		<word n="" form="modgast" lemma="" pos="" gloss=""/> 
 		<word n="" form="ealra," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="no" lemma="" pos="" gloss=""/> 
 		<word n="" form="hwæþre" lemma="" pos="" gloss=""/> 
-		<word n="" form="he" lemma="" pos="" gloss=""/> 
+		<word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/>  
 		<word n="" form="ofer" lemma="" pos="" gloss=""/> 
 		<word n="" form="Offan" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="eorlscype" lemma="" pos="" gloss=""/> 
 		<word n="" form="fremede," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ac" lemma="" pos="" gloss=""/> 
 		<word n="" form="Offa" lemma="" pos="" gloss=""/> 
 		<word n="" form="geslog" lemma="" pos="" gloss=""/> 
@@ -322,13 +328,13 @@
 		<word n="" form="ærest" lemma="" pos="" gloss=""/> 
 		<word n="" form="monna," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="cnihtwesende," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="cynerica" lemma="" pos="" gloss=""/> 
 		<word n="" form="mæst." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Nænig" lemma="" pos="" gloss=""/> 
 		<word n="" form="efeneald" lemma="" pos="" gloss=""/> 
 		<word n="" form="him" lemma="" pos="" gloss=""/> 
@@ -336,21 +342,21 @@
 		<word n="" form="eorlscipe" lemma="" pos="" gloss=""/> 
 		<word n="" form="maran" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="on" lemma="" pos="" gloss=""/> 
 		<word n="" form="orette." lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Ane" lemma="" pos="" gloss=""/> 
 		<word n="" form="sweorde" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="merce" lemma="" pos="" gloss=""/> 
 		<word n="" form="gemærde" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="wið" lemma="" pos="" gloss=""/> 
 		<word n="" form="Myrgingum" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="bi" lemma="" pos="" gloss=""/> 
 		<word n="" form="Fifeldore;" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -358,7 +364,7 @@
 		<word n="" form="forð" lemma="" pos="" gloss=""/> 
 		<word n="" form="siþþan" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Engle" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Swæfe," lemma="" pos="" gloss=""/> 
@@ -368,7 +374,7 @@
 		<word n="" form="Offa" lemma="" pos="" gloss=""/> 
 		<word n="" form="geslog." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hroþwulf" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hroðgar" lemma="" pos="" gloss=""/> 
@@ -376,13 +382,13 @@
 		<word n="" form="heoldon" lemma="" pos="" gloss=""/> 
 		<word n="" form="lengest" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="sibbe" lemma="" pos="" gloss=""/> 
 		<word n="" form="ætsomne" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="suhtorfædran," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="siþþan" lemma="" pos="" gloss=""/> 
 		<word n="" form="hy" lemma="" pos="" gloss=""/> 
 		<word n="" form="forwræcon" lemma="" pos="" gloss=""/> 
@@ -390,14 +396,14 @@
 		<word n="" form="wicinga" lemma="" pos="" gloss=""/> 
 		<word n="" form="cynn" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ingeldes" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="ord" lemma="" pos="" gloss=""/> 
 		<word n="" form="forbigdan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="forheowan" lemma="" pos="" gloss=""/> 
 		<word n="" form="æt" lemma="" pos="" gloss=""/> 
 		<word n="" form="Heorote" lemma="" pos="" gloss=""/> 
@@ -405,7 +411,7 @@
 		<word n="" form="Heaðobeardna" lemma="" pos="" gloss=""/> 
 		<word n="" form="þrym." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Swa" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="geondferde" lemma="" pos="" gloss=""/> 
@@ -414,7 +420,7 @@
 		<word n="" form="fremdra" lemma="" pos="" gloss=""/> 
 		<word n="" form="londa" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="geond" lemma="" pos="" gloss=""/> 
 		<word n="" form="ginne" lemma="" pos="" gloss=""/> 
 		<word n="" form="grund." lemma="" pos="" gloss=""/> 
@@ -423,7 +429,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="yfles" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þær" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="cunnade" lemma="" pos="" gloss=""/> 
@@ -431,14 +437,14 @@
 		<word n="" form="cnosle" lemma="" pos="" gloss=""/> 
 		<word n="" form="bidæled," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="freomægum" lemma="" pos="" gloss=""/> 
 		<word n="" form="feor" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="folgade" lemma="" pos="" gloss=""/> 
 		<word n="" form="wide." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Forþon" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="mæg" lemma="" pos="" gloss=""/> 
@@ -448,7 +454,7 @@
 		<word n="" form="secgan" lemma="" pos="" gloss=""/> 
 		<word n="" form="spell," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mænan" lemma="" pos="" gloss=""/> 
 		<word n="" form="fore" lemma="" pos="" gloss=""/> 
 		<word n="" form="mengo" lemma="" pos="" gloss=""/> 
@@ -456,7 +462,7 @@
 		<word n="" form="in" lemma="" pos="" gloss=""/> 
 		<word n="" form="meoduhealle" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="hu" lemma="" pos="" gloss=""/> 
 		<word n="" form="me" lemma="" pos="" gloss=""/> 
 		<word n="" form="cynegode" lemma="" pos="" gloss=""/> 
@@ -464,7 +470,7 @@
 		<word n="" form="cystum" lemma="" pos="" gloss=""/> 
 		<word n="" form="dohten." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
@@ -474,7 +480,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hreðgotum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Sweom" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
@@ -485,7 +491,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Suþdenum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Wenlum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -498,7 +504,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="wicingum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gefþum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -511,7 +517,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gefflegum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Englum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -524,7 +530,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="ænenum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Seaxum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -536,7 +542,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Sweordwerum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hronum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -549,7 +555,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Heaþoreamum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="þyringum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -559,7 +565,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="þrowendum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Burgendum," lemma="" pos="" gloss=""/> 
@@ -569,7 +575,7 @@
 		<word n="" form="beag" lemma="" pos="" gloss=""/> 
 		<word n="" form="geþah;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="me" lemma="" pos="" gloss=""/> 
 		<word n="" form="þær" lemma="" pos="" gloss=""/> 
 		<word n="" form="Guðhere" lemma="" pos="" gloss=""/> 
@@ -578,7 +584,7 @@
 		<word n="" form="glædlicne" lemma="" pos="" gloss=""/> 
 		<word n="" form="maþþum" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="songes" lemma="" pos="" gloss=""/> 
 		<word n="" form="to" lemma="" pos="" gloss=""/> 
 		<word n="" form="leane." lemma="" pos="" gloss=""/> 
@@ -588,7 +594,7 @@
 		<word n="" form="sæne" lemma="" pos="" gloss=""/> 
 		<word n="" form="cyning!" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Froncum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -601,7 +607,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Frumtingum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Rugum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -614,7 +620,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Rumwalum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Swylce" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
@@ -624,7 +630,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="ælfwine," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="hæfde" lemma="" pos="" gloss=""/> 
 		<word n="" form="moncynnes," lemma="" pos="" gloss=""/> 
@@ -632,7 +638,7 @@
 		<word n="" form="mine" lemma="" pos="" gloss=""/> 
 		<word n="" form="gefræge," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="leohteste" lemma="" pos="" gloss=""/> 
 		<word n="" form="hond" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -640,21 +646,21 @@
 		<word n="" form="to" lemma="" pos="" gloss=""/> 
 		<word n="" form="wyrcenne," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="heortan" lemma="" pos="" gloss=""/> 
 		<word n="" form="unhneaweste" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="hringa" lemma="" pos="" gloss=""/> 
 		<word n="" form="gedales," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="beorhtra" lemma="" pos="" gloss=""/> 
 		<word n="" form="beaga," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="bearn" lemma="" pos="" gloss=""/> 
 		<word n="" form="Eadwines." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Sercingum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -664,7 +670,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Seringum;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Creacum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -677,7 +683,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Casere," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
 		<word n="" form="winburga" lemma="" pos="" gloss=""/> 
@@ -685,7 +691,7 @@
 		<word n="" form="geweald" lemma="" pos="" gloss=""/> 
 		<word n="" form="ahte," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="wiolena" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="wilna," lemma="" pos="" gloss=""/> 
@@ -694,7 +700,7 @@
 		<word n="" form="Wala" lemma="" pos="" gloss=""/> 
 		<word n="" form="rices." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Scottum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -707,7 +713,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Scridefinnum;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Lidwicingum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -720,7 +726,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Longbeardum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="hæðnum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
@@ -731,7 +737,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hundingum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Israhelum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -741,7 +747,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Exsyringum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Ebreum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
@@ -752,7 +758,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Egyptum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Moidum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -765,7 +771,7 @@
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Myrgingum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Mofdingum" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -773,7 +779,7 @@
 		<word n="" form="ongend" lemma="" pos="" gloss=""/> 
 		<word n="" form="Myrgingum," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Amothingum." lemma="" pos="" gloss=""/> 
@@ -783,7 +789,7 @@
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="mid" lemma="" pos="" gloss=""/> 
 		<word n="" form="Eolum" lemma="" pos="" gloss=""/> 
@@ -794,7 +800,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Idumingum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
@@ -804,7 +810,7 @@
 		<word n="" form="ealle" lemma="" pos="" gloss=""/> 
 		<word n="" form="þrage," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þær" lemma="" pos="" gloss=""/> 
 		<word n="" form="me" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gotena" lemma="" pos="" gloss=""/> 
@@ -813,7 +819,7 @@
 		<word n="" form="gode" lemma="" pos="" gloss=""/> 
 		<word n="" form="dohte;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="me" lemma="" pos="" gloss=""/> 
 		<word n="" form="beag" lemma="" pos="" gloss=""/> 
@@ -822,7 +828,7 @@
 		<word n="" form="burgwarena" lemma="" pos="" gloss=""/> 
 		<word n="" form="fruma," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="on" lemma="" pos="" gloss=""/> 
 		<word n="" form="þam" lemma="" pos="" gloss=""/> 
 		<word n="" form="siex" lemma="" pos="" gloss=""/> 
@@ -832,13 +838,13 @@
 		<word n="" form="smætes" lemma="" pos="" gloss=""/> 
 		<word n="" form="goldes," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="gescyred" lemma="" pos="" gloss=""/> 
 		<word n="" form="sceatta" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="scillingrime;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þone" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="Eadgilse" lemma="" pos="" gloss=""/> 
@@ -847,7 +853,7 @@
 		<word n="" form="æht" lemma="" pos="" gloss=""/> 
 		<word n="" form="sealde," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="minum" lemma="" pos="" gloss=""/> 
 		<word n="" form="hleodryhtne," lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -857,19 +863,19 @@
 		<word n="" form="ham" lemma="" pos="" gloss=""/> 
 		<word n="" form="bicwom," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="leofum" lemma="" pos="" gloss=""/> 
 		<word n="" form="to" lemma="" pos="" gloss=""/> 
 		<word n="" form="leane," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="þæs" lemma="" pos="" gloss=""/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
-		<word n="" form="he" lemma="" pos="" gloss=""/> 
+		<word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/>  
 		<word n="" form="me" lemma="" pos="" gloss=""/> 
 		<word n="" form="lond" lemma="" pos="" gloss=""/> 
 		<word n="" form="forgeaf," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="mines" lemma="" pos="" gloss=""/> 
 		<word n="" form="fæder" lemma="" pos="" gloss=""/> 
 		<word n="" form="eþel," lemma="" pos="" gloss=""/> 
@@ -877,7 +883,7 @@
 		<word n="" form="frea" lemma="" pos="" gloss=""/> 
 		<word n="" form="Myrginga." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="me" lemma="" pos="" gloss=""/> 
 		<word n="" form="þa" lemma="" pos="" gloss=""/> 
@@ -886,14 +892,14 @@
 		<word n="" form="oþerne" lemma="" pos="" gloss=""/> 
 		<word n="" form="forgeaf," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="dryhtcwen" lemma="" pos="" gloss=""/> 
 		<word n="" form="duguþe," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="dohtor" lemma="" pos="" gloss=""/> 
 		<word n="" form="Eadwines." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Hyre" lemma="" pos="" gloss=""/> 
 		<word n="" form="lof" lemma="" pos="" gloss=""/> 
 		<word n="" form="lengde" lemma="" pos="" gloss=""/> 
@@ -902,7 +908,7 @@
 		<word n="" form="londa" lemma="" pos="" gloss=""/> 
 		<word n="" form="fela," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þonne" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="be" lemma="" pos="" gloss=""/> 
@@ -911,7 +917,7 @@
 		<word n="" form="secgan" lemma="" pos="" gloss=""/> 
 		<word n="" form="sceolde" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="hwær" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="under" lemma="" pos="" gloss=""/> 
@@ -920,14 +926,14 @@
 		<word n="" form="selast" lemma="" pos="" gloss=""/> 
 		<word n="" form="wisse" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="goldhrodene" lemma="" pos="" gloss=""/> 
 		<word n="" form="cwen" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="giefe" lemma="" pos="" gloss=""/> 
 		<word n="" form="bryttian." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ðonne" lemma="" pos="" gloss=""/> 
 		<word n="" form="wit" lemma="" pos="" gloss=""/> 
 		<word n="" form="Scilling" lemma="" pos="" gloss=""/> 
@@ -935,7 +941,7 @@
 		<word n="" form="sciran" lemma="" pos="" gloss=""/> 
 		<word n="" form="reorde" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="for" lemma="" pos="" gloss=""/> 
 		<word n="" form="uncrum" lemma="" pos="" gloss=""/> 
 		<word n="" form="sigedryhtne" lemma="" pos="" gloss=""/> 
@@ -943,7 +949,7 @@
 		<word n="" form="song" lemma="" pos="" gloss=""/> 
 		<word n="" form="ahofan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="hlude" lemma="" pos="" gloss=""/> 
 		<word n="" form="bi" lemma="" pos="" gloss=""/> 
 		<word n="" form="hearpan" lemma="" pos="" gloss=""/> 
@@ -951,7 +957,7 @@
 		<word n="" form="hleoþor" lemma="" pos="" gloss=""/> 
 		<word n="" form="swinsade," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þonne" lemma="" pos="" gloss=""/> 
 		<word n="" form="monige" lemma="" pos="" gloss=""/> 
 		<word n="" form="men," lemma="" pos="" gloss=""/> 
@@ -959,7 +965,7 @@
 		<word n="" form="modum" lemma="" pos="" gloss=""/> 
 		<word n="" form="wlonce," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="wordum" lemma="" pos="" gloss=""/> 
 		<word n="" form="sprecan," lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -968,7 +974,7 @@
 		<word n="" form="wel" lemma="" pos="" gloss=""/> 
 		<word n="" form="cuþan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þæt" lemma="" pos="" gloss=""/> 
 		<word n="" form="hi" lemma="" pos="" gloss=""/> 
 		<word n="" form="næfre" lemma="" pos="" gloss=""/> 
@@ -978,7 +984,7 @@
 		<word n="" form="ne" lemma="" pos="" gloss=""/> 
 		<word n="" form="hyrdon." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ðonan" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="ealne" lemma="" pos="" gloss=""/> 
@@ -987,7 +993,7 @@
 		<word n="" form="eþel" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gotena," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		
@@ -996,14 +1002,14 @@
 		<word n="" form="þa" lemma="" pos="" gloss=""/> 
 		<word n="" form="selestan;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þæt" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæs" lemma="" pos="" gloss=""/> 
 		<word n="" form="innweorud" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="Earmanrices." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Heðcan" lemma="" pos="" gloss=""/> 
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1013,7 +1019,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Herelingas," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Emercan" lemma="" pos="" gloss=""/> 
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1023,7 +1029,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Eastgotan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="frodne" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="godne" lemma="" pos="" gloss=""/> 
@@ -1031,7 +1037,7 @@
 		<word n="" form="fæder" lemma="" pos="" gloss=""/> 
 		<word n="" form="Unwenes." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Seccan" lemma="" pos="" gloss=""/> 
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1042,7 +1048,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="þeodric," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Heaþoric" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Sifecan," lemma="" pos="" gloss=""/> 
@@ -1051,7 +1057,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Incgenþeow." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Eadwine" lemma="" pos="" gloss=""/> 
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1062,7 +1068,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hungar," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="þa" lemma="" pos="" gloss=""/> 
 		<word n="" form="wloncan" lemma="" pos="" gloss=""/> 
@@ -1070,7 +1076,7 @@
 		<ceasura/>
 		<word n="" form="Wiþmyrginga." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Wulfhere" lemma="" pos="" gloss=""/> 
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1078,13 +1084,13 @@
 		<word n="" form="Wyrmhere;" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="ful" lemma="" pos="" gloss=""/> 
-		<word n="" form="oft" lemma="" pos="" gloss=""/> 
+		<word n="" form="oft" lemma="oft" pos="adv" gloss="often"/> 
 		<word n="" form="þær" lemma="" pos="" gloss=""/> 
 		<word n="" form="wig" lemma="" pos="" gloss=""/> 
 		<word n="" form="ne" lemma="" pos="" gloss=""/> 
 		<word n="" form="alæg," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þonne" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hræda" lemma="" pos="" gloss=""/> 
 		<word n="" form="here" lemma="" pos="" gloss=""/> 
@@ -1092,21 +1098,21 @@
 		<word n="" form="heardum" lemma="" pos="" gloss=""/> 
 		<word n="" form="sweordum" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ymb" lemma="" pos="" gloss=""/> 
 		<word n="" form="Wistlawudu" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="wergan" lemma="" pos="" gloss=""/> 
 		<word n="" form="sceoldon" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ealdne" lemma="" pos="" gloss=""/> 
 		<word n="" form="eþelstol" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="ætlan" lemma="" pos="" gloss=""/> 
 		<word n="" form="leodum." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Rædhere" lemma="" pos="" gloss=""/> 
 		<word n="" form="sohte" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1117,7 +1123,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Gislhere," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Wiþergield" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Freoþeric," lemma="" pos="" gloss=""/> 
@@ -1126,7 +1132,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Haman;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="ne" lemma="" pos="" gloss=""/> 
 		<word n="" form="wæran" lemma="" pos="" gloss=""/> 
 		<word n="" form="þæt" lemma="" pos="" gloss=""/> 
@@ -1135,7 +1141,7 @@
 		<word n="" form="þa" lemma="" pos="" gloss=""/> 
 		<word n="" form="sæmestan," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þeah" lemma="" pos="" gloss=""/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
@@ -1145,9 +1151,9 @@
 		<word n="" form="nemnan" lemma="" pos="" gloss=""/> 
 		<word n="" form="sceolde." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Ful" lemma="" pos="" gloss=""/> 
-		<word n="" form="oft" lemma="" pos="" gloss=""/> 
+		<word n="" form="oft" lemma="oft" pos="adv" gloss="often"/> 
 		<word n="" form="of" lemma="" pos="" gloss=""/> 
 		<word n="" form="þam" lemma="" pos="" gloss=""/> 
 		<word n="" form="heape" lemma="" pos="" gloss=""/> 
@@ -1155,7 +1161,7 @@
 		<word n="" form="hwinende" lemma="" pos="" gloss=""/> 
 		<word n="" form="fleag" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="giellende" lemma="" pos="" gloss=""/> 
 		<word n="" form="gar" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -1163,7 +1169,7 @@
 		<word n="" form="grome" lemma="" pos="" gloss=""/> 
 		<word n="" form="þeode;" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="wræccan" lemma="" pos="" gloss=""/> 
 		<word n="" form="þær" lemma="" pos="" gloss=""/> 
 		<word n="" form="weoldan" lemma="" pos="" gloss=""/> 
@@ -1171,7 +1177,7 @@
 		<word n="" form="wundnan" lemma="" pos="" gloss=""/> 
 		<word n="" form="golde" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="werum" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="wifum," lemma="" pos="" gloss=""/> 
@@ -1180,7 +1186,7 @@
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="Hama." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Swa" lemma="" pos="" gloss=""/> 
 		<word n="" form="ic" lemma="" pos="" gloss=""/> 
 		<word n="" form="þæt" lemma="" pos="" gloss=""/> 
@@ -1191,7 +1197,7 @@
 		<word n="" form="þære" lemma="" pos="" gloss=""/> 
 		<word n="" form="feringe," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þæt" lemma="" pos="" gloss=""/> 
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="biþ" lemma="" pos="" gloss=""/> 
@@ -1199,7 +1205,7 @@
 		<ceasura/>
 		<word n="" form="londbuendum" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
 		<word n="" form="him" lemma="" pos="" gloss=""/> 
@@ -1209,23 +1215,23 @@
 		<word n="" form="gumena" lemma="" pos="" gloss=""/> 
 		<word n="" form="rice" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="to" lemma="" pos="" gloss=""/> 
 		<word n="" form="gehealdenne," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="þenden" lemma="" pos="" gloss=""/> 
-		<word n="" form="he" lemma="" pos="" gloss=""/> 
+		<word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/>  
 		<word n="" form="her" lemma="" pos="" gloss=""/> 
 		<word n="" form="leofað." lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="Swa" lemma="" pos="" gloss=""/> 
 		<word n="" form="scriþende" lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="gesceapum" lemma="" pos="" gloss=""/> 
 		<word n="" form="hweorfað" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="gleomen" lemma="" pos="" gloss=""/> 
 		<word n="" form="gumena" lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -1233,14 +1239,14 @@
 		<word n="" form="grunda" lemma="" pos="" gloss=""/> 
 		<word n="" form="fela," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="þearfe" lemma="" pos="" gloss=""/> 
 		<word n="" form="secgað," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="þoncword" lemma="" pos="" gloss=""/> 
 		<word n="" form="sprecaþ," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="simle" lemma="" pos="" gloss=""/> 
 		<word n="" form="suð" lemma="" pos="" gloss=""/> 
 		<word n="" form="oþþe" lemma="" pos="" gloss=""/> 
@@ -1249,14 +1255,14 @@
 		<word n="" form="sumne" lemma="" pos="" gloss=""/> 
 		<word n="" form="gemetað" lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="gydda" lemma="" pos="" gloss=""/> 
 		<word n="" form="gleawne," lemma="" pos="" gloss=""/> 
 		<ceasura/>
 		<word n="" form="geofum" lemma="" pos="" gloss=""/> 
 		<word n="" form="unhneawne," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="þe" lemma="þe" pos="in" gloss="who"/> 
 		<word n="" form="fore" lemma="" pos="" gloss=""/> 
@@ -1266,7 +1272,7 @@
 		<word n="" form="dom" lemma="" pos="" gloss=""/> 
 		<word n="" form="aræran," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="eorlscipe" lemma="" pos="" gloss=""/> 
 		<word n="" form="æfnan," lemma="" pos="" gloss=""/> 
 		<ceasura/>
@@ -1274,7 +1280,7 @@
 		<word n="" form="eal" lemma="" pos="" gloss=""/> 
 		<word n="" form="scæceð," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="leoht" lemma="" pos="" gloss=""/> 
 		<word n="" form="ond" lemma="" pos="" gloss=""/> 
 		<word n="" form="lif" lemma="" pos="" gloss=""/> 
@@ -1284,7 +1290,7 @@
 		<word n="" form="se" lemma="se" pos="nsm" gloss="that"/> 
 		<word n="" form="gewyrceð," lemma="" pos="" gloss=""/> 
 	</l>
-	<l>
+	<l n="">
 		<word n="" form="hafað" lemma="" pos="" gloss=""/> 
 		<word n="" form="under" lemma="under" pos="" gloss=""/> 
 		<word n="" form="heofonum" lemma="" pos="" gloss=""/> 

@@ -21,3 +21,11 @@
 * Created a tag glossary, as it were, at the top of `word-tagging.xml`
 * Will discuss tags with Dr. Goering on the next call. Also need to bring up with James
 * Decided to keep notes in this repo so that I wouldn't have to switch back and forth between here and obsidian as I take notes. This file should still render in Obsidian okay though.
+
+#### 2024-2-6
+* Line 4 Kemp Malone has "hine" in line 5 where mine has "him". Probably should amend.
+* Discuss gender. n-stem/a-stem/ja-stem (etc.) nouns with Nelson. Should these be tagged?
+* How can I standardize tags?
+* Add long vowel markings? Do that in a second pass or start now?
+* Might be fun to add a "cognates" list later on
+* Line 6 has onwocon in my text. Malone has that in the facsimile version but changes it to "on wocon" in his regularized text.
