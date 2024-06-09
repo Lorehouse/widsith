@@ -29,3 +29,7 @@
 * Add long vowel markings? Do that in a second pass or start now?
 * Might be fun to add a "cognates" list later on
 * Line 6 has onwocon in my text. Malone has that in the facsimile version but changes it to "on wocon" in his regularized text.
+
+#### 2024-7-6
+* Reading Malone has me second guessing myself. He goes through his reasoning for various emendations he has made but do I want to render them? Do I want to use his edition? What about where it disagrees with my Wikisource edition?
+* Got a third edition from sacred-texts.org as well to compare to. 
