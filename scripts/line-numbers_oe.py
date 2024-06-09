@@ -7,7 +7,7 @@ def add_line_numbers(xml_file, output_file):
     tree = ET.parse(xml_file)
     root = tree.getroot()
 
-    # Extract the namespace if present (help from ChatGPT here)
+    # Extract the namespace if present -- help from ChatGPT here
     ns = {'ns': root.tag.split('}')[0].strip('{')} if '}' in root.tag else {}
 
     line_tags = root.findall('.//ns:l', namespaces=ns) if ns else root.findall('.//l')
