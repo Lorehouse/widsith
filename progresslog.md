@@ -68,3 +68,11 @@
 
 #### 2024-06-23
 * Started reading the Weiskott text, taking notes in `weiskott_meter-of-widsith.md`
+
+#### 2024-06-24
+* Call with Nelson today. Questions for call:
+    * How much would it benefit me to get the Germanic philology any time audits?
+    * þ vs ð practices in modern Old English orthographical practice
+    * Line ten instrumental use?
+    * Lines 11-13 no nominative? Or is it "eorl"? But that seems to be in a dependent clause.
+    

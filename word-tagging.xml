@@ -133,19 +133,19 @@
       <word n="" form="wile." lemma="willan" pos="pret.sv" gloss="will"/> 
     </l>
     <l n="14">
-      <word n="" form="þara" lemma="" pos="" gloss=""/> 
+      <word n="" form="þara" lemma="se" pos="gpdpn" gender="m" gloss="that"/> 
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
-      <word n="" form="Hwala" lemma="" pos="" gloss=""/> 
+      <word n="" form="Hwala" lemma="" pos="" gloss=""/> <!-- proper name-->
       <ceasura />
-      <word n="" form="hwile" lemma="" pos="" gloss=""/> 
-      <word n="" form="selast," lemma="" pos="" gloss=""/> 
+      <word n="" form="hwile" lemma="hwil" pos="asn" gender="f" gloss="a while"/> 
+      <word n="" form="selast," lemma="sel" pos="adj" feat="superlative" gloss="best"/> 
     </l>
     <l n="15">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/> 
-      <word n="" form="Alexandreas" lemma="" pos="" gloss="Alexander"/> 
+      <word n="" form="Alexandreas" lemma="" pos="" gloss="Alexander"/> <!-- proper name-->
       <ceasura />
-      <word n="" form="ealra" lemma="" pos="" gloss=""/> 
-      <word n="" form="ricost" lemma="" pos="" gloss=""/> 
+      <word n="" form="ealra" lemma="eal" pos="adj" gloss="all"/> 
+      <word n="" form="ricost" lemma="" pos="" gloss=""/> <!-- realms? Alexander's was the best of all realms?-->
     </l>
     <l n="16">
       <word n="" form="monna" lemma="" pos="" gloss="man's"/> 
@@ -153,8 +153,8 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/> 
       <word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/> 
-      <word n="" form="mæst" lemma="" pos="" gloss="most"/> 
-      <word n="" form="geþah" lemma="" pos="" gloss=""/> 
+      <word n="" form="mæst" lemma="mæst" pos="adj" feat="superlative" gloss="most"/> 
+      <word n="" form="geþah" lemma="geþeon" pos="pret.sv" verb="strong" gloss="throve"/> 
     </l>
     <l n="17">
       <word n="" form="þara" lemma="" pos="" gloss=""/> 
