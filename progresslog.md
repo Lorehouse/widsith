@@ -57,6 +57,14 @@
     * Alignment possibilites
     * What is necessary and practical
 * Goals
-    * A tagging TEAR (Let's try and get halfway through by then)
-    * Read three + articles
+    * A tagging TEAR (Let's try and get 30 lines by then)
+    * Read three+ articles
     * Discuss at least two different versions
+
+#### 2024-06-19
+* Some progress on tagging, still making decisions (making strong or weak its own attribute on verb tags)
+* Read Neidorf, notes on `neidorf_dating-of-widsith.md`, need to read more
+* Need to get other versions of the text to look at
+
+#### 2024-06-23
+* Started reading the Weiskott text, taking notes in `weiskott_meter-of-widsith.md`
