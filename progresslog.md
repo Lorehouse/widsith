@@ -50,7 +50,7 @@
     * Annotate his bigger changes but don't 
     * Chambers _Widsith_
     * _Anglo-Saxon Poetic Records_ Clasp and Dobbie -- More editorial consensus
-    * Lit Review: Transmission history, Articles by Neidorf, Byscott, and Pasquale (very recent), John Niles paper on Widsith and the Anthropology of the Past (can be peculiar), scholarship on it in relationship to other texts.
+    * Lit Review: Transmission history, Articles by Neidorf, Weiskott, and Pascual (very recent), John Niles paper on Widsith and the Anthropology of the Past (can be peculiar), scholarship on it in relationship to other texts.
     * People who have argued it's a poetic showcase of all the things the poet _could_ discuss.
     * Call in two weeks 2024-24-06 at 0915
 * Questions for James
@@ -75,4 +75,7 @@
     * þ vs ð practices in modern Old English orthographical practice
     * Line ten instrumental use?
     * Lines 11-13 no nominative? Or is it "eorl"? But that seems to be in a dependent clause.
-    
+
+#### 2024-06-25
+* Call with James
+    * Individual tokens vs forms vs lemmas

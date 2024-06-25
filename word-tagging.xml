@@ -105,7 +105,7 @@
       <word n="" form="gefrægn" lemma="gefrignan" pos="pret.sv" verb="strong" gloss="learned (by asking)"/> 
       <ceasura />
       <word n="" form="mægþum" lemma="mægþ" pos="ipn" gender="f" gloss="tribe"/> 
-      <word n="" form="wealdan!" lemma="wealdan" pos="pret.sv" verb="" feat="with instrumental" gloss="rule"/> <!-- instrumental "By the people"?-->
+      <word n="" form="wealdan!" lemma="wealdan" pos="pret.sv" verb="" feat="with instrumental" gloss="rule"/> <!-- to have power over -->
     </l>
     <l n="11">
       <word n="" form="Sceal" lemma="sculan" pos="pres.sv" verb="strong" gloss="Shall"/> 
@@ -145,11 +145,11 @@
       <word n="" form="Alexandreas" lemma="" pos="" gloss="Alexander"/> <!-- proper name-->
       <ceasura />
       <word n="" form="ealra" lemma="eal" pos="adj" gloss="all"/> 
-      <word n="" form="ricost" lemma="" pos="" gloss=""/> <!-- realms? Alexander's was the best of all realms?-->
+      <word n="" form="ricost" lemma="rice" pos="adj" gloss="powerful"/> <!-- realms? Alexander's was the best of all realms?-->
     </l>
     <l n="16">
       <word n="" form="monna" lemma="" pos="" gloss="man's"/> 
-      <word n="" form="cynnes," lemma="" pos="" gloss="kin"/> 
+      <word n="" form="cynnes," lemma="" pos="" gloss="kin"/> <!-- mankind -->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/> 
       <word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/> 
@@ -465,7 +465,7 @@
       <word n="" form="meoduhealle" lemma="" pos="" gloss="mead-hall"/> 
     </l>
     <l n="56">
-      <word n="" form="hu" lemma="" pos="" gloss="how"/> 
+      <word n="" form="hu" lemma="hu" pos="" gloss="how"/> 
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/> 
       <word n="" form="cynegode" lemma="" pos="" gloss=""/> 
       <ceasura />
