@@ -17,40 +17,40 @@
   <text>
     <body>
       <head>Widsith</head>
-      <lg> <!-- Haven't done anything past here-->
+      <lg> 
         <l n="1">Widsið maðolade, <caesura /> wordhord onleac,</l>
-        <l n="2">se þe monna mæst <caesura /> mægþa ofer eorþan,</l>
-        <l n="3">folca geondferde; <caesura /> oft he on flette geþah</l>
+        <l n="2">se þe [monna] mæst <caesura /> mægþa ofer eorþan,</l>
+        <l n="3">folca geondferde; <caesura /> oft he [on] flette geþah</l>
         <l n="4">mynelicne maþþum. <caesura /> Him from Myrgingum</l>
         <l n="5">æþele onwocon. <caesura /> He mid Ealhhilde,</l>
         <l n="6">fælre freoþuwebban, <caesura /> forman siþe</l>
-        <l n="7">Hmreðcyninges <caesura /> ham gesohte</l>
+        <l n="7">Hreðcyninges <caesura /> ham gesohte</l>
         <l n="8">eastan of Ongle, <caesura /> Eormanrices,</l>
         <l n="9">wraþes wærlogan. <caesura /> Ongon þa worn sprecan:</l>
-        <l n="10">"Fela ic monna gefrægn <caesura /> mægþum wealdan!</l>
-        <l n="11">Sceal þeodna gehwylc <caesura /> þeawum lifgan,</l>
+        <l n="10">"Fela ic monna gefrægn <caesura /> mægþum wealdan;</l>
+        <l n="11">sceal þeod[n]a gehwylc <caesura /> þeawum lifgan,</l>
         <l n="12">eorl æfter oþrum <caesura /> eðle rædan,</l>
         <l n="13">se þe his þeodenstol <caesura /> geþeon wile.</l>
-        <l n="14">þara wæs Hwala <caesura /> hwile selast,</l>
+        <l n="14">þara wæs [H]wala <caesura /> hwile selast,</l>
         <l n="15">ond Alexandreas <caesura /> ealra ricost</l>
         <l n="16">monna cynnes, <caesura /> ond he mæst geþah</l>
         <l n="17">þara þe ic ofer foldan <caesura /> gefrægen hæbbe.</l>
-        <l n="18">ætla weold Hunum, <caesura /> Eormanric Gotum,</l>
+        <l n="18">Ætla weold Hunum, <caesura /> Eormanric Gotum,</l>
         <l n="19">Becca Baningum, <caesura /> Burgendum Gifica.</l>
         <l n="20">Casere weold Creacum <caesura /> ond Cælic Finnum,</l>
-        <l n="21">Hagena Holmrygum <caesura /> ond Heoden Glommum.</l>
-        <l n="22">Witta weold Swæfum, <caesura /> Wada Hælsingum,</l>
-        <l n="23">Meaca Myrgingum, <caesura /> Mearchealf Hundingum.</l>
-        <l n="24">þeodric weold Froncum, <caesura /> þyle Rondingum,</l>
-        <l n="25">Breoca Brondingum, <caesura /> Billing Wernum.</l>
-        <l n="26">Oswine weold Eowum <caesura /> ond Ytum Gefwulf,</l>
-        <l n="27">Fin Folcwalding <caesura /> Fresna cynne.</l>
-        <l n="28">Sigehere lengest <caesura /> Sædenum weold,</l>
-        <l n="29">Hnæf Hocingum, <caesura /> Helm Wulfingum,</l>
-        <l n="30">Wald Woingum, <caesura /> Wod þyringum,</l>
-        <l n="31">Sæferð Sycgum, <caesura /> Sweom Ongendþeow,</l>
-        <l n="32">Sceafthere Ymbrum, <caesura /> Sceafa Longbeardum,</l>
-        <l n="33">Hun Hætwerum <caesura /> ond Holen Wrosnum.</l>
+        <l n="21">Hagena Holm-Rygum <caesura/> ond Heoden Glommum.</l>
+        <l n="22">Witta weold Swæfum, <caesura/> Wada Hælsingum,</l>
+        <l n="23">Meaca Myrgingum, <caesura/> Mearchealf Hundingum.</l>
+        <l n="24">þeodric weold Froncum, <caesura/> þyle Rondingum,</l>
+        <l n="25">Breoca Brondingum, <caesura/> Billing Wernum.</l>
+        <l n="26">Oswine weold Eowum <caesura/> ond Ytum Gefwulf,</l>
+        <l n="27">Fin Folcwalding <caesura/> Fresna cynne.</l>
+        <l n="28">Sigehere lengest <caesura/> Sæ-Denum weold,</l>
+        <l n="29">Hnæf Hocingum, <caesura/> Helm Wulfingum,</l>
+        <l n="30">Wald Woingum, <caesura/> Wod þyringum,</l>
+        <l n="31">Sæferð Sycgum, <caesura/> Sweom Ongendþeow,</l>
+        <l n="32">Sceafthere Ymbrum, <caesura/> Sceafa Longbeardum,</l>
+        <l n="33">Hún Hætwerum <caesura/> ond Holen Wrosnum.</l> <!-- Haven't done anything past here-->
         <l n="34">Hringweald wæs haten <caesura /> Herefarena cyning.</l>
         <l n="35">Offa weold Ongle, <caesura /> Alewih Denum;</l>
         <l n="36">se wæs þara manna <caesura /> modgast ealra,</l>
