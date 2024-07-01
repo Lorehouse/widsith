@@ -82,3 +82,4 @@
 
 #### 2024-07-01
 * After a hiatus for Tolkien and Tradition, I am starting to get the Malone and Chambers editions into xml
+* [[Chambers]] Sometimes he hyphenates things like "Sæ-Denum" (28b) and it offers clarity that I really like.
