@@ -79,3 +79,6 @@
 #### 2024-06-25
 * Call with James
     * Individual tokens vs forms vs lemmas
+
+#### 2024-07-01
+* After a hiatus for Tolkien and Tradition, I am starting to get the Malone and Chambers editions into xml
