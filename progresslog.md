@@ -54,7 +54,7 @@
     * People who have argued it's a poetic showcase of all the things the poet _could_ discuss.
     * Call in two weeks 2024-24-06 at 0915
 * Questions for James
-    * Alignment possibilites
+    * Alignment possibilities
     * What is necessary and practical
 * Goals
     * A tagging TEAR (Let's try and get 30 lines by then)
@@ -63,11 +63,11 @@
 
 #### 2024-06-19
 * Some progress on tagging, still making decisions (making strong or weak its own attribute on verb tags)
-* Read Neidorf, notes on `neidorf_dating-of-widsith.md`, need to read more
+* Read [[neidorf_dating-of-widsith]], notes on `neidorf_dating-of-widsith.md`, need to read more
 * Need to get other versions of the text to look at
 
 #### 2024-06-23
-* Started reading the Weiskott text, taking notes in `weiskott_meter-of-widsith.md`
+* Started reading the [[weiskott_meter-of-widsith]] text, taking notes in `weiskott_meter-of-widsith.md`
 
 #### 2024-06-24
 * Call with Nelson today. Questions for call:
@@ -83,3 +83,10 @@
 #### 2024-07-01
 * After a hiatus for Tolkien and Tradition, I am starting to get the Malone and Chambers editions into xml
 * [[Chambers]] Sometimes he hyphenates things like "Sæ-Denum" (28b) and it offers clarity that I really like.
+
+#### 2024-08-16
+* Returning from break, Chambers, Malone, my version, and now the Anglo-Saxon Poetic Record version is in xml for comparisons.
+* Goals for this coming semester include creating a lit review of 10+ sources and a bibliography of 40+ sources found in `literature.md` [[literature]]
+* emailed Dr. Scott Kleinman about DH resources
+* Need to finish [[pascual_metrical-history]] reading
+* start [[niles_anthropology-of-the-past]]
