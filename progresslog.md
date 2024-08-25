@@ -90,3 +90,14 @@
 * emailed Dr. Scott Kleinman about DH resources
 * Need to finish [[pascual_metrical-history]] reading
 * start [[niles_anthropology-of-the-past]]
+
+#### 2024-08-18
+* Put in interlibrary loan requests for Liuzza _Old English Literature_, Niles _Old English heroic poems and the social life of texts_, Gillespie, and Fulk and Cain _A history of Old English literature_
+* Looked at Old English Poetry in Facsimile site. It is ugly but it is aligned. The navigation is unclear, and there's no significant linking to other projects. 
+* I'd love to see linked open data, especially geographical, for the time period and locations to tie into my tagging.
+
+#### 2024-08-19
+* Lost a lot of work, including line-numbering and all proper names that I'd filled in. 
+* Ask Nelson, James about tagging compound words, specifically Sæ-denum (l 28)
+* Got as far as Emerca (was hoping to finish "E" but didn't quite)
+* CHecking everything into GitHub NOW
