@@ -96,8 +96,16 @@
 * Looked at Old English Poetry in Facsimile site. It is ugly but it is aligned. The navigation is unclear, and there's no significant linking to other projects. 
 * I'd love to see linked open data, especially geographical, for the time period and locations to tie into my tagging.
 
-#### 2024-08-19
+#### 2024-08-24
 * Lost a lot of work, including line-numbering and all proper names that I'd filled in. 
 * Ask Nelson, James about tagging compound words, specifically Sæ-denum (l 28)
 * Got as far as Emerca (was hoping to finish "E" but didn't quite)
 * CHecking everything into GitHub NOW
+
+#### 2024-08-25
+* Tagged named-entites through F
+* Wrote script that generated word numbers for the word-tagging file
+    * script is in `word-numbers_oe.py`
+    * Currently saved as `w-nums.xml`
+    * not combining yet with `word-tagging.xml` because the w-nums file lost my comments and the numbers aren't 00-padded. I'd like to talk to Nelson and/or James about whether or not they should be padded.
+* started Wright's Old English Grammar
