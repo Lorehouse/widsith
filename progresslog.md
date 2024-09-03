@@ -109,3 +109,10 @@
     * Currently saved as `w-nums.xml`
     * not combining yet with `word-tagging.xml` because the w-nums file lost my comments and the numbers aren't 00-padded. I'd like to talk to Nelson and/or James about whether or not they should be padded.
 * started Wright's Old English Grammar
+
+#### 2024-09-02
+* What does "im" mean in the PARSE of the Brunetti Beowulf? All verbs are in infinitve but with "nne" ending.
+
+#### 2024-09-03
+* tagging proper nouns again
+* Fascinating confusion around line 81 "WOW this is interesting. I had interpreted this on my read-through as "heroes" but Malone and some other writers identify this with the inhabitants ot the _Hala heret_ in _Jordebog_ of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as _Hæreþum_, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn "hæleþ" or hero, which I am adopting for the time being. This corresponds to the term hæþen in the same line, which is by some read as "heathen" and by others as a Norwegian tribe dwelling in the Hedemark."

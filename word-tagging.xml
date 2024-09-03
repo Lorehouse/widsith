@@ -172,14 +172,14 @@
       <word n="" form="Hunum," lemma="" pos="dpn" gloss="the Huns"/>
       <ceasura />
       <word n="" form="Eormanric" lemma="Eormanrīc" pos="nsn" gloss="Ermanric"/>
-      <word n="" form="Gotum," lemma="" pos="dpn" gloss="the Goths"/>
+      <word n="" form="Gotum," lemma="Gotan" pos="ipn" gloss="the Goths"/>
     </l>
     <l n="19">
       <word n="" form="Becca" lemma="Becca" pos="nsn" gloss="Becca"/><!-- from OE Beocca, possibly identified with Bikki from _Snorra Edda_ and _Völsungasaga_, Ermanric's treacherous retainer, and Bicco in Saxo's _Gesta Danorum_ but Malone dismisses this as linguistically improbable (pg 131).-->
       <word n="" form="Baningum," lemma="Baningas" pos="dpn" gloss="the Baningas"/><!-- Malone has a long note here connecting Baningum with Bainaib (Cuntz 1923) and Ptolemy's Βαινοχαιμαι, whom he argues are separate from the Bohemians (Boihœmum, Marquart)-->
       <ceasura />
       <word n="" form="Burgendum" lemma="Burgendan" pos="dpn" gloss="the Burgundians"/>
-      <word n="" form="Gifica." lemma="" pos="" gloss=""/>
+      <word n="" form="Gifica." lemma="Gifica" pos="nsn" gloss="Gifica"/><!-- Also the Gibica mentioned in King Gundobad's _Leges Burgudionum_ (see Malone 154), believed by F. Bluhme to be the father of Gundomar, Gislahari (Gislhere, line 123) and Gundahari(Guðhere, line 66). Malone speculates that these may represent each a generation.-->
     </l>
     <l n="20">
       <word n="" form="Casere" lemma="Casere" pos="nsn" gloss="Caesar"/>
@@ -191,7 +191,7 @@
       <word n="" form="Finnum," lemma="Finnas" pos="dpn" gloss="the Finns"/>
     </l>
     <l n="21">
-      <word n="" form="Hagena" lemma="" pos="" gloss=""/>
+      <word n="" form="Hagena" lemma="Hagena" pos="nsn" gloss="Hagen"/><!-- a king of the Rugians, famous from the Hild Saga-->
       <word n="" form="Holmrygum" lemma="" pos="dpn" gloss=""/>
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -235,7 +235,7 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Ytum" lemma="" pos="dpn" gloss=""/>
-      <word n="" form="Gefwulf," lemma="" pos="" gloss=""/>
+      <word n="" form="Gefwulf," lemma="Gefwulf" pos="nsn" gloss="Gefwulf"/><!-- King of the Euts (Ytum), but otherwise unknown-->
     </l>
     <l n="27">
       <word n="" form="Fin" lemma="Fin" pos="nsn" gloss="Fin"/><!--King of rhe Frisians and the Finn from Beowulf and the _Finnsburuh Fragment_-->
@@ -255,7 +255,7 @@
       <word n="" form="Hnæf" lemma="" pos="" gloss=""/>
       <word n="" form="Hocingum," lemma="" pos="dpn" gloss=""/>
       <ceasura />
-      <word n="" form="Helm" lemma="" pos="" gloss=""/>
+      <word n="" form="Helm" lemma="Helm" pos="nsn" gloss="Helm"/><!--Helm, King of the Wulfings-->
       <word n="" form="Wulfingum," lemma="" pos="dpn" gloss=""/>
     </l>
     <l n="30">
@@ -292,7 +292,7 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="haten" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="Herefarena" lemma="" pos="" gloss=""/>
+      <word n="" form="Herefarena" lemma="Herefaran" pos="gpn" gloss="Herefarens"/>
       <word n="" form="cyning." lemma="" pos="" gloss=""/>
     </l>
     <l n="35">
@@ -408,9 +408,9 @@
     <l n="49">
       <word n="" form="forheowan" lemma="" pos="" gloss=""/>
       <word n="" form="æt" lemma="" pos="" gloss=""/>
-      <word n="" form="Heorote" lemma="" pos="" gloss=""/>
+      <word n="" form="Heorote" lemma="Heorot" pos="dsn" gloss="Heorot"/><!--Heorot of Hroðgar in _Beowulf_.-->
       <ceasura />
-      <word n="" form="Heaðobeardna" lemma="" pos="" gloss=""/>
+      <word n="" form="Heaðobeardna" lemma="Heaðobeardan" pos="gpn" gloss="Heathobards"/><!--These are the Heathobards of Beowulf. Malone presumes that they were closely related to the Langobards.-->
       <word n="" form="þrym." lemma="" pos="" gloss=""/>
     </l>
     <l n="50">
@@ -487,7 +487,7 @@
       <word n="" form="Sweom" lemma="" pos="" gloss=""/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Geatum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Geatum" lemma="Gēatas" pos="dpn" gloss="the Geats" /> <!--The Geats are common knowledge-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -508,7 +508,7 @@
     </l>
     <l n="60">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Gefþum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Gefþum" lemma="Gefþan" pos="dpn" gloss="The Gibids"/><!-- A tribe of the Gothic family mentioned in Beowulf-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -517,7 +517,7 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Gefflegum." lemma="" pos="" gloss=""/>
+      <word n="" form="Gefflegum." lemma="Gefflēgan" pos="dsn" gloss="The Gefflegans"/><!-- The Aviones of Tacitus but location unknown-->
     </l>
     <l n="61">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -555,7 +555,7 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Heaþoreamum." lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Heaþoreamum." lemma="HeaÞoreamas" pos="dpn" gloss="HeaÞoramas"/>
     </l>
     <l n="64">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -580,7 +580,7 @@
     <l n="66">
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="þær" lemma="" pos="" gloss=""/>
-      <word n="" form="Guðhere" lemma="" pos="" gloss=""/>
+      <word n="" form="Guðhere" lemma="Guðhere" pos="nsn" gloss="Guðhere"/><!-- King of the Burgundians, Gunter/Gunther of OHG, who was defeated by the Huns in the Nibelungenlied, Þiðrikssaga, and the Volsungasaga.-->
       <word n="" form="forgeaf" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="glædlicne" lemma="" pos="" gloss=""/>
@@ -730,10 +730,10 @@
     </l>
     <l n="81">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="hæðnum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="hæðnum" lemma="hæþen" pos="dpn" gloss="heathens"/><!-- Various editors believe this to be the word "heathen" as below is the word "hero", but Malone argues in the spirit of Lappenberg 1838, that these are the inhabitants of the Norwegian region called Hedemark (Malone 159). I am currently adopting the "heathens and heroes" reading but am open to changing my mind.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="hæleþum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="hæleþum" lemma="hæleþ" pos="dpn" gloss="heroes"/><!-- WOW this is interesting. I had interpreted this on my read-through as "heroes" but Malone and some other writers identify this with the inhabitants ot the Hala heret in _Jordebog_ of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as _Hæreþum_, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn "hæleþ" or hero, which I am adopting for the time being. I will copy this note into my log.-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -815,7 +815,7 @@
     <l n="89">
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
-      <word n="" form="Gotena" lemma="" pos="" gloss=""/>
+      <word n="" form="Gotena" lemma="Gotan" pos="gpn" gloss="the Goths"/>
       <word n="" form="cyning" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="gode" lemma="" pos="" gloss=""/>
@@ -1012,14 +1012,14 @@
       <word n="" form="Earmanrices." lemma="Eormanrīc" pos="dsn" gloss="Ermanric"/>
     </l>
     <l n="112">
-      <word n="" form="Heðcan" lemma="" pos="" gloss=""/>
-      <word n="" form="sohte" lemma="" pos="" gloss=""/>
+      <word n="" form="Heðcan" lemma="Heðca" pos="asn" gloss="Hache"/><!-- Malone corrects this to Hehca, and associates him with "Hache", a Germanic hero (Malone 168). Anscombe 1916 amends it to Hæþcan and identifies the character with King Hæðcyn of Beowulf.-->
+      <word n="" form="sohte" lemma="sohte" pos="v" gloss="sought"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Beadecan" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Herelingas," lemma="" pos="" gloss=""/>
+      <word n="" form="Herelingas," lemma="Herelingas" pos="apn" gloss="Herelingas"/><!-- The folloers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).-->
     </l>
     <l n="113">
       <word n="" form="Emercan" lemma="Emerca" pos="asn" gloss="Emerca"/><!-- Emerca is the Gothic hero Erpamara, found in Jordanes 43-->
@@ -1051,7 +1051,7 @@
       <word n="" form="þeodric," lemma="" pos="" gloss=""/>
     </l>
     <l n="116">
-      <word n="" form="Heaþoric" lemma="" pos="" gloss=""/>
+      <word n="" form="Heaþoric" lemma="Heaþoric" pos="asn" gloss="Heathoric"/><!-- Malone  states that this is the Heiðrekr of the _Harvararsaga_, and while the phonology does not precisely align, the three remaining names in this line are all from _Hervararsaga_. He also draws a connection between this Heaþoric and the Hæðcyn of _Beowulf_.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Sifecan," lemma="" pos="" gloss=""/>
       <ceasura />
@@ -1123,7 +1123,7 @@
       <ceasura />
       <word n="" form="Rumstan" lemma="" pos="" gloss=""/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Gislhere," lemma="" pos="" gloss=""/>
+      <word n="" form="Gislhere," lemma="Gislhere" pos="asn" gloss="Gislaharius"/><!-- King of the Burgundians, who Malone speculates would have been an ancestor of the more famous Guðhere-->
     </l>
     <l n="124">
       <word n="" form="Wiþergield" lemma="" pos="" gloss=""/>
@@ -1132,7 +1132,7 @@
       <ceasura />
       <word n="" form="Wudgan" lemma="" pos="" gloss=""/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Haman;" lemma="" pos="" gloss=""/>
+      <word n="" form="Haman;" lemma="Hama" pos="asn" gloss="Hama"/>
     </l>
     <l n="125">
       <word n="" form="ne" lemma="" pos="" gloss=""/>
@@ -1186,7 +1186,7 @@
       <ceasura />
       <word n="" form="Wudga" lemma="" pos="" gloss=""/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Hama." lemma="" pos="" gloss=""/>
+      <word n="" form="Hama." lemma="Hama" pos="nsn" gloss="Hama"/><!-- The Heime of German lore, an exile who has carved out a kingdom for himself and is paired in this poem with Wudga. Malone states that the poet clearly thought of them as joint rulers of a single kingdom, though Chambers argues they were outlaws a la Robin Hood (pg 159-160). This is the Hama of Beowulf who carried off the bright necklace of the Brosings.-->
     </l>
     <l n="131">
       <word n="" form="Swa" lemma="" pos="" gloss=""/>

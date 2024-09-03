@@ -18,7 +18,7 @@
       wk = weak
       v = verb
       pp = pretererite plural
-      ps = pretereite singular
+      ps = pretererite singular
       adv = adverb
       adj = adjective
       prep = preposition
@@ -487,7 +487,7 @@
       <word n="287" form="Sweom" lemma="" pos="" gloss="" />
       <word n="288" form="ond" lemma="ond" pos="conj" gloss="and" />
       <word n="289" form="mid" lemma="mid" pos="prep" with="dat" gloss="with" />
-      <word n="290" form="Geatum" lemma="" pos="dpn" gloss="" />
+      <word n="290" form="Geatum" lemma="Gēatas" pos="dpn" gloss="the Geats" /> <!--The Geats are common knowledge-->
       <ceasura />
       <word n="291" form="ond" lemma="ond" pos="conj" gloss="and" />
       <word n="292" form="mid" lemma="mid" pos="prep" with="dat" gloss="with" />
