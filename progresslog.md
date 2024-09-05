@@ -116,3 +116,7 @@
 #### 2024-09-03
 * tagging proper nouns again
 * Fascinating confusion around line 81 "WOW this is interesting. I had interpreted this on my read-through as "heroes" but Malone and some other writers identify this with the inhabitants ot the _Hala heret_ in _Jordebog_ of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as _Hæreþum_, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn "hæleþ" or hero, which I am adopting for the time being. This corresponds to the term hæþen in the same line, which is by some read as "heathen" and by others as a Norwegian tribe dwelling in the Hedemark."
+
+#### 2024-09-05
+* more proper nouns. Fun controversy over Heoden/Henden in line 21, where the word in the manuscript is very unclear. Malone makes an odd choice to have it as Henden but everyone else seems content to amend it to Heoden, of the Hild Saga. This is brought up in the Gillespie footnotes as well on pgs 69 and 73.
+* logged proper nouns through I. Interesting questions arise and I have made comments.
