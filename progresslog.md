@@ -120,3 +120,10 @@
 #### 2024-09-05
 * more proper nouns. Fun controversy over Heoden/Henden in line 21, where the word in the manuscript is very unclear. Malone makes an odd choice to have it as Henden but everyone else seems content to amend it to Heoden, of the Hild Saga. This is brought up in the Gillespie footnotes as well on pgs 69 and 73.
 * logged proper nouns through I. Interesting questions arise and I have made comments.
+
+#### 2024-09-06
+* Things move ahead.
+* Discussed display options with James and he showed me how the named-entities display works in Beyond Translation. Pointed out that Atreides directed to Agememnon and reminded me that I need various names for the same person to point to the main name of that person.
+
+#### 2024-09-07
+* We keep on keepin' on. Just finished the "M" proper nouns.

@@ -59,7 +59,7 @@
       <ceasura />
       <word n="021" form="Him" lemma="he" pos="asn" gender="m" gloss="him"/>
       <word n="022" form="from" lemma="from" pos="prep" with="dat" gloss="from"/>
-      <word n="023" form="Myrgingum" lemma="Myrging" pos="dpn" gloss="Myrgings"/><!-- Proper Noun -->
+      <word n="023" form="Myrgingum" lemma="Myrging" pos="dpn" gloss="the Myrgings"/><!-- the tribe to which Widsið belonged. "By virtue of the Offa episode, the Myrgings can be localized with some precision; they lived south of the river Eider, in a region apparently identical with that held by the Saxons of Ptolemy and certainly identical with that held by the Nordalbings of later times, themselves a branch of the Old Saxons (to use King Alfred's term)." (Malone 183). The Myrgings were likely a Saxonish tribe called the Maurungani of the Geographer of Ravenna.-->
     </l>
     <l n="5">
       <word n="024" form="æþele" lemma="æþelo" pos="npn" gender="f" gloss="noble"/>
@@ -199,26 +199,26 @@
       <word n="" form="Glommum." lemma="Glomman" pos="dpn" gloss="the Glomman"/>
     </l>
     <l n="22">
-      <word n="" form="Witta" lemma="" pos="" gloss=""/>
+      <word n="" form="Witta" lemma="Witta" pos="nsn" gloss=""/>
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Swæfum," lemma="" pos="dpn" gloss=""/>
       <ceasura />
-      <word n="" form="Wada" lemma="" pos="" gloss=""/>
+      <word n="" form="Wada" lemma="" pos="nsn" gloss=""/>
       <word n="" form="Hælsingum," lemma="Hælsingas" pos="ipn" gloss="Hælsings"/>
     </l>
     <l n="23">
-      <word n="" form="Meaca" lemma="" pos="" gloss=""/>
-      <word n="" form="Myrgingum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Meaca" lemma="Meaca" pos="nsn" gloss="Meaca"/> <!-- Unknown king of the Myrgings-->
+      <word n="" form="Myrgingum," lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
       <ceasura />
-      <word n="" form="Mearchealf" lemma="" pos="" gloss=""/>
-      <word n="" form="Hundingum." lemma="Hundingas" pos="dpn" gloss="the Hundings"/><!--nickname for the Langobards-->
+      <word n="" form="Mearchealf" lemma="Mearchealf" pos="nsn" gloss="Mearchealf"/><!--unknowng king of the Hundings, but his name may be derived from _mearh_ "horse" and _ealf_ "elf".-->
+      <word n="" form="Hundingum." lemma="Hundingas" pos="dpn" gloss="the Hundings" sameas="the Langobards"/><!--nickname for the Langobards-->
     </l>
     <l n="24">
-      <word n="" form="þeodric" lemma="" pos="" gloss=""/>
+      <word n="" form="þeodric" lemma="þeodric" pos="nsn" gloss=""/>
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Froncum," lemma="Froncan" pos="dpn" gloss="the Franks"/>
       <ceasura />
-      <word n="" form="þyle" lemma="" pos="" gloss=""/>
+      <word n="" form="þyle" lemma="þyle" pos="nsn" gloss=""/>
       <word n="" form="Rondingum," lemma="" pos="dpn" gloss=""/>
     </l>
     <l n="25">
@@ -277,7 +277,7 @@
       <word n="" form="Ymbrum," lemma="" pos="dpn" gloss=""/>
       <ceasura />
       <word n="" form="Sceafa" lemma="Sceafa" pos="nsn" gloss="Sheaf"/>
-      <word n="" form="Longbeardum," lemma="dpn" pos="dpn" gloss=""/>
+      <word n="" form="Longbeardum," lemma="Longbeardan" pos="dpn" gloss="the Langobards"/>
     </l>
     <l n="33">
       <word n="" form="Hun" lemma="Hun" pos="nsn" gloss="Hunn"/>
@@ -356,7 +356,7 @@
       <word n="" form="gemærde" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="wið" lemma="" pos="" gloss=""/>
-      <word n="" form="Myrgingum" lemma="" pos="dpn" gloss="the Myrgings"/>
+      <word n="" form="Myrgingum" lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
     </l>
     <l n="43">
       <word n="" form="bi" lemma="" pos="" gloss="at"/>
@@ -717,16 +717,16 @@
     </l>
     <l n="80">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Lidwicingum" lemma="" pos="" gloss=""/>
+      <word n="" form="Lidwicingum" lemma="Lidwicingas" pos="dpn" gloss="the Lidwiwiccas"/><!--Malone emends this to Lidingum and associates them with the Liðungar of Islenzkir Analar, but others associate it as is with the Lidwiccas in the _OE Annals_. I have chosen to leave it unchanged for the moment-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Leonum" lemma="" pos="" gloss=""/>
+      <word n="" form="Leonum" lemma="Leonas" pos="dpn" gloss="the Leonas"/>
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Longbeardum," lemma="" pos="" gloss=""/>
+      <word n="" form="Longbeardum," lemma="Longbeardum" pos="dpn" gloss="The Langobards"/>
     </l>
     <l n="81">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -762,7 +762,7 @@
     </l>
     <l n="84">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Moidum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Moidum" lemma="Moide" pos="dpn" gloss="the Moids"/><!--Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -771,15 +771,15 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Myrgingum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Myrgingum," lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/><!-- Widsith himself was a Myrging -->
     </l>
     <l n="85">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Mofdingum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Mofdingum" lemma="Mofdingas" pos="dpn" gloss="Mofdings"/><!--Malone changes this to the "Ofdingas" for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="ongend" lemma="" pos="" gloss=""/>
-      <word n="" form="Myrgingum," lemma="" pos="" gloss=""/>
+      <word n="" form="Myrgingum," lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
     </l>
     <l n="86">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -883,7 +883,7 @@
       <word n="" form="eþel," lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="frea" lemma="" pos="" gloss=""/>
-      <word n="" form="Myrginga." lemma="" pos="" gloss=""/>
+      <word n="" form="Myrginga." lemma="Myrgingas" pos="gpn" gloss="the Myrgings"/>
     </l>
     <l n="97">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
