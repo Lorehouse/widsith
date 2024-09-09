@@ -85,7 +85,7 @@
     <l n="8">
       <word n="" form="eastan" lemma="eastan" pos="adv" gloss="east"/>
       <word n="" form="of" lemma="of" pos="prep" with="dative" gloss="from"/>
-      <word n="" form="Ongle," lemma="" pos="" gloss="the Angles land"/><!-- Fill in Proper Name-->
+      <word n="" form="Ongle," lemma="Ongel" pos="dpn" gloss="the Angles land"/><!--The original homeland of the Angles before Britain, and probably covered most of Sleswick,-->
       <ceasura />
       <word n="" form="Eormanrices," lemma="Eormanrīc" pos="gsn" gloss="Ermanric"/><!-- Ostrogothic king in the late middle 4th century, see his contemporary historian, Ammanius Marcellinus, as well as Jordanes. Ammanius tells that his great empire was so threatened by Huns and Alans that he committed suicide, though Jordanes leaves this out (Malone 146). Son of Amelunc and uncle of Dietrich von Berne (Þeodric), _Dietrichs Flucht_ paints him very badly, as do other Old German heroic tales (Gillespie 37, 38). Malone argues that these later heroic tales do not reflect the historical king, who seems to have behaved correctly for an old Germanic warlord (146-149).-->
     </l>
@@ -201,7 +201,7 @@
     <l n="22">
       <word n="" form="Witta" lemma="Witta" pos="nsn" gloss=""/>
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
-      <word n="" form="Swæfum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Swæfum," lemma="Swæfe" pos="dpn" gloss="Swæfe"/>
       <ceasura />
       <word n="" form="Wada" lemma="" pos="nsn" gloss=""/>
       <word n="" form="Hælsingum," lemma="Hælsingas" pos="ipn" gloss="Hælsings"/>
@@ -219,7 +219,7 @@
       <word n="" form="Froncum," lemma="Froncan" pos="dpn" gloss="the Franks"/>
       <ceasura />
       <word n="" form="þyle" lemma="þyle" pos="nsn" gloss=""/>
-      <word n="" form="Rondingum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Rondingum," lemma="Rondingas" pos="dpn" gloss="The Rondings"/><!--The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means "borderers" and seems to be a poetic appelation based on their region being called a _mark_ or borderland. (Malone 191-192)-->
     </l>
     <l n="25">
       <word n="" form="Breoca" lemma="Breoca" pos="nsn" gloss="Breoca"/><!-- The Breca of _Beowulf_ fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)-->
@@ -229,9 +229,9 @@
       <word n="" form="Wernum." lemma="Wern" pos="dpn" gloss="the Werns"/><!-- According to Chambers and Redin the name is derived from a kind of sword called a _bill_-->
     </l>
     <l n="26">
-      <word n="" form="Oswine" lemma="" pos="" gloss=""/>
+      <word n="" form="Oswine" lemma="Oswine" pos="nsn" gloss="Oswin"/><!--Otherwise unknown-->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
-      <word n="" form="Eowum" lemma="Eowan" pos="dpn" gloss="the Eowan"/><!-- A tribe Conybeare associates with the Baltic island of Öland-->
+      <word n="" form="Eowum" lemma="Eowan" pos="dpn" gloss="the Eows"/><!-- A tribe Conybeare associates with the Baltic island of Öland-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Ytum" lemma="" pos="dpn" gloss=""/>
@@ -245,7 +245,7 @@
       <word n="" form="cynne." lemma="" pos="" gloss=""/>
     </l>
     <l n="28">
-      <word n="" form="Sigehere" lemma="" pos="" gloss=""/>
+      <word n="" form="Sigehere" lemma="Sigehere" pos="nsn" gloss="Sighere"/><!--King of the Sea-Danes, the Sigarr of the _Snorra Edda_-->
       <word n="" form="lengest" lemma="" pos="" gloss="longest"/>
       <ceasura />
       <word n="" form="Sæ-denum" lemma="Sæ-dene" pos="dpn" gloss="the Sea-Danes"/>
@@ -259,29 +259,29 @@
       <word n="" form="Wulfingum," lemma="" pos="dpn" gloss=""/>
     </l>
     <l n="30">
-      <word n="" form="Wald" lemma="" pos="" gloss=""/>
+      <word n="" form="Wald" lemma="Wald" pos="nsn" gloss="Wald"/>
       <word n="" form="Woingum," lemma="" pos="dpn" gloss=""/>
       <ceasura />
-      <word n="" form="Wod" lemma="" pos="" gloss=""/>
+      <word n="" form="Wod" lemma="Wod" pos="nsn" gloss="Wod"/>
       <word n="" form="þyringum," lemma="" pos="dpn" gloss="the Thuringians"/>
     </l>
     <l n="31">
-      <word n="" form="Sæferð" lemma="" pos="" gloss=""/>
-      <word n="" form="Sycgum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Sæferð" lemma="Sæferð" pos="nsn" gloss="Sæferð"/><!--King of the Sycgan, some debate that he is the Sigeferþ of Beowulf and Holthausen translates the name Seefried. We cannot be certain of his identity.-->
+      <word n="" form="Sycgum," lemma="Sycgan" pos="dpn" gloss="Sycgan"/><!--Only otherwise known from the Finnsburug Fragment, l24, where they are the Secgena(gpn).-->
       <ceasura />
-      <word n="" form="Sweom" lemma="" pos="nsn" gloss=""/>
-      <word n="" form="Ongendþeow," lemma="dpn" pos="" gloss=""/>
+      <word n="" form="Sweom" lemma="Sweon" pos="dpn" gloss="Swedes"/><!--The Swedes of Uppland-->
+      <word n="" form="Ongendþeow," lemma="nsn" pos="Ongendþeow" gloss="Ongenþeow"/><!-- A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to "phallus", associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.-->
     </l>
     <l n="32">
-      <word n="" form="Sceafthere" lemma="Sceafthere" pos="" gloss=""/>
-      <word n="" form="Ymbrum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Sceafthere" lemma="Sceafthere" pos="" gloss="Sceafthere"/><!--unknown king but his name means "spear-army (compare with Rondhere, "shield-army).-->
+      <word n="" form="Ymbrum," lemma="" pos="dpn" gloss=""/> <!--king of the Langobards.-->
       <ceasura />
-      <word n="" form="Sceafa" lemma="Sceafa" pos="nsn" gloss="Sheaf"/>
+      <word n="" form="Sceafa" lemma="Sceafa" pos="nsn" gloss="Sheaf"/><!--A king of the Langobards but Price 1826 identified him as the mythical "Scef", father of the equally mythical "Scyld Scefing". Malone rejects this association because Scyld was, of course, mythical.-->
       <word n="" form="Longbeardum," lemma="Longbeardan" pos="dpn" gloss="the Langobards"/>
     </l>
     <l n="33">
       <word n="" form="Hun" lemma="Hun" pos="nsn" gloss="Hunn"/>
-      <word n="" form="Hætwerum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Hætwerum" lemma="" pos="dpn" gloss=""/>###
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Holen" lemma="Holen" pos="nsn" gloss="Holen"/><!-- Malone takes Holen to mean "protector" in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE _holegn_ meaning "holly". (Malone 173)-->
@@ -296,9 +296,9 @@
       <word n="" form="cyning." lemma="" pos="" gloss=""/>
     </l>
     <l n="35">
-      <word n="" form="Offa" lemma="" pos="" gloss=""/>
+      <word n="" form="Offa" lemma="Offa" pos="nsn" gloss="Offa"/><!-- King of Ongel also in Beowulf, and as Uffa in Saxo Grammaticus and Sweyn Aageson. Latter half of the 4th century and king of the Angles. -->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
-      <word n="" form="Ongle," lemma="" pos="dpn" gloss="the Angles"/>
+      <word n="" form="Ongle," lemma="Ongel" pos="dpn" gloss="the Angles"/>
       <ceasura />
       <word n="" form="Alewih" lemma="Alewih" pos="nsn" gloss="Alewih"/><!--unknown Danish king-->
       <word n="" form="Denum;" lemma="Dene" pos="dpn" gloss="the Danes"/>
@@ -317,7 +317,7 @@
       <word n="" form="hwæþre" lemma="" pos="" gloss=""/>
       <word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/>
       <word n="" form="ofer" lemma="" pos="" gloss=""/>
-      <word n="" form="Offan" lemma="" pos="" gloss=""/>
+      <word n="" form="Offan" lemma="Offa" pos="dsn" gloss="Offa"/>
       <ceasura />
       <word n="" form="eorlscype" lemma="" pos="" gloss=""/>
       <word n="" form="fremede," lemma="" pos="" gloss=""/>
@@ -367,13 +367,13 @@
       <word n="" form="siþþan" lemma="" pos="" gloss=""/>
     </l>
     <l n="44">
-      <word n="" form="Engle" lemma="Engle" pos="asn" gloss="Angles"/>
+      <word n="" form="Engle" lemma="Engle" pos="asn" gloss="the Angles"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Swæfe," lemma="" pos="" gloss=""/>
+      <word n="" form="Swæfe," lemma="Swæfe" pos="asn" gloss="the Suebi"/>
       <ceasura />
       <word n="" form="swa" lemma="" pos="" gloss=""/>
       <word n="" form="hit" lemma="" pos="" gloss=""/>
-      <word n="" form="Offa" lemma="" pos="" gloss=""/>
+      <word n="" form="Offa" lemma="Offa" pos="asn" gloss="Offa"/>
       <word n="" form="geslog" lemma="geslean" pos="psv" verb="strong" gloss="won"/>
     </l>
     <l n="45">
@@ -484,7 +484,7 @@
     </l>
     <l n="58">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Sweom" lemma="" pos="" gloss=""/>
+      <word n="" form="Sweom" lemma="Sweon" pos="dpn" gloss="Swedes"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Geatum" lemma="Gēatas" pos="dpn" gloss="the Geats" /> <!--The Geats are common knowledge-->
@@ -526,7 +526,7 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Swæfum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Swæfum" lemma="Swæfe" pos="dpn" gloss="Swæfe"/>
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -534,7 +534,7 @@
     </l>
     <l n="62">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Seaxum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Seaxum" lemma="Seaxan" pos="dpn" gloss="the Saxons"/><!--The original Saxons of Germany-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -542,7 +542,7 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Sweordwerum." lemma="" pos="" gloss=""/>
+      <word n="" form="Sweordwerum." lemma="Sweordwere" pos="dpn" gloss="Suardones"/><!--From Tacitus, as Malone so adeptly argues in 202-203.-->
     </l>
     <l n="63">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -611,16 +611,16 @@
     </l>
     <l n="69">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Rugum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Rugum" lemma="Rugas" pos="dpn" gloss="the Rugi" sameas="the Holmrycgas"/><!--### Who are the Rugis??-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Glommum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Glommum" lemma="Glomman" pos="dpn" gloss="the Glomman"/><!--A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary.-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Rumwalum." lemma="" pos="dpn" gloss="Rome-foreigners"/>
+      <word n="" form="Rumwalum." lemma="Rumwalas" pos="dpn" gloss="Rome-foreigners"/><!--Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors ### Check Weiskott-->
     </l>
     <l n="70">
       <word n="" form="Swylce" lemma="" pos="" gloss=""/>
@@ -656,21 +656,21 @@
       <word n="" form="gedales," lemma="" pos="" gloss=""/>
     </l>
     <l n="74">
-      <word n="" form="beorhtra" lemma="" pos="" gloss=""/>
-      <word n="" form="beaga," lemma="" pos="" gloss=""/>
+      <word n="" form="beorhtra" lemma="beorht" pos="" gloss="bright"/>
+      <word n="" form="beaga," lemma="" pos="" gloss="treasures"/>
       <ceasura />
-      <word n="" form="bearn" lemma="" pos="" gloss=""/>
-      <word n="" form="Eadwines." lemma="Eadwine" pos="asn" gloss="Edwin"/><!-- King of the Langobards, Audoin-->
+      <word n="" form="bearn" lemma="" pos="" gloss="child"/>
+      <word n="" form="Eadwines." lemma="Eadwine" pos="asn" gloss="of Edwin"/><!-- King of the Langobards, Audoin-->
     </l>
     <l n="75">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Sercingum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Sercingum" lemma="Sercingas" pos="dpn" gloss="the Sercings"/><!--Perhaps Tacitus's Siraci, a Black Sea tribe, or perhaps the Serica of the ancients (Sedgefield 1922, 136), though Malone notes this would then connect them with the Serkland and Serkir in the same line (197).-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Seringum;" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Seringum;" lemma="Seringas" pos="dpn" gloss="the Serae"/><!--The Serae of the ancients,-->
     </l>
     <l n="76">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -704,16 +704,16 @@
     </l>
     <l n="79">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Scottum" lemma="" pos="" gloss=""/>
+      <word n="" form="Scottum" lemma="Scottas" pos="dpn" gloss="the Irish"/><!--Not the Scots-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Peohtum" lemma="" pos="" gloss=""/>
+      <word n="" form="Peohtum" lemma="Peohtas" pos="dpn" gloss="the Picts"/><!--###-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Scridefinnum;" lemma="" pos="" gloss=""/>
+      <word n="" form="Scridefinnum;" lemma="Scridefinnas" pos="dpn" gloss="The Lapps"/><!--The Lapps of arctic Norway, Scride- (skis) exists to differentiate them from the Finns proper.-->
     </l>
     <l n="80">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -762,12 +762,12 @@
     </l>
     <l n="84">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Moidum" lemma="Moide" pos="dpn" gloss="the Moids"/><!--Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.-->
+      <word n="" form="Moidum" lemma="Moide" pos="dpn" gloss="the Moids"/><!--Malone 183: Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Persum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Persum" lemma="Perse" pos="dpn" gloss="the Perse"/><!-- because of the exotic peoples listed in the previous sentence, these often get translated to the Medes and the Persians; however, Malone points out that in this couplet, they are actually paired with Scandinavian and Germanic tribes. Because of this, the identity of the Perse is unknown. -->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -775,11 +775,10 @@
     </l>
     <l n="85">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Mofdingum" lemma="Mofdingas" pos="dpn" gloss="Mofdings"/><!--Malone changes this to the "Ofdingas" for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument-->
+      <word n="" form="Mofdingum" lemma="Mofdingas" pos="dpn" gloss="Mofdings"/><!--Malone changes this to the "Ofdingas" for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument (pg2 186-187).-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="ongend" lemma="" pos="" gloss=""/>
-      <word n="" form="Myrgingum," lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
+      <word n="" form="Ongendmyrgingum" lemma="Ongendmyrgingas" pos="dpn" gloss="the Ongendmyrgings"/><!--Malone has this combined with the previous word to form the Ongendmyrgingum but neither Chambers nor the ASPR does this. If it were correct, it might be identical to the later Wiþmyrgingas in 116. Malone takes his cue from Rieger and Langenfelt in following the structure of "Ongendþeow" and placing the Ongend as a prefix of the word. Because of the presence of the "regular" Myrgings in this same stanza, I have opted for Malone's reading.-->
     </l>
     <l n="86">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -936,9 +935,9 @@
       <word n="" form="bryttian." lemma="" pos="" gloss=""/>
     </l>
     <l n="103">
-      <word n="" form="ðonne" lemma="" pos="" gloss=""/>
+      <word n="" form="Ðonne" lemma="" pos="" gloss=""/>
       <word n="" form="wit" lemma="" pos="" gloss=""/>
-      <word n="" form="Scilling" lemma="" pos="" gloss=""/>
+      <word n="" form="Scilling" lemma="Scilling" pos="nsn" gloss="Scilling"/><!--A scop who sang with Widsith on at least one occasion, Malone compares this to rune-singers in Finnish tradition (194).-->
       <ceasura />
       <word n="" form="sciran" lemma="" pos="" gloss=""/>
       <word n="" form="reorde" lemma="" pos="" gloss=""/>
@@ -1040,20 +1039,20 @@
       <word n="" form="Unwenes." lemma="" pos="" gloss=""/>
     </l>
     <l n="115">
-      <word n="" form="Seccan" lemma="" pos="" gloss=""/>
+      <word n="" form="Seccan" lemma="Secca" pos="asn" gloss="Secca"/><!--The young Sigiwald of history, kinsmen of the Frankish Þeodric. His story is found in Gregory of Tours' _Historia Fancorum iii_ (Malone 196).-->
       <word n="" form="sohte" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Beccan," lemma="Becca" pos="asn" gloss="Becca"/><!--Berchtung of the Wolfdietrich story, occaisionally also indentified with the evil Bikki but this Becca is clearly in the wrong company to be associated wtih that story-->
       <ceasura />
-      <word n="" form="Seafolan" lemma="" pos="" gloss=""/>
+      <word n="" form="Seafolan" lemma="Seafola" pos="asn" gloss="Seafola"/><!--A legendary traitorous retainer from the Wolfdietrich tale.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="þeodric," lemma="" pos="" gloss=""/>
+      <word n="" form="þeodric," lemma="þeodric" pos="asn" gloss="Theodoric"/>
     </l>
     <l n="116">
       <word n="" form="Heaþoric" lemma="Heaþoric" pos="asn" gloss="Heathoric"/><!-- Malone  states that this is the Heiðrekr of the _Harvararsaga_, and while the phonology does not precisely align, the three remaining names in this line are all from _Hervararsaga_. He also draws a connection between this Heaþoric and the Hæðcyn of _Beowulf_.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Sifecan," lemma="" pos="" gloss=""/>
+      <word n="" form="Sifecan," lemma="Sifeca" pos="asn" gloss="Sifeca"/><!--An evil counselor of unknown origin but with lots of speculation (Malone 199).-->
       <ceasura />
       <word n="" form="Hliþe" lemma="Hlīþe" pos="asn" gloss="Lotherus"/><!-- Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -1094,7 +1093,7 @@
     </l>
     <l n="120">
       <word n="" form="þonne" lemma="" pos="" gloss=""/>
-      <word n="" form="Hræda" lemma="" pos="" gloss=""/>
+      <word n="" form="Hræda" lemma="Hræde" pos="" gloss="Hræde"/>
       <word n="" form="here" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="heardum" lemma="" pos="" gloss=""/>
@@ -1115,13 +1114,13 @@
       <word n="" form="leodum." lemma="" pos="" gloss=""/>
     </l>
     <l n="123">
-      <word n="" form="Rædhere" lemma="" pos="" gloss=""/>
+      <word n="" form="Rædhere" lemma="Rædhere" pos="asn" gloss="Rædhere"/><!--an unknown king or hero, whose name means "command (or counsel) the army".-->
       <word n="" form="sohte" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Rondhere," lemma="" pos="" gloss=""/>
+      <word n="" form="Rondhere," lemma="Rondhere" pos="asn" gloss="Rondhere"/><!--unknown hero whose name means shield-army, or less literally, "protector".-->
       <ceasura />
-      <word n="" form="Rumstan" lemma="" pos="" gloss=""/>
+      <word n="" form="Rumstan" lemma="Rumstan" pos="asn" gloss="Rumstan"/> <!-- often connected with the Germanic hero Rimstien, but Widsith seems to associate him with Gislhere of the Burgundians and the German hero is a Goth. Malone (192) supposes the hero was forgotten and then his name reborrowed as the Gothic legend cycle grew.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Gislhere," lemma="Gislhere" pos="asn" gloss="Gislaharius"/><!-- King of the Burgundians, who Malone speculates would have been an ancestor of the more famous Guðhere-->
     </l>
