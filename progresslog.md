@@ -137,3 +137,4 @@
     * the Dietrich/Theodric situation
     * How do I cite these named entities identifications? Do I need to cite the Malone or Gillespie page numbers for each one or for obvious ones like, say, the Langobards and Burgundem and Hebrews, etc., can I just mark who they are?
     * For the gloss, should I put modern "th" in place of Þ and ð? Is this handled on a case-by-case basis?
+* Finished named entities!!!!!!!!!!

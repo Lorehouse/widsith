@@ -27,7 +27,7 @@
   <head>Widsith</head>
   <lg>
     <l n="1">
-      <word n="001" form="Widsið" lemma="widsið" pos="nsn" gloss="Widsith"/>
+      <word n="001" form="Widsið" lemma="Widsið" pos="nsn" gloss="Widsith"/><!--the fictitious scop celebrated in this poem-->
       <word n="002" form="maðolade," lemma="maðelian" pos="pret.sv" verb="weak" gloss="spoke"/>
       <ceasura />
       <word n="003" form="wordhord" lemma="wordhord" pos="as" gloss="wordhoard/vocabulary"/>
@@ -199,11 +199,11 @@
       <word n="" form="Glommum." lemma="Glomman" pos="dpn" gloss="the Glomman"/>
     </l>
     <l n="22">
-      <word n="" form="Witta" lemma="Witta" pos="nsn" gloss=""/>
+      <word n="" form="Witta" lemma="Witta" pos="nsn" gloss="Witta"/><!--King of the Swæfe, and according to Bede, grandfather to Hengest and Horsa.-->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Swæfum," lemma="Swæfe" pos="dpn" gloss="Swæfe"/>
       <ceasura />
-      <word n="" form="Wada" lemma="" pos="nsn" gloss=""/>
+      <word n="" form="Wada" lemma="Wada" pos="nsn" gloss="Wada"/><!--King of the Hælsings, in this poem not the father of mythical Weland or grandfather of Wudga. (Malone 206-207)-->
       <word n="" form="Hælsingum," lemma="Hælsingas" pos="ipn" gloss="Hælsings"/>
     </l>
     <l n="23">
@@ -225,8 +225,8 @@
       <word n="" form="Breoca" lemma="Breoca" pos="nsn" gloss="Breoca"/><!-- The Breca of _Beowulf_ fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)-->
       <word n="" form="Brondingum," lemma="Brondingas" pos="dpn" gloss="Brondings"/><!-- an unknown tribe, though Malone has some great speculation here (133-134)-->
       <ceasura />
-      <word n="" form="Billing" lemma="Billing" pos="nsn" gloss="Billing"/><!-- Malone 132-133)-->
-      <word n="" form="Wernum." lemma="Wern" pos="dpn" gloss="the Werns"/><!-- According to Chambers and Redin the name is derived from a kind of sword called a _bill_-->
+      <word n="" form="Billing" lemma="Billing" pos="nsn" gloss="Billing"/><!-- Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a _bill_-->
+      <word n="" form="Wernum." lemma="Wern" pos="dpn" gloss="the Werns"/>
     </l>
     <l n="26">
       <word n="" form="Oswine" lemma="Oswine" pos="nsn" gloss="Oswin"/><!--Otherwise unknown-->
@@ -234,7 +234,7 @@
       <word n="" form="Eowum" lemma="Eowan" pos="dpn" gloss="the Eows"/><!-- A tribe Conybeare associates with the Baltic island of Öland-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Ytum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Ytum" lemma="Yte" pos="dpn" gloss="the Jutes"/><!--King of the Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215).-->
       <word n="" form="Gefwulf," lemma="Gefwulf" pos="nsn" gloss="Gefwulf"/><!-- King of the Euts (Ytum), but otherwise unknown-->
     </l>
     <l n="27">
@@ -253,16 +253,16 @@
     </l>
     <l n="29">
       <word n="" form="Hnæf" lemma="Hnæf" pos="nsn" gloss="Hnæf"/><!-- King of the Hocingas, appears in both Beowulf and the _Finnsburuh Fragment_-->
-      <word n="" form="Hocingum," lemma="Hocingas" pos="dpn" gloss="Hocings"/><!--The Hocings are clarified as Danes in _Beowulf_ (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.-->
+      <word n="" form="Hocingum," lemma="Hocingas" pos="dpn" gloss="the Hocings"/><!--The Hocings are clarified as Danes in _Beowulf_ (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.-->
       <ceasura />
       <word n="" form="Helm" lemma="Helm" pos="nsn" gloss="Helm"/><!--Helm, King of the Wulfings-->
-      <word n="" form="Wulfingum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Wulfingum," lemma="Wulfingas" pos="dpn" gloss="the Wulfings"/><!--The Ylfingar of Norse tradition and the Wylfingas of _Beowulf_. Malone identifies them with the Vulgares of Paulus. (213)-->
     </l>
     <l n="30">
-      <word n="" form="Wald" lemma="Wald" pos="nsn" gloss="Wald"/>
-      <word n="" form="Woingum," lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Wald" lemma="Wald" pos="nsn" gloss="Wald"/><!--King of the Woings, otherwise unknown-->
+      <word n="" form="Woingum," lemma="Woingas" pos="dpn" gloss="the Woings"/><!--A tribe otherwise unknown-->
       <ceasura />
-      <word n="" form="Wod" lemma="Wod" pos="nsn" gloss="Wod"/>
+      <word n="" form="Wod" lemma="Wod" pos="nsn" gloss="Wod"/><!--King of the Þyringas, otherwise unknown-->
       <word n="" form="Þyringum," lemma="Þyringas" pos="dpn" gloss="the Thuringians"/><!--Either the Thoringi of Gregory of Tours or the Tungri (Thuringians) of inland Germany. It is not impossible that these are actually the same tribe. (Malone 206)-->
     </l>
     <l n="31">
@@ -274,7 +274,7 @@
     </l>
     <l n="32">
       <word n="" form="Sceafthere" lemma="Sceafthere" pos="" gloss="Sceafthere"/><!--unknown king but his name means "spear-army (compare with Rondhere, "shield-army).-->
-      <word n="" form="Ymbrum," lemma="" pos="dpn" gloss=""/> <!--king of the Langobards.-->
+      <word n="" form="Ymbrum," lemma="Yumbran" pos="dpn" gloss="the Ymbran"/> <!--An unknown tribe-->
       <ceasura />
       <word n="" form="Sceafa" lemma="Sceafa" pos="nsn" gloss="Sheaf"/><!--A king of the Langobards but Price 1826 identified him as the mythical "Scef", father of the equally mythical "Scyld Scefing". Malone rejects this association because Scyld was, of course, mythical.-->
       <word n="" form="Longbeardum," lemma="Longbeardan" pos="dpn" gloss="the Langobards"/>
@@ -285,7 +285,7 @@
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Holen" lemma="Holen" pos="nsn" gloss="Holen"/><!-- Malone takes Holen to mean "protector" in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE _holegn_ meaning "holly". (Malone 173)-->
-      <word n="" form="Wrosnum." lemma="Wrosnan" pos="dpn" gloss="Wrosnan"/>
+      <word n="" form="Wrosnum." lemma="Wrosnan" pos="dpn" gloss="Wrosnan"/><!--A Danish island tribe-->
     </l>
     <l n="34">
       <word n="" form="Hringweald" lemma="Hringwald" pos="nsn" gloss="Hringwald"/><!-- means Ring-Ruler, great name -->
@@ -395,7 +395,7 @@
       <word n="" form="hy" lemma="" pos="" gloss=""/>
       <word n="" form="forwræcon" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="wicinga" lemma="" pos="" gloss=""/>
+      <word n="" form="wicinga" lemma="wicingas" pos="gpn" gloss="the Wicings"/>
       <word n="" form="cynn" lemma="" pos="" gloss=""/>
     </l>
     <l n="48">
@@ -495,16 +495,16 @@
     </l>
     <l n="59">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Wenlum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Wenlum" lemma="Wenlas" pos="dpn" gloss="Wenlas"/><!--The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Wærnum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Wærnum" lemma="Wærne" pos="dpn" gloss="the Varni"/><!--The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland.-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="wicingum." lemma="" pos="dpn" gloss=""/>
+      <word n="" form="wicingum." lemma="Wicingas" pos="dpn" gloss="the Wicings"/><!--This is a reference to the Heaðobeards.-->
     </l>
     <l n="60">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -513,7 +513,7 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Winedum" lemma="" pos="dpn" gloss=""/>
+      <word n="" form="Winedum" lemma="Winedas" pos="dpn" gloss="Winedas"/><!--The Wends, a generic German name for the Slavs.-->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -699,7 +699,7 @@
       <word n="" form="wilna," lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Wala" lemma="" pos="" gloss=""/>
+      <word n="" form="Wala" lemma="Walas" pos="gpn" gloss="Romans"/><!--A generic word meaning "foreigners" but usually referring to Romans. This name was later to be come the appelation given to the land of "Wales" or of "foreigners"-->
       <word n="" form="rices." lemma="" pos="" gloss=""/>
     </l>
     <l n="79">
@@ -717,7 +717,7 @@
     </l>
     <l n="80">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Lidwicingum" lemma="Lidwicingas" pos="dpn" gloss="the Lidwiwiccas"/><!--Malone emends this to Lidingum and associates them with the Liðungar of Islenzkir Analar, but others associate it as is with the Lidwiccas in the _OE Annals_. I have chosen to leave it unchanged for the moment-->
+      <word n="" form="Lidwicingum" lemma="Lidwicingas" pos="dpn" gloss="the Lidwiccas"/><!--Malone emends this to Lidingum and associates them with the Liðungar of Islenzkir Analar, but others associate it as is with the Lidwiccas in the _OE Annals_. I have chosen to leave it unchanged for the moment-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -1035,8 +1035,8 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="godne" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="fæder" lemma="" pos="" gloss=""/>
-      <word n="" form="Unwenes." lemma="" pos="" gloss=""/>
+      <word n="" form="fæder" lemma="" pos="" gloss="father"/>
+      <word n="" form="Unwenes." lemma="Unwen" pos="gsm" gloss="of Unwen"/><!--Son of Eastgota l 113, meaning "unexpected one"-->
     </l>
     <l n="115">
       <word n="" form="Seccan" lemma="Secca" pos="asn" gloss="Secca"/><!--The young Sigiwald of history, kinsmen of the Frankish Þeodric. His story is found in Gregory of Tours' _Historia Fancorum iii_ (Malone 196).-->
@@ -1075,14 +1075,14 @@
       <word n="" form="wloncan" lemma="" pos="" gloss=""/>
       <word n="" form="gedryht" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="Wiþmyrginga." lemma="" pos="" gloss=""/>
+      <word n="" form="Wiþmyrginga." lemma="Wiþmyrgingas" pos="gpn" gloss="the Wiþmyrgings"/><!--### need to check Chambers 123, 215, 221, but Malone (211) has these as the Myrgings who dwell in the valley of the With (Vid) river, and perhaps identical to the Ongendmyrgings.-->
     </l>
     <l n="119">
-      <word n="" form="Wulfhere" lemma="" pos="" gloss=""/>
+      <word n="" form="Wulfhere" lemma="Wulfhere" pos="asn" gloss="Wulfhere"/><!--One of two princes of the Hræde who let their people in a war against the Huns (Malone 213).-->
       <word n="" form="sohte" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Wyrmhere;" lemma="" pos="" gloss=""/>
+      <word n="" form="Wyrmhere;" lemma="Wyrmhere" pos="asn" gloss="Wyrmhere"/><!--The Ormarr of the _Hervararsaga_, also the Olimarus of Saxo's 5th book. One of two princes of the Hræde who let their people in a war against the Huns (Malone 214).-->
       <ceasura />
       <word n="" form="ful" lemma="" pos="" gloss=""/>
       <word n="" form="oft" lemma="oft" pos="adv" gloss="often"/>
@@ -1101,7 +1101,7 @@
     </l>
     <l n="121">
       <word n="" form="ymb" lemma="" pos="" gloss=""/>
-      <word n="" form="Wistlawudu" lemma="" pos="" gloss=""/>
+      <word n="" form="Wistlawudu" lemma="Wistlawudu" pos="gpn" gloss="The Wistle wood"/><!-- The forest of the Vistula goths-->
       <ceasura />
       <word n="" form="wergan" lemma="" pos="" gloss=""/>
       <word n="" form="sceoldon" lemma="" pos="" gloss=""/>
@@ -1125,11 +1125,11 @@
       <word n="" form="Gislhere," lemma="Gislhere" pos="asn" gloss="Gislaharius"/><!-- King of the Burgundians, who Malone speculates would have been an ancestor of the more famous Guðhere-->
     </l>
     <l n="124">
-      <word n="" form="Wiþergield" lemma="" pos="" gloss=""/>
+      <word n="" form="Wiþergield" lemma="Wiþergield" pos="asn" gloss="Wiþergield"/><!--The Wiðergyld of Beowulf 2051, a Heathobeard.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Freoþeric," lemma="Freoþerīc" pos="asn" gloss="Freoþeric"/><!--unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). -->
       <ceasura />
-      <word n="" form="Wudgan" lemma="" pos="" gloss=""/>
+      <word n="" form="Wudgan" lemma="Wudga" pos="asn" gloss="Wudga"/><!--THe hero Widia from _Waldere_ and the Viðga of _Þiðrrikssaga_-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Haman;" lemma="Hama" pos="asn" gloss="Hama"/>
     </l>
@@ -1183,7 +1183,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="wifum," lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="Wudga" lemma="" pos="" gloss=""/>
+      <word n="" form="Wudga" lemma="Wudga" pos="nsn" gloss="Wudga"/><!--See line 124-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Hama." lemma="Hama" pos="nsn" gloss="Hama"/><!-- The Heime of German lore, an exile who has carved out a kingdom for himself and is paired in this poem with Wudga. Malone states that the poet clearly thought of them as joint rulers of a single kingdom, though Chambers argues they were outlaws a la Robin Hood (pg 159-160). This is the Hama of Beowulf who carried off the bright necklace of the Brosings.-->
     </l>
