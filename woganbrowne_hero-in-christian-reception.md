@@ -1,4 +1,5 @@
 ## NOTES ON: "The Hero in Christian Reception: Ælfric and Heroic Poetry", by Jocelyn Wogan-Browne
 
 * "In early modern work on Old English poetry, Germanic pagan heroism and the search for origins was privileged over the tenth and eleventh century society in which it has principally been preserved. Seeking paganism everywhere, early scholarship invested a great deal in an oppositional binary of heroic (Germanic), versus saintly (Latin) heroes and heroisms. More recent scholarship has attended to the ways in which, far from being a pagan society with a Christian top-dressing, the society of the Vercelli, Junius, and Exeter codexes is one of established Christianity and Christian assumptions. Rather than an alternative or opposition to Christian culture, the heroic is now more credibly seen as proceeding from within Christian culture and as having its own history of changing assimilations there." (216)
-* Look for Roberta Frank's "The _Beowulf_ poet's sense of history" in _The Wisdom of Poetry: Essays for Morton Bloomfield_
+* Look for Roberta Frank's "The _Beowulf_ poet's sense of history" in _The Wisdom of Poetry: Essays for Morton Bloomfield_ [[frank_beowulf-poets-sense-of-history]]
+[[literature]]
