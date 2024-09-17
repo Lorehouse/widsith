@@ -17,8 +17,10 @@
       st = strong
       wk = weak
       v = verb
-      pp = pretererite plural
-      ps = pretereite singular
+      pret.p = preterite plural
+      pret.s = preterite singular
+      subj= subjunctive
+      pp = past participle
       adv = adverb
       adj = adjective
       prep = preposition
@@ -149,7 +151,7 @@
     </l>
     <l n="16">
       <word n="" form="monna" lemma="" pos="" gloss="man's"/>
-      <word n="" form="cynnes," lemma="" pos="" gloss="kin"/><!-- mankind -->
+      <word n="" form="cynnes," lemma="cynn" pos="gsn" gender="n" gloss="kin"/><!-- mankind -->
       <ceasura />
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="he" lemma="he" pos="nsppn" gender="m" gloss="he"/>
@@ -241,8 +243,8 @@
       <word n="" form="Fin" lemma="Fin" pos="nsn" gloss="Fin"/><!--King of rhe Frisians and the Finn from Beowulf and the _Finnsburuh Fragment_-->
       <word n="" form="Folcwalding" lemma="Folcwalding" pos="nsn" gloss="son of Folcwalda"/><!--The patronymic of Finn's father, but Chambers suggests that it was a title that alliterated conveniently rather than Finn's father's real name (1921, 200)-->
       <ceasura />
-      <word n="" form="Fresna" lemma="Frēsan" pos="asn" gloss="the Frisians"/>
-      <word n="" form="cynne." lemma="" pos="" gloss=""/>
+      <word n="" form="Fresna" lemma="Frēsan" pos="asn" gloss="the Frisian"/>
+      <word n="" form="cynne." lemma="cynn" pos="isn" gender="n" gloss="tribe"/>
     </l>
     <l n="28">
       <word n="" form="Sigehere" lemma="Sigehere" pos="nsn" gloss="Sighere"/><!--King of the Sea-Danes, the Sigarr of the _Snorra Edda_-->
@@ -292,8 +294,8 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="haten" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="Herefarena" lemma="Herefaran" pos="gpn" gloss="Herefarens"/>
-      <word n="" form="cyning." lemma="" pos="" gloss=""/>
+      <word n="" form="Herefarena" lemma="Herefaran" pos="gpn" gloss="the Herefaren's"/>
+      <word n="" form="cyning." lemma="cyning" pos="gsn" gender="m" gloss="king"/>
     </l>
     <l n="35">
       <word n="" form="Offa" lemma="Offa" pos="nsn" gloss="Offa"/><!-- King of Ongel also in Beowulf, and as Uffa in Saxo Grammaticus and Sweyn Aageson. Latter half of the 4th century and king of the Angles. -->
@@ -331,7 +333,7 @@
       <word n="" form="monna," lemma="monn" pos="gpn" gender="m" gloss="man"/>
     </l>
     <l n="39">
-      <word n="" form="cnihtwesende," lemma="" pos="" gloss="boy-becoming"/>
+      <word n="" form="cnihtwesende," lemma="cnihtwesende" pos="pp" gloss="being a youth"/>
       <ceasura />
       <word n="" form="cynerica" lemma="cynerice" pos="gpn" gloss="king-realm"/>
       <word n="" form="mæst." lemma="mæst" pos="adj" feat="superlative" gloss="greatest"/>
@@ -348,7 +350,7 @@
       <word n="" form="on" lemma="" pos="" gloss=""/>
       <word n="" form="orette." lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="Ane" lemma="" pos="" gloss=""/>
+      <word n="" form="Āne" lemma="āne" pos="isn" gender="n" gloss="one"/>
       <word n="" form="sweorde" lemma="" pos="" gloss=""/>
     </l>
     <l n="42">
@@ -359,7 +361,7 @@
       <word n="" form="Myrgingum" lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
     </l>
     <l n="43">
-      <word n="" form="bi" lemma="" pos="" gloss="at"/>
+      <word n="" form="bī" lemma="bī" pos="prep" with="dative" gloss="by"/>
       <word n="" form="Fifeldore;" lemma="Fīfeldore" pos="dsn" gloss="the Eider estuary"/>
       <ceasura />
       <word n="" form="heoldon" lemma="" pos="" gloss=""/>
@@ -395,8 +397,8 @@
       <word n="" form="hy" lemma="" pos="" gloss=""/>
       <word n="" form="forwræcon" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="wicinga" lemma="wicingas" pos="gpn" gloss="the Wicings"/>
-      <word n="" form="cynn" lemma="" pos="" gloss=""/>
+      <word n="" form="wicinga" lemma="wicingas" pos="gpn" gloss="the Wicing"/>
+      <word n="" form="cynn" lemma="cynn" pos="asn" gender="n" gloss="tribe"/>
     </l>
     <l n="48">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -434,10 +436,10 @@
     <l n="52">
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="cunnade" lemma="" pos="" gloss=""/>
+      <word n="" form="cunnade" lemma="cunnian" pos="pret.psv" verb="weak" gloss="experience"/>
       <ceasura />
-      <word n="" form="cnosle" lemma="" pos="" gloss=""/>
-      <word n="" form="bidæled," lemma="" pos="" gloss=""/>
+      <word n="" form="cnōsle" lemma="cnōsl" pos="dsn" gender="n" gloss="kindred"/>
+      <word n="" form="bidǽled," lemma="bidǽlan" pos="ppv" with="dative" gloss="deprived of"/>
     </l>
     <l n="53">
       <word n="" form="freomægum" lemma="" pos="" gloss=""/>
@@ -467,10 +469,10 @@
     <l n="56">
       <word n="" form="hu" lemma="hu" pos="" gloss="how"/>
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
-      <word n="" form="cynegode" lemma="" pos="" gloss=""/>
+      <word n="" form="cynegōde" lemma="cynegōd" pos="adj" gloss="well-born"/>
       <ceasura />
-      <word n="" form="cystum" lemma="" pos="" gloss=""/>
-      <word n="" form="dohten." lemma="" pos="" gloss=""/>
+      <word n="" form="cystum" lemma="cyst" pos="ipn" gender="n" gloss="a choice gift"/>
+      <word n="" form="dohten." lemma="dugan" pos="pret.subj.pv" gloss="would be generous"/>
     </l>
     <l n="57">
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
@@ -574,7 +576,7 @@
       <ceasura />
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="beag" lemma="" pos="" gloss=""/>
+      <word n="" form="bēag" lemma="bēag" pos="asn" gender="m" gloss="necklace"/>
       <word n="" form="geþah;" lemma="" pos="" gloss=""/>
     </l>
     <l n="66">
@@ -594,7 +596,7 @@
       <word n="" form="Næs" lemma="wesan" feat="neg" pos="psv" gloss="was not"/>
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="sæne" lemma="" pos="" gloss=""/>
-      <word n="" form="cyning!" lemma="" pos="" gloss=""/>
+      <word n="" form="cyning!" lemma="cyning" pos="nsn" gender="m" gloss="king"/>###
     </l>
     <l n="68">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -656,10 +658,10 @@
       <word n="" form="gedales," lemma="" pos="" gloss=""/>
     </l>
     <l n="74">
-      <word n="" form="beorhtra" lemma="beorht" pos="" gloss="bright"/>
-      <word n="" form="beaga," lemma="" pos="" gloss="treasures"/>
+      <word n="" form="beorhtra" lemma="beorht" pos="gpadj" gender="m" gloss="bright"/>
+      <word n="" form="bēaga," lemma="bēag" pos="gpn" gender="m" gloss="treasures"/>
       <ceasura />
-      <word n="" form="bearn" lemma="" pos="" gloss="child"/>
+      <word n="" form="bearn" lemma="bearn" pos="nsn" gloss="child"/>
       <word n="" form="Eadwines." lemma="Eadwine" pos="asn" gloss="of Edwin"/><!-- King of the Langobards, Audoin-->
     </l>
     <l n="75">
@@ -691,7 +693,7 @@
       <word n="" form="winburga" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="geweald" lemma="" pos="" gloss=""/>
-      <word n="" form="ahte," lemma="" pos="" gloss=""/>
+      <word n="" form="āhte," lemma="āgan" pos="pret.sv" verb="strong" gloss="possesed"/>
     </l>
     <l n="78">
       <word n="" form="wiolena" lemma="" pos="" gloss=""/>
@@ -815,10 +817,10 @@
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="Gotena" lemma="Gotan" pos="gpn" gloss="the Goths"/>
-      <word n="" form="cyning" lemma="" pos="" gloss=""/>
+      <word n="" form="cyning" lemma="cyning" pos="nsn" gender="m" gloss="king"/>
       <ceasura />
       <word n="" form="gode" lemma="" pos="" gloss=""/>
-      <word n="" form="dohte;" lemma="" pos="" gloss=""/>
+      <word n="" form="dohte;" lemma="dugan" pos="pret.sv" gloss="was generous"/>
     </l>
     <l n="90">
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
@@ -826,7 +828,7 @@
       <word n="" form="beag" lemma="" pos="" gloss=""/>
       <word n="" form="forgeaf," lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="burgwarena" lemma="" pos="" gloss=""/>
+      <word n="" form="burgwarena" lemma="burgwaran" pos="gpn" gender="m" gloss="townspeople"/>
       <word n="" form="fruma," lemma="" pos="" gloss=""/>
     </l>
     <l n="91">
@@ -860,9 +862,9 @@
       <ceasura />
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="to" lemma="" pos="" gloss=""/>
-      <word n="" form="ham" lemma="" pos="" gloss=""/>
-      <word n="" form="bicwom," lemma="" pos="" gloss=""/>
+      <word n="" form="to" lemma="to" pos="" gloss="to"/>
+      <word n="" form="ham" lemma="ham" pos="asn" gloss="home"/>
+      <word n="" form="bicwom," lemma="bicuman" pos="pret.sv" verb="strong" gloss="came"/>
     </l>
     <l n="95">
       <word n="" form="leofum" lemma="" pos="" gloss=""/>
@@ -894,11 +896,11 @@
       <word n="" form="forgeaf," lemma="" pos="" gloss=""/>
     </l>
     <l n="98">
-      <word n="" form="dryhtcwen" lemma="" pos="" gloss=""/>
-      <word n="" form="duguþe," lemma="" pos="" gloss=""/>
+      <word n="" form="dryhtcwēn" lemma="dryhtcwēn" pos="n" gloss="queen of the army"/>
+      <word n="" form="duguþe," lemma="duguþ" pos="gsn" gloss="a body of royal fighting men"/>
       <ceasura />
-      <word n="" form="dohtor" lemma="" pos="" gloss=""/>
-      <word n="" form="Eadwines." lemma="Eadwine" pos="gsn" gloss="Edwin"/><!-- The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish ging (Malone 140) -->
+      <word n="" form="dohtor" lemma="dohtor" pos="n" gender="f" gloss="daughter"/>
+      <word n="" form="Eadwines." lemma="Eadwine" pos="gsn" gloss="of Edwin"/><!-- The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish ging (Malone 140) -->
     </l>
     <l n="99">
       <word n="" form="Hyre" lemma="" pos="" gloss=""/>
@@ -912,11 +914,11 @@
     <l n="100">
       <word n="" form="þonne" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="be" lemma="" pos="" gloss=""/>
-      <word n="" form="songe" lemma="" pos="" gloss=""/>
+      <word n="" form="be" lemma="bī" pos="prep" with="dative" gloss="with"/>
+      <word n="" form="songe" lemma="" pos="dsn" gloss="song"/>
       <ceasura />
-      <word n="" form="secgan" lemma="" pos="" gloss=""/>
-      <word n="" form="sceolde" lemma="" pos="" gloss=""/>
+      <word n="" form="secgan" lemma="" pos="" gloss="say"/>
+      <word n="" form="sceolde" lemma="" pos="" gloss="must"/>
     </l>
     <l n="101">
       <word n="" form="hwær" lemma="" pos="" gloss=""/>
@@ -929,10 +931,10 @@
     </l>
     <l n="102">
       <word n="" form="goldhrodene" lemma="" pos="" gloss=""/>
-      <word n="" form="cwen" lemma="" pos="" gloss=""/>
+      <word n="" form="cwēn" lemma="cwēn" pos="asn" gloss="queen"/>
       <ceasura />
       <word n="" form="giefe" lemma="" pos="" gloss=""/>
-      <word n="" form="bryttian." lemma="" pos="" gloss=""/>
+      <word n="" form="bryttian." lemma="bryttian" pos="v" verb="weak" gloss="distribute"/>
     </l>
     <l n="103">
       <word n="" form="Ðonne" lemma="" pos="" gloss=""/>
@@ -948,14 +950,14 @@
       <word n="" form="sigedryhtne" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="song" lemma="" pos="" gloss=""/>
-      <word n="" form="ahofan," lemma="" pos="" gloss=""/>
+      <word n="" form="āhofan," lemma="āhebban" pos="pret.pv" verb="strong" gloss="raised"/>
     </l>
     <l n="105">
-      <word n="" form="hlude" lemma="" pos="" gloss=""/>
-      <word n="" form="bi" lemma="" pos="" gloss=""/>
-      <word n="" form="hearpan" lemma="" pos="" gloss=""/>
+      <word n="" form="hlude" lemma="hlude" pos="adv" gloss="loudly"/>
+      <word n="" form="bī" lemma="bī" pos="prep" with="dative" gloss="with"/>
+      <word n="" form="hearpan" lemma="hearpe" pos="dsn" gender="f" gloss="harp"/>
       <ceasura />
-      <word n="" form="hleoþor" lemma="" pos="" gloss=""/>
+      <word n="" form="hlēoþor" lemma="hlēoþor" pos="n" gender="n" gloss="song"/>
       <word n="" form="swinsade," lemma="" pos="" gloss=""/>
     </l>
     <l n="106">
@@ -964,24 +966,24 @@
       <word n="" form="men," lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="modum" lemma="" pos="" gloss=""/>
-      <word n="" form="wlonce," lemma="" pos="" gloss=""/>
+      <word n="" form="wlonce," lemma="" pos="adj" gloss="beautiful"/>
     </l>
     <l n="107">
-      <word n="" form="wordum" lemma="" pos="" gloss=""/>
-      <word n="" form="sprecan," lemma="" pos="" gloss=""/>
+      <word n="" form="wordum" lemma="" pos="" gloss="words"/>
+      <word n="" form="sprecan," lemma="" pos="" gloss="spoke"/>
       <ceasura />
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="wel" lemma="" pos="" gloss=""/>
-      <word n="" form="cuþan," lemma="" pos="" gloss=""/>
+      <word n="" form="cuþan," lemma="cunnan" pos="pret.pv" gloss="knew"/>
     </l>
     <l n="108">
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="hi" lemma="" pos="" gloss=""/>
-      <word n="" form="næfre" lemma="" pos="" gloss=""/>
-      <word n="" form="song" lemma="" pos="" gloss=""/>
+      <word n="" form="næfre" lemma="" pos="" gloss="never"/>
+      <word n="" form="song" lemma="" pos="" gloss="a song"/>
       <ceasura />
-      <word n="" form="sellan" lemma="" pos="" gloss=""/>
+      <word n="" form="sellan" lemma="" pos="" gloss="better"/>
       <word n="" form="ne" lemma="" pos="" gloss=""/>
       <word n="" form="hyrdon." lemma="" pos="" gloss=""/>
     </l>
@@ -1089,7 +1091,7 @@
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="wig" lemma="" pos="" gloss=""/>
       <word n="" form="ne" lemma="" pos="" gloss=""/>
-      <word n="" form="alæg," lemma="" pos="" gloss=""/>
+      <word n="" form="ālæg," lemma="ālicgan" pos="pret.sv" verb="strong" gloss="rest"/>
     </l>
     <l n="120">
       <word n="" form="þonne" lemma="" pos="" gloss=""/>
@@ -1147,7 +1149,7 @@
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="hy" lemma="" pos="" gloss=""/>
-      <word n="" form="anihst" lemma="" pos="" gloss=""/>
+      <word n="" form="ánihst" lemma="á-nihst" pos="adv" gloss="at the last"/>
       <ceasura />
       <word n="" form="nemnan" lemma="" pos="" gloss=""/>
       <word n="" form="sceolde." lemma="" pos="" gloss=""/>
@@ -1201,7 +1203,7 @@
     <l n="132">
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
-      <word n="" form="biþ" lemma="" pos="" gloss=""/>
+      <word n="" form="biþ" lemma="bēon" pos="pres.v" verb="anomalous" gloss="be"/>
       <word n="" form="leofast" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="londbuendum" lemma="" pos="" gloss=""/>
@@ -1270,8 +1272,8 @@
       <word n="" form="duguþe" lemma="" pos="" gloss=""/>
       <word n="" form="wile" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="dom" lemma="" pos="" gloss=""/>
-      <word n="" form="aræran," lemma="" pos="" gloss=""/>
+      <word n="" form="dōm" lemma="dōm" pos="asn" gloss="reputation"/>
+      <word n="" form="ārǽran," lemma="ārǽran" pos="v" verb="weak" gloss="to heighten"/>
     </l>
     <l n="141">
       <word n="" form="eorlscipe" lemma="" pos="" gloss=""/>
@@ -1297,7 +1299,7 @@
       <word n="" form="heofonum" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="heahfæstne" lemma="" pos="" gloss=""/>
-      <word n="" form="dom." lemma="" pos="" gloss=""/>
+      <word n="" form="dōm." lemma="dōm" pos="asn" gloss="glory"/>
     </l>
   </lg>
 </body>

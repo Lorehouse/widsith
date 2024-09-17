@@ -7,6 +7,7 @@
 * Chase 1981, _The Dating of Beowulf
 * Fulk and Cain, *A History of Old English Literature* -- requested
 *  Gillespie, 1973, *A catalogue of persons named in German heroic literature(700-1600)* -- requested
+* Niles, 2007. _Old English Heroic Poems_. Brepols. Turnhout, Belgium. [[niles_oe-heroic-poems-book]]
 ## Articles
 * Foot, S. 2002, "The making of *angelcynn*" in *Old English Literature: Critical Essays* -- requested [[Foot_making-of-anglecynn]]
 * Frank 1991 Germanic Legend in Old English Literature, *Cambridge Companion*

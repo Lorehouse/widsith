@@ -144,4 +144,4 @@
 * Adding notes docs for [[howe_cultural-construction-of-reading]]
 * [[Foot_making-of-anglecynn]]
 * [[woganbrowne_hero-in-christian-reception]]
-* 
+* add long vowel marks consistently

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niles_anthropology-of-the-past.md",
+                "file": "niles_oe-heroic-poems-book.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niles_anthropology-of-the-past.md",
+                "file": "niles_oe-heroic-poems-book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niles_anthropology-of-the-past.md",
+                "file": "niles_oe-heroic-poems-book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niles_anthropology-of-the-past.md"
+                "file": "niles_oe-heroic-poems-book.md"
               }
             }
           }
@@ -161,14 +161,15 @@
   },
   "active": "21c5b4322d17da10",
   "lastOpenFiles": [
+    "literature.md",
+    "niles_oe-heroic-poems-book.md",
+    "howe_cultural-construction-of-reading.md",
+    "weiskott_meter-of-widsith.md",
+    "niles_anthropology-of-the-past.md",
     "pascual_metrical-history.md",
     "woganbrowne_hero-in-christian-reception.md",
-    "howe_cultural-construction-of-reading.md",
-    "literature.md",
     "Foot_making-of-anglecynn.md",
     "neidorf_dating-of-widsith.md",
-    "progresslog.md",
-    "niles_anthropology-of-the-past.md",
-    "weiskott_meter-of-widsith.md"
+    "progresslog.md"
   ]
 }
