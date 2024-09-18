@@ -312,7 +312,7 @@
       <word n="" form="manna" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="modgast" lemma="" pos="" gloss=""/>
-      <word n="" form="ealra," lemma="" pos="" gloss=""/>
+      <word n="" form="ealra," lemma="eal" pos="adj" gloss="of all"/>
     </l>
     <l n="37">
       <word n="" form="no" lemma="" pos="" gloss=""/>
@@ -321,7 +321,7 @@
       <word n="" form="ofer" lemma="" pos="" gloss=""/>
       <word n="" form="Offan" lemma="Offa" pos="dsn" gloss="Offa"/>
       <ceasura />
-      <word n="" form="eorlscype" lemma="" pos="" gloss=""/>
+      <word n="" form="eorlscype" lemma="eorlscipe" pos="asn" gender="m" gloss="manliness"/>
       <word n="" form="fremede," lemma="" pos="" gloss=""/>
     </l>
     <l n="38">
@@ -339,11 +339,11 @@
       <word n="" form="mæst." lemma="mæst" pos="adj" feat="superlative" gloss="greatest"/>
     </l>
     <l n="40">
-      <word n="" form="Nænig" lemma="" pos="" gloss=""/>
-      <word n="" form="efeneald" lemma="" pos="" gloss=""/>
-      <word n="" form="him" lemma="" pos="" gloss=""/>
+      <word n="" form="Nænig" lemma="" pos="" gloss="Not any"/>
+      <word n="" form="efeneald" lemma="efeneald" pos="adj" gloss="contemporaries"/>
+      <word n="" form="him" lemma="" pos="gsn" gloss="of him"/>
       <ceasura />
-      <word n="" form="eorlscipe" lemma="" pos="" gloss=""/>
+      <word n="" form="eorlscipe" lemma="eorlscipe" pos="nsn" gloss="manliness"/>
       <word n="" form="maran" lemma="" pos="" gloss=""/>
     </l>
     <l n="41">
@@ -419,7 +419,7 @@
       <word n="" form="Swa" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="geondferde" lemma="" pos="" gloss=""/>
-      <word n="" form="fela" lemma="" pos="" gloss=""/>
+      <word n="" form="fela," lemma="fela" pos="adj" with="genitive" gloss="many"/>
       <ceasura />
       <word n="" form="fremdra" lemma="" pos="" gloss=""/>
       <word n="" form="londa" lemma="" pos="" gloss=""/>
@@ -443,7 +443,7 @@
     </l>
     <l n="53">
       <word n="" form="freomægum" lemma="" pos="" gloss=""/>
-      <word n="" form="feor" lemma="" pos="" gloss=""/>
+      <word n="" form="feor" lemma="feor" pos="adj" gloss="far"/>
       <ceasura />
       <word n="" form="folgade" lemma="" pos="" gloss=""/>
       <word n="" form="wide." lemma="" pos="" gloss=""/>
@@ -810,7 +810,7 @@
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Eormanrice" lemma="Eormanrīc" pos="dsn" gloss="Ermanric"/>
       <ceasura />
-      <word n="" form="ealle" lemma="" pos="" gloss=""/>
+      <word n="" form="ealle" lemma="eal" pos="asn" gender="f" gloss="all"/>
       <word n="" form="þrage," lemma="" pos="" gloss=""/>
     </l>
     <l n="89">
@@ -879,9 +879,9 @@
       <word n="" form="forgeaf," lemma="" pos="" gloss=""/>
     </l>
     <l n="96">
-      <word n="" form="mines" lemma="" pos="" gloss=""/>
-      <word n="" form="fæder" lemma="" pos="" gloss=""/>
-      <word n="" form="eþel," lemma="" pos="" gloss=""/>
+      <word n="" form="mines" lemma="" pos="" gloss="my"/>
+      <word n="" form="fæder" lemma="fæder" pos="gsn" gloss="father's"/>
+      <word n="" form="ēþel," lemma="ēþel" pos="asn" gloss="inherited land"/>
       <ceasura />
       <word n="" form="frea" lemma="" pos="" gloss=""/>
       <word n="" form="Myrginga." lemma="Myrgingas" pos="gpn" gloss="the Myrgings"/>
@@ -909,7 +909,7 @@
       <ceasura />
       <word n="" form="geond" lemma="" pos="" gloss=""/>
       <word n="" form="londa" lemma="" pos="" gloss=""/>
-      <word n="" form="fela," lemma="" pos="" gloss=""/>
+      <word n="" form="fela," lemma="fela" pos="adj" with="genitive" gloss="many"/>
     </l>
     <l n="100">
       <word n="" form="þonne" lemma="" pos="" gloss=""/>
@@ -990,11 +990,11 @@
     <l n="109">
       <word n="" form="ðonan" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="ealne" lemma="" pos="" gloss=""/>
+      <word n="" form="ealne" lemma="eal" pos="asadj" gloss="all"/>
       <word n="" form="geondhwearf" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="eþel" lemma="" pos="" gloss=""/>
-      <word n="" form="Gotena," lemma="" pos="" gloss=""/>
+      <word n="" form="ēþel" lemma="ēþel" pos="asn" gloss="fatherland"/>
+      <word n="" form="Gotena," lemma="Gotan" pos="gsn" gloss="of the Ostrogoths"/>
     </l>
     <l n="110">
       <word n="" form="sohte" lemma="" pos="" gloss=""/>
@@ -1037,7 +1037,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="godne" lemma="" pos="" gloss=""/>
       <ceasura />
-      <word n="" form="fæder" lemma="" pos="" gloss="father"/>
+      <word n="" form="fæder" lemma="fæder" pos="asn" gloss="father"/>
       <word n="" form="Unwenes." lemma="Unwen" pos="gsm" gloss="of Unwen"/><!--Son of Eastgota l 113, meaning "unexpected one"-->
     </l>
     <l n="115">
@@ -1109,8 +1109,8 @@
       <word n="" form="sceoldon" lemma="" pos="" gloss=""/>
     </l>
     <l n="122">
-      <word n="" form="ealdne" lemma="" pos="" gloss=""/>
-      <word n="" form="eþelstol" lemma="" pos="" gloss=""/>
+      <word n="" form="ealdne" lemma="eal" pos="adj" gender="m" gloss="old"/>
+      <word n="" form="ēþelstōl" lemma="ēþelstōl" pos="asn" gloss="ancestral land"/>
       <ceasura />
       <word n="" form="Ætlan" lemma="Ætla" pos="gsn" gloss="Atilla"/>
       <word n="" form="leodum." lemma="" pos="" gloss=""/>
@@ -1162,7 +1162,7 @@
       <word n="" form="heape" lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="hwinende" lemma="" pos="" gloss=""/>
-      <word n="" form="fleag" lemma="" pos="" gloss=""/>
+      <word n="" form="fleag" lemma="flēogan" pos="pret.sv" verb="strong" gloss="fly"/>
     </l>
     <l n="128">
       <word n="" form="giellende" lemma="" pos="" gloss=""/>
@@ -1198,7 +1198,7 @@
       <ceasura />
       <word n="" form="on" lemma="" pos="" gloss=""/>
       <word n="" form="þære" lemma="" pos="" gloss=""/>
-      <word n="" form="feringe," lemma="" pos="" gloss=""/>
+      <word n="" form="fēringe," lemma="fēring" pos="dsn" gloss="journeying"/>
     </l>
     <l n="132">
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
@@ -1240,7 +1240,7 @@
       <ceasura />
       <word n="" form="geond" lemma="" pos="" gloss=""/>
       <word n="" form="grunda" lemma="" pos="" gloss=""/>
-      <word n="" form="fela," lemma="" pos="" gloss=""/>
+      <word n="" form="fela," lemma="fela" pos="adj" with="genitive" gloss="many"/>
     </l>
     <l n="137">
       <word n="" form="þearfe" lemma="" pos="" gloss=""/>
@@ -1280,7 +1280,7 @@
       <word n="" form="æfnan," lemma="" pos="" gloss=""/>
       <ceasura />
       <word n="" form="oþþæt" lemma="" pos="" gloss=""/>
-      <word n="" form="eal" lemma="" pos="" gloss=""/>
+      <word n="" form="eal" lemma="eal" pos="adj" gloss="all"/>
       <word n="" form="scæceð," lemma="" pos="" gloss=""/>
     </l>
     <l n="142">
