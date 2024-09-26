@@ -702,8 +702,8 @@
       <word n="" form="wilna," lemma="" pos="" gloss=""/>
       <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Wala" lemma="Walas" pos="gpn" gloss="Romans"/><!--A generic word meaning "foreigners" but usually referring to Romans. This name was later to be come the appelation given to the land of "Wales" or of "foreigners"-->
-      <word n="" form="rices." lemma="" pos="" gloss=""/>
+      <word n="" form="Wala" lemma="Walas" pos="gpn" gloss="Roman's"/><!--A generic word meaning "foreigners" but usually referring to Romans. This name was later to be come the appelation given to the land of "Wales" or of "foreigners"-->
+      <word n="" form="rīces." lemma="rīce" pos="gsn" gloss="realm"/>
     </l>
     <l n="79">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -943,7 +943,7 @@
       <word n="" form="Scilling" lemma="Scilling" pos="nsn" gloss="Scilling"/><!--A scop who sang with Widsith on at least one occasion, Malone compares this to rune-singers in Finnish tradition (194).-->
       <caesura/>
       <word n="" form="sciran" lemma="" pos="" gloss=""/>
-      <word n="" form="reorde" lemma="" pos="" gloss=""/>
+      <word n="" form="reorde" lemma="reord" pos="gsn" gender="f" gloss=""/>
     </l>
     <l n="104">
       <word n="" form="for" lemma="for" pos="prep" with="dative" gloss="before"/>
@@ -1216,8 +1216,8 @@
       <word n="" form="God" lemma="God" pos="n" gloss="God"/>
       <word n="" form="syleð" lemma="" pos="" gloss=""/>
       <caesura/>
-      <word n="" form="gumena" lemma="guma" pos="gpn" gloss="men"/>
-      <word n="" form="rice" lemma="" pos="" gloss=""/>
+      <word n="" form="gumena" lemma="guma" pos="gpn" gloss="men's"/>
+      <word n="" form="rīce" lemma="rīce" pos="asn" gloss="rule"/>
     </l>
     <l n="134">
       <word n="" form="to" lemma="" pos="" gloss=""/>
