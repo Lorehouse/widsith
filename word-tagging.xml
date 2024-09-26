@@ -163,7 +163,7 @@
       <word n="" form="þara" lemma="" pos="" gloss=""/>
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="ofer" lemma="ofer" pos="prep" with="acc" gloss="more than"/>
+      <word n="" form="ofer" lemma="ofer" pos="prep" with="acc" gloss="over"/>
       <word n="" form="foldan" lemma="folde" pos="asn" gender="f" gloss="the earth"/>
       <caesura/>
       <word n="" form="gefrægen" lemma="gefricgan" pos="ppn" gloss="learned (by asking)"/>
@@ -319,7 +319,7 @@
       <word n="" form="nō" lemma="nō" pos="adv" gloss="not at all"/>
       <word n="" form="hwæþre" lemma="hwæþre" pos="adv" gloss="however"/>
       <word n="" form="hē" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
-      <word n="" form="ofer" lemma="" pos="" gloss=""/>
+      <word n="" form="ofer" lemma="ofer" pos="prep" with="acc" gloss="more than"/>
       <word n="" form="Offan" lemma="Offa" pos="dsn" gloss="Offa"/>
       <caesura/>
       <word n="" form="eorlscype" lemma="eorlscipe" pos="asn" gender="m" gloss="manliness"/>
@@ -348,8 +348,8 @@
       <word n="" form="māran" lemma="māra" pos="adj" gloss="more"/>
     </l>
     <l n="41">
-      <word n="" form="on" lemma="" pos="" gloss=""/>
-      <word n="" form="orette." lemma="" pos="" gloss=""/>
+      <word n="" form="on" lemma="on" pos="prep" with="acc" gloss="in"/>
+      <word n="" form="ōrette." lemma="ōrettan" pos="pret.sv" verb="weak" gloss="fighting"/>
       <caesura/>
       <word n="" form="Āne" lemma="āne" pos="isn" gender="n" gloss="one"/>
       <word n="" form="sweorde" lemma="" pos="" gloss=""/>
@@ -629,7 +629,7 @@
       <word n="" form="Swylce" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
-      <word n="" form="on" lemma="" pos="" gloss=""/>
+      <word n="" form="on" lemma="on" pos="prep" with="dat" gloss="in"/>
       <word n="" form="Eatule" lemma="Eatul" pos="dsn" gloss="Italy"/>
       <caesura/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -833,7 +833,7 @@
       <word n="" form="fruma," lemma="fruma" pos="n" gender="m" gloss="first among"/>
     </l>
     <l n="91">
-      <word n="" form="on" lemma="" pos="" gloss=""/>
+      <word n="" form="on" lemma="on" pos="prep" with="dat" gloss="in"/>
       <word n="" form="þam" lemma="" pos="" gloss=""/>
       <word n="" form="siex" lemma="siex" pos="num" gloss="six"/>
       <word n="" form="hund" lemma="hund" pos="num" gloss="hundred"/>
@@ -853,7 +853,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="Eadgilse" lemma="Eadgils" pos="dsn" gloss="Eadgils"/><!-- King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139-->
       <caesura/>
-      <word n="" form="on" lemma="" pos="" gloss=""/>
+      <word n="" form="on" lemma="on" pos="prep" with="acc" gloss="in"/>
       <word n="" form="sealde," lemma="" pos="" gloss=""/>
       <word n="" form="ǣht" lemma="ǣht" pos="asn" gloss="possession"/>
     </l>
@@ -891,9 +891,9 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="þa" lemma="" pos="" gloss=""/>
-      <word n="" form="Ealhhild" lemma="" pos="" gloss=""/>
+      <word n="" form="Ealhhild" lemma="" pos="" gloss=""/>@@@
       <caesura/>
-      <word n="" form="oþerne" lemma="" pos="" gloss=""/>
+      <word n="" form="ōþerne" lemma="ōþer" pos="num" gloss="second"/>
       <word n="" form="forgeaf" lemma="forgiefan" pos="pret.sv" verb="strong" gloss="gave"/>
     </l>
     <l n="98">
@@ -1158,7 +1158,7 @@
     <l n="127">
       <word n="" form="Ful" lemma="ful" pos="adv" gloss="very"/>
       <word n="" form="oft" lemma="oft" pos="adv" gloss="often"/>
-      <word n="" form="of" lemma="" pos="" gloss=""/>
+      <word n="" form="of" lemma="of" pos="prep" with="dative" gloss="from"/>
       <word n="" form="þam" lemma="" pos="" gloss=""/>
       <word n="" form="hēape" lemma="hēap" pos="dsn" gloss="company"/>
       <caesura/>
@@ -1169,7 +1169,7 @@
       <word n="" form="giellende" lemma="giellan" pos="verb" verb="strong" gloss="yelling"/>
       <word n="" form="gar" lemma="gar" pos="n" gloss="spear"/>
       <caesura/>
-      <word n="" form="on" lemma="" pos="" gloss=""/>
+      <word n="" form="on" lemma="on" pos="prep" with="acc" gloss="in"/>
       <word n="" form="grome" lemma="" pos="" gloss=""/>
       <word n="" form="þeode;" lemma="" pos="" gloss=""/>
     </l>
@@ -1195,9 +1195,9 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="symle" lemma="" pos="" gloss=""/>
-      <word n="" form="onfond" lemma="" pos="" gloss=""/>
+      <word n="" form="onfond" lemma="onfindan" pos="pret.sv" verb="strong" gloss="found out"/>
       <caesura/>
-      <word n="" form="on" lemma="" pos="" gloss=""/>
+      <word n="" form="on" lemma="on" pos="prep" with="dat" gloss="in"/>
       <word n="" form="þære" lemma="" pos="" gloss=""/>
       <word n="" form="fēringe," lemma="fēring" pos="dsn" gloss="journeying"/>
     </l>
@@ -1253,7 +1253,7 @@
     <l n="138">
       <word n="" form="simle" lemma="" pos="" gloss=""/>
       <word n="" form="suð" lemma="" pos="" gloss=""/>
-      <word n="" form="oþþe" lemma="" pos="" gloss=""/>
+      <word n="" form="oþþe" lemma="oþþe" pos="conj" gloss="or"/>
       <word n="" form="norð" lemma="norþ" pos="adv" gloss="north"/>
       <caesura/>
       <word n="" form="sumne" lemma="" pos="" gloss=""/>
@@ -1280,7 +1280,7 @@
       <word n="" form="eorlscipe" lemma="" pos="" gloss=""/>
       <word n="" form="æfnan," lemma="æfnan" pos="v" gloss="practice"/>
       <caesura/>
-      <word n="" form="oþþæt" lemma="" pos="" gloss=""/>
+      <word n="" form="oþþæt" lemma="oþ þæt" pos="conj" gloss="until"/>
       <word n="" form="eal" lemma="eal" pos="adj" gloss="all"/>
       <word n="" form="scæceð," lemma="" pos="" gloss=""/>
     </l>
