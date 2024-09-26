@@ -32,7 +32,7 @@
     <l n="1">
       <word n="001" form="Widsið" lemma="Widsið" pos="nsn" gloss="Widsith"/><!--the fictitious scop celebrated in this poem-->
       <word n="002" form="maðolade," lemma="maðelian" pos="pret.sv" verb="weak" gloss="spoke"/>
-      <ceasura />
+      <caesura/>
       <word n="003" form="wordhord" lemma="wordhord" pos="as" gloss="wordhoard/vocabulary"/>
       <word n="004" form="onleac," lemma="onlūcan" verb="strong" pos="pret.sv" gloss="unlocked"/>
     </l>
@@ -40,16 +40,16 @@
       <word n="005" form="se" lemma="se" pos="dpn" gloss="that"/>
       <word n="006" form="þe" lemma="þe" pos="rpn" gloss="that"/>
       <word n="007" form="monna" lemma="monn" pos="gpn" gender="m" gloss="men"/><!-- Addition -->
-      <word n="008" form="mæst" lemma="mæst" pos="adj" gloss="most"/>
-      <ceasura />
-      <word n="009" form="mægþa" lemma="mægþ" pos="gpn" gender="f" gloss="people"/>
+      <word n="008" form="mǣst" lemma="mæst" pos="adj" gloss="most"/>
+      <caesura/>
+      <word n="009" form="mǣgþa" lemma="mǣgþ" pos="gpn" gender="f" gloss="people"/>
       <word n="010" form="ofer" lemma="ofer" pos="prep" with="acc" gloss="over"/>
       <word n="011" form="eorþan," lemma="eorþe" pos="asn" gender="f" gloss="earth"/>
     </l>
     <l n="3">
       <word n="012" form="folca" lemma="folc" pos="gpn" gender="n" gloss="tribe"/>
       <word n="013" form="geondferde;" lemma="geondferan" pos="pret.sv" verb="weak" gloss="travel over"/>
-      <ceasura />
+      <caesura/>
       <word n="014" form="oft" lemma="oft" pos="adv" gloss="often"/>
       <word n="015" form="hē" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
       <word n="016" form="on" lemma="on" pos="prep" with="dat" gloss="in"/><!-- addition -->
@@ -57,9 +57,9 @@
       <word n="018" form="geþah" lemma="geþicgan" verb="strong" pos="pret.sv" gloss="received"/>
     </l>
     <l n="4">
-      <word n="019" form="mynelicne" lemma="mynelic" pos="adj" gloss="handsome"/>
-      <word n="020" form="maþþum." lemma="maþþum" pos="asn" gender="m" gloss="treasure/gift"/>
-      <ceasura />
+      <word n="019" form="mynelīcne" lemma="mynelīc" pos="adj" gloss="handsome"/>
+      <word n="020" form="māþþum." lemma="māþþum" pos="asn" gender="m" gloss="treasure/gift"/>
+      <caesura/>
       <word n="021" form="Him" lemma="hē" pos="asn" gender="m" gloss="him"/>
       <word n="022" form="from" lemma="from" pos="prep" with="dat" gloss="from"/>
       <word n="023" form="Myrgingum" lemma="Myrging" pos="dpn" gloss="the Myrgings"/><!-- the tribe to which Widsið belonged. "By virtue of the Offa episode, the Myrgings can be localized with some precision; they lived south of the river Eider, in a region apparently identical with that held by the Saxons of Ptolemy and certainly identical with that held by the Nordalbings of later times, themselves a branch of the Old Saxons (to use King Alfred's term)." (Malone 183). The Myrgings were likely a Saxonish tribe called the Maurungani of the Geographer of Ravenna.-->
@@ -67,7 +67,7 @@
     <l n="5">
       <word n="024" form="æþele" lemma="æþelo" pos="npn" gender="f" gloss="noble"/>
       <word n="025" form="onwocon." lemma="wæcnan" verb="strong" pos="pret.pv" gloss="awoke"/><!-- Malone has as two words, "on" and "wocon"-->
-      <ceasura />
+      <caesura/>
       <word n="026" form="He" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Ealhhilde," lemma="Ealhhilde" pos="dsn" gloss="Ealhhilde"/><!-- Eormanric's wife -->
@@ -75,13 +75,13 @@
     <l n="6">
       <word n="" form="fælre" lemma="fæle" pos="adj" gloss="gracious"/>
       <word n="" form="freoþuwebban," lemma="freoþuwebbe" pos="dsn" gender="f" gloss="peace-weaver"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="forman" lemma="forma" pos="adj" gloss="first/foremost"/>
       <word n="" form="siþe" lemma="" pos="isn" gloss="going/journey"/>
     </l>
     <l n="7">
       <word n="" form="Hreðcyninges" lemma="Hreðcyning" pos="gsn" gloss="King of the Ostrogoths"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ham" lemma="ham" pos="asn" gloss="home"/>
       <word n="" form="gesohte" lemma="gesecan" pos="pret.sv" verb="weak" gloss="sought"/>
     </l>
@@ -89,13 +89,13 @@
       <word n="" form="eastan" lemma="eastan" pos="adv" gloss="east"/>
       <word n="" form="of" lemma="of" pos="prep" with="dative" gloss="from"/>
       <word n="" form="Ongle," lemma="Ongel" pos="dpn" gloss="the Angles land"/><!--The original homeland of the Angles before Britain, and probably covered most of Sleswick,-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Eormanrices," lemma="Eormanrīc" pos="gsn" gloss="Ermanric"/><!-- Ostrogothic king in the late middle 4th century, see his contemporary historian, Ammanius Marcellinus, as well as Jordanes. Ammanius tells that his great empire was so threatened by Huns and Alans that he committed suicide, though Jordanes leaves this out (Malone 146). Son of Amelunc and uncle of Dietrich von Berne (Þeodric), _Dietrichs Flucht_ paints him very badly, as do other Old German heroic tales (Gillespie 37, 38). Malone argues that these later heroic tales do not reflect the historical king, who seems to have behaved correctly for an old Germanic warlord (146-149).-->
     </l>
     <l n="9">
       <word n="" form="wraþes" lemma="wraþ" pos="adj" with="dative" gloss="hostile"/>
       <word n="" form="wærlogan." lemma="wærloga" pos="dpn" gender="m" gloss="oath-breaker"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Ongon" lemma="onginnan" pos="pret.sv" verb="strong" gloss="began"/>
       <word n="" form="þa" lemma="þa" pos="adv" gloss="then"/>
       <word n="" form="worn" lemma="worn" pos="asn" gloss="a great number (of words)"/>
@@ -106,15 +106,15 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="monna" lemma="monn" pos="gpn" gloss="men"/>
       <word n="" form="gefrægn" lemma="gefrignan" pos="pret.sv" verb="strong" gloss="learned (by asking)"/>
-      <ceasura />
-      <word n="" form="mægþum" lemma="mægþ" pos="ipn" gender="f" gloss="tribe"/>
+      <caesura/>
+      <word n="" form="mǣgþum" lemma="mægþ" pos="ipn" gender="f" gloss="tribe"/>
       <word n="" form="wealdan!" lemma="wealdan" pos="pret.sv" verb="" feat="with instrumental" gloss="rule"/><!-- to have power over -->
     </l>
     <l n="11">
       <word n="" form="Sceal" lemma="sculan" pos="pres.sv" verb="strong" gloss="Shall"/>
       <word n="" form="þeodna" lemma="þeod" pos="gpn" gender="f" gloss="men"/>
       <word n="" form="gehwylc" lemma="gehwylc" pos="adj" gloss="each"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þeawum" lemma="þeaw" pos="dpn" gender="m" gloss="good custom"/>
       <word n="" form="lifgan," lemma="lifgan" pos="v" verb="weak" gloss="live"/>
     </l>
@@ -122,7 +122,7 @@
       <word n="" form="eorl" lemma="eorl" pos="gpn" gender="m" gloss="leader"/>
       <word n="" form="æfter" lemma="æfter" pos="prep" with="dative" gloss="after"/>
       <word n="" form="oþrum" lemma="oþer" pos="dpn" gloss="others"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="eðle" lemma="eþel" pos="dsn" gloss="homeland"/>
       <word n="" form="rædan," lemma="rædan" pos="v" verb="strong" gloss="govern"/>
     </l>
@@ -131,7 +131,7 @@
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="his" lemma="hē" pos="gspn" gender="m" gloss="his"/>
       <word n="" form="þeodenstol" lemma="þeodenstol" pos="n" gender="m" gloss="king-stool"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="geþeon" lemma="geþeon" pos="v" verb="strong" gloss="prosper"/>
       <word n="" form="wile." lemma="willan" pos="pret.sv" gloss="will"/>
     </l>
@@ -139,24 +139,24 @@
       <word n="" form="þara" lemma="se" pos="gpdpn" gender="m" gloss="that"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="Hwala" lemma="Hwala" pos="nsn" gloss="Hwala"/><!--Grandson of Sceaf but otherwise unknown-->
-      <ceasura />
+      <caesura/>
       <word n="" form="hwile" lemma="hwil" pos="asn" gender="f" gloss="a while"/>
       <word n="" form="selast," lemma="sel" pos="adj" feat="superlative" gloss="best"/>
     </l>
     <l n="15">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Alexandreas" lemma="Alexandreas" pos="nsn" gloss="Alexander"/><!-- proper name, Alexander the great-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ealra" lemma="eal" pos="adj" gloss="all"/>
       <word n="" form="ricost" lemma="rice" pos="adj" gloss="powerful"/><!-- realms? Alexander's was the best of all realms?-->
     </l>
     <l n="16">
-      <word n="" form="monna" lemma="" pos="" gloss="man's"/>
+      <word n="" form="monna" lemma="monn" pos="gpn" gloss="men"/>
       <word n="" form="cynnes," lemma="cynn" pos="gsn" gender="n" gloss="kin"/><!-- mankind -->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="hē" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
-      <word n="" form="mæst" lemma="mæst" pos="adj" feat="superlative" gloss="most"/>
+      <word n="" form="mǣst" lemma="mæst" pos="adj" feat="superlative" gloss="most"/>
       <word n="" form="geþah" lemma="geþeon" pos="pret.sv" verb="strong" gloss="throve"/>
     </l>
     <l n="17">
@@ -165,7 +165,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ofer" lemma="ofer" pos="prep" with="acc" gloss="more than"/>
       <word n="" form="foldan" lemma="folde" pos="asn" gender="f" gloss="the earth"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="gefrægen" lemma="gefricgan" pos="ppn" gloss="learned (by asking)"/>
       <word n="" form="hæbbe." lemma="habban" pos="psv" verb="weak" gloss="have"/>
     </l>
@@ -173,14 +173,14 @@
       <word n="" form="Ætla" lemma="Ætla" pos="apn" gloss="Atilla"/><!-- the Hun -->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Hunum," lemma="Hunas" pos="ipn" gloss="the Huns"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Eormanric" lemma="Eormanrīc" pos="nsn" gloss="Ermanric"/>
       <word n="" form="Gotum," lemma="Gotan" pos="ipn" gloss="the Goths"/>
     </l>
     <l n="19">
       <word n="" form="Becca" lemma="Becca" pos="nsn" gloss="Becca"/><!-- from OE Beocca, possibly identified with Bikki from _Snorra Edda_ and _Völsungasaga_, Ermanric's treacherous retainer, and Bicco in Saxo's _Gesta Danorum_ but Malone dismisses this as linguistically improbable (pg 131).-->
       <word n="" form="Baningum," lemma="Baningas" pos="dpn" gloss="the Baningas"/><!-- Malone has a long note here connecting Baningum with Bainaib (Cuntz 1923) and Ptolemy's Βαινοχαιμαι, whom he argues are separate from the Bohemians (Boihœmum, Marquart)-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Burgendum" lemma="Burgendan" pos="dpn" gloss="the Burgundians"/>
       <word n="" form="Gifica." lemma="Gifica" pos="nsn" gloss="Gifica"/><!-- Also the Gibica mentioned in King Gundobad's _Leges Burgudionum_ (see Malone 154), believed by F. Bluhme to be the father of Gundomar, Gislahari (Gislhere, line 123) and Gundahari(Guðhere, line 66). Malone speculates that these may represent each a generation.-->
     </l>
@@ -188,7 +188,7 @@
       <word n="" form="Casere" lemma="Casere" pos="nsn" gloss="Caesar"/>
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Creacum" lemma="Creacas" pos="dpn" gloss="the Greeks"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Cælic" lemma="Cælic" pos="nsn" gloss="Caelic"/>
       <word n="" form="Finnum," lemma="Finnas" pos="dpn" gloss="the Finns"/>
@@ -196,7 +196,7 @@
     <l n="21">
       <word n="" form="Hagena" lemma="Hagena" pos="nsn" gloss="Hagen"/><!-- a king of the Rugians, famous from the Hild Saga, also the foe of Heoden below-->
       <word n="" form="Holmrygum" lemma="Holmrygas" pos="dpn" gloss="the Rugians"/><!-- All editions note that the "g" is missing from the manuscript and they add it back in. Malone, in his glossary, makes the additional correction of a "c", rendering this _holmrycgas_, _holmrycgum_. Malone identifies the Rugians as the Hulmerugi of Jordanes, in the islands of the estuary of the Vistula. (174)-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Heoden" lemma="Heoden" pos="nsn" gloss="Heoden"/><!-- The ASPR XML has this word tagged as "unclear" and boy howdy is it ever. The OEPIF project shows it as very unclear as well. Malone reads it as Henden but says it is the character Heoden of the Hild saga (pg 168). Chambers and ASPR both record it as "Heoden", so that is what I'm going to stick with for now.-->
       <word n="" form="Glommum." lemma="Glomman" pos="dpn" gloss="the Glomman"/>
@@ -205,14 +205,14 @@
       <word n="" form="Witta" lemma="Witta" pos="nsn" gloss="Witta"/><!--King of the Swæfe, and according to Bede, grandfather to Hengest and Horsa.-->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Swæfum," lemma="Swæfe" pos="dpn" gloss="Swæfe"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Wada" lemma="Wada" pos="nsn" gloss="Wada"/><!--King of the Hælsings, in this poem not the father of mythical Weland or grandfather of Wudga. (Malone 206-207)-->
       <word n="" form="Hælsingum," lemma="Hælsingas" pos="ipn" gloss="Hælsings"/>
     </l>
     <l n="23">
       <word n="" form="Meaca" lemma="Meaca" pos="nsn" gloss="Meaca"/> <!-- Unknown king of the Myrgings-->
       <word n="" form="Myrgingum," lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Mearchealf" lemma="Mearchealf" pos="nsn" gloss="Mearchealf"/><!--unknowng king of the Hundings, but his name may be derived from _mearh_ "horse" and _ealf_ "elf".-->
       <word n="" form="Hundingum." lemma="Hundingas" pos="dpn" gloss="the Hundings" sameas="the Langobards"/><!--nickname for the Langobards-->
     </l>
@@ -220,14 +220,14 @@
       <word n="" form="þeodric" lemma="þeodric" pos="nsn" gloss="Theodric"/><!--Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern.-->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Froncum," lemma="Froncan" pos="dpn" gloss="the Franks"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Þyle" lemma="Þyle" pos="nsn" gloss="Thyle"/><!--King of the Rondings. Malone explains the name as the eponym of the Þilir, a tribe in the Telemark, giving identification to the Rondings below.-->
       <word n="" form="Rondingum," lemma="Rondingas" pos="dpn" gloss="The Rondings"/><!--The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means "borderers" and seems to be a poetic appelation based on their region being called a _mark_ or borderland. (Malone 191-192)-->
     </l>
     <l n="25">
       <word n="" form="Breoca" lemma="Breoca" pos="nsn" gloss="Breoca"/><!-- The Breca of _Beowulf_ fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)-->
       <word n="" form="Brondingum," lemma="Brondingas" pos="dpn" gloss="Brondings"/><!-- an unknown tribe, though Malone has some great speculation here (133-134)-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Billing" lemma="Billing" pos="nsn" gloss="Billing"/><!-- Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a _bill_-->
       <word n="" form="Wernum." lemma="Wern" pos="dpn" gloss="the Werns"/>
     </l>
@@ -235,7 +235,7 @@
       <word n="" form="Oswine" lemma="Oswine" pos="nsn" gloss="Oswin"/><!--Otherwise unknown-->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Eowum" lemma="Eowan" pos="dpn" gloss="the Eows"/><!-- A tribe Conybeare associates with the Baltic island of Öland-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Ytum" lemma="Yte" pos="dpn" gloss="the Jutes"/><!--King of the Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215).-->
       <word n="" form="Gefwulf," lemma="Gefwulf" pos="nsn" gloss="Gefwulf"/><!-- King of the Euts (Ytum), but otherwise unknown-->
@@ -243,49 +243,49 @@
     <l n="27">
       <word n="" form="Fin" lemma="Fin" pos="nsn" gloss="Fin"/><!--King of rhe Frisians and the Finn from Beowulf and the _Finnsburuh Fragment_-->
       <word n="" form="Folcwalding" lemma="Folcwalding" pos="nsn" gloss="son of Folcwalda"/><!--The patronymic of Finn's father, but Chambers suggests that it was a title that alliterated conveniently rather than Finn's father's real name (1921, 200)-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Fresna" lemma="Frēsan" pos="asn" gloss="the Frisian"/>
       <word n="" form="cynne." lemma="cynn" pos="isn" gender="n" gloss="tribe"/>
     </l>
     <l n="28">
       <word n="" form="Sigehere" lemma="Sigehere" pos="nsn" gloss="Sighere"/><!--King of the Sea-Danes, the Sigarr of the _Snorra Edda_-->
       <word n="" form="lengest" lemma="" pos="" gloss="longest"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Sæ-denum" lemma="Sæ-dene" pos="dpn" gloss="the Sea-Danes"/>
       <word n="" form="weold," lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
     </l>
     <l n="29">
       <word n="" form="Hnæf" lemma="Hnæf" pos="nsn" gloss="Hnæf"/><!-- King of the Hocingas, appears in both Beowulf and the _Finnsburuh Fragment_-->
       <word n="" form="Hocingum," lemma="Hocingas" pos="dpn" gloss="the Hocings"/><!--The Hocings are clarified as Danes in _Beowulf_ (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Helm" lemma="Helm" pos="nsn" gloss="Helm"/><!--Helm, King of the Wulfings-->
       <word n="" form="Wulfingum," lemma="Wulfingas" pos="dpn" gloss="the Wulfings"/><!--The Ylfingar of Norse tradition and the Wylfingas of _Beowulf_. Malone identifies them with the Vulgares of Paulus. (213)-->
     </l>
     <l n="30">
       <word n="" form="Wald" lemma="Wald" pos="nsn" gloss="Wald"/><!--King of the Woings, otherwise unknown-->
       <word n="" form="Woingum," lemma="Woingas" pos="dpn" gloss="the Woings"/><!--A tribe otherwise unknown-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Wod" lemma="Wod" pos="nsn" gloss="Wod"/><!--King of the Þyringas, otherwise unknown-->
       <word n="" form="Þyringum," lemma="Þyringas" pos="dpn" gloss="the Thuringians"/><!--Either the Thoringi of Gregory of Tours or the Tungri (Thuringians) of inland Germany. It is not impossible that these are actually the same tribe. (Malone 206)-->
     </l>
     <l n="31">
       <word n="" form="Sæferð" lemma="Sæferð" pos="nsn" gloss="Sæferð"/><!--King of the Sycgan, some debate that he is the Sigeferþ of Beowulf and Holthausen translates the name Seefried. We cannot be certain of his identity.-->
       <word n="" form="Sycgum," lemma="Sycgan" pos="dpn" gloss="Sycgan"/><!--Only otherwise known from the Finnsburug Fragment, l24, where they are the Secgena(gpn).-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Sweom" lemma="Sweon" pos="dpn" gloss="Swedes"/><!--The Swedes of Uppland-->
       <word n="" form="Ongendþeow," lemma="nsn" pos="Ongendþeow" gloss="Ongenþeow"/><!-- A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to "phallus", associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.-->
     </l>
     <l n="32">
       <word n="" form="Sceafthere" lemma="Sceafthere" pos="" gloss="Sceafthere"/><!--unknown king but his name means "spear-army (compare with Rondhere, "shield-army).-->
       <word n="" form="Ymbrum," lemma="Yumbran" pos="dpn" gloss="the Ymbran"/> <!--An unknown tribe-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Sceafa" lemma="Sceafa" pos="nsn" gloss="Sheaf"/><!--A king of the Langobards but Price 1826 identified him as the mythical "Scef", father of the equally mythical "Scyld Scefing". Malone rejects this association because Scyld was, of course, mythical.-->
       <word n="" form="Longbeardum," lemma="Longbeardan" pos="dpn" gloss="the Langobards"/>
     </l>
     <l n="33">
       <word n="" form="Hun" lemma="Hun" pos="nsn" gloss="Hunn"/>
       <word n="" form="Hætwerum" lemma="" pos="dpn" gloss=""/>###
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Holen" lemma="Holen" pos="nsn" gloss="Holen"/><!-- Malone takes Holen to mean "protector" in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE _holegn_ meaning "holly". (Malone 173)-->
       <word n="" form="Wrosnum." lemma="Wrosnan" pos="dpn" gloss="Wrosnan"/><!--A Danish island tribe-->
@@ -294,7 +294,7 @@
       <word n="" form="Hringweald" lemma="Hringwald" pos="nsn" gloss="Hringwald"/><!-- means Ring-Ruler, great name -->
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="hāten" lemma="hāten" pos="ppv" gloss="called"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Herefarena" lemma="Herefaran" pos="gpn" gloss="the Herefaren's"/>
       <word n="" form="cyning." lemma="cyning" pos="gsn" gender="m" gloss="king"/>
     </l>
@@ -302,7 +302,7 @@
       <word n="" form="Offa" lemma="Offa" pos="nsn" gloss="Offa"/><!-- King of Ongel also in Beowulf, and as Uffa in Saxo Grammaticus and Sweyn Aageson. Latter half of the 4th century and king of the Angles. -->
       <word n="" form="weold" lemma="wealdan" pos="psv" feat="with instrumental" gloss="ruled"/>
       <word n="" form="Ongle," lemma="Ongel" pos="dpn" gloss="the Angles"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Alewih" lemma="Alewih" pos="nsn" gloss="Alewih"/><!--unknown Danish king-->
       <word n="" form="Denum;" lemma="Dene" pos="dpn" gloss="the Danes"/>
     </l>
@@ -310,9 +310,9 @@
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="þara" lemma="" pos="" gloss=""/>
-      <word n="" form="manna" lemma="" pos="" gloss=""/>
-      <ceasura />
-      <word n="" form="modgast" lemma="" pos="" gloss=""/>
+      <word n="" form="manna" lemma="monn" pos="gpn" gloss="men"/>
+      <caesura/>
+      <word n="" form="mōdgast" lemma="mōodig" pos="adj" feat="superlative" gloss="noblest"/>
       <word n="" form="ealra," lemma="eal" pos="adj" gloss="of all"/>
     </l>
     <l n="37">
@@ -321,7 +321,7 @@
       <word n="" form="hē" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
       <word n="" form="ofer" lemma="" pos="" gloss=""/>
       <word n="" form="Offan" lemma="Offa" pos="dsn" gloss="Offa"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="eorlscype" lemma="eorlscipe" pos="asn" gender="m" gloss="manliness"/>
       <word n="" form="fremede," lemma="fremman" pos="pret.sv" verb="weak" gloss="achieve"/>
     </l>
@@ -329,41 +329,42 @@
       <word n="" form="ac" lemma="ac" pos="conj" gloss="but"/>
       <word n="" form="Offa" lemma="Offa" pos="asn" gloss="Offa"/>
       <word n="" form="geslog" lemma="geslean" pos="psv" verb="strong" gloss="won"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ærest" lemma="ærest" feat="superlative" pos="adj" gloss="first"/>
-      <word n="" form="monna," lemma="monn" pos="gpn" gender="m" gloss="man"/>
+      <word n="" form="monna," lemma="monn" pos="gpn" gloss="men"/>
     </l>
     <l n="39">
       <word n="" form="cnihtwesende," lemma="cnihtwesende" pos="pp" gloss="being a youth"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="cynerica" lemma="cynerice" pos="gpn" gloss="king-realm"/>
-      <word n="" form="mæst." lemma="mæst" pos="adj" feat="superlative" gloss="greatest"/>
+      <word n="" form="mǣst." lemma="mæst" pos="adj" feat="superlative" gloss="greatest"/>
     </l>
     <l n="40">
       <word n="" form="Nænig" lemma="" pos="" gloss="Not any"/>
       <word n="" form="efeneald" lemma="efeneald" pos="adj" gloss="contemporaries"/>
       <word n="" form="him" lemma="" pos="gsn" gloss="of him"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="eorlscipe" lemma="eorlscipe" pos="nsn" gloss="manliness"/>
-      <word n="" form="maran" lemma="" pos="" gloss=""/>
+      <word n="" form="māran" lemma="māra" pos="adj" gloss="more"/>
     </l>
     <l n="41">
       <word n="" form="on" lemma="" pos="" gloss=""/>
       <word n="" form="orette." lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Āne" lemma="āne" pos="isn" gender="n" gloss="one"/>
       <word n="" form="sweorde" lemma="" pos="" gloss=""/>
     </l>
     <l n="42">
-      <word n="" form="merce" lemma="" pos="" gloss=""/>
-      <word n="" form="gemærde" lemma="" pos="" gloss=""/>
-      <ceasura />      22 SZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ="" gloss=""/>
+      <word n="" form="merce" lemma="merc" pos="asn" gender="f" gloss="boundary"/>
+      <word n="" form="gemǣrde" lemma="gemǣran" pos="pret.sv" verb="weak" gloss="defined"/>
+      <caesura/>
+      <word n="" form="wið" lemma="" pos="" gloss=""/>
       <word n="" form="Myrgingum" lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/>
     </l>
-    <l n="43">SSSS Z
+    <l n="43">
       <word n="" form="bī" lemma="bī" pos="prep" with="dative" gloss="by"/>
       <word n="" form="Fifeldore;" lemma="Fīfeldore" pos="dsn" gloss="the Eider estuary"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="heoldon" lemma="healdan" pos="pret.pv" verb="strong" gloss="held"/>
       <word n="" form="forð" lemma="forð" pos="" gloss="thenceforth"/>
       <word n="" form="siþþan" lemma="" pos="" gloss=""/>
@@ -372,7 +373,7 @@
       <word n="" form="Engle" lemma="Engle" pos="asn" gloss="the Angles"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Swæfe," lemma="Swæfe" pos="asn" gloss="the Suebi"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="swa" lemma="" pos="" gloss=""/>
       <word n="" form="hit" lemma="hē" pos="asn" gloss="he"/>
       <word n="" form="Offa" lemma="Offa" pos="asn" gloss="Offa"/>
@@ -382,28 +383,28 @@
       <word n="" form="Hroþwulf" lemma="Hroþwulf" pos="nsn" gloss="Hroþwulf"/><!--Hroþgar's nephew-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Hroðgar" lemma="Hroðgar" pos="nsn" gloss="Hroðgar"/><!--Our old buddy-->
-      <ceasura />
+      <caesura/>
       <word n="" form="heoldon" lemma="healdan" pos="pret.pv" verb="strong" gloss="held"/>
       <word n="" form="lengest" lemma="lengest" pos="adv" feat="superlative" gloss="longest"/>
     </l>
     <l n="46">
       <word n="" form="sibbe" lemma="" pos="" gloss=""/>
       <word n="" form="ætsomne" lemma="ætsomne" pos="adv" gloss="together"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="suhtorfædran," lemma="" pos="" gloss=""/>
     </l>
     <l n="47">
       <word n="" form="siþþan" lemma="" pos="" gloss=""/>
       <word n="" form="hȳ" lemma="hē" pos="ppn" gloss="he"/>
       <word n="" form="forwrǣcon" lemma="forwrecan" pos="pret.pv" verb="strong" gloss="drive off"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="wicinga" lemma="wicingas" pos="gpn" gloss="the Wicing"/>
       <word n="" form="cynn" lemma="cynn" pos="asn" gender="n" gloss="tribe"/>
     </l>
     <l n="48">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Ingeldes" lemma="Ingeld" pos="gsn" gloss="Ingeld"/><!--king of the Heathobards and son of Froda-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ord" lemma="ord" pos="asn" gloss="vanguard"/>
       <word n="" form="forbīgdan," lemma="forbīgan" pos="pret.pv" verb="weak" gloss="humbled"/>
     </l>
@@ -411,7 +412,7 @@
       <word n="" form="forhēowan" lemma="forhēawan" pos="pret.pv" verb="strong" gloss="cut to pieces"/>
       <word n="" form="æt" lemma="æt" pos="prep" with="dative" gloss="at"/>
       <word n="" form="Heorote" lemma="Heorot" pos="dsn" gloss="Heorot"/><!--Heorot of Hroðgar in _Beowulf_.-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Heaðobeardna" lemma="Heaðobeardan" pos="gpn" gloss="Heathobards"/><!--These are the Heathobards of Beowulf. Malone presumes that they were closely related to the Langobards.-->
       <word n="" form="þrym." lemma="" pos="" gloss=""/>
     </l>
@@ -420,7 +421,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="geondferde" lemma="" pos="" gloss=""/>
       <word n="" form="fela," lemma="fela" pos="adj" with="genitive" gloss="many"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="fremdra" lemma="fremde" pos="adj" gloss="foreign"/>
       <word n="" form="londa" lemma="lond" pos="gpn" gloss="lands"/>
     </l>
@@ -428,7 +429,7 @@
       <word n="" form="geond" lemma="geond" pos="prep" with="prep" gloss="throughout"/>
       <word n="" form="ginne" lemma="ginn" pos="adj" gloss="wide"/>
       <word n="" form="grund." lemma="grund" pos="asn" gloss="region"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Gōdes" lemma="gōd" pos="nsn" gloss="good"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="yfles" lemma="" pos="" gloss=""/>
@@ -437,32 +438,32 @@
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="cunnade" lemma="cunnian" pos="pret.psv" verb="weak" gloss="experience"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="cnōsle" lemma="cnōsl" pos="dsn" gender="n" gloss="kindred"/>
       <word n="" form="bidǽled," lemma="bidǽlan" pos="ppv" with="dative" gloss="deprived of"/>
     </l>
     <l n="53">
       <word n="" form="frēomǣgum" lemma="frēomǣgum" pos="dpn" gender="m" gloss="generous kinsmen"/>
       <word n="" form="feor" lemma="feor" pos="adj" gloss="far"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="folgade" lemma="folgian" pos="pret.sv" verb="weak" gloss="served"/>
       <word n="" form="wide." lemma="" pos="" gloss=""/>
     </l>
     <l n="54">
       <word n="" form="Forþon" lemma="forþon" pos="conj" gloss="therefore"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="mæg" lemma="" pos="" gloss=""/>
-      <word n="" form="singan" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <word n="" form="mæg" lemma="magan" pos="psv" gloss="will"/>
+      <word n="" form="singan" lemma="" pos="" gloss="sing"/>
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="secgan" lemma="" pos="" gloss="speak"/>
       <word n="" form="spell," lemma="" pos="asn" gloss=""/>
     </l>
     <l n="55">
-      <word n="" form="mænan" lemma="" pos="" gloss=""/>
+      <word n="" form="mǣnan" lemma="mǣnan" pos="v" verb="weak" gloss="make known"/>
       <word n="" form="fore" lemma="fore" pos="prep" with="dative" gloss="before"/>
-      <word n="" form="mengo" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <word n="" form="mengo" lemma="mengo" pos="dsn" gloss="company"/>
+      <caesura/>
       <word n="" form="in" lemma="in" pos="prep" with="dative" gloss="in"/>
       <word n="" form="meoduhealle" lemma="" pos="" gloss="mead-hall"/>
     </l>
@@ -470,7 +471,7 @@
       <word n="" form="hū" lemma="hū" pos="adv" gloss="how"/>
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="cynegōde" lemma="cynegōd" pos="adj" gloss="well-born"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="cystum" lemma="cyst" pos="ipn" gender="n" gloss="a choice gift"/>
       <word n="" form="dohten." lemma="dugan" pos="pret.subj.pv" gloss="would be generous"/>
     </l>
@@ -479,7 +480,7 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Hunum" lemma="Hunas" pos="dpn" gloss="The Huns"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Hreðgotum," lemma="Hreðgotan" pos="dpn" gloss="Ostrogoths"/>
@@ -490,7 +491,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Geatum" lemma="Gēatas" pos="dpn" gloss="the Geats" /> <!--The Geats are common knowledge-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Suþ-denum." lemma="Suþ-dene" pos="dpn" gloss="the south-Danes"/>
@@ -503,7 +504,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Wærnum" lemma="Wærne" pos="dpn" gloss="the Varni"/><!--The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland.-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="wicingum." lemma="Wicingas" pos="dpn" gloss="the Wicings"/><!--This is a reference to the Heaðobeards.-->
@@ -516,7 +517,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Winedum" lemma="Winedas" pos="dpn" gloss="Winedas"/><!--The Wends, a generic German name for the Slavs.-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Gefflegum." lemma="Gefflēgan" pos="dsn" gloss="The Gefflegans"/><!-- The Aviones of Tacitus but location unknown-->
@@ -529,7 +530,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Swæfum" lemma="Swæfe" pos="dpn" gloss="Swæfe"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Ænēnum." lemma="Ænēnas" pos="dpn" gloss="Ænēnas"/><!-- Anenas, an unidentified tribe, potentially Aunonia of Kossinna argued by Malone pg 127-->
@@ -541,7 +542,7 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Sycgum" lemma="" pos="dpn" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Sweordwerum." lemma="Sweordwere" pos="dpn" gloss="Suardones"/><!--From Tacitus, as Malone so adeptly argues in 202-203.-->
@@ -554,7 +555,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Deanum" lemma="Dēan" pos="dpn" gloss="Deans"/><!-- unknown tribe in the southern Scandinavian peninsula, the Daukiones of Ptolemy (ii.11.16, Malone 135)-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Heaþoreamum." lemma="HeaÞoreamas" pos="dpn" gloss="HeaÞoramas"/>
@@ -564,7 +565,7 @@
       <word n="" form="Þyringum" lemma="Þyringas" pos="dpn" gloss="the Thuringians"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Þrowendum," lemma="Þrowend" pos="dpn" gloss="Þrowend"/><!--The inhabitants of Norway's Trøndelagen, the Þrøndr (Malone 205).-->
@@ -573,7 +574,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Burgendum," lemma="Burgendan" pos="ipn" gloss="the Burgundians"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="bēag" lemma="bēag" pos="asn" gender="m" gloss="necklace"/>
@@ -584,15 +585,15 @@
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="Guðhere" lemma="Guðhere" pos="nsn" gloss="Guðhere"/><!-- King of the Burgundians, Gunter/Gunther of OHG, who was defeated by the Huns in the Nibelungenlied, Þiðrikssaga, and the Volsungasaga.-->
       <word n="" form="forgeaf" lemma="forgiefan" pos="pret.sv" verb="strong" gloss="gave"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="glædlicne" lemma="glædlic" pos="adj" gloss="goodly"/>
-      <word n="" form="maþþum" lemma="" pos="" gloss=""/>
+      <word n="" form="māþþum" lemma="māþþum" pos="asn" gloss="treasure"/>
     </l>
     <l n="67">
       <word n="" form="songes" lemma="" pos="" gloss=""/>
       <word n="" form="to" lemma="" pos="" gloss=""/>
       <word n="" form="lēane." lemma="lēan" pos="dsn" gloss="reward"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Næs" lemma="wesan" feat="neg" pos="psv" gloss="was not"/>
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="sæne" lemma="" pos="" gloss=""/>
@@ -606,7 +607,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Frysum" lemma="Frēsan" pos="dpn" gloss="the Frisians"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Frumtingum." lemma="Frumtingas" pos="dpn" gloss="the Framtings"/><!--The people of King Framta, a faction of the Suevi in Spain. See _Historia Svevorum_(Malone 152)-->
@@ -619,7 +620,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Glommum" lemma="Glomman" pos="dpn" gloss="the Glomman"/><!--A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary.-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Rumwalum." lemma="Rumwalas" pos="dpn" gloss="Rome-foreigners"/><!--Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors ### Check Weiskott-->
@@ -630,22 +631,22 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="on" lemma="" pos="" gloss=""/>
       <word n="" form="Eatule" lemma="Eatul" pos="dsn" gloss="Italy"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Ælfwine," lemma="Ælfwine" pos="dsn" gloss="Ælfwine"/><!--King Alboin of the Langobards, called Elvewine in König Rother(Gillespie 36)-->
     </l>
     <l n="71">
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
       <word n="" form="hæfde" lemma="habban" pos="pret.sv" gloss="had"/>
-      <word n="" form="moncynnes," lemma="" pos="" gloss=""/>
-      <ceasura />
-      <word n="" form="mine" lemma="" pos="" gloss=""/>
+      <word n="" form="moncynnes," lemma="moncynn" pos="gsn" gloss="mankind"/>
+      <caesura/>
+      <word n="" form="mīne" lemma="mīn" pos="adj" gloss="my"/>
       <word n="" form="gefrǣge," lemma="gefrǣge" pos="isn" gloss="information (got by inquiry)."/>
     </l>
     <l n="72">
       <word n="" form="lēohteste" lemma="lēoht" pos="adj" feat="superlative" gloss="lightest"/>
       <word n="" form="hond" lemma="hond" pos="asn" gloss="hand"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="lofes" lemma="lof" pos="gsn" gloss="praise"/>
       <word n="" form="to" lemma="" pos="" gloss=""/>
       <word n="" form="wyrcenne," lemma="" pos="" gloss=""/>
@@ -653,14 +654,14 @@
     <l n="73">
       <word n="" form="heortan" lemma="heorte" pos="asn" gloss="heart"/>
       <word n="" form="unhneaweste" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="hringa" lemma="hring" pos="gpn" gloss="rings"/>
       <word n="" form="gedāles," lemma="gedāl" pos="gsn" gloss="distributed"/>
     </l>
     <l n="74">
       <word n="" form="beorhtra" lemma="beorht" pos="gpadj" gender="m" gloss="bright"/>
       <word n="" form="bēaga," lemma="bēag" pos="gpn" gender="m" gloss="treasures"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="bearn" lemma="bearn" pos="nsn" gloss="child"/>
       <word n="" form="Eadwines." lemma="Eadwine" pos="asn" gloss="of Edwin"/><!-- King of the Langobards, Audoin-->
     </l>
@@ -669,7 +670,7 @@
       <word n="" form="Sercingum" lemma="Sercingas" pos="dpn" gloss="the Sercings"/><!--Perhaps Tacitus's Siraci, a Black Sea tribe, or perhaps the Serica of the ancients (Sedgefield 1922, 136), though Malone notes this would then connect them with the Serkland and Serkir in the same line (197).-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Seringum;" lemma="Seringas" pos="dpn" gloss="the Serae"/><!--The Serae of the ancients,-->
@@ -682,7 +683,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Finnum" lemma="Finnas" pos="ipn" gloss="the Finns"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Casere," lemma="Casere" pos="dsn" gloss="Caesar"/><!-- Malone argues on pg 135 for an Eastern Roman emperor here, possibly Justinian-->
@@ -691,7 +692,7 @@
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="winburga" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="geweald" lemma="geweald" pos="asn" gloss="authority"/>
       <word n="" form="āhte," lemma="āgan" pos="pret.sv" verb="strong" gloss="possesed"/>
     </l>
@@ -699,7 +700,7 @@
       <word n="" form="wiolena" lemma="" pos="" gloss=""/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="wilna," lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Wala" lemma="Walas" pos="gpn" gloss="Romans"/><!--A generic word meaning "foreigners" but usually referring to Romans. This name was later to be come the appelation given to the land of "Wales" or of "foreigners"-->
       <word n="" form="rices." lemma="" pos="" gloss=""/>
@@ -712,7 +713,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Peohtum" lemma="Peohtas" pos="dpn" gloss="the Picts"/><!--###-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Scridefinnum;" lemma="Scridefinnas" pos="dpn" gloss="The Lapps"/><!--The Lapps of arctic Norway, Scride- (skis) exists to differentiate them from the Finns proper.-->
@@ -725,7 +726,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Leonum" lemma="Leonas" pos="dpn" gloss="the Leonas"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Longbeardum," lemma="Longbeardum" pos="dpn" gloss="The Langobards"/>
@@ -736,7 +737,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="hæleþum" lemma="hæleþ" pos="dpn" gloss="heroes"/><!-- WOW this is interesting. I had interpreted this on my read-through as "heroes" but Malone and some other writers identify this with the inhabitants ot the Hala heret in _Jordebog_ of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as _Hæreþum_, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn "hæleþ" or hero, which I am adopting for the time being. I will copy this note into my log.-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Hundingum." lemma="Hundingas" pos="dpn" gloss="the Hundings"/>
@@ -746,7 +747,7 @@
       <word n="" form="Israhelum" lemma="Israhelas" pos="dpn" gloss="the Israelites"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Exsyringum," lemma="Exsyringas" pos="dpn" gloss="the Assyrians"/>
@@ -757,7 +758,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Indeum" lemma="Indeas" pos="dpn" gloss="THe Hindus"/><!--Inhabitants of India-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Egyptum." lemma="Egypte" pos="dpn" gloss="the Egyptians"/>
@@ -770,7 +771,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Persum" lemma="Perse" pos="dpn" gloss="the Perse"/><!-- because of the exotic peoples listed in the previous sentence, these often get translated to the Medes and the Persians; however, Malone points out that in this couplet, they are actually paired with Scandinavian and Germanic tribes. Because of this, the identity of the Perse is unknown. -->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Myrgingum," lemma="Myrgingas" pos="dpn" gloss="the Myrgings"/><!-- Widsith himself was a Myrging -->
@@ -778,7 +779,7 @@
     <l n="85">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Mofdingum" lemma="Mofdingas" pos="dpn" gloss="Mofdings"/><!--Malone changes this to the "Ofdingas" for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument (pg2 186-187).-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Ongendmyrgingum" lemma="Ongendmyrgingas" pos="dpn" gloss="the Ongendmyrgings"/><!--Malone has this combined with the previous word to form the Ongendmyrgingum but neither Chambers nor the ASPR does this. If it were correct, it might be identical to the later Wiþmyrgingas in 116. Malone takes his cue from Rieger and Langenfelt in following the structure of "Ongendþeow" and placing the Ongend as a prefix of the word. Because of the presence of the "regular" Myrgings in this same stanza, I have opted for Malone's reading.-->
     </l>
@@ -786,7 +787,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Amothingum." lemma="Amoþingas" pos="dpn" gloss="Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the _Ynglingasaga_ by Snorri"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Eastþyringum" lemma="Eastþringas" pos="dpn" gloss="Thuringians"/><!-- Still the best sausages in Germany-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
@@ -799,7 +800,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Istum" lemma="Iste" pos="dpn" gloss="the Austrogoths"/><!-- A specific tribe of the Ostrogoths-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Idumingum." lemma="Idumingas" pos="dpn" gloss="Idumings"/><!-- Ydumaci of Henricus Lettus, a Livonian tribe.-->
     </l>
@@ -809,7 +810,7 @@
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
       <word n="" form="Eormanrice" lemma="Eormanrīc" pos="dsn" gloss="Ermanric"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ealle" lemma="eal" pos="asn" gender="f" gloss="all"/>
       <word n="" form="þrage," lemma="" pos="" gloss=""/>
     </l>
@@ -818,7 +819,7 @@
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="Gotena" lemma="Gotan" pos="gpn" gloss="the Goths"/>
       <word n="" form="cyning" lemma="cyning" pos="nsn" gender="m" gloss="king"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="gōde" lemma="gōd" pos="isn" gloss="good"/>
       <word n="" form="dohte;" lemma="dugan" pos="pret.sv" gloss="was generous"/>
     </l>
@@ -827,7 +828,7 @@
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="beag" lemma="" pos="" gloss=""/>
       <word n="" form="forgeaf" lemma="forgiefan" pos="pret.sv" verb="strong" gloss="gave"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="burgwarena" lemma="burgwaran" pos="gpn" gender="m" gloss="townspeople"/>
       <word n="" form="fruma," lemma="fruma" pos="n" gender="m" gloss="first among"/>
     </l>
@@ -837,29 +838,29 @@
       <word n="" form="siex" lemma="siex" pos="num" gloss="six"/>
       <word n="" form="hund" lemma="hund" pos="num" gloss="hundred"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="smætes" lemma="" pos="" gloss=""/>
       <word n="" form="goldes," lemma="gold" pos="gsn" gender="n" gloss="gold"/>
     </l>
     <l n="92">
       <word n="" form="gescyred" lemma="gescyrian" pos="ppv" verb="weak" gloss=""/>
       <word n="" form="sceatta" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="scillingrime;" lemma="" pos="" gloss=""/>
     </l>
     <l n="93">
       <word n="" form="þone" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="Eadgilse" lemma="Eadgils" pos="dsn" gloss="Eadgils"/><!-- King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139-->
-      <ceasura />
+      <caesura/>
       <word n="" form="on" lemma="" pos="" gloss=""/>
-      <word n="" form="æht" lemma="" pos="" gloss=""/>
       <word n="" form="sealde," lemma="" pos="" gloss=""/>
+      <word n="" form="ǣht" lemma="ǣht" pos="asn" gloss="possession"/>
     </l>
     <l n="94">
-      <word n="" form="minum" lemma="" pos="" gloss=""/>
+      <word n="" form="mīnum" lemma="mīn" pos="adj" gloss="my"/>
       <word n="" form="hlēodryhtne," lemma="hlēodryhten" pos="dsn" gloss="lord protector"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="to" lemma="to" pos="" gloss="to"/>
@@ -870,7 +871,7 @@
       <word n="" form="lēofum" lemma="lēof" pos="adj" gloss="dear"/>
       <word n="" form="to" lemma="" pos="" gloss=""/>
       <word n="" form="lēane," lemma="lēan" pos="dsn" gloss="reward"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þæs" lemma="" pos="" gloss=""/>
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="hē" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
@@ -879,10 +880,10 @@
       <word n="" form="forgeaf" lemma="forgiefan" pos="pret.sv" verb="strong" gloss="gave up"/>
     </l>
     <l n="96">
-      <word n="" form="mines" lemma="" pos="" gloss="my"/>
+      <word n="" form="mīnes" lemma="mīn" pos="adj" gloss="my"/>
       <word n="" form="fæder" lemma="fæder" pos="gsn" gloss="father's"/>
       <word n="" form="ēþel," lemma="ēþel" pos="asn" gloss="inherited land"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="frēa" lemma="frēa" pos="n" gloss="king"/>
       <word n="" form="Myrginga." lemma="Myrgingas" pos="gpn" gloss="of the Myrgings"/>
     </l>
@@ -891,14 +892,14 @@
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="Ealhhild" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="oþerne" lemma="" pos="" gloss=""/>
       <word n="" form="forgeaf" lemma="forgiefan" pos="pret.sv" verb="strong" gloss="gave"/>
     </l>
     <l n="98">
       <word n="" form="dryhtcwēn" lemma="dryhtcwēn" pos="n" gloss="queen of the army"/>
       <word n="" form="duguþe," lemma="duguþ" pos="gsn" gloss="a body of royal fighting men"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="dohtor" lemma="dohtor" pos="n" gender="f" gloss="daughter"/>
       <word n="" form="Eadwines." lemma="Eadwine" pos="gsn" gloss="of Edwin"/><!-- The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish ging (Malone 140) -->
     </l>
@@ -906,7 +907,7 @@
       <word n="" form="Hyre" lemma="hē" pos="gsn" gender="f" gloss="her"/>
       <word n="" form="lof" lemma="lof" pos="asn" gloss="praise"/>
       <word n="" form="lengde" lemma="lengan" pos="pret.sv" verb="weak" gloss="stretched"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="geond" lemma="geond" pos="prep" with="prep" gloss="throughout"/>
       <word n="" form="londa" lemma="lond" pos="gpn" gloss="lands"/>
       <word n="" form="fela," lemma="fela" pos="adj" with="genitive" gloss="many"/>
@@ -916,7 +917,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="be" lemma="bī" pos="prep" with="dative" gloss="with"/>
       <word n="" form="songe" lemma="" pos="dsn" gloss="song"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="secgan" lemma="" pos="" gloss="say"/>
       <word n="" form="sceolde" lemma="" pos="" gloss="must"/>
     </l>
@@ -925,14 +926,14 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="under" lemma="" pos="" gloss=""/>
       <word n="" form="swegle" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="selast" lemma="" pos="" gloss=""/>
       <word n="" form="wisse" lemma="" pos="" gloss=""/>
     </l>
     <l n="102">
       <word n="" form="goldhrodene" lemma="goldhroden" pos="adj" gloss="gold-adorned"/>
       <word n="" form="cwēn" lemma="cwēn" pos="asn" gloss="queen"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="giefe" lemma="giefu" pos="apn" gloss="gifts"/>
       <word n="" form="bryttian." lemma="bryttian" pos="v" verb="weak" gloss="distribute"/>
     </l>
@@ -940,7 +941,7 @@
       <word n="" form="Ðonne" lemma="" pos="" gloss=""/>
       <word n="" form="wit" lemma="" pos="" gloss=""/>
       <word n="" form="Scilling" lemma="Scilling" pos="nsn" gloss="Scilling"/><!--A scop who sang with Widsith on at least one occasion, Malone compares this to rune-singers in Finnish tradition (194).-->
-      <ceasura />
+      <caesura/>
       <word n="" form="sciran" lemma="" pos="" gloss=""/>
       <word n="" form="reorde" lemma="" pos="" gloss=""/>
     </l>
@@ -948,7 +949,7 @@
       <word n="" form="for" lemma="for" pos="prep" with="dative" gloss="before"/>
       <word n="" form="uncrum" lemma="" pos="" gloss=""/>
       <word n="" form="sigedryhtne" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="song" lemma="" pos="" gloss=""/>
       <word n="" form="āhofan," lemma="āhebban" pos="pret.pv" verb="strong" gloss="raised"/>
     </l>
@@ -956,22 +957,22 @@
       <word n="" form="hlude" lemma="hlude" pos="adv" gloss="loudly"/>
       <word n="" form="bī" lemma="bī" pos="prep" with="dative" gloss="with"/>
       <word n="" form="hearpan" lemma="hearpe" pos="dsn" gender="f" gloss="harp"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="hlēoþor" lemma="hlēoþor" pos="n" gender="n" gloss="song"/>
       <word n="" form="swinsade," lemma="" pos="" gloss=""/>
     </l>
     <l n="106">
       <word n="" form="þonne" lemma="" pos="" gloss=""/>
-      <word n="" form="monige" lemma="" pos="" gloss=""/>
-      <word n="" form="men," lemma="" pos="" gloss=""/>
-      <ceasura />
-      <word n="" form="modum" lemma="" pos="" gloss=""/>
+      <word n="" form="monige" lemma="monig" pos="adj" gloss="many"/>
+      <word n="" form="men," lemma="monn" pos="npn" gloss="men"/>
+      <caesura/>
+      <word n="" form="mōdum" lemma="mōd" pos="ipn" gloss="spirits"/>
       <word n="" form="wlonce," lemma="" pos="adj" gloss="beautiful"/>
     </l>
     <l n="107">
       <word n="" form="wordum" lemma="" pos="" gloss="words"/>
       <word n="" form="sprecan," lemma="" pos="" gloss="spoke"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="wel" lemma="" pos="" gloss=""/>
@@ -982,7 +983,7 @@
       <word n="" form="hī" lemma="hē" pos="npn" gloss="he"/>
       <word n="" form="nǣfre" lemma="nǣfre" pos="adv" gloss="never"/>
       <word n="" form="song" lemma="" pos="" gloss="a song"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="sellan" lemma="" pos="" gloss="better"/>
       <word n="" form="ne" lemma="ne" pos="negative" gloss="not"/>
       <word n="" form="hȳrdon." lemma="hȳran" pos="pret.pv" verb="weak" gloss="heard"/>
@@ -992,7 +993,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ealne" lemma="eal" pos="asadj" gloss="all"/>
       <word n="" form="geondhwearf" lemma="geondhweorfan" pos="pret.sv" verb="strong" gloss="traverse"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ēþel" lemma="ēþel" pos="asn" gloss="fatherland"/>
       <word n="" form="Gotena," lemma="Gotan" pos="gsn" gloss="of the Ostrogoths"/>
     </l>
@@ -1001,7 +1002,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       
       <word n="" form="gesīþa" lemma="gesīþ" pos="apn" gloss="battle comrades"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þa" lemma="" pos="" gloss="the"/>
       <word n="" form="selestan;" lemma="" pos="" gloss="best"/>
     </l>
@@ -1009,7 +1010,7 @@
       <word n="" form="þæt" lemma="" pos="" gloss="that"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="were"/>
       <word n="" form="innweorud" lemma="innweorud" pos="n" gloss="native peoples"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Earmanrices." lemma="Eormanrīc" pos="dsn" gloss="Ermanric"/>
     </l>
     <l n="112">
@@ -1018,7 +1019,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Beadecan" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Herelingas," lemma="Herelingas" pos="apn" gloss="Herelingas"/><!-- The folloers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).-->
     </l>
@@ -1028,7 +1029,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Fridlan" lemma="Fridla" pos="asn" gloss="Fridla"/><!-- Gothic king Fridigernus-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Eastgotan," lemma="Eastgota" pos="asn" gloss="Ostrogotha"/><!-- Early king of the Ostrogoths, contemporary of Roman Emperor Philip (244-9) (Malone 142)-->
     </l>
@@ -1036,7 +1037,7 @@
       <word n="" form="frōdne" lemma="frōd" pos="adj" gloss="wise"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="gōdne" lemma="gōd" pos="adj" gloss="good"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="fæder" lemma="fæder" pos="asn" gloss="father"/>
       <word n="" form="Unwenes." lemma="Unwen" pos="gsm" gloss="of Unwen"/><!--Son of Eastgota l 113, meaning "unexpected one"-->
     </l>
@@ -1046,7 +1047,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Beccan," lemma="Becca" pos="asn" gloss="Becca"/><!--Berchtung of the Wolfdietrich story, occaisionally also indentified with the evil Bikki but this Becca is clearly in the wrong company to be associated wtih that story-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Seafolan" lemma="Seafola" pos="asn" gloss="Seafola"/><!--A legendary traitorous retainer from the Wolfdietrich tale, according to Malone 194-195. Chambers instead has this as Sabene of Rabene in the Dietrich von Berne story (see Gillespie 28).-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="þeodric," lemma="þeodric" pos="asn" gloss="Theodric"/><!--This Theodric is not the same as the one above according to Chambers (See Malone 204). Chambers associates this Theodric as Dietrich von Bern, which would make Seafola above Sabene von Rabene. Malone considers this impossible based on Jiriczek's paper (1920 in _Englische Studien_) in which Seafola is identified as the Wolfdietrich villain.-->
@@ -1055,7 +1056,7 @@
       <word n="" form="Heaþoric" lemma="Heaþoric" pos="asn" gloss="Heathoric"/><!-- Malone  states that this is the Heiðrekr of the _Harvararsaga_, and while the phonology does not precisely align, the three remaining names in this line are all from _Hervararsaga_. He also draws a connection between this Heaþoric and the Hæðcyn of _Beowulf_.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Sifecan," lemma="Sifeca" pos="asn" gloss="Sifeca"/><!--An evil counselor of unknown origin but with lots of speculation (Malone 199).-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Hliþe" lemma="Hlīþe" pos="asn" gloss="Lotherus"/><!-- Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Incgenþeow." lemma="Incgenþeow" pos="asn" gloss="Incgenþeow"/><!--Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf.-->
@@ -1066,7 +1067,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Elsan," lemma="Elsa" pos="asn" gloss="Elsa"/><!-- based on context, ought to be a Langobardish hero, but otherwise unknown-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Ægelmund" lemma="Ægelmund" pos="asn" gloss="Agelmund"/><!--first king of the Langobards-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Hungar," lemma="Hungar" pos="asn" gloss="Hungar"/><!--Second king of the Langobards, also called Lamissio by Paulus Diaconus.-->
@@ -1076,7 +1077,7 @@
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="wloncan" lemma="" pos="" gloss=""/>
       <word n="" form="gedryht" lemma="gedryht" pos="asn" gloss="company"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Wiþmyrginga." lemma="Wiþmyrgingas" pos="gpn" gloss="the Wiþmyrgings"/><!--### need to check Chambers 123, 215, 221, but Malone (211) has these as the Myrgings who dwell in the valley of the With (Vid) river, and perhaps identical to the Ongendmyrgings.-->
     </l>
     <l n="119">
@@ -1085,33 +1086,33 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Wyrmhere;" lemma="Wyrmhere" pos="asn" gloss="Wyrmhere"/><!--The Ormarr of the _Hervararsaga_, also the Olimarus of Saxo's 5th book. One of two princes of the Hræde who let their people in a war against the Huns (Malone 214).-->
-      <ceasura />
+      <caesura/>
       <word n="" form="ful" lemma="ful" pos="adv" gloss="very"/>
       <word n="" form="oft" lemma="oft" pos="adv" gloss="often"/>
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="wig" lemma="" pos="" gloss=""/>
-      <word n="" form="ne" lemma="" pos="" gloss=""/>
+      <word n="" form="ne" lemma="ne" pos="negative" gloss="not"/>
       <word n="" form="ālæg," lemma="ālicgan" pos="pret.sv" verb="strong" gloss="rest"/>
     </l>
     <l n="120">
       <word n="" form="þonne" lemma="" pos="" gloss=""/>
       <word n="" form="Hræda" lemma="Hræde" pos="gsn" gloss="Hræde"/>
       <word n="" form="here" lemma="here" pos="nsn" gloss="army"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="heardum" lemma="heard" pos="adj" gloss="hard"/>
       <word n="" form="sweordum" lemma="" pos="" gloss=""/>
     </l>
     <l n="121">
       <word n="" form="ymb" lemma="" pos="" gloss=""/>
       <word n="" form="Wistlawudu" lemma="Wistlawudu" pos="gpn" gloss="The Wistle wood"/><!-- The forest of the Vistula goths-->
-      <ceasura />
+      <caesura/>
       <word n="" form="wergan" lemma="" pos="" gloss=""/>
       <word n="" form="sceoldon" lemma="" pos="" gloss=""/>
     </l>
     <l n="122">
       <word n="" form="ealdne" lemma="eal" pos="adj" gender="m" gloss="old"/>
       <word n="" form="ēþelstōl" lemma="ēþelstōl" pos="asn" gloss="ancestral land"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Ætlan" lemma="Ætla" pos="gsn" gloss="Atilla's"/>
       <word n="" form="lēodum." lemma="lēod" pos="dpn" gloss="people"/>
     </l>
@@ -1121,7 +1122,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Rondhere," lemma="Rondhere" pos="asn" gloss="Rondhere"/><!--unknown hero whose name means shield-army, or less literally, "protector".-->
-      <ceasura />
+      <caesura/>
       <word n="" form="Rumstan" lemma="Rumstan" pos="asn" gloss="Rumstan"/> <!-- often connected with the Germanic hero Rimstien, but Widsith seems to associate him with Gislhere of the Burgundians and the German hero is a Goth. Malone (192) supposes the hero was forgotten and then his name reborrowed as the Gothic legend cycle grew.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Gislhere," lemma="Gislhere" pos="asn" gloss="Gislaharius"/><!-- King of the Burgundians, who Malone speculates would have been an ancestor of the more famous Guðhere-->
@@ -1130,17 +1131,17 @@
       <word n="" form="Wiþergield" lemma="Wiþergield" pos="asn" gloss="Wiþergield"/><!--The Wiðergyld of Beowulf 2051, a Heathobeard.-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Freoþeric," lemma="Freoþerīc" pos="asn" gloss="Freoþeric"/><!--unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). -->
-      <ceasura />
+      <caesura/>
       <word n="" form="Wudgan" lemma="Wudga" pos="asn" gloss="Wudga"/><!--THe hero Widia from _Waldere_ and the Viðga of _Þiðrrikssaga_-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Haman;" lemma="Hama" pos="asn" gloss="Hama"/>
     </l>
     <l n="125">
-      <word n="" form="ne" lemma="" pos="" gloss=""/>
+      <word n="" form="ne" lemma="ne" pos="negative" gloss="not"/>
       <word n="" form="wæran" lemma="wesan" pos="ppv" gloss="were"/>
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="gesīþa" lemma="gesīþ" pos="gpn" gloss="comrades in arms"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þa" lemma="" pos="" gloss=""/>
       <word n="" form="sæmestan," lemma="" pos="" gloss=""/>
     </l>
@@ -1150,8 +1151,8 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="hȳ" lemma="hē" pos="apn" gloss="he"/>
       <word n="" form="ánihst" lemma="á-nihst" pos="adv" gloss="at the last"/>
-      <ceasura />
-      <word n="" form="nemnan" lemma="" pos="" gloss=""/>
+      <caesura/>
+      <word n="" form="nemnan" lemma="nemnan" pos="v" verb="weak" gloss="name"/>
       <word n="" form="sceolde." lemma="" pos="" gloss=""/>
     </l>
     <l n="127">
@@ -1160,14 +1161,14 @@
       <word n="" form="of" lemma="" pos="" gloss=""/>
       <word n="" form="þam" lemma="" pos="" gloss=""/>
       <word n="" form="hēape" lemma="hēap" pos="dsn" gloss="company"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="hwīnende" lemma="hwīnan" pos="ppv" very="strong" gloss="whining"/>
       <word n="" form="fleag" lemma="flēogan" pos="pret.sv" verb="strong" gloss="fly"/>
     </l>
     <l n="128">
       <word n="" form="giellende" lemma="giellan" pos="verb" verb="strong" gloss="yelling"/>
       <word n="" form="gar" lemma="gar" pos="n" gloss="spear"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="on" lemma="" pos="" gloss=""/>
       <word n="" form="grome" lemma="" pos="" gloss=""/>
       <word n="" form="þeode;" lemma="" pos="" gloss=""/>
@@ -1176,7 +1177,7 @@
       <word n="" form="wræccan" lemma="" pos="" gloss=""/>
       <word n="" form="þær" lemma="" pos="" gloss=""/>
       <word n="" form="weold" lemma="wealdan" pos="ppv" feat="with instrumental" gloss="ruled"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="wundnan" lemma="" pos="" gloss=""/>
       <word n="" form="golde" lemma="gold" pos="isn" gloss="gold"/>
     </l>
@@ -1184,7 +1185,7 @@
       <word n="" form="werum" lemma="" pos="" gloss=""/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="wifum," lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="Wudga" lemma="Wudga" pos="nsn" gloss="Wudga"/><!--See line 124-->
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Hama." lemma="Hama" pos="nsn" gloss="Hama"/><!-- The Heime of German lore, an exile who has carved out a kingdom for himself and is paired in this poem with Wudga. Malone states that the poet clearly thought of them as joint rulers of a single kingdom, though Chambers argues they were outlaws a la Robin Hood (pg 159-160). This is the Hama of Beowulf who carried off the bright necklace of the Brosings.-->
@@ -1195,7 +1196,7 @@
       <word n="" form="þæt" lemma="" pos="" gloss=""/>
       <word n="" form="symle" lemma="" pos="" gloss=""/>
       <word n="" form="onfond" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="on" lemma="" pos="" gloss=""/>
       <word n="" form="þære" lemma="" pos="" gloss=""/>
       <word n="" form="fēringe," lemma="fēring" pos="dsn" gloss="journeying"/>
@@ -1205,7 +1206,7 @@
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
       <word n="" form="biþ" lemma="bēon" pos="pres.v" verb="anomalous" gloss="be"/>
       <word n="" form="lēofast" lemma="lēof" pos="adv" feat="superlative" gloss="dearest"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="londbūendum" lemma="londbūend" pos="dpn" gender="m" gloss="subjects"/>
     </l>
     <l n="133">
@@ -1214,14 +1215,14 @@
       <word n="" form="him" lemma="hē" pos="dsn" gloss="him"/>
       <word n="" form="God" lemma="God" pos="n" gloss="God"/>
       <word n="" form="syleð" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="gumena" lemma="guma" pos="gpn" gloss="men"/>
       <word n="" form="rice" lemma="" pos="" gloss=""/>
     </l>
     <l n="134">
       <word n="" form="to" lemma="" pos="" gloss=""/>
       <word n="" form="gehealdenne," lemma="gehealdan" pos="gerund" gloss="holding"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þenden" lemma="" pos="" gloss=""/>
       <word n="" form="hē" lemma="hē" pos="nsppn" gender="m" gloss="he"/>
       <word n="" form="hēr" lemma="hēr" pos="nsn" gloss="here"/>
@@ -1230,14 +1231,14 @@
     <l n="135">
       <word n="" form="Swa" lemma="" pos="" gloss=""/>
       <word n="" form="scriþende" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="gesceapum" lemma="gesceap" pos="ipn" gender="n" gloss="fate"/>
       <word n="" form="hweorfað" lemma="hweorfan" pos="ppv" verb="strong" gloss="roved"/>
     </l>
     <l n="136">
       <word n="" form="glēomen" lemma="glēomonn" pos="npm" gender="m" gloss="glee-man, minstrel"/>
       <word n="" form="gumena" lemma="guma" pos="gpn" gloss="men"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="geond" lemma="geond" pos="prep" with="prep" gloss="throughout"/>
       <word n="" form="grunda" lemma="grund" pos="gpn" gloss="region"/>
       <word n="" form="fela," lemma="fela" pos="adj" with="genitive" gloss="many"/>
@@ -1245,7 +1246,7 @@
     <l n="137">
       <word n="" form="þearfe" lemma="" pos="" gloss=""/>
       <word n="" form="secgað," lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="þoncword" lemma="" pos="" gloss=""/>
       <word n="" form="sprecaþ," lemma="" pos="" gloss=""/>
     </l>
@@ -1253,15 +1254,15 @@
       <word n="" form="simle" lemma="" pos="" gloss=""/>
       <word n="" form="suð" lemma="" pos="" gloss=""/>
       <word n="" form="oþþe" lemma="" pos="" gloss=""/>
-      <word n="" form="norð" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <word n="" form="norð" lemma="norþ" pos="adv" gloss="north"/>
+      <caesura/>
       <word n="" form="sumne" lemma="" pos="" gloss=""/>
       <word n="" form="gemētað" lemma="gemētan" pos="v" verb="weak" gloss="met"/>
     </l>
     <l n="139">
       <word n="" form="gydda" lemma="gydd" pos="gpn" gender="n" gloss="poem"/>
       <word n="" form="glēawne," lemma="glēaw" pos="adj" with="genitive" gloss="appreciative"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="geofum" lemma="giefu" pos="ipn" gloss="gifts"/>
       <word n="" form="unhneawne," lemma="" pos="" gloss=""/>
     </l>
@@ -1271,14 +1272,14 @@
       <word n="" form="fore" lemma="fore" pos="prep" with="dative" gloss="before"/>
       <word n="" form="duguþe" lemma="" pos="" gloss=""/>
       <word n="" form="wile" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="dōm" lemma="dōm" pos="asn" gloss="reputation"/>
       <word n="" form="ārǽran," lemma="ārǽran" pos="v" verb="weak" gloss="to heighten"/>
     </l>
     <l n="141">
       <word n="" form="eorlscipe" lemma="" pos="" gloss=""/>
-      <word n="" form="æfnan," lemma="" pos="" gloss=""/>
-      <ceasura />
+      <word n="" form="æfnan," lemma="æfnan" pos="v" gloss="practice"/>
+      <caesura/>
       <word n="" form="oþþæt" lemma="" pos="" gloss=""/>
       <word n="" form="eal" lemma="eal" pos="adj" gloss="all"/>
       <word n="" form="scæceð," lemma="" pos="" gloss=""/>
@@ -1288,7 +1289,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="līf" lemma="līf" pos="nsn" gloss="life"/>
       <word n="" form="somod;" lemma="" pos="" gloss=""/>
-      <ceasura />
+      <caesura/>
       <word n="" form="lof" lemma="lof" pos="asn" gloss="praise"/>
       <word n="" form="se" lemma="se" pos="dem.pn" gloss="that"/>
       <word n="" form="gewyrceð," lemma="gewyrcan" pos="v" verb="weak" gloss="works"/>
@@ -1297,7 +1298,7 @@
       <word n="" form="hafað" lemma="habban" pos="psv" gloss="has"/>
       <word n="" form="under" lemma="under" pos="" gloss="under"/>
       <word n="" form="heofonum" lemma="heofon" pos="dpn" gloss="the heavens"/>
-      <ceasura />
+      <caesura/>
       <word n="" form="hēahfæstne" lemma="hēahfæst" pos="adj" gloss="lasting"/>
       <word n="" form="dōm." lemma="dōm" pos="asn" gloss="glory"/>
     </l>
