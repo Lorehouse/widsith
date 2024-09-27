@@ -276,7 +276,7 @@
       <word n="" form="Ongendþeow," lemma="nsn" pos="Ongendþeow" gloss="Ongenþeow"/><!-- A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to "phallus", associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.-->
     </l>
     <l n="32">
-      <word n="" form="Sceafthere" lemma="Sceafthere" pos="" gloss="Sceafthere"/><!--unknown king but his name means "spear-army (compare with Rondhere, "shield-army).-->
+      <word n="" form="Sceafthere" lemma="Sceafthere" pos="nsn" gloss="Sceafthere"/><!--unknown king but his name means "spear-army (compare with Rondhere, "shield-army).-->
       <word n="" form="Ymbrum," lemma="Yumbran" pos="dpn" gloss="the Ymbran"/> <!--An unknown tribe-->
       <caesura/>
       <word n="" form="Sceafa" lemma="Sceafa" pos="nsn" gloss="Sheaf"/><!--A king of the Langobards but Price 1826 identified him as the mythical "Scef", father of the equally mythical "Scyld Scefing". Malone rejects this association because Scyld was, of course, mythical.-->
@@ -366,7 +366,7 @@
       <word n="" form="Fifeldore;" lemma="Fīfeldore" pos="dsn" gloss="the Eider estuary"/>
       <caesura/>
       <word n="" form="heoldon" lemma="healdan" pos="pret.pv" verb="strong" gloss="held"/>
-      <word n="" form="forð" lemma="forð" pos="" gloss="thenceforth"/>
+      <word n="" form="forð" lemma="forð" pos="adv" gloss="thenceforth"/>
       <word n="" form="sīþþan" lemma="sīþþan" pos="adv" gloss="afterwards"/>
     </l>
     <l n="44">
@@ -541,7 +541,7 @@
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Sycgum" lemma="Sycga" pos="dpn" gloss=""/>
+      <word n="" form="Sycgum" lemma="Sycga" pos="dpn" gloss="the Sycgans"/>
       <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
@@ -863,7 +863,7 @@
       <caesura/>
       <word n="" form="þa" lemma="þā" pos="conj" gloss="when"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
-      <word n="" form="to" lemma="to" pos="" gloss="to"/>
+      <word n="" form="to" lemma="to" pos="prep" gloss="to"/>
       <word n="" form="ham" lemma="ham" pos="asn" gloss="home"/>
       <word n="" form="bicwom," lemma="bicuman" pos="pret.sv" verb="strong" gloss="came"/>
     </l>
@@ -891,7 +891,7 @@
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="me" lemma="me" pos="dsppn" gloss="me"/>
       <word n="" form="þā" lemma="þā" pos="adv" gloss="then"/>
-      <word n="" form="Ealhhild" lemma="Ealhhild" pos="nsn" gloss=""/><!--Eadwine's daughter-->
+      <word n="" form="Ealhhild" lemma="Ealhhild" pos="nsn" gloss="Ealhhild"/><!--Eadwine's daughter-->
       <caesura/>
       <word n="" form="ōþerne" lemma="ōþer" pos="num" gloss="second"/>
       <word n="" form="forgeaf" lemma="forgiefan" pos="pret.sv" verb="strong" gloss="gave"/>
@@ -943,7 +943,7 @@
       <word n="" form="Scilling" lemma="Scilling" pos="nsn" gloss="Scilling"/><!--A scop who sang with Widsith on at least one occasion, Malone compares this to rune-singers in Finnish tradition (194).-->
       <caesura/>
       <word n="" form="scīran" lemma="scīr" pos="adj" gloss="clear"/>
-      <word n="" form="reorde" lemma="reord" pos="gsn" gender="f" gloss=""/>
+      <word n="" form="reorde" lemma="reord" pos="gsn" gender="f" gloss="voice"/>
     </l>
     <l n="104">
       <word n="" form="for" lemma="for" pos="prep" with="dative" gloss="before"/>
@@ -1146,7 +1146,7 @@
       <word n="" form="sǣmestan," lemma="sǣmest" pos="adj" feat="superlative" gloss="worst"/>
     </l>
     <l n="126">
-      <word n="" form="þēah" lemma="þēah" pos="" gloss="although"/>
+      <word n="" form="þēah" lemma="þēah" pos="conj" gloss="although"/>
       <word n="" form="þe" lemma="þe" pos="in" gloss="who"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="hȳ" lemma="hē" pos="apn" gloss="he"/>
@@ -1296,7 +1296,7 @@
     </l>
     <l n="143">
       <word n="" form="hafað" lemma="habban" pos="psv" gloss="has"/>
-      <word n="" form="under" lemma="under" pos="" gloss="under"/>
+      <word n="" form="under" lemma="under" pos="prep" with="dative" gloss="under"/>
       <word n="" form="heofonum" lemma="heofon" pos="dpn" gloss="the heavens"/>
       <caesura/>
       <word n="" form="hēahfæstne" lemma="hēahfæst" pos="adj" gloss="lasting"/>
