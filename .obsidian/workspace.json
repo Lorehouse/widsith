@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61b738be44750f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Translation One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4add13b4bca17155",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niles_oe-heroic-poems-book.md",
+                "file": "Translation One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niles_oe-heroic-poems-book.md",
+                "file": "Translation One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niles_oe-heroic-poems-book.md"
+                "file": "Translation One.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21c5b4322d17da10",
+  "active": "61b738be44750f0e",
   "lastOpenFiles": [
-    "literature.md",
     "niles_oe-heroic-poems-book.md",
+    "Translation One.md",
+    "literature.md",
     "howe_cultural-construction-of-reading.md",
     "weiskott_meter-of-widsith.md",
     "niles_anthropology-of-the-past.md",

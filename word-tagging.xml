@@ -112,7 +112,7 @@
     </l>
     <l n="11">
       <word n="" form="Sceal" lemma="sculan" pos="pres.sv" verb="strong" gloss="Shall"/>
-      <word n="" form="þeodna" lemma="þeod" pos="gpn" gender="f" gloss="men"/>
+      <word n="" form="þeodna" lemma="þeod" pos="npn" gender="f" gloss="men"/>
       <word n="" form="gehwylc" lemma="gehwylc" pos="adj" gloss="each"/>
       <caesura/>
       <word n="" form="þeawum" lemma="þeaw" pos="dpn" gender="m" gloss="good custom"/>
@@ -786,10 +786,10 @@
     <l n="86">
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Amothingum." lemma="Amoþingas" pos="dpn" gloss="Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the _Ynglingasaga_ by Snorri"/>
+      <word n="" form="Amothingum." lemma="Amoþingas" pos="dpn" gloss="the Amothings"/><!-- Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the _Ynglingasaga_ by Snorri-->
       <caesura/>
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Eastþyringum" lemma="Eastþringas" pos="dpn" gloss="Thuringians"/><!-- Still the best sausages in Germany-->
+      <word n="" form="Eastþyringum" lemma="Eastþyringas" pos="dpn" gloss="Thuringians"/><!-- Still the best sausages in Germany-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
     </l>
@@ -1021,7 +1021,7 @@
       <word n="" form="Beadecan" lemma="Beadecan" pos="asn" gloss="Beadecan"/>
       <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Herelingas," lemma="Herelingas" pos="apn" gloss="Herelingas"/><!-- The folloers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).-->
+      <word n="" form="Herelingas," lemma="Herelingas" pos="apn" gloss="Herelingas"/><!-- The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).-->
     </l>
     <l n="113">
       <word n="" form="Emercan" lemma="Emerca" pos="asn" gloss="Emerca"/><!-- Emerca is the Gothic hero Erpamara, found in Jordanes 43-->
