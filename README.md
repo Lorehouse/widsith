@@ -25,6 +25,7 @@ Crane, Gregory, et al. 2023. “Beyond Translation: Engaging with Foreign Langua
 Birnbaum, David J., et al. 2017. “The Digital Middle Ages: An Introduction.” Speculum, vol. 92, no. S1, pp. S1–38. JSTOR, https://www.jstor.org/stable/26583703. Accessed 13 Mar. 2024.
 
 University of Oxford. 1993. Anglo-Saxon poetic records, Oxford Text Archive, http://hdl.handle.net/20.500.12024/3009.
+
 Martín Arista, Javier (ed.), Sara Domínguez Barragán, Luisa Fidalgo Allo, Laura García Fernández, Yosra Hamdoun Bghiyel, Miguel Lacalle Palacios, Raquel Mateo Mendaza, Carmen Novo Urraca, Ana Elvira Ojanguren López, Esaúl Ruíz Narbona, Roberto Torre Alonso, Marta Tío Sáenz & Raquel Vea Escarza. 2024. Nerthusv5. Interface of textual, lexicographical and secondary sources of Old English. Nerthus Project, Universidad de La Rioja, www.nerthusproject.com. 
 
 Martín Arista, Javier. 2024. "Toward a Universal Dependencies Treebank of Old English: Representing the Morphological Relatedness of Un-Derivatives" Languages 9, (3), 76. https://doi.org/10.3390/languages9030076 
