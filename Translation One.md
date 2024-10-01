@@ -62,10 +62,10 @@ and at Heorot cut to pieces the force of the Heathobards.
 As I traversed many foreign lands <50>
 throughout a wide region, good and evil
 I experienced there, deprived of my people,
- far from generous kinsmen, and served far and wide. 
- Therefore I will sing and speak a tale, 
- Making known before the company in the mead-hall <55>
- how the well-born would be generous with choice gifts to me.
+far from generous kinsmen, and served far and wide. 
+Therefore I will sing and speak a tale, 
+Making known before the company in the mead-hall <55>
+how the well-born would be generous with choice gifts to me.
 I was with the Huns and with the Ostrogoths,
 with the Swedes and with the Geats and with the South-Danes.
 
