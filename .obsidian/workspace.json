@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature.md",
+                "file": "niles_anthropology-of-the-past.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4add13b4bca17155",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Translation One.md",
+                "file": "niles_anthropology-of-the-past.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Translation One.md",
+                "file": "niles_anthropology-of-the-past.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Translation One.md"
+                "file": "niles_anthropology-of-the-past.md"
               }
             }
           }
@@ -172,14 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61b738be44750f0e",
+  "active": "9cbfc91fe031fc46",
   "lastOpenFiles": [
     "niles_oe-heroic-poems-book.md",
-    "Translation One.md",
+    "niles_anthropology-of-the-past.md",
     "literature.md",
+    "Translation One.md",
     "howe_cultural-construction-of-reading.md",
     "weiskott_meter-of-widsith.md",
-    "niles_anthropology-of-the-past.md",
     "pascual_metrical-history.md",
     "woganbrowne_hero-in-christian-reception.md",
     "Foot_making-of-anglecynn.md",

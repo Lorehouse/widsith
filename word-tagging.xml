@@ -511,7 +511,7 @@
     </l>
     <l n="60">
       <word n="" form="mid" lemma="mid" pos="prep" with="dat" gloss="with"/>
-      <word n="" form="Gefþum" lemma="Gefþan" pos="dpn" gloss="The Gibids"/><!-- A tribe of the Gothic family mentioned in Beowulf-->
+      <word n="" form="Gefþum" lemma="Gefþan" pos="dpn" gloss="The Gibids"/><!-- A tribe of the Gothic family mentioned in Beowulf @@@ Better notes.-->
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="was"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
@@ -919,7 +919,7 @@
       <word n="" form="songe" lemma="song" pos="dsn" gloss="song"/>
       <caesura/>
       <word n="" form="secgan" lemma="secgan" pos="v" gloss="say"/>
-      <word n="" form="sceolde" lemma="sculan" pos="pret.sv" verb="strong" gloss="must"/>
+      <word n="" form="sceolde" lemma="sculan" pos="pret.sv" verb="strong" gloss="would"/>
     </l>
     <l n="101">
       <word n="" form="hwær" lemma="hwær" pos="adv" gloss="where"/>
@@ -1007,6 +1007,7 @@
       <word n="" form="sēlestan;" lemma="sēl" pos="art" gloss="best"/>
     </l>
     <l n="111">
+      <word n="" form="a"/> @@@
       <word n="" form="þæt" lemma="sē" pos="nsn" gloss="that"/>
       <word n="" form="wæs" lemma="wesan" pos="psv" verb="strong" gloss="were"/>
       <word n="" form="innweorud" lemma="innweorud" pos="n" gloss="native peoples"/>
@@ -1018,7 +1019,7 @@
       <word n="" form="sōhte" lemma="sēcan" pos="pret.sv" verb="weak" gloss="sought"/>
       <word n="" form="ic" lemma="ic" pos="pn" gloss="I"/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
-      <word n="" form="Beadecan" lemma="Beadecan" pos="asn" gloss="Beadecan"/>
+      <word n="" form="Beadecan" lemma="Beadeca" pos="asn" gloss="Beadecan"/>
       <caesura/>
       <word n="" form="ond" lemma="ond" pos="conj" gloss="and"/>
       <word n="" form="Herelingas," lemma="Herelingas" pos="apn" gloss="Herelingas"/><!-- The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).-->
