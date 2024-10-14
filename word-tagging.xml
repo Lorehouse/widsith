@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <body>
-<!--
-		pos tags:
-			NOUNS:
-			dp = dem. pronoun
-			rp = rel. pronoun
-			pn = pronoun
-			n = nominative
-			a = accusative
-			d = dative
-			g = genitive
-      i = instrumental
-      s = singular
-      p = plural
-      VERBS:
-      st = strong
-      wk = weak
-      v = verb
-      pret.p = preterite plural
-      pret.s = preterite singular
-      subj= subjunctive
-      pp = past participle
-      adv = adverb
-      adj = adjective
-      prep = preposition
-      conj = conjunction
-		
-	-->	
+  <!--
+      pos tags:
+        NOUNS:
+        dp = dem. pronoun
+        rp = rel. pronoun
+        pn = pronoun
+        n = nominative
+        a = accusative
+        d = dative
+        g = genitive
+        i = instrumental
+        s = singular
+        p = plural
+        VERBS:
+        st = strong
+        wk = weak
+        v = verb
+        pret.p = preterite plural
+        pret.s = preterite singular
+        subj= subjunctive
+        pp = past participle
+        adv = adverb
+        adj = adjective
+        prep = preposition
+        conj = conjunction
+      
+    -->	
   <head>Widsith</head>
   <lg>
     <l n="1">
@@ -312,7 +312,7 @@
       <word n="" form="þāra" lemma="sē" pos="gpn" gloss="those"/>
       <word n="" form="manna" lemma="monn" pos="gpn" gloss="men"/>
       <caesura/>
-      <word n="" form="mōdgast" lemma="mōodig" pos="adj" feat="superlative" gloss="noblest"/>
+      <word n="" form="mōdgast" lemma="mōdig" pos="adj" feat="superlative" gloss="noblest"/>
       <word n="" form="ealra," lemma="eal" pos="adj" gloss="of all"/>
     </l>
     <l n="37">
