@@ -7,7 +7,7 @@ def tsv_to_html(tsv_file, html_file):
     
     
     with open(html_file, 'w', encoding='utf-8') as file:
-        file.write('<html>\n<head>\n<title>TSV to HTML Table</title>\n</head>\n<body>\n')
+        file.write('<html>\n<head>\n<title>Glossary</title>\n</head>\n<body>\n')
         file.write('<table border="1">\n')
 
         
@@ -21,4 +21,4 @@ def tsv_to_html(tsv_file, html_file):
         file.write('</table>\n</body>\n</html>')
 
 
-tsv_to_html('../gloss.tsv', 'glossary.html')
+tsv_to_html('../gloss.tsv', '../views/glossary.html')
