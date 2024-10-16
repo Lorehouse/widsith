@@ -1,0 +1,844 @@
+Lemma: Widsið, Form: Widsið, POS: nsn, Gloss: Widsith
+Lemma: maðelian, Form: maðolade,, POS: pret.sv, Gloss: spoke
+Lemma: wordhord, Form: wordhord, POS: as, Gloss: wordhoard/vocabulary
+Lemma: onlūcan, Form: onleac,, POS: pret.sv, Gloss: unlocked
+Lemma: se, Form: se, POS: dpn, Gloss: that
+Lemma: þe, Form: þe, POS: rpn, Gloss: that
+Lemma: monn, Form: monna, POS: gpn, Gloss: men
+Lemma: mæst, Form: mǣst, POS: adj, Gloss: most
+Lemma: mǣgþ, Form: mǣgþa, POS: gpn, Gloss: people
+Lemma: ofer, Form: ofer, POS: prep, Gloss: over
+Lemma: eorþe, Form: eorþan,, POS: asn, Gloss: earth
+Lemma: folc, Form: folca, POS: gpn, Gloss: tribe
+Lemma: geondferan, Form: geondferde;, POS: pret.sv, Gloss: travel over
+Lemma: oft, Form: oft, POS: adv, Gloss: often
+Lemma: hē, Form: hē, POS: nsppn, Gloss: he
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: flett, Form: flette, POS: dsn, Gloss: great hall
+Lemma: geþicgan, Form: geþah, POS: pret.sv, Gloss: received
+Lemma: mynelīc, Form: mynelīcne, POS: adj, Gloss: handsome
+Lemma: māþþum, Form: māþþum., POS: asn, Gloss: treasure/gift
+Lemma: hē, Form: Him, POS: asn, Gloss: him
+Lemma: from, Form: from, POS: prep, Gloss: from
+Lemma: Myrging, Form: Myrgingum, POS: dpn, Gloss: the Myrgings
+Lemma: æþelo, Form: æþele, POS: npn, Gloss: noble
+Lemma: wæcnan, Form: onwocon., POS: pret.pv, Gloss: awoke
+Lemma: hē, Form: He, POS: nsppn, Gloss: he
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Ealhhilde, Form: Ealhhilde,, POS: dsn, Gloss: Ealhhilde
+Lemma: fæle, Form: fælre, POS: adj, Gloss: gracious
+Lemma: freoþuwebbe, Form: freoþuwebban,, POS: dsn, Gloss: peace-weaver
+Lemma: forma, Form: forman, POS: adj, Gloss: first/foremost
+Lemma: sīþ, Form: sīþe, POS: isn, Gloss: going/journey
+Lemma: Hreðcyning, Form: Hreðcyninges, POS: gsn, Gloss: King of the Ostrogoths
+Lemma: ham, Form: ham, POS: asn, Gloss: home
+Lemma: gesecan, Form: gesohte, POS: pret.sv, Gloss: sought
+Lemma: eastan, Form: eastan, POS: adv, Gloss: east
+Lemma: of, Form: of, POS: prep, Gloss: from
+Lemma: Ongel, Form: Ongle,, POS: dpn, Gloss: the Angles land
+Lemma: Eormanrīc, Form: Eormanrices,, POS: gsn, Gloss: Ermanric
+Lemma: wraþ, Form: wraþes, POS: adj, Gloss: hostile
+Lemma: wærloga, Form: wærlogan., POS: dpn, Gloss: oath-breaker
+Lemma: onginnan, Form: Ongon, POS: pret.sv, Gloss: began
+Lemma: þa, Form: þa, POS: adv, Gloss: then
+Lemma: worn, Form: worn, POS: asn, Gloss: a great number (of words)
+Lemma: sprecan, Form: sprecan:, POS: pret.pv, Gloss: speaking
+Lemma: fela, Form: Fela, POS: adj, Gloss: many
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: monn, Form: monna, POS: gpn, Gloss: men
+Lemma: gefrignan, Form: gefrægn, POS: pret.sv, Gloss: learned (by asking)
+Lemma: mægþ, Form: mǣgþum, POS: ipn, Gloss: tribe
+Lemma: wealdan, Form: wealdan!, POS: pret.sv, Gloss: rule
+Lemma: sculan, Form: Sceal, POS: pres.sv, Gloss: Shall
+Lemma: þeod, Form: þeodna, POS: npn, Gloss: men
+Lemma: gehwylc, Form: gehwylc, POS: adj, Gloss: each
+Lemma: þeaw, Form: þeawum, POS: dpn, Gloss: good custom
+Lemma: lifgan, Form: lifgan,, POS: v, Gloss: live
+Lemma: eorl, Form: eorl, POS: gpn, Gloss: leader
+Lemma: æfter, Form: æfter, POS: prep, Gloss: after
+Lemma: oþer, Form: oþrum, POS: dpn, Gloss: others
+Lemma: eþel, Form: eðle, POS: dsn, Gloss: homeland
+Lemma: rædan, Form: rædan,, POS: v, Gloss: govern
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: hē, Form: his, POS: gspn, Gloss: his
+Lemma: þeodenstol, Form: þeodenstol, POS: n, Gloss: king-stool
+Lemma: geþeon, Form: geþeon, POS: v, Gloss: prosper
+Lemma: willan, Form: wile., POS: pret.sv, Gloss: will
+Lemma: sē, Form: þāra, POS: gpn, Gloss: that
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: Hwala, Form: Hwala, POS: nsn, Gloss: Hwala
+Lemma: hwil, Form: hwile, POS: asn, Gloss: a while
+Lemma: sel, Form: selast,, POS: adj, Gloss: best
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Alexandreas, Form: Alexandreas, POS: nsn, Gloss: Alexander
+Lemma: eal, Form: ealra, POS: adj, Gloss: all
+Lemma: rice, Form: ricost, POS: adj, Gloss: powerful
+Lemma: monn, Form: monna, POS: gpn, Gloss: men
+Lemma: cynn, Form: cynnes,, POS: gsn, Gloss: kin
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: hē, Form: hē, POS: nsppn, Gloss: he
+Lemma: mæst, Form: mǣst, POS: adj, Gloss: most
+Lemma: geþeon, Form: geþah, POS: pret.sv, Gloss: throve
+Lemma: sē, Form: þāra, POS: gpn, Gloss: that
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ofer, Form: ofer, POS: prep, Gloss: over
+Lemma: folde, Form: foldan, POS: asn, Gloss: the earth
+Lemma: gefricgan, Form: gefrægen, POS: ppn, Gloss: learned (by asking)
+Lemma: habban, Form: hæbbe., POS: psv, Gloss: have
+Lemma: Ætla, Form: Ætla, POS: apn, Gloss: Atilla
+Lemma: wealdan, Form: weold, POS: psv, Gloss: ruled
+Lemma: Hunas, Form: Hunum,, POS: ipn, Gloss: the Huns
+Lemma: Eormanrīc, Form: Eormanric, POS: nsn, Gloss: Ermanric
+Lemma: Gotan, Form: Gotum,, POS: ipn, Gloss: the Goths
+Lemma: Becca, Form: Becca, POS: nsn, Gloss: Becca
+Lemma: Baningas, Form: Baningum,, POS: dpn, Gloss: the Baningas
+Lemma: Burgendan, Form: Burgendum, POS: dpn, Gloss: the Burgundians
+Lemma: Gifica, Form: Gifica., POS: nsn, Gloss: Gifica
+Lemma: Casere, Form: Casere, POS: nsn, Gloss: Caesar
+Lemma: wealdan, Form: weold, POS: psv, Gloss: ruled
+Lemma: Creacas, Form: Creacum, POS: dpn, Gloss: the Greeks
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Cælic, Form: Cælic, POS: nsn, Gloss: Caelic
+Lemma: Finnas, Form: Finnum,, POS: dpn, Gloss: the Finns
+Lemma: Hagena, Form: Hagena, POS: nsn, Gloss: Hagen
+Lemma: Holmrygas, Form: Holmrygum, POS: dpn, Gloss: the Rugians
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Heoden, Form: Heoden, POS: nsn, Gloss: Heoden
+Lemma: Glomman, Form: Glommum., POS: dpn, Gloss: the Glomman
+Lemma: Witta, Form: Witta, POS: nsn, Gloss: Witta
+Lemma: wealdan, Form: weold, POS: psv, Gloss: ruled
+Lemma: Swæfe, Form: Swæfum,, POS: dpn, Gloss: Swæfe
+Lemma: Wada, Form: Wada, POS: nsn, Gloss: Wada
+Lemma: Hælsingas, Form: Hælsingum,, POS: ipn, Gloss: Hælsings
+Lemma: Meaca, Form: Meaca, POS: nsn, Gloss: Meaca
+Lemma: Myrgingas, Form: Myrgingum,, POS: dpn, Gloss: the Myrgings
+Lemma: Mearchealf, Form: Mearchealf, POS: nsn, Gloss: Mearchealf
+Lemma: Hundingas, Form: Hundingum., POS: dpn, Gloss: the Hundings
+Lemma: þeodric, Form: þeodric, POS: nsn, Gloss: Theodric
+Lemma: wealdan, Form: weold, POS: psv, Gloss: ruled
+Lemma: Froncan, Form: Froncum,, POS: dpn, Gloss: the Franks
+Lemma: Þyle, Form: Þyle, POS: nsn, Gloss: Thyle
+Lemma: Rondingas, Form: Rondingum,, POS: dpn, Gloss: The Rondings
+Lemma: Breoca, Form: Breoca, POS: nsn, Gloss: Breoca
+Lemma: Brondingas, Form: Brondingum,, POS: dpn, Gloss: Brondings
+Lemma: Billing, Form: Billing, POS: nsn, Gloss: Billing
+Lemma: Wern, Form: Wernum., POS: dpn, Gloss: the Werns
+Lemma: Oswine, Form: Oswine, POS: nsn, Gloss: Oswin
+Lemma: wealdan, Form: weold, POS: psv, Gloss: ruled
+Lemma: Eowan, Form: Eowum, POS: dpn, Gloss: the Eows
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Yte, Form: Ytum, POS: dpn, Gloss: the Jutes
+Lemma: Gefwulf, Form: Gefwulf,, POS: nsn, Gloss: Gefwulf
+Lemma: Fin, Form: Fin, POS: nsn, Gloss: Fin
+Lemma: Folcwalding, Form: Folcwalding, POS: nsn, Gloss: son of Folcwalda
+Lemma: Frēsan, Form: Fresna, POS: asn, Gloss: the Frisian
+Lemma: cynn, Form: cynne., POS: isn, Gloss: tribe
+Lemma: Sigehere, Form: Sigehere, POS: nsn, Gloss: Sighere
+Lemma: lengan, Form: lengest, POS: adv, Gloss: longest
+Lemma: Sæ-dene, Form: Sæ-denum, POS: dpn, Gloss: the Sea-Danes
+Lemma: wealdan, Form: weold,, POS: psv, Gloss: ruled
+Lemma: Hnæf, Form: Hnæf, POS: nsn, Gloss: Hnæf
+Lemma: Hocingas, Form: Hocingum,, POS: dpn, Gloss: the Hocings
+Lemma: Helm, Form: Helm, POS: nsn, Gloss: Helm
+Lemma: Wulfingas, Form: Wulfingum,, POS: dpn, Gloss: the Wulfings
+Lemma: Wald, Form: Wald, POS: nsn, Gloss: Wald
+Lemma: Woingas, Form: Woingum,, POS: dpn, Gloss: the Woings
+Lemma: Wod, Form: Wod, POS: nsn, Gloss: Wod
+Lemma: Þyringas, Form: Þyringum,, POS: dpn, Gloss: the Thuringians
+Lemma: Sæferð, Form: Sæferð, POS: nsn, Gloss: Sæferð
+Lemma: Sycgan, Form: Sycgum,, POS: dpn, Gloss: Sycgan
+Lemma: Sweon, Form: Sweom, POS: dpn, Gloss: Swedes
+Lemma: nsn, Form: Ongendþeow,, POS: Ongendþeow, Gloss: Ongenþeow
+Lemma: Sceafthere, Form: Sceafthere, POS: nsn, Gloss: Sceafthere
+Lemma: Yumbran, Form: Ymbrum,, POS: dpn, Gloss: the Ymbran
+Lemma: Sceafa, Form: Sceafa, POS: nsn, Gloss: Sheaf
+Lemma: Longbeardan, Form: Longbeardum,, POS: dpn, Gloss: the Langobards
+Lemma: Hun, Form: Hun, POS: nsn, Gloss: Hunn
+Lemma: Hætwere, Form: Hætwerum, POS: dpn, Gloss: the Hætwere
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Holen, Form: Holen, POS: nsn, Gloss: Holen
+Lemma: Wrosnan, Form: Wrosnum., POS: dpn, Gloss: Wrosnan
+Lemma: Hringwald, Form: Hringweald, POS: nsn, Gloss: Hringwald
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: hāten, Form: hāten, POS: ppv, Gloss: called
+Lemma: Herefaran, Form: Herefarena, POS: gpn, Gloss: the Herefaren's
+Lemma: cyning, Form: cyning., POS: gsn, Gloss: king
+Lemma: Offa, Form: Offa, POS: nsn, Gloss: Offa
+Lemma: wealdan, Form: weold, POS: psv, Gloss: ruled
+Lemma: Ongel, Form: Ongle,, POS: dpn, Gloss: the Angles
+Lemma: Alewih, Form: Alewih, POS: nsn, Gloss: Alewih
+Lemma: Dene, Form: Denum;, POS: dpn, Gloss: the Danes
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: sē, Form: þāra, POS: gpn, Gloss: those
+Lemma: monn, Form: manna, POS: gpn, Gloss: men
+Lemma: mōdig, Form: mōdgast, POS: adj, Gloss: noblest
+Lemma: eal, Form: ealra,, POS: adj, Gloss: of all
+Lemma: nō, Form: nō, POS: adv, Gloss: not at all
+Lemma: hwæþre, Form: hwæþre, POS: adv, Gloss: however
+Lemma: hē, Form: hē, POS: nsppn, Gloss: he
+Lemma: ofer, Form: ofer, POS: prep, Gloss: more than
+Lemma: Offa, Form: Offan, POS: dsn, Gloss: Offa
+Lemma: eorlscipe, Form: eorlscype, POS: asn, Gloss: manliness
+Lemma: fremman, Form: fremede,, POS: pret.sv, Gloss: achieve
+Lemma: ac, Form: ac, POS: conj, Gloss: but
+Lemma: Offa, Form: Offa, POS: asn, Gloss: Offa
+Lemma: geslean, Form: geslog, POS: psv, Gloss: won
+Lemma: ærest, Form: ærest, POS: adj, Gloss: first
+Lemma: monn, Form: monna,, POS: gpn, Gloss: men
+Lemma: cnihtwesende, Form: cnihtwesende,, POS: pp, Gloss: being a youth
+Lemma: cynerice, Form: cynerica, POS: gpn, Gloss: king-realm
+Lemma: mæst, Form: mǣst., POS: adj, Gloss: greatest
+Lemma: nænig, Form: Nænig, POS: pn, Gloss: Not any
+Lemma: efeneald, Form: efeneald, POS: adj, Gloss: contemporaries
+Lemma: hē, Form: him, POS: gsn, Gloss: of him
+Lemma: eorlscipe, Form: eorlscipe, POS: nsn, Gloss: manliness
+Lemma: māra, Form: māran, POS: adj, Gloss: more
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: ōrettan, Form: ōrette., POS: pret.sv, Gloss: fighting
+Lemma: āne, Form: Āne, POS: isn, Gloss: one
+Lemma: sweord, Form: sweorde, POS: isn, Gloss: sword
+Lemma: merc, Form: merce, POS: asn, Gloss: boundary
+Lemma: gemǣran, Form: gemǣrde, POS: pret.sv, Gloss: defined
+Lemma: wið, Form: wið, POS: prep, Gloss: against
+Lemma: Myrgingas, Form: Myrgingum, POS: dpn, Gloss: the Myrgings
+Lemma: bī, Form: bī, POS: prep, Gloss: by
+Lemma: Fīfeldore, Form: Fifeldore;, POS: dsn, Gloss: the Eider estuary
+Lemma: healdan, Form: heoldon, POS: pret.pv, Gloss: held
+Lemma: forð, Form: forð, POS: adv, Gloss: thenceforth
+Lemma: sīþþan, Form: sīþþan, POS: adv, Gloss: afterwards
+Lemma: Engle, Form: Engle, POS: asn, Gloss: the Angles
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Swæfe, Form: Swæfe,, POS: asn, Gloss: the Suebi
+Lemma: swā, Form: swā, POS: conj, Gloss: as
+Lemma: hē, Form: hit, POS: asn, Gloss: he
+Lemma: Offa, Form: Offa, POS: asn, Gloss: Offa
+Lemma: geslean, Form: geslog, POS: psv, Gloss: won
+Lemma: Hroþwulf, Form: Hroþwulf, POS: nsn, Gloss: Hroþwulf
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Hroðgar, Form: Hroðgar, POS: nsn, Gloss: Hroðgar
+Lemma: healdan, Form: heoldon, POS: pret.pv, Gloss: held
+Lemma: lengest, Form: lengest, POS: adv, Gloss: longest
+Lemma: sibb, Form: sibbe, POS: gsn, Gloss: kinship
+Lemma: ætsomne, Form: ætsomne, POS: adv, Gloss: together
+Lemma: suhtorfædran, Form: suhtorfædran,, POS: npn, Gloss: nephew and uncle
+Lemma: siþþan, Form: siþþan, POS: conj, Gloss: after he
+Lemma: hē, Form: hȳ, POS: ppn, Gloss: he
+Lemma: forwrecan, Form: forwrǣcon, POS: pret.pv, Gloss: drove off
+Lemma: wicingas, Form: wicinga, POS: gpn, Gloss: the Wicing
+Lemma: cynn, Form: cynn, POS: asn, Gloss: tribe
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Ingeld, Form: Ingeldes, POS: gsn, Gloss: Ingeld
+Lemma: ord, Form: ord, POS: asn, Gloss: vanguard
+Lemma: forbīgan, Form: forbīgdan,, POS: pret.pv, Gloss: humbled
+Lemma: forhēawan, Form: forhēowan, POS: pret.pv, Gloss: cut to pieces
+Lemma: æt, Form: æt, POS: prep, Gloss: at
+Lemma: Heorot, Form: Heorote, POS: dsn, Gloss: Heorot
+Lemma: Heaðobeardan, Form: Heaðobeardna, POS: gpn, Gloss: Heathobards'
+Lemma: þrym, Form: þrym., POS: asn, Gloss: force
+Lemma: swā, Form: Swā, POS: conj, Gloss: as
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: geondfēran, Form: geondfērde, POS: pret.sv, Gloss: traverse
+Lemma: fela, Form: fela,, POS: adj, Gloss: many
+Lemma: fremde, Form: fremdra, POS: adj, Gloss: foreign
+Lemma: lond, Form: londa, POS: gpn, Gloss: lands
+Lemma: geond, Form: geond, POS: prep, Gloss: throughout
+Lemma: ginn, Form: ginne, POS: adj, Gloss: wide
+Lemma: grund, Form: grund., POS: asn, Gloss: region
+Lemma: gōd, Form: Gōdes, POS: nsn, Gloss: good things
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: yfel, Form: yfles, POS: gsn, Gloss: evil things
+Lemma: þǣr, Form: þǣr, POS: adv, Gloss: there
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: cunnian, Form: cunnade, POS: pret.psv, Gloss: experience
+Lemma: cnōsl, Form: cnōsle, POS: dsn, Gloss: kindred
+Lemma: bidǽlan, Form: bidǽled,, POS: ppv, Gloss: deprived of
+Lemma: frēomǣgum, Form: frēomǣgum, POS: dpn, Gloss: generous kinsmen
+Lemma: feor, Form: feor, POS: adj, Gloss: far
+Lemma: folgian, Form: folgade, POS: pret.sv, Gloss: served
+Lemma: wīde, Form: wīde., POS: adv, Gloss: widely
+Lemma: forþon, Form: Forþon, POS: conj, Gloss: therefore
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: magan, Form: mæg, POS: psv, Gloss: will
+Lemma: singan, Form: singan, POS: v, Gloss: sing
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: secgan, Form: secgan, POS: v, Gloss: speak
+Lemma: spell, Form: spell,, POS: asn, Gloss: tale
+Lemma: mǣnan, Form: mǣnan, POS: v, Gloss: make known
+Lemma: fore, Form: fore, POS: prep, Gloss: before
+Lemma: mengo, Form: mengo, POS: dsn, Gloss: company
+Lemma: in, Form: in, POS: prep, Gloss: in
+Lemma: meoduheall, Form: meoduhealle, POS: dsn, Gloss: mead-hall
+Lemma: hū, Form: hū, POS: adv, Gloss: how
+Lemma: me, Form: me, POS: dsppn, Gloss: me
+Lemma: cynegōd, Form: cynegōde, POS: adj, Gloss: well-born
+Lemma: cyst, Form: cystum, POS: ipn, Gloss: a choice gift
+Lemma: dugan, Form: dohten., POS: pret.subj.pv, Gloss: would be generous
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Hunas, Form: Hunum, POS: dpn, Gloss: The Huns
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Hreðgotan, Form: Hreðgotum,, POS: dpn, Gloss: Ostrogoths
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Sweon, Form: Sweom, POS: dpn, Gloss: Swedes
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Gēatas, Form: Geatum, POS: dpn, Gloss: the Geats
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Suþ-dene, Form: Suþ-denum., POS: dpn, Gloss: the south-Danes
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Wenlas, Form: Wenlum, POS: dpn, Gloss: Wenlas
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Wærne, Form: Wærnum, POS: dpn, Gloss: the Varni
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Wicingas, Form: wicingum., POS: dpn, Gloss: the Wicings
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Gefþan, Form: Gefþum, POS: dpn, Gloss: The Gibids
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Winedas, Form: Winedum, POS: dpn, Gloss: Winedas
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Gefflēgan, Form: Gefflegum., POS: dsn, Gloss: The Gefflegans
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Engle, Form: Englum, POS: dpn, Gloss: the Angles
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Swæfe, Form: Swæfum, POS: dpn, Gloss: Swæfe
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Ænēnas, Form: Ænēnum., POS: dpn, Gloss: Ænēnas
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Seaxan, Form: Seaxum, POS: dpn, Gloss: the Saxons
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Sycga, Form: Sycgum, POS: dpn, Gloss: the Sycgans
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Sweordwere, Form: Sweordwerum., POS: dpn, Gloss: Suardones
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Hronan, Form: Hronum, POS: dpn, Gloss: Hronan
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Dēan, Form: Deanum, POS: dpn, Gloss: Deans
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: HeaÞoreamas, Form: Heaþoreamum., POS: dpn, Gloss: HeaÞoramas
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Þyringas, Form: Þyringum, POS: dpn, Gloss: the Thuringians
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Þrowend, Form: Þrowendum,, POS: dpn, Gloss: Þrowend
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Burgendan, Form: Burgendum,, POS: ipn, Gloss: the Burgundians
+Lemma: þǣr, Form: þǣr, POS: adv, Gloss: there
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: bēag, Form: bēag, POS: asn, Gloss: necklace
+Lemma: geþicgan, Form: geþah;, POS: pret.sv, Gloss: receive
+Lemma: me, Form: me, POS: dsppn, Gloss: me
+Lemma: þǣr, Form: þǣr, POS: adv, Gloss: there
+Lemma: Guðhere, Form: Guðhere, POS: nsn, Gloss: Guðhere
+Lemma: forgiefan, Form: forgeaf, POS: pret.sv, Gloss: gave
+Lemma: glædlic, Form: glædlicne, POS: adj, Gloss: goodly
+Lemma: māþþum, Form: māþþum, POS: asn, Gloss: treasure
+Lemma: song, Form: songes, POS: gsn, Gloss: song
+Lemma: to, Form: to, POS: prep, Gloss: to
+Lemma: lēan, Form: lēane., POS: dsn, Gloss: reward
+Lemma: wesan, Form: Næs, POS: psv, Gloss: was not
+Lemma: þǣt, Form: þǣt, POS: nsn, Gloss: that
+Lemma: sǣne, Form: sǣne, POS: adj, Gloss: stingy
+Lemma: cyning, Form: cyning!, POS: nsn, Gloss: king
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Froncan, Form: Froncum, POS: ipn, Gloss: the Franks
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Frēsan, Form: Frysum, POS: dpn, Gloss: the Frisians
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Frumtingas, Form: Frumtingum., POS: dpn, Gloss: the Framtings
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Rugas, Form: Rugum, POS: dpn, Gloss: the Rugi
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Glomman, Form: Glommum, POS: dpn, Gloss: the Glomman
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Rumwalas, Form: Rumwalum., POS: dpn, Gloss: Rome-foreigners
+Lemma: swylce, Form: Swylce, POS: adv, Gloss: likewise
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: Eatul, Form: Eatule, POS: dsn, Gloss: Italy
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Ælfwine, Form: Ælfwine,, POS: dsn, Gloss: Ælfwine
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: habban, Form: hæfde, POS: pret.sv, Gloss: had
+Lemma: moncynn, Form: moncynnes,, POS: gsn, Gloss: mankind
+Lemma: mīn, Form: mīne, POS: adj, Gloss: my
+Lemma: gefrǣge, Form: gefrǣge,, POS: isn, Gloss: information (got by inquiry).
+Lemma: lēoht, Form: lēohteste, POS: adj, Gloss: lightest
+Lemma: hond, Form: hond, POS: asn, Gloss: hand
+Lemma: lof, Form: lofes, POS: gsn, Gloss: praise
+Lemma: to, Form: to, POS: prep, Gloss: to
+Lemma: wyrcan, Form: wyrcenne,, POS: dsn, Gloss: earning
+Lemma: heorte, Form: heortan, POS: asn, Gloss: heart
+Lemma: unhnēaw, Form: unhnēaweste, POS: adj, Gloss: generous
+Lemma: hring, Form: hringa, POS: gpn, Gloss: rings
+Lemma: gedāl, Form: gedāles,, POS: gsn, Gloss: distributed
+Lemma: beorht, Form: beorhtra, POS: gpadj, Gloss: bright
+Lemma: bēag, Form: bēaga,, POS: gpn, Gloss: treasures
+Lemma: bearn, Form: bearn, POS: nsn, Gloss: child
+Lemma: Eadwine, Form: Eadwines., POS: asn, Gloss: of Edwin
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Sercingas, Form: Sercingum, POS: dpn, Gloss: the Sercings
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Seringas, Form: Seringum;, POS: dpn, Gloss: the Serae
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Creacas, Form: Creacum, POS: ipn, Gloss: the Greeks
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Finnas, Form: Finnum, POS: ipn, Gloss: the Finns
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Casere, Form: Casere,, POS: dsn, Gloss: Caesar
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: wīnburg, Form: wīnburga, POS: gpn, Gloss: wine-borough
+Lemma: geweald, Form: geweald, POS: asn, Gloss: authority
+Lemma: āgan, Form: āhte,, POS: pret.sv, Gloss: possesed
+Lemma: wiola, Form: wiolena, POS: gpn, Gloss: riches
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: willa, Form: wilna,, POS: gpn, Gloss: desirable things
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Walas, Form: Wala, POS: gpn, Gloss: Roman's
+Lemma: rīce, Form: rīces., POS: gsn, Gloss: realm
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Scottas, Form: Scottum, POS: dpn, Gloss: the Irish
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Peohtas, Form: Peohtum, POS: dpn, Gloss: the Picts
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Scridefinnas, Form: Scridefinnum;, POS: dpn, Gloss: The Lapps
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Lidwicingas, Form: Lidwicingum, POS: dpn, Gloss: the Lidwiccas
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Leonas, Form: Leonum, POS: dpn, Gloss: the Leonas
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Longbeardum, Form: Longbeardum,, POS: dpn, Gloss: The Langobards
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: hæþen, Form: hæðnum, POS: dpn, Gloss: heathens
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: hæleþ, Form: hæleþum, POS: dpn, Gloss: heroes
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Hundingas, Form: Hundingum., POS: dpn, Gloss: the Hundings
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Israhelas, Form: Israhelum, POS: dpn, Gloss: the Israelites
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Exsyringas, Form: Exsyringum,, POS: dpn, Gloss: the Assyrians
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Ebreas, Form: Ebreum, POS: dpn, Gloss: the Hebrews
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Indeas, Form: Indeum, POS: dpn, Gloss: THe Hindus
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Egypte, Form: Egyptum., POS: dpn, Gloss: the Egyptians
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Moide, Form: Moidum, POS: dpn, Gloss: the Moids
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Perse, Form: Persum, POS: dpn, Gloss: the Perse
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Myrgingas, Form: Myrgingum,, POS: dpn, Gloss: the Myrgings
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Mofdingas, Form: Mofdingum, POS: dpn, Gloss: Mofdings
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Ongendmyrgingas, Form: Ongendmyrgingum, POS: dpn, Gloss: the Ongendmyrgings
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Amoþingas, Form: Amothingum., POS: dpn, Gloss: the Amothings
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Eastþyringas, Form: Eastþyringum, POS: dpn, Gloss: Thuringians
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Ilwan, Form: Eolum, POS: dpn, Gloss: the Ilwan
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Iste, Form: Istum, POS: dpn, Gloss: the Austrogoths
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Idumingas, Form: Idumingum., POS: dpn, Gloss: Idumings
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: mid, Form: mid, POS: prep, Gloss: with
+Lemma: Eormanrīc, Form: Eormanrice, POS: dsn, Gloss: Ermanric
+Lemma: eal, Form: ealle, POS: asn, Gloss: all
+Lemma: þrāg, Form: þrāge,, POS: asn, Gloss: time
+Lemma: þǣr, Form: þǣr, POS: adv, Gloss: there
+Lemma: me, Form: me, POS: dsppn, Gloss: me
+Lemma: Gotan, Form: Gotena, POS: gpn, Gloss: the Goths
+Lemma: cyning, Form: cyning, POS: nsn, Gloss: king
+Lemma: gōd, Form: gōde, POS: isn, Gloss: good
+Lemma: dugan, Form: dohte;, POS: pret.sv, Gloss: was generous
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: me, Form: me, POS: dsppn, Gloss: me
+Lemma: bēag, Form: bēag, POS: asn, Gloss: treasure
+Lemma: forgiefan, Form: forgeaf, POS: pret.sv, Gloss: gave
+Lemma: burgwaran, Form: burgwarena, POS: gpn, Gloss: townspeople
+Lemma: fruma, Form: fruma,, POS: n, Gloss: first among
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: sē, Form: þām, POS: dspn, Gloss: that
+Lemma: siex, Form: siex, POS: num, Gloss: six
+Lemma: hund, Form: hund, POS: num, Gloss: hundred
+Lemma: wesan, Form: wæs, POS: psv, Gloss: was
+Lemma: smǣte, Form: smǣtes, POS: adj, Gloss: refined
+Lemma: gold, Form: goldes,, POS: gsn, Gloss: gold
+Lemma: gescyrian, Form: gescyred, POS: ppv, Gloss: reckoned
+Lemma: sceatt, Form: sceatta, POS: gpn, Gloss: denarii
+Lemma: scillingrīm, Form: scillingrīme;, POS: dsn, Gloss: shilling count
+Lemma: sē, Form: þone, POS: aspn, Gloss: that
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: Eadgils, Form: Eadgilse, POS: dsn, Gloss: Eadgils
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: syllan, Form: sealde,, POS: pret.sv, Gloss: gave
+Lemma: ǣht, Form: ǣht, POS: asn, Gloss: possession
+Lemma: mīn, Form: mīnum, POS: adj, Gloss: my
+Lemma: hlēodryhten, Form: hlēodryhtne,, POS: dsn, Gloss: lord protector
+Lemma: þā, Form: þa, POS: conj, Gloss: when
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: to, Form: to, POS: prep, Gloss: to
+Lemma: ham, Form: ham, POS: asn, Gloss: home
+Lemma: bicuman, Form: bicwom,, POS: pret.sv, Gloss: came
+Lemma: lēof, Form: lēofum, POS: adj, Gloss: dear
+Lemma: to, Form: to, POS: prep, Gloss: to
+Lemma: lēan, Form: lēane,, POS: dsn, Gloss: reward
+Lemma: þæs, Form: þæs, POS: conj, Gloss: because
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: hē, Form: hē, POS: nsppn, Gloss: he
+Lemma: me, Form: me, POS: dsppn, Gloss: me
+Lemma: longd, Form: lond, POS: asn, Gloss: land
+Lemma: forgiefan, Form: forgeaf, POS: pret.sv, Gloss: gave up
+Lemma: mīn, Form: mīnes, POS: adj, Gloss: my
+Lemma: fæder, Form: fæder, POS: gsn, Gloss: father's
+Lemma: ēþel, Form: ēþel,, POS: asn, Gloss: inherited land
+Lemma: frēa, Form: frēa, POS: n, Gloss: king
+Lemma: Myrgingas, Form: Myrginga., POS: gpn, Gloss: of the Myrgings
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: me, Form: me, POS: dsppn, Gloss: me
+Lemma: þā, Form: þā, POS: adv, Gloss: then
+Lemma: Ealhhild, Form: Ealhhild, POS: nsn, Gloss: Ealhhild
+Lemma: ōþer, Form: ōþerne, POS: num, Gloss: second
+Lemma: forgiefan, Form: forgeaf, POS: pret.sv, Gloss: gave
+Lemma: dryhtcwēn, Form: dryhtcwēn, POS: n, Gloss: queen of the army
+Lemma: duguþ, Form: duguþe,, POS: gsn, Gloss: a body of royal fighting men
+Lemma: dohtor, Form: dohtor, POS: n, Gloss: daughter
+Lemma: Eadwine, Form: Eadwines., POS: gsn, Gloss: of Edwin
+Lemma: hē, Form: Hyre, POS: gsn, Gloss: her
+Lemma: lof, Form: lof, POS: asn, Gloss: praise
+Lemma: lengan, Form: lengde, POS: pret.sv, Gloss: stretched
+Lemma: geond, Form: geond, POS: prep, Gloss: throughout
+Lemma: lond, Form: londa, POS: gpn, Gloss: lands
+Lemma: fela, Form: fela,, POS: adj, Gloss: many
+Lemma: þonne, Form: þonne, POS: conj, Gloss: when
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: bī, Form: be, POS: prep, Gloss: with
+Lemma: song, Form: songe, POS: dsn, Gloss: song
+Lemma: secgan, Form: secgan, POS: v, Gloss: say
+Lemma: sculan, Form: sceolde, POS: pret.sv, Gloss: would
+Lemma: hwær, Form: hwær, POS: adv, Gloss: where
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: under, Form: under, POS: prep, Gloss: under
+Lemma: swegl, Form: swegle, POS: dsn, Gloss: sky
+Lemma: sēl, Form: sēlast, POS: adj, Gloss: best
+Lemma: witan, Form: wisse, POS: pret.sv, Gloss: knew
+Lemma: goldhroden, Form: goldhrodene, POS: adj, Gloss: gold-adorned
+Lemma: cwēn, Form: cwēn, POS: asn, Gloss: queen
+Lemma: giefu, Form: giefe, POS: apn, Gloss: gifts
+Lemma: bryttian, Form: bryttian., POS: v, Gloss: distribute
+Lemma: þonne, Form: Ðonne, POS: conj, Gloss: then
+Lemma: wit, Form: wit, POS: pn, Gloss: we two
+Lemma: Scilling, Form: Scilling, POS: nsn, Gloss: Scilling
+Lemma: scīr, Form: scīran, POS: adj, Gloss: clear
+Lemma: reord, Form: reorde, POS: gsn, Gloss: voice
+Lemma: for, Form: for, POS: prep, Gloss: before
+Lemma: uncer, Form: uncrum, POS: adj, Gloss: our two
+Lemma: sigedryhten, Form: sigedryhtne, POS: dsn, Gloss: victory-lord
+Lemma: song, Form: song, POS: asn, Gloss: song
+Lemma: āhebban, Form: āhofan,, POS: pret.pv, Gloss: raised
+Lemma: hlude, Form: hlude, POS: adv, Gloss: loudly
+Lemma: bī, Form: bī, POS: prep, Gloss: with
+Lemma: hearpe, Form: hearpan, POS: dsn, Gloss: harp
+Lemma: hlēoþor, Form: hlēoþor, POS: n, Gloss: song
+Lemma: swinsian, Form: swinsade,, POS: pret.sv, Gloss: sing out
+Lemma: þonne, Form: þonne, POS: adv, Gloss: then
+Lemma: monig, Form: monige, POS: adj, Gloss: many
+Lemma: monn, Form: men,, POS: npn, Gloss: men
+Lemma: mōd, Form: mōdum, POS: ipn, Gloss: spirits
+Lemma: wlonc, Form: wlonce,, POS: adj, Gloss: proud
+Lemma: word, Form: wordum, POS: ipn, Gloss: words
+Lemma: sprecan, Form: sprēcan,, POS: pret.sv, Gloss: spoke
+Lemma: sē, Form: þa, POS: nppn, Gloss: they
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: wēl, Form: wēl, POS: adv, Gloss: well
+Lemma: cunnan, Form: cuþan,, POS: pret.pv, Gloss: knew
+Lemma: þæt, Form: þæt, POS: conj, Gloss: that
+Lemma: hē, Form: hī, POS: npn, Gloss: he
+Lemma: nǣfre, Form: nǣfre, POS: adv, Gloss: never
+Lemma: song, Form: song, POS: asn, Gloss: a song
+Lemma: sēl, Form: sēllan, POS: adj, Gloss: good
+Lemma: ne, Form: ne, POS: negative, Gloss: not
+Lemma: hȳran, Form: hȳrdon., POS: pret.pv, Gloss: heard
+Lemma: ðonan, Form: ðonan, POS: adv, Gloss: thence
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: eal, Form: ealne, POS: asadj, Gloss: all
+Lemma: geondhweorfan, Form: geondhwearf, POS: pret.sv, Gloss: traverse
+Lemma: ēþel, Form: ēþel, POS: asn, Gloss: fatherland
+Lemma: Gotan, Form: Gotena,, POS: gsn, Gloss: of the Ostrogoths
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: gesīþ, Form: gesīþa, POS: apn, Gloss: battle comrades
+Lemma: sē, Form: þa, POS: art, Gloss: the
+Lemma: sēl, Form: sēlestan;, POS: art, Gloss: best
+Lemma: None, Form: a, POS: None, Gloss: None
+Lemma: sē, Form: þæt, POS: nsn, Gloss: that
+Lemma: wesan, Form: wæs, POS: psv, Gloss: were
+Lemma: innweorud, Form: innweorud, POS: n, Gloss: native peoples
+Lemma: Eormanrīc, Form: Earmanrices., POS: dsn, Gloss: Ermanric
+Lemma: Heðca, Form: Heðcan, POS: asn, Gloss: Hache
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Beadeca, Form: Beadecan, POS: asn, Gloss: Beadecan
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Herelingas, Form: Herelingas,, POS: apn, Gloss: Herelingas
+Lemma: Emerca, Form: Emercan, POS: asn, Gloss: Emerca
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Fridla, Form: Fridlan, POS: asn, Gloss: Fridla
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Eastgota, Form: Eastgotan,, POS: asn, Gloss: Ostrogotha
+Lemma: frōd, Form: frōdne, POS: adj, Gloss: wise
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: gōd, Form: gōdne, POS: adj, Gloss: good
+Lemma: fæder, Form: fæder, POS: asn, Gloss: father
+Lemma: Unwen, Form: Unwenes., POS: gsm, Gloss: of Unwen
+Lemma: Secca, Form: Seccan, POS: asn, Gloss: Secca
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Becca, Form: Beccan,, POS: asn, Gloss: Becca
+Lemma: Seafola, Form: Seafolan, POS: asn, Gloss: Seafola
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: þeodric, Form: þeodric,, POS: asn, Gloss: Theodric
+Lemma: Heaþoric, Form: Heaþoric, POS: asn, Gloss: Heathoric
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Sifeca, Form: Sifecan,, POS: asn, Gloss: Sifeca
+Lemma: Hlīþe, Form: Hliþe, POS: asn, Gloss: Lotherus
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Incgenþeow, Form: Incgenþeow., POS: asn, Gloss: Incgenþeow
+Lemma: Eadwine, Form: Eadwine, POS: asn, Gloss: Edwin
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Elsa, Form: Elsan,, POS: asn, Gloss: Elsa
+Lemma: Ægelmund, Form: Ægelmund, POS: asn, Gloss: Agelmund
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Hungar, Form: Hungar,, POS: asn, Gloss: Hungar
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: sē, Form: þā, POS: asn, Gloss: the
+Lemma: wlonc, Form: wloncan, POS: adj, Gloss: proud
+Lemma: gedryht, Form: gedryht, POS: asn, Gloss: company
+Lemma: Wiþmyrgingas, Form: Wiþmyrginga., POS: gpn, Gloss: the Wiþmyrgings
+Lemma: Wulfhere, Form: Wulfhere, POS: asn, Gloss: Wulfhere
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Wyrmhere, Form: Wyrmhere;, POS: asn, Gloss: Wyrmhere
+Lemma: ful, Form: ful, POS: adv, Gloss: very
+Lemma: oft, Form: oft, POS: adv, Gloss: often
+Lemma: þǣr, Form: þǣr, POS: adv, Gloss: there
+Lemma: wig, Form: wig, POS: nsn, Gloss: warfare
+Lemma: ne, Form: ne, POS: negative, Gloss: not
+Lemma: ālicgan, Form: ālæg,, POS: pret.sv, Gloss: rest
+Lemma: þonne, Form: þonne, POS: conj, Gloss: when
+Lemma: Hræde, Form: Hræda, POS: gsn, Gloss: Hræde
+Lemma: here, Form: here, POS: nsn, Gloss: army
+Lemma: heard, Form: heardum, POS: adj, Gloss: hard
+Lemma: sweord, Form: sweordum, POS: ipn, Gloss: swords
+Lemma: ymb, Form: ymb, POS: prep, Gloss: about
+Lemma: Wistlawudu, Form: Wistlawudu, POS: gpn, Gloss: The Wistle wood
+Lemma: wergan, Form: wergan, POS: v, Gloss: defend
+Lemma: sculan, Form: sceoldon, POS: pret.pv, Gloss: shall
+Lemma: eal, Form: ealdne, POS: adj, Gloss: old
+Lemma: ēþelstōl, Form: ēþelstōl, POS: asn, Gloss: ancestral land
+Lemma: Ætla, Form: Ætlan, POS: gsn, Gloss: Atilla's
+Lemma: lēod, Form: lēodum., POS: dpn, Gloss: people
+Lemma: Rædhere, Form: Rædhere, POS: asn, Gloss: Rædhere
+Lemma: sēcan, Form: sōhte, POS: pret.sv, Gloss: sought
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Rondhere, Form: Rondhere,, POS: asn, Gloss: Rondhere
+Lemma: Rumstan, Form: Rumstan, POS: asn, Gloss: Rumstan
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Gislhere, Form: Gislhere,, POS: asn, Gloss: Gislaharius
+Lemma: Wiþergield, Form: Wiþergield, POS: asn, Gloss: Wiþergield
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Freoþerīc, Form: Freoþeric,, POS: asn, Gloss: Freoþeric
+Lemma: Wudga, Form: Wudgan, POS: asn, Gloss: Wudga
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Hama, Form: Haman;, POS: asn, Gloss: Hama
+Lemma: ne, Form: ne, POS: negative, Gloss: not
+Lemma: wesan, Form: wæran, POS: ppv, Gloss: were
+Lemma: sē, Form: þæt, POS: aspn, Gloss: that
+Lemma: gesīþ, Form: gesīþa, POS: gpn, Gloss: comrades in arms
+Lemma: sē, Form: þa, POS: npart, Gloss: the
+Lemma: sǣmest, Form: sǣmestan,, POS: adj, Gloss: worst
+Lemma: þēah, Form: þēah, POS: conj, Gloss: although
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: hē, Form: hȳ, POS: apn, Gloss: he
+Lemma: á-nihst, Form: ánihst, POS: adv, Gloss: at the last
+Lemma: nemnan, Form: nemnan, POS: v, Gloss: name
+Lemma: sculan, Form: sceolde., POS: pret.sv, Gloss: should
+Lemma: ful, Form: Ful, POS: adv, Gloss: very
+Lemma: oft, Form: oft, POS: adv, Gloss: often
+Lemma: of, Form: of, POS: prep, Gloss: from
+Lemma: sē, Form: þām, POS: adj, Gloss: that
+Lemma: hēap, Form: hēape, POS: dsn, Gloss: company
+Lemma: hwīnan, Form: hwīnende, POS: ppv, Gloss: whining
+Lemma: flēogan, Form: fleag, POS: pret.sv, Gloss: fly
+Lemma: giellan, Form: giellende, POS: verb, Gloss: yelling
+Lemma: gar, Form: gar, POS: n, Gloss: spear
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: grom, Form: grome, POS: adj, Gloss: hostile
+Lemma: þēod, Form: þēode;, POS: asn, Gloss: band
+Lemma: wræcca, Form: wræccan, POS: npn, Gloss: wanderers
+Lemma: þǣr, Form: þǣr, POS: adv, Gloss: there
+Lemma: wealdan, Form: weold, POS: ppv, Gloss: ruled
+Lemma: windan, Form: wundnan, POS: past participle v, Gloss: wound
+Lemma: gold, Form: golde, POS: isn, Gloss: gold
+Lemma: wer, Form: werum, POS: ipn, Gloss: men
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: wīf, Form: wīfum,, POS: ipn, Gloss: women
+Lemma: Wudga, Form: Wudga, POS: nsn, Gloss: Wudga
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: Hama, Form: Hama., POS: nsn, Gloss: Hama
+Lemma: swā, Form: Swā, POS: adv, Gloss: thus
+Lemma: ic, Form: ic, POS: pn, Gloss: I
+Lemma: sē, Form: þæt, POS: asn, Gloss: that
+Lemma: simle, Form: symle, POS: adv, Gloss: always
+Lemma: onfindan, Form: onfond, POS: pret.sv, Gloss: found out
+Lemma: on, Form: on, POS: prep, Gloss: in
+Lemma: sē, Form: þære, POS: adj, Gloss: that
+Lemma: fēring, Form: fēringe,, POS: dsn, Gloss: journeying
+Lemma: þæt, Form: þæt, POS: conj, Gloss: that
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: bēon, Form: biþ, POS: pres.v, Gloss: be
+Lemma: lēof, Form: lēofast, POS: adv, Gloss: dearest
+Lemma: londbūend, Form: londbūendum, POS: dpn, Gloss: subjects
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: hē, Form: him, POS: dsn, Gloss: him
+Lemma: God, Form: God, POS: n, Gloss: God
+Lemma: syllan, Form: syleð, POS: pres.sv, Gloss: give
+Lemma: guma, Form: gumena, POS: gpn, Gloss: men's
+Lemma: rīce, Form: rīce, POS: asn, Gloss: rule
+Lemma: to, Form: to, POS: prep, Gloss: to
+Lemma: gehealdan, Form: gehealdenne,, POS: gerund, Gloss: holding
+Lemma: þenden, Form: þenden, POS: conj, Gloss: while
+Lemma: hē, Form: hē, POS: nsppn, Gloss: he
+Lemma: hēr, Form: hēr, POS: nsn, Gloss: here
+Lemma: lifgan, Form: leofað., POS: psv, Gloss: lives
+Lemma: swā, Form: Swā, POS: conj, Gloss: as
+Lemma: scrīþan, Form: scrīþende, POS: participle, Gloss: wandering
+Lemma: gesceap, Form: gesceapum, POS: ipn, Gloss: fate
+Lemma: hweorfan, Form: hweorfað, POS: ppv, Gloss: roved
+Lemma: glēomonn, Form: glēomen, POS: npm, Gloss: glee-man, minstrel
+Lemma: guma, Form: gumena, POS: gpn, Gloss: men
+Lemma: geond, Form: geond, POS: prep, Gloss: throughout
+Lemma: grund, Form: grunda, POS: gpn, Gloss: region
+Lemma: fela, Form: fela,, POS: adj, Gloss: many
+Lemma: þearf, Form: þearfe, POS: asn, Gloss: need
+Lemma: secgan, Form: secgað,, POS: pres.pv, Gloss: says
+Lemma: þoncword, Form: þoncword, POS: apn, Gloss: thank-words
+Lemma: sprecan, Form: sprecaþ,, POS: pres.pv, Gloss: speaking
+Lemma: simle, Form: simle, POS: adv, Gloss: always
+Lemma: sūð, Form: sūð, POS: adv, Gloss: south
+Lemma: oþþe, Form: oþþe, POS: conj, Gloss: or
+Lemma: norþ, Form: norð, POS: adv, Gloss: north
+Lemma: sum, Form: sumne, POS: aspn, Gloss: some one
+Lemma: gemētan, Form: gemētað, POS: v, Gloss: met
+Lemma: gydd, Form: gydda, POS: gpn, Gloss: poem
+Lemma: glēaw, Form: glēawne,, POS: adj, Gloss: appreciative
+Lemma: giefu, Form: geofum, POS: ipn, Gloss: gifts
+Lemma: unhnēaw, Form: unhnēawne,, POS: adj, Gloss: generous
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: þe, Form: þe, POS: in, Gloss: who
+Lemma: fore, Form: fore, POS: prep, Gloss: before
+Lemma: duguþ, Form: duguþe, POS: dsn, Gloss: royal military men
+Lemma: willan, Form: wile, POS: pres.sv, Gloss: will
+Lemma: dōm, Form: dōm, POS: asn, Gloss: reputation
+Lemma: ārǽran, Form: ārǽran,, POS: v, Gloss: to heighten
+Lemma: eorlscipe, Form: eorlscipe, POS: nsn, Gloss: noble behavior
+Lemma: æfnan, Form: æfnan,, POS: v, Gloss: practice
+Lemma: oþ þæt, Form: oþþæt, POS: conj, Gloss: until
+Lemma: eal, Form: eal, POS: adj, Gloss: all
+Lemma: scacan, Form: scæceð,, POS: pres.sv, Gloss: pass
+Lemma: lēoht, Form: lēoht, POS: nsn, Gloss: light
+Lemma: ond, Form: ond, POS: conj, Gloss: and
+Lemma: līf, Form: līf, POS: nsn, Gloss: life
+Lemma: somod, Form: somod;, POS: adv, Gloss: together
+Lemma: lof, Form: lof, POS: asn, Gloss: praise
+Lemma: se, Form: se, POS: dem.pn, Gloss: that
+Lemma: gewyrcan, Form: gewyrceð,, POS: v, Gloss: works
+Lemma: habban, Form: hafað, POS: psv, Gloss: has
+Lemma: under, Form: under, POS: prep, Gloss: under
+Lemma: heofon, Form: heofonum, POS: dpn, Gloss: the heavens
+Lemma: hēahfæst, Form: hēahfæstne, POS: adj, Gloss: lasting
+Lemma: dōm, Form: dōm., POS: asn, Gloss: glory
