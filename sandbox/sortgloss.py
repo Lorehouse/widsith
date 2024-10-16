@@ -7,8 +7,8 @@ c = Collator()
 def sort_key(entry):
     return c.sort_key(entry[0])
 
-if len(sys.argv) < 2:
-    print("Usage: python script.py <filename>")
+if len(sys.argv) < 3:
+    print("Usage: python script.py <inputfilename> <outputfilename>")
     sys.exit(1)
 
 readfile = sys.argv[1]
@@ -21,7 +21,7 @@ with open(readfile, "r", newline="", encoding="utf-8") as infile:
 
 with open(writefile, "w", newline="", encoding="utf-8") as outfile:
     writer = csv.writer(outfile, delimiter="\t")
-    writer.writerows(header)
+    writer.writerow(header)
     writer.writerows(rows_sorted)
 
 print("Your file has been alphabetized.")
