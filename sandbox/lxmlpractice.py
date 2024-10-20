@@ -13,14 +13,14 @@ filename = sys.argv[1]
 try:
     tree = etree.parse(filename)
     root = tree.getroot()
-
+    # print(root)
     all_tags=[elem.tag for elem in root.iter() if not isinstance(elem, etree._Comment)]
     print(all_tags)
  
-    #for child in root:
-    #    if isinstance(child, etree._Element) and not isinstance(child, etree._Comment):  # Ensure it's an element, not a comment
+    # for child in root:
+    #     if isinstance(child, etree._Element) and not isinstance(child, etree._Comment):  # Ensure it's an element, not a comment
     #        print(child.tag, child.attrib)
-    #   else:
+    #     else:
     #        print(f"Skipping non-element or comment node: {child.tag}")
 except Exception as e:
     print(f"Error: {e}")
