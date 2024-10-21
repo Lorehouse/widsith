@@ -1,7 +1,7 @@
 ## Toward a Digital Edition of Widsið
 This project is part of a thesis for a Master of English Language and Literature at Signum University.
 
-- [Side-by-side view](https://lorehord.com/views/side_by_side.html)
+- [Side-by-side view](https://lorehord.com/views/alignment1.html)
 
 - [Glossary](https://lorehord.com/views/glossary.html)
 
