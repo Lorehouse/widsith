@@ -40,7 +40,7 @@
       <word n='005' form='se' lemma='se' pos='dpn' gloss='that'/>
       <word n='006' form='þe' lemma='þe' pos='rpn' gloss='that'/>
       <word n='007' form='monna' lemma='monn' pos='gpn' gender='m' gloss='men' note="addition "/>
-      <word n='008' form='mǣst' lemma='mæst' pos='adj' gloss='most'/>
+      <word n='008' form='mǣst' lemma='mǣst' pos='adj' gloss='most'/>
       <caesura/>
       <word n='009' form='mǣgþa' lemma='mǣgþ' pos='gpn' gender='f' gloss='people'/>
       <word n='010' form='ofer' lemma='ofer' pos='prep' with='acc' gloss='over'/>
@@ -62,7 +62,7 @@
       <caesura/>
       <word n='021' form='Him' lemma='hē' pos='asn' gender='m' gloss='him'/>
       <word n='022' form='from' lemma='from' pos='prep' with='dat' gloss='from'/>
-      <word n='023' form='Myrgingum' lemma='Myrging' pos='dpn' gloss='the Myrgings' comment="the tribe to which Widsið belonged. 'By virtue of the Offa episode, the Myrgings can be localized with some precision; they lived south of the river Eider, in a region apparently identical with that held by the Saxons of Ptolemy and certainly identical with that held by the Nordalbings of later times, themselves a branch of the Old Saxons (to use King Alfred's term).' (Malone 183). The Myrgings were likely a Saxonish tribe called the Maurungani of the Geographer of Ravenna."/>
+      <word n='023' form='Myrgingum' lemma='Myrgingas' pos='dpn' gloss='the Myrgings' comment="the tribe to which Widsið belonged. 'By virtue of the Offa episode, the Myrgings can be localized with some precision; they lived south of the river Eider, in a region apparently identical with that held by the Saxons of Ptolemy and certainly identical with that held by the Nordalbings of later times, themselves a branch of the Old Saxons (to use King Alfred's term).' (Malone 183). The Myrgings were likely a Saxonish tribe called the Maurungani of the Geographer of Ravenna."/>
     </l>
     <l n='5'>
       <word n='024' form='æþele' lemma='æþelo' pos='npn' gender='f' gloss='noble'/>
@@ -107,7 +107,7 @@
       <word n='' form='monna' lemma='monn' pos='gpn' gloss='men'/>
       <word n='' form='gefrægn' lemma='gefrignan' pos='pret.sv' verb='strong' gloss='learned (by asking)'/>
       <caesura/>
-      <word n='' form='mǣgþum' lemma='mægþ' pos='ipn' gender='f' gloss='tribe'/>
+      <word n='' form='mǣgþum' lemma='mǣgþ' pos='ipn' gender='f' gloss='tribe'/>
       <word n='' form='wealdan!' lemma='wealdan' pos='pret.sv' verb='' feat='with instrumental' gloss='ruled' note="to have power over "/>
     </l>
     <l n='11'>
@@ -136,7 +136,7 @@
       <word n='' form='wile.' lemma='willan' pos='pret.sv' gloss='will'/>
     </l>
     <l n='14'>
-      <word n='' form='þāra' lemma='sē' pos='gpn' gender='m' gloss='that'/>
+      <word n='' form='Þāra' lemma='sē' pos='gpn' gender='m' gloss='that'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='Hwala' lemma='Hwala' pos='nsn' gloss='Hwala' comment="Grandson of Sceaf but otherwise unknown"/>
       <caesura/>
@@ -156,7 +156,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='hē' lemma='hē' pos='nsppn' gender='m' gloss='he'/>
-      <word n='' form='mǣst' lemma='mæst' pos='adj' feat='superlative' gloss='most'/>
+      <word n='' form='mǣst' lemma='mǣst' pos='adj' feat='superlative' gloss='most'/>
       <word n='' form='geþah' lemma='geþeon' pos='pret.sv' verb='strong' gloss='throve'/>
     </l>
     <l n='17'>
@@ -337,7 +337,7 @@
       <word n='' form='cnihtwesende,' lemma='cnihtwesende' pos='pp' gloss='being a youth'/>
       <caesura/>
       <word n='' form='cynerica' lemma='cynerice' pos='gpn' gloss='king-realm'/>
-      <word n='' form='mǣst.' lemma='mæst' pos='adj' feat='superlative' gloss='greatest'/>
+      <word n='' form='mǣst.' lemma='mǣst' pos='adj' feat='superlative' gloss='greatest'/>
     </l>
     <l n='40'>
       <word n='' form='Nænig' lemma='nænig' pos='pn' gloss='Not any'/>
@@ -370,7 +370,7 @@
       <word n='' form='sīþþan' lemma='sīþþan' pos='adv' gloss='afterwards'/>
     </l>
     <l n='44'>
-      <word n='' form='Engle' lemma='Engle' pos='asn' gloss='the Angles'/>
+      <word n='' form='Engle' lemma='Ongel' pos='asn' gloss='the Angles'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Swæfe,' lemma='Swæfe' pos='asn' gloss='the Suebi'/>
       <caesura/>
@@ -440,10 +440,10 @@
       <word n='' form='cunnade' lemma='cunnian' pos='pret.psv' verb='weak' gloss='experience'/>
       <caesura/>
       <word n='' form='cnōsle' lemma='cnōsl' pos='dsn' gender='n' gloss='kindred'/>
-      <word n='' form='bidǽled,' lemma='bidǽlan' pos='ppv' with='dative' gloss='deprived of'/>
+      <word n='' form='bidǣled,' lemma='bidǣlan' pos='ppv' with='dative' gloss='deprived of'/>
     </l>
     <l n='53'>
-      <word n='' form='frēomǣgum' lemma='frēomǣgum' pos='dpn' gender='m' gloss='generous kinsmen'/>
+      <word n='' form='frēomǣgum' lemma='frēomǣg' pos='dpn' gender='m' gloss='generous kinsmen'/>
       <word n='' form='feor' lemma='feor' pos='adj' gloss='far'/>
       <caesura/>
       <word n='' form='folgade' lemma='folgian' pos='pret.sv' verb='weak' gloss='served'/>
@@ -476,7 +476,7 @@
       <word n='' form='dohten.' lemma='dugan' pos='pret.subj.pv' gloss='would be generous'/>
     </l>
     <l n='57'>
-      <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
+      <word n='' form='Ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
       <word n='' form='Hunum' lemma='Hunas' pos='dpn' gloss='The Huns'/>
@@ -507,7 +507,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='wicingum.' lemma='Wicingas' pos='dpn' gloss='the Wicings' comment="This is a reference to the Heaðobeards."/>
+      <word n='' form='wicingum.' lemma='Wicingas' pos='dpn' gloss='the Wicings' comment="This is a reference to the Heaðobeards, according to Malone, but often translated as Vikings."/>
     </l>
     <l n='60'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -558,7 +558,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Heaþoreamum.' lemma='HeaÞoreamas' pos='dpn' gloss='HeaÞoramas'/>
+      <word n='' form='Heaþoreamum.' lemma='Heaþoreamas' pos='dpn' gloss='HeaÞoramas'/>
     </l>
     <l n='64'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
