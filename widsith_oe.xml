@@ -18,22 +18,22 @@
     <body>
       <head>Widsith</head>
       <lg>
-        <l n="1">Widsið maðolade, <caesura/> wordhord onleac,</l>
-        <l n="2">se þe monna mæst <caesura/> mægþa ofer eorþan,</l>
-        <l n="3">folca geondferde; <caesura/> oft he on flette geþah</l>
-        <l n="4">mynelicne maþþum. <caesura/> Him from Myrgingum</l>
-        <l n="5">æþele onwocon. <caesura/> He mid Ealhhilde,</l>
-        <l n="6">fælre freoþuwebban, <caesura/> forman siþe</l>
-        <l n="7">Hreðcyninges <caesura/> ham gesohte</l>
-        <l n="8">eastan of Ongle, <caesura/> Eormanrices,</l>
-        <l n="9">wraþes wærlogan. <caesura/> Ongon þa worn sprecan:</l>
+        <l n="1"><persName>Widsið</persName> maðolade, <caesura/> wordhord onleac,</l>
+        <l n="2">se þe monna mǣst <caesura/> mǣgþa ofer eorþan,</l>
+        <l n="3">folca geondferde; <caesura/> oft hē on flette geþah</l>
+        <l n="4">mynelīcne maþþum. <caesura/> Him from <name sameAs='Myrging'>Myrgingum</name></l>
+        <l n="5">æþele onwocon. <caesura/> Hē mid <persName>Ealhhilde</persName>,</l>
+        <l n="6">fælre freoþuwebban, <caesura/> forman sīþe</l>
+        <l n="7"><persName sameAs='Eormanrīc'>Hreðcyninges</persName> <caesura/> ham gesohte</l>
+        <l n="8">eastan of <placeName>Ongle</placeName>, <caesura/> <persName sameAs="Eormanrīc">Eormanrīces</persName>,</l>
+        <l n="9">wraþes wærlogan. <caesura/> Ongon þa worn sprecan:</l><!-- This is where I stopped on 3/11/2024-->
         <l n="10">"Fela ic monna gefrægn <caesura/> mægþum wealdan!</l>
         <l n="11">Sceal þeodna gehwylc <caesura/> þeawum lifgan,</l>
         <l n="12">eorl æfter oþrum <caesura/> eðle rædan,</l>
         <l n="13">se þe his þeodenstol <caesura/> geþeon wile.</l>
         <l n="14">Þara wæs Hwala <caesura/> hwile selast,</l>
         <l n="15">ond Alexandreas <caesura/> ealra ricost</l>
-        <l n="16">monna cynnes, <caesura/> ond he mæst geþah</l>
+        <l n="16">monna cynnes, <caesura/> ond hē mæst geþah</l>
         <l n="17">þara þe ic ofer foldan <caesura/> gefrægen hæbbe.</l>
         <l n="18">Ætla weold Hunum, <caesura/> Eormanric Gotum,</l>
         <l n="19">Becca Baningum, <caesura/> Burgendum Gifica.</l>
@@ -54,7 +54,7 @@
         <l n="34">Hringweald wæs haten <caesura/> Herefarena cyning.</l>
         <l n="35">Offa weold Ongle, <caesura/> Alewih Denum;</l>
         <l n="36">se wæs þara manna <caesura/> modgast ealra,</l>
-        <l n="37">no hwæþre he ofer Offan <caesura/> eorlscype fremede,</l>
+        <l n="37">no hwæþre hē ofer Offan <caesura/> eorlscype fremede,</l>
         <l n="38">ac Offa geslog <caesura/> ærest monna,</l>
         <l n="39">cnihtwesende, <caesura/> cynerica mæst.</l>
         <l n="40">Nænig efeneald him <caesura/> eorlscipe maran</l>
@@ -112,7 +112,7 @@
         <l n="92">gescyred sceatta <caesura/> scillingrime;</l>
         <l n="93">þone ic Eadgilse <caesura/> on æht sealde,</l>
         <l n="94">minum hleodryhtne, <caesura/> þa ic to ham bicwom,</l>
-        <l n="95">leofum to leane, <caesura/> þæs þe he me lond forgeaf,</l>
+        <l n="95">leofum to leane, <caesura/> þæs þe hē me lond forgeaf,</l>
         <l n="96">mines fæder eþel, <caesura/> frea Myrginga.</l>
         <l n="97">Ond me þa Ealhhild <caesura/> oþerne forgeaf,</l>
         <l n="98">dryhtcwen duguþe, <caesura/> dohtor Eadwines.</l>
@@ -151,7 +151,7 @@
         <l n="131">Swa ic þæt symle onfond <caesura/> on þære feringe,</l>
         <l n="132">þæt se biþ leofast <caesura/> londbuendum</l>
         <l n="133">se þe him god syleð <caesura/> gumena rice</l>
-        <l n="134">to gehealdenne, <caesura/> þenden he her leofað."</l>
+        <l n="134">to gehealdenne, <caesura/> þenden hē her leofað."</l>
         <l n="135">Swa scriþende <caesura/> gesceapum hweorfað</l>
         <l n="136">gleomen gumena <caesura/> geond grunda fela,</l>
         <l n="137">þearfe secgað, <caesura/> þoncword sprecaþ,</l>
