@@ -666,7 +666,7 @@
       <word n='' form='Eadwines.' lemma='Eadwine' pos='asn' gloss='of Edwin' comment="King of the Langobards, Audoin"/>
     </l>
     <l n='75'>
-      <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
+      <word n='' form='Mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
       <word n='' form='Sercingum' lemma='Sercingas' pos='dpn' gloss='the Sercings' comment="Perhaps Tacitus's Siraci, a Black Sea tribe, or perhaps the Serica of the ancients (Sedgefield 1922, 136), though Malone notes this would then connect them with the Serkland and Serkir in the same line (197)."/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
@@ -729,7 +729,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Longbeardum,' lemma='Longbeardum' pos='dpn' gloss='The Langobards'/>
+      <word n='' form='Longbeardum,' lemma='Longbeardan' pos='dpn' gloss='The Langobards'/>
     </l>
     <l n='81'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -786,7 +786,7 @@
     <l n='86'>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Amothingum.' lemma='Amoþingas' pos='dpn' gloss='the Amothings' comment="Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the <i>Ynglingasaga</i> by Snorri"/>
+      <word n='' form='Amoþingum.' lemma='Amoþingas' pos='dpn' gloss='the Amothings' comment="Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the <i>Ynglingasaga</i> by Snorri"/>
       <caesura/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
       <word n='' form='Eastþyringum' lemma='Eastþyringas' pos='dpn' gloss='Thuringians' comment="Still the best sausages in Germany"/>
@@ -809,7 +809,7 @@
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Eormanrice' lemma='Eormanrīc' pos='dsn' gloss='Ermanric'/>
+      <word n='' form='Eormanrīce' lemma='Eormanrīc' pos='dsn' gloss='Ermanric'/>
       <caesura/>
       <word n='' form='ealle' lemma='eal' pos='asn' gender='f' gloss='all'/>
       <word n='' form='þrāge,' lemma='þrāg' pos='asn' gloss='time'/>
@@ -854,14 +854,15 @@
       <word n='' form='Eadgilse' lemma='Eadgils' pos='dsn' gloss='Eadgils' comment="King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139"/>
       <caesura/>
       <word n='' form='on' lemma='on' pos='prep' with='acc' gloss='in'/>
-      <word n='' form='sealde,' lemma='syllan' pos='pret.sv' verb='weak' gloss='gave'/>
       <word n='' form='ǣht' lemma='ǣht' pos='asn' gloss='possession'/>
+      <word n='' form='sealde,' lemma='syllan' pos='pret.sv' verb='weak' gloss='gave'/>
+      
     </l>
     <l n='94'>
       <word n='' form='mīnum' lemma='mīn' pos='adj' gloss='my'/>
       <word n='' form='hlēodryhtne,' lemma='hlēodryhten' pos='dsn' gloss='lord protector'/>
       <caesura/>
-      <word n='' form='þa' lemma='þā' pos='conj' gloss='when'/>
+      <word n='' form='þā' lemma='þā' pos='conj' gloss='when'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='to' lemma='to' pos='prep' gloss='to'/>
       <word n='' form='ham' lemma='ham' pos='asn' gloss='home'/>
@@ -989,7 +990,7 @@
       <word n='' form='hȳrdon.' lemma='hȳran' pos='pret.pv' verb='weak' gloss='heard'/>
     </l>
     <l n='109'>
-      <word n='' form='ðonan' lemma='ðonan' pos='adv' gloss='thence'/>
+      <word n='' form='Ðonan' lemma='ðonan' pos='adv' gloss='thence'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='ealne' lemma='eal' pos='asadj' gloss='all'/>
       <word n='' form='geondhwearf' lemma='geondhweorfan' pos='pret.sv' verb='strong' gloss='traverse'/>
@@ -1012,7 +1013,7 @@
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='were'/>
       <word n='' form='innweorud' lemma='innweorud' pos='n' gloss='native peoples'/>
       <caesura/>
-      <word n='' form='Earmanrices.' lemma='Eormanrīc' pos='dsn' gloss='Ermanric'/>
+      <word n='' form='Earmanrīces.' lemma='Eormanrīc' pos='dsn' gloss='Ermanric'/>
     </l>
     <l n='112'>
       <word n='' form='Heðcan' lemma='Heðca' pos='asn' gloss='Hache' comment="Malone corrects this to Hehca, and associates him with 'Hache', a Germanic hero (Malone 168). Anscombe 1916 amends it to Hæþcan and identifies the character with King Hæðcyn of Beowulf."/>
@@ -1058,7 +1059,7 @@
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Sifecan,' lemma='Sifeca' pos='asn' gloss='Sifeca' comment="An evil counselor of unknown origin but with lots of speculation (Malone 199)."/>
       <caesura/>
-      <word n='' form='Hliþe' lemma='Hlīþe' pos='asn' gloss='Lotherus' comment="Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)"/>
+      <word n='' form='Hlīþe' lemma='Hlīþe' pos='asn' gloss='Lotherus' comment="Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)"/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Incgenþeow.' lemma='Incgenþeow' pos='asn' gloss='Incgenþeow' comment="Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf."/>
     </l>
@@ -1097,7 +1098,7 @@
     </l>
     <l n='120'>
       <word n='' form='þonne' lemma='þonne' pos='conj' gloss='when'/>
-      <word n='' form='Hræda' lemma='Hræde' pos='gsn' gloss='Hræde'/>
+      <word n='' form='Hræda' lemma='Hræde' pos='gsn' gloss='Hræde' comment="###"/>
       <word n='' form='here' lemma='here' pos='nsn' gloss='army'/>
       <caesura/>
       <word n='' form='heardum' lemma='heard' pos='adj' gloss='hard'/>
@@ -1151,7 +1152,7 @@
       <word n='' form='þe' lemma='þe' pos='in' gloss='who'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='hȳ' lemma='hē' pos='apn' gloss='he'/>
-      <word n='' form='ánihst' lemma='á-nihst' pos='adv' gloss='at the last'/>
+      <word n='' form='anīhst' lemma='a-nīhst' pos='adv' gloss='at the last'/>
       <caesura/>
       <word n='' form='nemnan' lemma='nemnan' pos='v' verb='weak' gloss='name'/>
       <word n='' form='sceolde.' lemma='sculan' pos='pret.sv' gloss='should'/>
@@ -1204,14 +1205,14 @@
     </l>
     <l n='132'>
       <word n='' form='þæt' lemma='þæt' pos='conj' gloss='that'/>
-      <word n='' form='se' lemma='se' pos='dem.pn' gloss='that'/>
+      <word n='' form='sē' lemma='sē' pos='dem.pn' gloss='that'/>
       <word n='' form='biþ' lemma='bēon' pos='pres.v' verb='anomalous' gloss='be'/>
       <word n='' form='lēofast' lemma='lēof' pos='adv' feat='superlative' gloss='dearest'/>
       <caesura/>
       <word n='' form='londbūendum' lemma='londbūend' pos='dpn' gender='m' gloss='subjects'/>
     </l>
     <l n='133'>
-      <word n='' form='se' lemma='se' pos='dem.pn' gloss='that'/>
+      <word n='' form='sē' lemma='sē' pos='dem.pn' gloss='that'/>
       <word n='' form='þe' lemma='þe' pos='in' gloss='who'/>
       <word n='' form='him' lemma='hē' pos='dsn' gloss='him'/>
       <word n='' form='God' lemma='God' pos='n' gloss='God'/>
@@ -1275,7 +1276,7 @@
       <word n='' form='wile' lemma='willan' note='anomalous' pos='pres.sv' gloss='will'/>
       <caesura/>
       <word n='' form='dōm' lemma='dōm' pos='asn' gloss='reputation'/>
-      <word n='' form='ārǽran,' lemma='ārǽran' pos='v' verb='weak' gloss='to heighten'/>
+      <word n='' form='ārǣran,' lemma='ārǣran' pos='v' verb='weak' gloss='to heighten'/>
     </l>
     <l n='141'>
       <word n='' form='eorlscipe' lemma='eorlscipe' pos='nsn' gloss='noble behavior'/>

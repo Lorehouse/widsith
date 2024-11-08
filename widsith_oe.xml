@@ -24,9 +24,9 @@
         <l n="4">mynelīcne maþþum. <caesura/> Him from <name sameAs='Myrgingas'>Myrgingum</name></l>
         <l n="5">æþele onwocon. <caesura/> Hē mid <persName>Ealhhilde</persName>,</l>
         <l n="6">fælre freoþuwebban, <caesura/> forman sīþe</l>
-        <l n="7"><persName sameAs='Eormanrīc'>Hreðcyninges</persName> <caesura/> ham gesohte</l>
+        <l n="7"><persName sameAs='Eormanrīc'>Hreðcyninges</persName> <caesura/> ham gesōhte</l>
         <l n="8">eastan of <placeName>Ongle</placeName>, <caesura/> <persName sameAs="Eormanrīc">Eormanrīces</persName>,</l>
-        <l n="9">wraþes wærlogan. <caesura/> Ongon þa worn sprecan:</l>
+        <l n="9">wraþes wærlogan. <caesura/> Ongon þā worn sprecan:</l>
         <l n="10">"Fela ic monna gefrægn <caesura/> mǣgþum wealdan!</l>
         <l n="11">Sceal þeodna gehwylc <caesura/> þeawum lifgan,</l>
         <l n="12">eorl æfter oþrum <caesura/> eðle rædan,</l>
@@ -91,76 +91,76 @@
         <l n="71">se hæfde moncynnes, <caesura/> mīne gefrǣge,</l>
         <l n="72">lēohteste hond <caesura/> lofes to wyrcenne,</l>
         <l n="73">heortan unhnēaweste <caesura/> hringa gedāles,</l>
-        <l n="74">beorhtra bēaga, <caesura/> bearn <persName>Eadwines</persName>.</l><!-- This is where I stopped at 14:10 2024.11.04-->
-        <l n="75">Mid Sercingum ic wæs <caesura/> ond mid Seringum;</l>
-        <l n="76">mid Creacum ic wæs ond mid Finnum <caesura/> ond mid Casere,</l>
-        <l n="77">se þe winburga <caesura/> geweald ahte,</l>
-        <l n="78">wiolena ond wilna, <caesura/> ond Wala rices.</l>
-        <l n="79">Mid Scottum ic wæs ond mid Peohtum <caesura/> ond mid Scridefinnum;</l>
-        <l n="80">mid Lidwicingum ic wæs ond mid Leonum <caesura/> ond mid Longbeardum,</l>
-        <l n="81">mid hæðnum ond mid hæleþum <caesura/> ond mid Hundingum.</l>
-        <l n="82">Mid Israhelum ic wæs <caesura/> ond mid Exsyringum,</l>
-        <l n="83">mid Ebreum ond mid Indeum <caesura/> ond mid Egyptum.</l>
-        <l n="84">Mid Moidum ic wæs ond mid Persum <caesura/> ond mid Myrgingum,</l>
-        <l n="85">ond Mofdingum <caesura/> ond ongend Myrgingum,</l>
-        <l n="86">ond mid Amothingum. <caesura/> Mid Eastþyringum ic wæs</l>
-        <l n="87">ond mid Eolum ond mid Istum <caesura/> ond Idumingum.</l>
-        <l n="88">Ond ic wæs mid Eormanrice <caesura/> ealle þrage,</l>
-        <l n="89">þær me Gotena cyning <caesura/> gode dohte;</l>
-        <l n="90">se me beag forgeaf, <caesura/> burgwarena fruma,</l>
-        <l n="91">on þam siex hund wæs <caesura/> smætes goldes,</l>
-        <l n="92">gescyred sceatta <caesura/> scillingrime;</l>
-        <l n="93">þone ic Eadgilse <caesura/> on æht sealde,</l>
-        <l n="94">minum hleodryhtne, <caesura/> þa ic to ham bicwom,</l>
-        <l n="95">leofum to leane, <caesura/> þæs þe hē me lond forgeaf,</l>
-        <l n="96">mines fæder eþel, <caesura/> frea Myrginga.</l>
-        <l n="97">Ond me þa Ealhhild <caesura/> oþerne forgeaf,</l>
-        <l n="98">dryhtcwen duguþe, <caesura/> dohtor Eadwines.</l>
+        <l n="74">beorhtra bēaga, <caesura/> bearn <persName>Eadwines</persName>.</l>
+        <l n="75">Mid <name sameAs="Sercingas">Sercingum</name> ic wæs <caesura/> ond mid <name sameAs="Seringas">Seringum</name>;</l>
+        <l n="76">mid <name sameAs="Creacas">Creacum</name> ic wæs ond mid <name sameAs="Ginnas">Finnum</name> <caesura/> ond mid <persName>Casere</persName>,</l>
+        <l n="77">se þe wīnburga <caesura/> geweald āhte,</l>
+        <l n="78">wiolena ond wilna, <caesura/> ond <placeName sameAs="Walas">Wala</placeName> rīces.</l>
+        <l n="79">Mid <name sameAs="Scottas">Scottum</name> ic wæs ond mid <name sameAs="Peohtas">Peohtum</name> <caesura/> ond mid <name sameAs="Scridefinnas">Scridefinnum</name>;</l>
+        <l n="80">mid <name sameAs="Lidwicingas">Lidwicingum</name> ic wæs ond mid <name sameAs="Leonas">Leonum</name> <caesura/> ond mid <name sameAs="Longbeardan">Longbeardum</name>,</l>
+        <l n="81">mid hæðnum ond mid hæleþum <caesura/> ond mid <name sameAs="Hundingas">Hundingum</name>.</l>
+        <l n="82">Mid <name sameAs="Israhelas">Israhelum</name> ic wæs <caesura/> ond mid <name sameAs="Exsyringas">Exsyringum</name>,</l>
+        <l n="83">mid <name sameAs="Ebreas">Ebreum</name> ond mid <name sameAs="Indeas">Indeum</name> <caesura/> ond mid <name sameAs="Egypte">Egyptum</name>.</l>
+        <l n="84">Mid <name sameAs="Moide">Moidum</name> ic wæs ond mid <name sameAs="Perse">Persum</name> <caesura/> ond mid <name sameAs="Myrgingas">Myrgingum</name>,</l>
+        <l n="85">ond <name sameAs="Mofdingas">Mofdingum</name> <caesura/> ond <name sameAs="Ongendmyrgingas">Ongendmyrgingum</name>,</l>
+        <l n="86">ond mid <name sameAs="Amoþingas">Amoþingum</name>. <caesura/> Mid <name sameAs="Eastþyringas">Eastþyringum</name> ic wæs</l>
+        <l n="87">ond mid <name sameAs="Ilwan">Eolum</name> ond mid <name sameAs="Iste">Istum</name> <caesura/> ond <name sameAs="Idumingas">Idumingum</name>.</l>
+        <l n="88">Ond ic wæs mid <persName sameAs="Eormanrīc">Eormanrīce</persName> <caesura/> ealle þrāge,</l>
+        <l n="89">þǣr me <name sameAs="Gotan">Gotena</name> cyning <caesura/> gōde dohte;</l>
+        <l n="90">se me bēag forgeaf, <caesura/> burgwarena fruma,</l>
+        <l n="91">on þām siex hund wæs <caesura/> smǣtes goldes,</l>
+        <l n="92">gescyred sceatta <caesura/> scillingrīme;</l>
+        <l n="93">þone ic <persName sameAs="Eadgils">Eadgilse</persName>\ <caesura/> on ǣht sealde,</l>
+        <l n="94">mīnum hlēodryhtne, <caesura/> þā ic to ham bicwom,</l>
+        <l n="95">lēofum to lēane, <caesura/> þæs þe hē me lond forgeaf,</l>
+        <l n="96">mīnes fæder ēþel, <caesura/> frēa <name sameAs="Myrgingas">Myrginga</name>.</l>
+        <l n="97">Ond me þā <persName>Ealhhild</persName> <caesura/> ōþerne forgeaf,</l>
+        <l n="98">dryhtcwēn duguþe, <caesura/> dohtor <persName sameAs="Eadwine">Eadwines</persName>.</l>
         <l n="99">Hyre lof lengde <caesura/> geond londa fela,</l>
         <l n="100">þonne ic be songe <caesura/> secgan sceolde</l>
-        <l n="101">hwær ic under swegle <caesura/> selast wisse</l>
-        <l n="102">goldhrodene cwen <caesura/> giefe bryttian.</l>
-        <l n="103">ðonne wit Scilling <caesura/> sciran reorde</l>
-        <l n="104">for uncrum sigedryhtne <caesura/> song ahofan,</l>
-        <l n="105">hlude bi hearpan <caesura/> hleoþor swinsade,</l>
-        <l n="106">þonne monige men, <caesura/> modum wlonce,</l>
-        <l n="107">wordum sprecan, <caesura/> þa þe wel cuþan,</l>
-        <l n="108">þæt hi næfre song <caesura/> sellan ne hyrdon.</l>
-        <l n="109">ðonan ic ealne geondhwearf <caesura/> eþel Gotena,</l>
-        <l n="110">sohte ic a gesiþa <caesura/> þa selestan;</l>
-        <l n="111">þæt wæs innweorud <caesura/> Earmanrices.</l>
-        <l n="112">Heðcan sohte ic ond Beadecan <caesura/> ond Herelingas,</l>
-        <l n="113">Emercan sohte ic ond Fridlan <caesura/> ond Eastgotan,</l>
-        <l n="114">frodne ond godne <caesura/> fæder Unwenes.</l>
-        <l n="115">Seccan sohte ic ond Beccan, <caesura/> Seafolan ond Þeodric,</l>
-        <l n="116">Heaþoric ond Sifecan, <caesura/> Hliþe ond Incgenþeow.</l>
-        <l n="117">Eadwine sohte ic ond Elsan, <caesura/> Ægelmund ond Hungar,</l>
-        <l n="118">ond þa wloncan gedryht <caesura/> Wiþmyrginga.</l>
-        <l n="119">Wulfhere sohte ic ond Wyrmhere; <caesura/> ful oft þær wig ne alæg,</l>
-        <l n="120">þonne Hræda here <caesura/> heardum sweordum</l>
-        <l n="121">ymb Wistlawudu <caesura/> wergan sceoldon</l>
-        <l n="122">ealdne eþelstol <caesura/> Ætlan leodum.</l>
-        <l n="123">Rædhere sohte ic ond Rondhere, <caesura/> Rumstan ond Gislhere,</l>
-        <l n="124">Wiþergield ond Freoþeric, <caesura/> Wudgan ond Haman;</l>
-        <l n="125">ne wæran þæt gesiþa <caesura/> þa sæmestan,</l>
-        <l n="126">þeah þe ic hy anihst <caesura/> nemnan sceolde.</l>
-        <l n="127">Ful oft of þam heape <caesura/> hwinende fleag</l>
-        <l n="128">giellende gar <caesura/> on grome þeode;</l>
-        <l n="129">wræccan þær weoldan <caesura/> wundnan golde</l>
-        <l n="130">werum ond wifum, <caesura/> Wudga ond Hama.</l>
-        <l n="131">Swa ic þæt symle onfond <caesura/> on þære feringe,</l>
-        <l n="132">þæt se biþ leofast <caesura/> londbuendum</l>
-        <l n="133">se þe him god syleð <caesura/> gumena rice</l>
-        <l n="134">to gehealdenne, <caesura/> þenden hē her leofað."</l>
-        <l n="135">Swa scriþende <caesura/> gesceapum hweorfað</l>
-        <l n="136">gleomen gumena <caesura/> geond grunda fela,</l>
+        <l n="101">hwær ic under swegle <caesura/> sēlast wisse</l>
+        <l n="102">goldhrodene cwēn <caesura/> giefe bryttian.</l>
+        <l n="103">Ðonne wit <persName>Scilling</persName> <caesura/> scīran reorde</l>
+        <l n="104">for uncrum sigedryhtne <caesura/> song āhofan,</l>
+        <l n="105">hlude bī hearpan <caesura/> hlēoþor swinsade,</l>
+        <l n="106">þonne monige men, <caesura/> mōdum wlonce,</l>
+        <l n="107">wordum sprēcan, <caesura/> þa þe wēl cuþan,</l>
+        <l n="108">þæt hī nǣfre song <caesura/> sēllan ne hȳrdon.</l>
+        <l n="109">Ðonan ic ealne geondhwearf <caesura/> ēþel <name sameAs="Gotan">Gotena</name>,</l>
+        <l n="110">sōhte ic a gesiþa <caesura/> þā selestan;</l>
+        <l n="111">þæt wæs innweorud <caesura/> <persName sameAs="Eormanrīc">Earmanrīces</persName>.</l>
+        <l n="112"><persName sameAs="Heðca">Heðcan</persName> sōhte ic ond <persName sameAs="Beadeca">Beadecan</persName> <caesura/> ond <name sameAs="Herelingas">Herelingas</name>,</l>
+        <l n="113"><persName sameAs="Emerca">Emercan</persName> sōhte ic ond <persName sameAs="Fridla">Fridlan</persName> <caesura/> ond <persName sameAs="Eastgota">Eastgotan</persName>,</l>
+        <l n="114">frōdne ond gōdne <caesura/> fæder <persName sameAs="Unwen">Unwenes</persName>.</l>
+        <l n="115"><persName sameAs="Secca">Seccan</persName> sōhte ic ond <persName sameAs="Becca">Beccan</persName>, <caesura/> <persName sameAs="Seafola">Seafolan</persName> ond <persName>Þeodric</persName>,</l>
+        <l n="116"><persName>Heaþoric</persName> ond <persName sameAs="Sifeca">Sifecan</persName>, <caesura/> <persName>Hlīþe</persName> ond <persName>Incgenþeow</persName>.</l>
+        <l n="117"><persName>Eadwine</persName> sōhte ic ond <persName sameAs="Elsa">Elsan</persName>, <caesura/> <persName>Ægelmund</persName> ond <persName>Hungar</persName>,</l>
+        <l n="118">ond þā wloncan gedryht <caesura/> <name sameAs="Wiþmyrginga">Wiþmyrginga</name>.</l>
+        <l n="119"><persName>Wulfhere</persName> sōhte ic ond <persName>Wyrmhere</persName>; <caesura/> ful oft þǣr wig ne ālæg,</l>
+        <l n="120">þonne <persName>Hræda</persName> here <caesura/> heardum sweordum</l>
+        <l n="121">ymb <placeName>Wistlawudu</placeName> <caesura/> wergan sceoldon</l>
+        <l n="122">ealdne ēþelstōl <caesura/> <persName sameAs="Ætla">Ætlan</persName> lēodum.</l>
+        <l n="123"><persName>Rædhere</persName> sōhte ic ond <persName>Rondhere</persName>, <caesura/> <persName>Rumstan</persName> ond <persName>Gislhere</persName>,</l>
+        <l n="124"><persName>Wiþergield</persName> ond <persName>Freoþeric</persName>, <caesura/> <persName sameAs="Wudga">Wudgan</persName> ond <persName sameAs="Hama">Haman</persName>;</l>
+        <l n="125">ne wæran þæt gesīþa <caesura/> þā sǣmestan,</l>
+        <l n="126">þēah þe ic hȳ anīhst <caesura/> nemnan sceolde.</l>
+        <l n="127">Ful oft of þām hēape <caesura/> hwīnende fleag</l>
+        <l n="128">giellende gar <caesura/> on grome þēode;</l>
+        <l n="129">wræccan þǣr weoldan <caesura/> wundnan golde</l>
+        <l n="130">werum ond wīfum, <caesura/> <persName>Wudga</persName> ond <persName>Hama</persName>.</l>
+        <l n="131">Swa ic þæt symle onfond <caesura/> on þære fēringe,</l>
+        <l n="132">þæt sē biþ leofast <caesura/> londbūendum</l>
+        <l n="133">sē þe him God syleð <caesura/> gumena rīce</l>
+        <l n="134">to gehealdenne, <caesura/> þenden hē hēr leofað."</l>
+        <l n="135">Swā scrīþende <caesura/> gesceapum hweorfað</l>
+        <l n="136">glēomen gumena <caesura/> geond grunda fela,</l>
         <l n="137">þearfe secgað, <caesura/> þoncword sprecaþ,</l>
-        <l n="138">simle suð oþþe norð <caesura/> sumne gemetað</l>
-        <l n="139">gydda gleawne, <caesura/> geofum unhneawne,</l>
-        <l n="140">se þe fore duguþe wile <caesura/> dom aræran,</l>
+        <l n="138">simle sūð oþþe norð <caesura/> sumne gemētað</l>
+        <l n="139">gydda glēawne, <caesura/> geofum unhnēawne,</l>
+        <l n="140">sē þe fore duguþe wile <caesura/> dōm ārǣran,</l>
         <l n="141">eorlscipe æfnan, <caesura/> oþþæt eal scæceð,</l>
-        <l n="142">leoht ond lif somod; <caesura/> lof se gewyrceð,</l>
-        <l n="143">hafað under heofonum <caesura/> heahfæstne dom. </l>
+        <l n="142">lēoht ond līf somod; <caesura/> lof sē gewyrceð,</l>
+        <l n="143">hafað under heofonum <caesura/> hēahfæstne dōm. </l>
       </lg>
     </body>
   </text>
