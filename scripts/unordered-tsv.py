@@ -22,8 +22,8 @@ try:
         pos = word.get('pos')
         gloss = word.get('gloss')
         glossary.append({
-            'lemma': lemma,
             'form': form,
+            'lemma': lemma,            
             'pos': pos,
             'line': line,
             'gloss': gloss
@@ -33,7 +33,7 @@ try:
 
     with open(outputtsv, 'a', encoding='utf-8') as f:
         for entry in glossary:
-            f.write(f"{entry['lemma']}\t{entry['form']}\t{entry['pos']}\t{entry['line']}\t{entry['gloss']}\n")
+            f.write(f"{entry['form']}\t{entry['lemma']}\t{entry['pos']}\t{entry['line']}\t{entry['gloss']}\n")
 
 
     print(f"Unsorted glossary has been written to {outputtsv}")
