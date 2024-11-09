@@ -3,7 +3,7 @@ from lxml import etree
 
 
 if len(sys.argv) < 2:
-    print("Usage: python script.py <filename>")
+    print("Usage: python script.py <input_filename> <output_filename>")
     sys.exit(1)
 
 filename = sys.argv[1]

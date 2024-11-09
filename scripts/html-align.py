@@ -40,6 +40,6 @@ def html_generator(in_file1, in_file2, outfile):
 
 oe_xml = "../widsith_oe.xml"
 me_xml =  "../modern-english/translationone.xml"
-alignment_html = "../views/alignment1.html"
+alignment_html = "../views/alignment2.html"
 
 html_generator(oe_xml, me_xml, alignment_html)
