@@ -37,11 +37,11 @@ for line, group_df in df.groupby('Line'):
     prevline = int(line) - 1
 
     with open(filename, "w", encoding='utf=8') as f:
-        f.write('<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Glossary</title>\n\t<link rel="stylesheet" href="../glossstyles.css">\n</head>\n<body>\n')
+        f.write(f'<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Line {line}</title>\n\t<link rel="stylesheet" href="../glossstyles.css">\n</head>\n<body>\n')
         f.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button><br>')
         f.write(f'<h1>Line {line}</h1>')
         f.write(modified_html)
-        f.write(f'<button class="prevbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{prevline}.html\'">Previous</button><br>')
+        f.write(f'<button class="prevbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{prevline}.html\'">Previous</button>')
         f.write(f'<button class="nextbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{nextline}.html\'">Next</button>')
         
 
