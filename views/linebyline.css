@@ -1,0 +1,74 @@
+h1 {
+    font-family: 'Noto Serif', 'Georgia', Times;
+    text-align: center;
+  }
+  table {
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      font-family: 'Noto Serif', 'Georgia', Times, serif;
+      font-size: 22px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  table td {
+    padding: 8px;
+  }
+  .form-row {
+    font-family: 'Noto Serif', 'Georgia', Times, serif;
+    font-weight: bold;
+    padding: 10px;
+  }
+  .lemma-row {
+    font-size: 16px;
+    font-weight: 200;
+  }
+  .pos-row {
+    font-family: 'Roboto', sans-serif;
+    font-variant: small-caps;
+    font-size: 15px;
+    opacity: .5;
+  }
+  .gloss-row {
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .button {
+      width: 75px;
+      height: 35px;
+      color: DarkRed;
+      font-size: 15px;
+      background-color: White;
+      transition-duration: 0.3s;
+      opacity: 0.5;
+      border-radius: 6px;
+  }
+  .button:hover{
+      opacity: 1;
+  }
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%; 
+    margin-top: 20px;
+    margin-left: 120px;
+  }
+  .prevbutton,
+  .nextbutton {
+      width: 75px;
+      height: 35px;
+      color: DarkRed;
+      font-size: 15px;
+      background-color: White;
+      transition-duration: 0.3s;
+      opacity: 0.5;
+      border-radius: 6px;
+  }
+  .prevbutton:hover,
+  .nextbutton:hover {
+      opacity: 1;
+  }
+  

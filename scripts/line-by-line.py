@@ -37,12 +37,15 @@ for line, group_df in df.groupby('Line'):
     prevline = int(line) - 1
 
     with open(filename, "w", encoding='utf=8') as f:
-        f.write(f'<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Line {line}</title>\n\t<link rel="stylesheet" href="../glossstyles.css">\n</head>\n<body>\n')
+        f.write(f'<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Line {line}</title>\n\t')
+        f.write('<link rel="stylesheet" href="../linebyline.css">\n<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@200;400;700&display=swap" rel="stylesheet">\n</head>\n<body>\n')
         f.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button><br>')
         f.write(f'<h1>Line {line}</h1>')
         f.write(modified_html)
+        f.write('\n\t<div class="button-container">\n\t\t')
         f.write(f'<button class="prevbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{prevline}.html\'">Previous</button>')
         f.write(f'<button class="nextbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{nextline}.html\'">Next</button>')
+        f.write('\n\t</div>')
         
 
-    print(f"HTML table created and saved as '{filename}'")
+    print(f"HTML file created as '{filename}'")
