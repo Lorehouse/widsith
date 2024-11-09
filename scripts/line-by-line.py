@@ -41,7 +41,8 @@ for line, group_df in df.groupby('Line'):
         f.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button><br>')
         f.write(f'<h1>Line {line}</h1>')
         f.write(modified_html)
-        f.write(f'<button class="button" onclick="document.location=\'https://lorehord.com/views/line/line-{nextline}.html\'">Next</button>')
-        f.write(f'<button class="button" onclick="document.location=\'https://lorehord.com/views/line/line-{prevline}.html\'">Previous</button><br>')
+        f.write(f'<button class="prevbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{prevline}.html\'">Previous</button><br>')
+        f.write(f'<button class="nextbutton" onclick="document.location=\'https://lorehord.com/views/line/line-{nextline}.html\'">Next</button>')
+        
 
     print(f"HTML table created and saved as '{filename}'")
