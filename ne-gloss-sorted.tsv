@@ -1,5 +1,5 @@
 Lemma	Gloss	Form	Line	POS	Comment
-á-nihst	at the last	ánihst	126	adv	None
+a-nīhst	at the last	anīhst	126	adv	None
 ac	but	ac	38	conj	None
 æfnan	practice	æfnan,	141	v	None
 æfter	after	æfter	12	prep	None
@@ -9,7 +9,7 @@ ac	but	ac	38	conj	None
 Ænēnas	Ænēnas	Ænēnum.	61	dpn	Anenas, an unidentified tribe, potentially Aunonia of Kossinna argued by Malone pg 127
 ærest	first	ærest	38	adj	None
 æt	at	æt	49	prep	None
-Ætla	Atilla	Ætla	18	apn	the Hun 
+Ætla	Atilla	Ætla	18	apn	the Hun.
 Ætla	Atilla's	Ætlan	122	gsn	None
 ætsomne	together	ætsomne	46	adv	None
 æþelo	noble	æþele	5	npn	None
@@ -18,16 +18,16 @@ ac	but	ac	38	conj	None
 Alewih	Alewih	Alewih	35	nsn	unknown Danish king
 Alexandreas	Alexander	Alexandreas	15	nsn	proper name, Alexander the great
 ālicgan	rest	ālæg,	119	pret.sv	None
-Amoþingas	the Amothings	Amothingum.	86	dpn	Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the _Ynglingasaga_ by Snorri
+Amoþingas	the Amothings	Amoþingum.	86	dpn	Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the <i>Ynglingasaga</i> by Snorri
 āne	one	Āne	41	isn	None
-ārǽran	to heighten	ārǽran,	140	v	None
+ārǣran	to heighten	ārǣran,	140	v	None
 Baningas	the Baningas	Baningum,	19	dpn	Malone has a long note here connecting Baningum with Bainaib (Cuntz 1923) and Ptolemy's Βαινοχαιμαι, whom he argues are separate from the Bohemians (Boihœmum, Marquart)
 Beadeca	Beadecan	Beadecan	112	asn	None
 bēag	necklace	bēag	65	asn	None
 bēag	treasures	bēaga,	74	gpn	None
 bēag	treasure	bēag	90	asn	None
 bearn	child	bearn	74	nsn	None
-Becca	Becca	Becca	19	nsn	from OE Beocca, possibly identified with Bikki from _Snorra Edda_ and _Völsungasaga_, Ermanric's treacherous retainer, and Bicco in Saxo's _Gesta Danorum_ but Malone dismisses this as linguistically improbable (pg 131).
+Becca	Becca	Becca	19	nsn	from OE Beocca, possibly identified with Bikki from <i>Snorra Edda<i> and <i>Völsungasaga</i>, Ermanric's treacherous retainer, and Bicco in Saxo's <i>Gesta Danorum</i> but Malone dismisses this as linguistically improbable (pg 131).
 Becca	Becca	Beccan,	115	asn	Berchtung of the Wolfdietrich story, occaisionally also indentified with the evil Bikki but this Becca is clearly in the wrong company to be associated wtih that story
 bēon	be	biþ	132	pres.v	None
 beorht	bright	beorhtra	74	gpadj	None
@@ -35,16 +35,16 @@ bī	by	bī	43	prep	None
 bī	with	be	100	prep	None
 bī	with	bī	105	prep	None
 bicuman	came	bicwom,	94	pret.sv	None
-bidǽlan	deprived of	bidǽled,	52	ppv	None
-Billing	Billing	Billing	25	nsn	Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a _bill_
-Breoca	Breoca	Breoca	25	nsn	The Breca of _Beowulf_ fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)
+bidǣlan	deprived of	bidǣled,	52	ppv	None
+Billing	Billing	Billing	25	nsn	Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a <i>bill</i>
+Breoca	Breoca	Breoca	25	nsn	The Breca of <i>Beowulf</i> fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)
 Brondingas	Brondings	Brondingum,	25	dpn	an unknown tribe, though Malone has some great speculation here (133-134)
 bryttian	distribute	bryttian.	102	v	None
-Burgendan	the Burgundians	Burgendum	19	dpn	None
+Burgendan	the Burgundians	Burgendum	19	dpn	a Germanic tribe dwelling in the Rhine region and later the Rhone.
 Burgendan	the Burgundians	Burgendum,	65	ipn	None
 burgwaran	townspeople	burgwarena	90	gpn	None
 Cælic	Caelic	Cælic	20	nsn	None
-Casere	Caesar	Casere	20	nsn	None
+Casere	Caesar	Casere	20	nsn	The Byzantine Roman emperor in Constantinople
 Casere	Caesar	Casere,	76	dsn	Malone argues on pg 135 for an Eastern Roman emperor here, possibly Justinian
 cnihtwesende	being a youth	cnihtwesende,	39	pp	None
 cnōsl	kindred	cnōsle	52	dsn	None
@@ -58,7 +58,7 @@ cynerice	king-realm	cynerica	39	gpn	None
 cyning	king	cyning.	34	gsn	None
 cyning	king	cyning!	67	nsn	None
 cyning	king	cyning	89	nsn	None
-cynn	kin	cynnes,	16	gsn	mankind 
+cynn	kin	cynnes,	16	gsn	None
 cynn	tribe	cynne.	27	isn	None
 cynn	tribe	cynn	47	asn	None
 cyst	a choice gift	cystum	56	ipn	None
@@ -67,7 +67,7 @@ Dene	the Danes	Denum;	35	dpn	None
 dohtor	daughter	dohtor	98	n	None
 dōm	reputation	dōm	140	asn	None
 dōm	glory	dōm.	143	asn	None
-ðonan	thence	ðonan	109	adv	None
+ðonan	thence	Ðonan	109	adv	None
 dryhtcwēn	queen of the army	dryhtcwēn	98	n	None
 dugan	would be generous	dohten.	56	pret.subj.pv	None
 dugan	was generous	dohte;	89	pret.sv	None
@@ -76,7 +76,7 @@ duguþ	royal military men	duguþe	140	dsn	None
 Eadgils	Eadgils	Eadgilse	93	dsn	King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139
 Eadwine	of Edwin	Eadwines.	74	asn	King of the Langobards, Audoin
 Eadwine	of Edwin	Eadwines.	98	gsn	The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish ging (Malone 140) 
-Eadwine	Edwin	Eadwine	117	asn	Audoin, again
+Eadwine	Edwin	Eadwine	117	asn	### Audoin, again
 eal	all	ealra	15	adj	None
 eal	of all	ealra,	36	adj	None
 eal	all	ealle	88	asn	None
@@ -84,26 +84,25 @@ eal	all	ealne	109	asadj	None
 eal	old	ealdne	122	adj	None
 eal	all	eal	141	adj	None
 Ealhhild	Ealhhild	Ealhhild	97	nsn	Eadwine's daughter
-Ealhhilde	Ealhhilde	Ealhhilde,	5	dsn	Eormanric's wife 
+Ealhhilde	Ealhhilde	Ealhhilde,	5	dsn	Ermanric's wife, daughter of the Eadwine of line 98. Whether she was a Langobard is debated, Guest 1838 calling her father the 'lord of the Myrgings'. Malone connects her wtih the Scandinavian Swanhild of legend (140), though there is none of the enmity between Ealhhild and her husband that there is between Swanhild and hers.
 eastan	east	eastan	8	adv	None
 Eastgota	Ostrogotha	Eastgotan,	113	asn	Early king of the Ostrogoths, contemporary of Roman Emperor Philip (244-9) (Malone 142)
-Eastþyringas	Thuringians	Eastþyringum	86	dpn	Still the best sausages in Germany
+Eastþyringas	Thuringians	Eastþyringum	86	dpn	### Still the best sausages in Germany
 Eatul	Italy	Eatule	70	dsn	None
 Ebreas	the Hebrews	Ebreum	83	dpn	None
 efeneald	contemporaries	efeneald	40	adj	None
 Egypte	the Egyptians	Egyptum.	83	dpn	None
 Elsa	Elsa	Elsan,	117	asn	based on context, ought to be a Langobardish hero, but otherwise unknown
 Emerca	Emerca	Emercan	113	asn	Emerca is the Gothic hero Erpamara, found in Jordanes 43
-Engle	the Angles	Engle	44	asn	None
 Engle	the Angles	Englum	61	dpn	None
 eorl	leader	eorl	12	gpn	None
 eorlscipe	manliness	eorlscype	37	asn	None
 eorlscipe	manliness	eorlscipe	40	nsn	None
 eorlscipe	noble behavior	eorlscipe	141	nsn	None
-Eormanrīc	Ermanric	Eormanrices,	8	gsn	Ostrogothic king in the late middle 4th century, see his contemporary historian, Ammanius Marcellinus, as well as Jordanes. Ammanius tells that his great empire was so threatened by Huns and Alans that he committed suicide, though Jordanes leaves this out (Malone 146). Son of Amelunc and uncle of Dietrich von Berne (Þeodric), _Dietrichs Flucht_ paints him very badly, as do other Old German heroic tales (Gillespie 37, 38). Malone argues that these later heroic tales do not reflect the historical king, who seems to have behaved correctly for an old Germanic warlord (146-149).
+Eormanrīc	Ermanric	Eormanrīces,	8	gsn	Ostrogothic king in the late middle 4th century, see his contemporary historian, Ammanius Marcellinus, as well as Jordanes. Ammanius tells that his great empire was so threatened by Huns and Alans that he committed suicide, though Jordanes leaves this out (Malone 146). Son of Amelunc and uncle of Dietrich von Berne (Þeodric), <i>Dietrichs Flucht</i> paints him very badly, as do other Old German heroic tales (Gillespie 37, 38). Malone argues that these later heroic tales do not reflect the historical king, who seems to have behaved correctly for an old Germanic warlord (146-149).
 Eormanrīc	Ermanric	Eormanric	18	nsn	None
-Eormanrīc	Ermanric	Eormanrice	88	dsn	None
-Eormanrīc	Ermanric	Earmanrices.	111	dsn	None
+Eormanrīc	Ermanric	Eormanrīce	88	dsn	None
+Eormanrīc	Ermanric	Earmanrīces.	111	dsn	None
 eorþe	earth	eorþan,	2	asn	None
 Eowan	the Eows	Eowum	26	dpn	A tribe Conybeare associates with the Baltic island of Öland
 Exsyringas	the Assyrians	Exsyringum,	82	dpn	None
@@ -121,7 +120,7 @@ fela	many	fela,	136	adj	None
 feor	far	feor	53	adj	None
 fēring	journeying	fēringe,	131	dsn	None
 Fīfeldore	the Eider estuary	Fifeldore;	43	dsn	None
-Fin	Fin	Fin	27	nsn	King of rhe Frisians and the Finn from Beowulf and the _Finnsburuh Fragment_
+Fin	Fin	Fin	27	nsn	King of rhe Frisians and the Finn from Beowulf and the <i>Finnsburuh Fragment</i>
 Finnas	the Finns	Finnum,	20	dpn	None
 Finnas	the Finns	Finnum	76	ipn	None
 flēogan	fly	fleag	127	pret.sv	None
@@ -146,7 +145,7 @@ forþon	therefore	Forþon	54	conj	None
 frēa	king	frēa	96	n	None
 fremde	foreign	fremdra	50	adj	None
 fremman	achieve	fremede,	37	pret.sv	None
-frēomǣgum	generous kinsmen	frēomǣgum	53	dpn	None
+frēomǣg	generous kinsmen	frēomǣgum	53	dpn	None
 Freoþerīc	Freoþeric	Freoþeric,	124	asn	unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). 
 freoþuwebbe	peace-weaver	freoþuwebban,	6	dsn	None
 Frēsan	the Frisian	Fresna	27	asn	None
@@ -157,7 +156,7 @@ from	from	from	4	prep	None
 Froncan	the Franks	Froncum,	24	dpn	None
 Froncan	the Franks	Froncum	68	ipn	None
 fruma	first among	fruma,	90	n	None
-Frumtingas	the Framtings	Frumtingum.	68	dpn	The people of King Framta, a faction of the Suevi in Spain. See _Historia Svevorum_(Malone 152)
+Frumtingas	the Framtings	Frumtingum.	68	dpn	The people of King Framta, a faction of the Suevi in Spain. See <i>Historia Svevorum</i>(Malone 152)
 ful	very	ful	119	adv	None
 ful	very	Ful	127	adv	None
 gar	spear	gar	128	n	None
@@ -168,7 +167,7 @@ Gefflēgan	The Gefflegans	Gefflegum.	60	dsn	The Aviones of Tacitus but location 
 gefrǣge	information (got by inquiry).	gefrǣge,	71	isn	None
 gefricgan	learned (by asking)	gefrægen	17	ppn	None
 gefrignan	learned (by asking)	gefrægn	10	pret.sv	None
-Gefwulf	Gefwulf	Gefwulf,	26	nsn	King of the Euts (Ytum), but otherwise unknown
+Gefwulf	Gefwulf	Gefwulf,	26	nsn	King of the Jutes (Ytum), but otherwise unknown
 Gefþan	The Gibids	Gefþum	60	dpn	A tribe of the Gothic family mentioned in Beowulf @@@ Better notes.
 gehealdan	holding	gehealdenne,	134	gerund	None
 gehwylc	each	gehwylc	11	adj	None
@@ -196,7 +195,7 @@ geþicgan	receive	geþah;	65	pret.sv	None
 giefu	gifts	giefe	102	apn	None
 giefu	gifts	geofum	139	ipn	None
 giellan	yelling	giellende	128	verb	None
-Gifica	Gifica	Gifica.	19	nsn	Also the Gibica mentioned in King Gundobad's _Leges Burgudionum_ (see Malone 154), believed by F. Bluhme to be the father of Gundomar, Gislahari (Gislhere, line 123) and Gundahari(Guðhere, line 66). Malone speculates that these may represent each a generation.
+Gifica	Gifica	Gifica.	19	nsn	Also the Gibica mentioned in King Gundobad's <i>Leges Burgudionum</i> (see Malone 154), believed by F. Bluhme to be the father of Gundomar, Gislahari (Gislhere, line 123) and Gundahari(Guðhere, line 66). Malone speculates that these may represent each a generation.
 ginn	wide	ginne	51	adj	None
 Gislhere	Gislaharius	Gislhere,	123	asn	King of the Burgundians, who Malone speculates would have been an ancestor of the more famous Guðhere
 glædlic	goodly	glædlicne	66	adj	None
@@ -224,8 +223,8 @@ gydd	poem	gydda	139	gpn	None
 habban	have	hæbbe.	17	psv	None
 habban	had	hæfde	71	pret.sv	None
 habban	has	hafað	143	psv	None
-hæleþ	heroes	hæleþum	81	dpn	WOW this is interesting. I had interpreted this on my read-through as 'heroes' but Malone and some other writers identify this with the inhabitants ot the Hala heret in _Jordebog_ of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as _Hæreþum_, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn 'hæleþ' or hero, which I am adopting for the time being. I will copy this note into my log.
-Hælsingas	Hælsings	Hælsingum,	22	ipn	None
+hæleþ	heroes	hæleþum	81	dpn	WOW this is interesting. I had interpreted this on my read-through as 'heroes' but Malone and some other writers identify this with the inhabitants ot the Hala heret in <i>Jordebog</i> of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as <i>Hæreþum</i>, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn 'hæleþ' or hero, which I am adopting for the time being. I will copy this note into my log.
+Hælsingas	Hælsings	Hælsingum,	22	ipn	An unknown tribe who etymology may be connected to the Chalusos river mapped by Ptolemy. Malone goes on to associate them with the Hæleþan of line 81 (Malone 158).
 Hætwere	the Hætwere	Hætwerum	33	dpn	None
 hæþen	heathens	hæðnum	81	dpn	Various editors believe this to be the word 'heathen' as below is the word 'hero', but Malone argues in the spirit of Lappenberg 1838, that these are the inhabitants of the Norwegian region called Hedemark (Malone 159). I am currently adopting the 'heathens and heroes' reading but am open to changing my mind.
 Hagena	Hagen	Hagena	21	nsn	a king of the Rugians, famous from the Hild Saga, also the foe of Heoden below
@@ -236,7 +235,7 @@ Hama	Hama	Hama.	130	nsn	The Heime of German lore, an exile who has carved out a 
 hāten	called	hāten	34	ppv	None
 hē	he	hē	3	nsppn	None
 hē	him	Him	4	asn	None
-hē	he	He	5	nsppn	None
+hē	he	Hē	5	nsppn	None
 hē	his	his	13	gspn	None
 hē	he	hē	16	nsppn	None
 hē	he	hē	37	nsppn	None
@@ -256,13 +255,13 @@ healdan	held	heoldon	45	pret.pv	None
 hēap	company	hēape	127	dsn	None
 heard	hard	heardum	120	adj	None
 hearpe	harp	hearpan	105	dsn	None
-HeaÞoreamas	HeaÞoramas	Heaþoreamum.	63	dpn	None
-Heaþoric	Heathoric	Heaþoric	116	asn	Malone  states that this is the Heiðrekr of the _Harvararsaga_, and while the phonology does not precisely align, the three remaining names in this line are all from _Hervararsaga_. He also draws a connection between this Heaþoric and the Hæðcyn of _Beowulf_.
+Heaþoreamas	HeaÞoramas	Heaþoreamum.	63	dpn	None
+Heaþoric	Heathoric	Heaþoric	116	asn	Malone  states that this is the Heiðrekr of the <i>Harvararsaga</i>, and while the phonology does not precisely align, the three remaining names in this line are all from <i>Hervararsaga</i>. He also draws a connection between this Heaþoric and the Hæðcyn of <i>Beowulf</i>.
 Heðca	Hache	Heðcan	112	asn	Malone corrects this to Hehca, and associates him with 'Hache', a Germanic hero (Malone 168). Anscombe 1916 amends it to Hæþcan and identifies the character with King Hæðcyn of Beowulf.
 Helm	Helm	Helm	29	nsn	Helm, King of the Wulfings
 Heoden	Heoden	Heoden	21	nsn	The ASPR XML has this word tagged as 'unclear' and boy howdy is it ever. The OEPIF project shows it as very unclear as well. Malone reads it as Henden but says it is the character Heoden of the Hild saga (pg 168). Chambers and ASPR both record it as 'Heoden', so that is what I'm going to stick with for now.
 heofon	the heavens	heofonum	143	dpn	None
-Heorot	Heorot	Heorote	49	dsn	Heorot of Hroðgar in _Beowulf_.
+Heorot	Heorot	Heorote	49	dsn	Heorot of Hroðgar in <i>Beowulf</i>.
 heorte	heart	heortan	73	asn	None
 hēr	here	hēr	134	nsn	None
 here	army	here	120	nsn	None
@@ -270,15 +269,15 @@ Herefaran	 of the Herefarens	Herefarena	34	gpn	None
 Herelingas	Herelingas	Herelingas,	112	apn	The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).
 hlēodryhten	lord protector	hlēodryhtne,	94	dsn	None
 hlēoþor	song	hlēoþor	105	n	None
-Hlīþe	Lotherus	Hliþe	116	asn	Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)
+Hlīþe	Lotherus	Hlīþe	116	asn	Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)
 hlude	loudly	hlude	105	adv	None
-Hnæf	Hnæf	Hnæf	29	nsn	King of the Hocingas, appears in both Beowulf and the _Finnsburuh Fragment_
-Hocingas	the Hocings	Hocingum,	29	dpn	The Hocings are clarified as Danes in _Beowulf_ (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.
-Holen	Holen	Holen	33	nsn	Malone takes Holen to mean 'protector' in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE _holegn_ meaning 'holly'. (Malone 173)
-Holmrygas	the Rugians	Holmrygum	21	dpn	All editions note that the 'g' is missing from the manuscript and they add it back in. Malone, in his glossary, makes the additional correction of a 'c', rendering this _holmrycgas_, _holmrycgum_. Malone identifies the Rugians as the Hulmerugi of Jordanes, in the islands of the estuary of the Vistula. (174)
+Hnæf	Hnæf	Hnæf	29	nsn	King of the Hocingas, appears in both Beowulf and the <i>Finnsburuh Fragment</i>
+Hocingas	the Hocings	Hocingum,	29	dpn	The Hocings are clarified as Danes in <i>Beowulf</i> (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.
+Holen	Holen	Holen	33	nsn	Malone takes Holen to mean 'protector' in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE <i>holegn</i> meaning 'holly'. (Malone 173)
+Holmrygas	the Rugians	Holmrygum	21	dpn	All editions note that the 'g' is missing from the manuscript and they add it back in. Malone, in his glossary, makes the additional correction of a 'c', rendering this <i>holmrycgas</i>, <i>holmrycgum</i>. Malone identifies the Rugians as the Hulmerugi of Jordanes, in the islands of the estuary of the Vistula. (174)
 hond	hand	hond	72	asn	None
-Hræde	Hræde	Hræda	120	gsn	None
-Hreðcyning	King of the Ostrogoths	Hreðcyninges	7	gsn	None
+Hræde	Hræde	Hræda	120	gsn	###
+Hreðcyning	King of the Goths	Hreðcyninges	7	gsn	refers to Ermanric, named in the next line
 Hreðgotan	Ostrogoths	Hreðgotum,	57	dpn	None
 hring	rings	hringa	73	gpn	None
 Hringwald	Hringwald	Hringweald	34	nsn	means Ring-Ruler, great name 
@@ -305,7 +304,7 @@ ic	I	ic	17	pn	None
 ic	I	ic	50	pn	None
 ic	I	ic	52	pn	None
 ic	I	ic	54	pn	None
-ic	I	ic	57	pn	None
+ic	I	Ic	57	pn	None
 ic	I	ic	59	pn	None
 ic	I	ic	60	pn	None
 ic	I	ic	61	pn	None
@@ -358,7 +357,7 @@ lēof	dearest	lēofast	132	adv	None
 lēoht	lightest	lēohteste	72	adj	None
 lēoht	light	lēoht	142	nsn	None
 Leonas	the Leonas	Leonum	80	dpn	None
-Lidwicingas	the Lidwiccas	Lidwicingum	80	dpn	Malone emends this to Lidingum and associates them with the Liðungar of Islenzkir Analar, but others associate it as is with the Lidwiccas in the _OE Annals_. I have chosen to leave it unchanged for the moment
+Lidwicingas	the Lidwiccas	Lidwicingum	80	dpn	Malone emends this to Lidingum and associates them with the Liðungar of Islenzkir Analar, but others associate it as is with the Lidwiccas in the <i>OE Annals</i>. I have chosen to leave it unchanged for the moment
 līf	life	līf	142	nsn	None
 lifgan	live	lifgan,	11	v	None
 lifgan	lives	leofað.	134	psv	None
@@ -369,15 +368,15 @@ lond	lands	londa	50	gpn	None
 lond	lands	londa	99	gpn	None
 londbūend	subjects	londbūendum	132	dpn	None
 Longbeardan	the Langobards	Longbeardum,	32	dpn	None
-Longbeardum	The Langobards	Longbeardum,	80	dpn	None
+Longbeardan	The Langobards	Longbeardum,	80	dpn	None
 longd	land	lond	95	asn	None
 maðelian	spoke	maðolade,	1	pret.sv	None
-mægþ	tribe	mǣgþum	10	ipn	None
 mǣgþ	people	mǣgþa	2	gpn	None
+mǣgþ	tribe	mǣgþum	10	ipn	None
 mǣnan	make known	mǣnan	55	v	None
-mæst	most	mǣst	2	adj	None
-mæst	most	mǣst	16	adj	None
-mæst	greatest	mǣst.	39	adj	None
+mǣst	most	mǣst	2	adj	None
+mǣst	most	mǣst	16	adj	None
+mǣst	greatest	mǣst.	39	adj	None
 magan	will	mæg	54	psv	None
 māra	more	māran	40	adj	None
 māþþum	treasure/gift	māþþum.	4	asn	None
@@ -389,7 +388,7 @@ me	me	me	90	dsppn	None
 me	me	me	95	dsppn	None
 me	me	me	97	dsppn	None
 Meaca	Meaca	Meaca	23	nsn	 Unknown king of the Myrgings
-Mearchealf	Mearchealf	Mearchealf	23	nsn	unknowng king of the Hundings, but his name may be derived from _mearh_ 'horse' and _ealf_ 'elf'.
+Mearchealf	Mearchealf	Mearchealf	23	nsn	unknowng king of the Hundings, but his name may be derived from <i>mearh</i> 'horse' and <i>ealf</i> 'elf'.
 mengo	company	mengo	55	dsn	None
 meoduheall	mead-hall	meoduhealle	55	dsn	None
 merc	boundary	merce	42	asn	None
@@ -423,7 +422,7 @@ mid	with	mid	69	prep	None
 mid	with	mid	69	prep	None
 mid	with	mid	69	prep	None
 mid	with	mid	70	prep	None
-mid	with	mid	75	prep	None
+mid	with	Mid	75	prep	None
 mid	with	mid	75	prep	None
 mid	with	mid	76	prep	None
 mid	with	mid	76	prep	None
@@ -459,17 +458,17 @@ Mofdingas	Mofdings	Mofdingum	85	dpn	Malone changes this to the 'Ofdingas' for co
 Moide	the Moids	Moidum	84	dpn	Malone 183: Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.
 moncynn	mankind	moncynnes,	71	gsn	None
 monig	many	monige	106	adj	None
-monn	men	monna	2	gpn	Addition 
+monn	men	monna	2	gpn	None
 monn	men	monna	10	gpn	None
 monn	men	monna	16	gpn	None
 monn	men	manna	36	gpn	None
 monn	men	monna,	38	gpn	None
 monn	men	men,	106	npn	None
 mynelīc	handsome	mynelīcne	4	adj	None
-Myrging	the Myrgings	Myrgingum	4	dpn	the tribe to which Widsið belonged. 'By virtue of the Offa episode, the Myrgings can be localized with some precision; they lived south of the river Eider, in a region apparently identical with that held by the Saxons of Ptolemy and certainly identical with that held by the Nordalbings of later times, themselves a branch of the Old Saxons (to use King Alfred's term).' (Malone 183). The Myrgings were likely a Saxonish tribe called the Maurungani of the Geographer of Ravenna.
+Myrgingas	the Myrgings	Myrgingum	4	dpn	the tribe to which Widsið belonged. 'By virtue of the Offa episode, the Myrgings can be localized with some precision; they lived south of the river Eider, in a region apparently identical with that held by the Saxons of Ptolemy and certainly identical with that held by the Nordalbings of later times, themselves a branch of the Old Saxons (to use King Alfred's term).' (Malone 183). The Myrgings were likely a Saxonish tribe called the Maurungani of the Geographer of Ravenna.
 Myrgingas	the Myrgings	Myrgingum,	23	dpn	None
 Myrgingas	the Myrgings	Myrgingum	42	dpn	None
-Myrgingas	the Myrgings	Myrgingum,	84	dpn	Widsith himself was a Myrging 
+Myrgingas	the Myrgings	Myrgingum,	84	dpn	None
 Myrgingas	of the Myrgings	Myrginga.	96	gpn	None
 nǣfre	never	nǣfre	108	adv	None
 nænig	Not any	Nænig	40	pn	None
@@ -493,7 +492,7 @@ Offa	Offa	Offa	44	asn	None
 oft	often	oft	3	adv	None
 oft	often	oft	119	adv	None
 oft	often	oft	127	adv	None
-on	in	on	3	prep	addition 
+on	in	on	3	prep	None
 on	in	on	41	prep	None
 on	in	on	70	prep	None
 on	in	on	91	prep	None
@@ -577,6 +576,7 @@ ond	and	ond	142	conj	None
 onfindan	found out	onfond	131	pret.sv	None
 Ongel	the Angles land	Ongle,	8	dpn	The original homeland of the Angles before Britain, and probably covered most of Sleswick,
 Ongel	the Angles	Ongle,	35	dpn	None
+Ongel	the Angles	Engle	44	asn	None
 Ongendmyrgingas	the Ongendmyrgings	Ongendmyrgingum	85	dpn	Malone has this combined with the previous word to form the Ongendmyrgingum but neither Chambers nor the ASPR does this. If it were correct, it might be identical to the later Wiþmyrgingas in 116. Malone takes his cue from Rieger and Langenfelt in following the structure of 'Ongendþeow' and placing the Ongend as a prefix of the word. Because of the presence of the 'regular' Myrgings in this same stanza, I have opted for Malone's reading.
 onginnan	began	Ongon	9	pret.sv	None
 onlūcan	unlocked	onleac,	1	pret.sv	None
@@ -592,11 +592,11 @@ Perse	the Perse	Persum	84	dpn	because of the exotic peoples listed in the previo
 rædan	govern	rædan,	12	v	None
 Rædhere	Rædhere	Rædhere	123	asn	an unknown king or hero, whose name means 'command (or counsel) the army'.
 reord	voice	reorde	103	gsn	None
-rice	powerful	ricost	15	adj	realms? Alexander's was the best of all realms?
+rice	powerful	ricost	15	adj	None
 rīce	realm	rīces.	78	gsn	None
 rīce	rule	rīce	133	asn	None
 Rondhere	Rondhere	Rondhere,	123	asn	unknown hero whose name means shield-army, or less literally, 'protector'.
-Rondingas	The Rondings	Rondingum,	24	dpn	The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a _mark_ or borderland. (Malone 191-192)
+Rondingas	The Rondings	Rondingum,	24	dpn	The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a <i>mark</i> or borderland. (Malone 191-192)
 Rugas	the Rugi	Rugum	69	dpn	### Who are the Rugis??
 Rumstan	Rumstan	Rumstan	123	asn	 often connected with the Germanic hero Rimstien, but Widsith seems to associate him with Gislhere of the Burgundians and the German hero is a Goth. Malone (192) supposes the hero was forgotten and then his name reborrowed as the Gothic legend cycle grew.
 Rumwalas	Rome-foreigners	Rumwalum.	69	dpn	Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors ### Check Weiskott
@@ -624,11 +624,9 @@ se	that	se	36	dem.pn	None
 se	that	se	71	dem.pn	None
 se	that	se	77	dem.pn	None
 se	that	se	90	dem.pn	None
-se	that	se	132	dem.pn	None
-se	that	se	133	dem.pn	None
 se	that	se	140	dem.pn	None
 se	that	se	142	dem.pn	None
-sē	that	þāra	14	gpn	None
+sē	that	Þāra	14	gpn	None
 sē	that	þāra	17	gpn	None
 sē	those	þāra	36	gpn	None
 sē	that	þām	91	dspn	None
@@ -642,6 +640,8 @@ sē	the	þa	125	npart	None
 sē	that	þām	127	adj	None
 sē	that	þæt	131	asn	None
 sē	that	þære	131	adj	None
+sē	that	sē	132	dem.pn	None
+sē	that	sē	133	dem.pn	None
 Seafola	Seafola	Seafolan	115	asn	A legendary traitorous retainer from the Wolfdietrich tale, according to Malone 194-195. Chambers instead has this as Sabene of Rabene in the Dietrich von Berne story (see Gillespie 28).
 Seaxan	the Saxons	Seaxum	62	dpn	The original Saxons of Germany
 sēcan	sought	sōhte	110	pret.sv	None
@@ -651,7 +651,7 @@ sēcan	sought	sōhte	115	pret.sv	None
 sēcan	sought	sōhte	117	pret.sv	None
 sēcan	sought	sōhte	119	pret.sv	None
 sēcan	sought	sōhte	123	pret.sv	None
-Secca	Secca	Seccan	115	asn	The young Sigiwald of history, kinsmen of the Frankish Þeodric. His story is found in Gregory of Tours' _Historia Fancorum iii_ (Malone 196).
+Secca	Secca	Seccan	115	asn	The young Sigiwald of history, kinsmen of the Frankish Þeodric. His story is found in Gregory of Tours' <i>Historia Fancorum iii</i> (Malone 196).
 secgan	speak	secgan	54	v	None
 secgan	say	secgan	100	v	None
 secgan	says	secgað,	137	pres.pv	None
@@ -665,7 +665,7 @@ sibb	kinship	sibbe	46	gsn	None
 siex	six	siex	91	num	None
 Sifeca	Sifeca	Sifecan,	116	asn	An evil counselor of unknown origin but with lots of speculation (Malone 199).
 sigedryhten	victory-lord	sigedryhtne	104	dsn	None
-Sigehere	Sighere	Sigehere	28	nsn	King of the Sea-Danes, the Sigarr of the _Snorra Edda_
+Sigehere	Sighere	Sigehere	28	nsn	King of the Sea-Danes, the Sigarr of the <i>Snorra Edda</i>
 simle	always	symle	131	adv	None
 simle	always	simle	138	adv	None
 singan	sing	singan	54	v	None
@@ -686,11 +686,11 @@ sūð	south	sūð	138	adv	None
 suhtorfædran	nephew and uncle	suhtorfædran,	46	npn	None
 sum	some one	sumne	138	aspn	None
 Suþ-dene	the south-Danes	Suþ-denum.	58	dpn	None
-swā	as	swā	44	conj	modal
+swā	as	swā	44	conj	None
 swā	as	Swā	50	conj	None
 swā	thus	Swā	131	adv	None
 swā	as	Swā	135	conj	None
-Swæfe	Swæfe	Swæfum,	22	dpn	None
+Swæfe	Swæfe	Swæfum,	22	dpn	The Eider-Suebi, a branch of the Suebi that settled in western Sleswick. Malone mentions that with their close association with the Angles as well as Bede's mention of their ruler Witta being the grandfather of Hengest, it is not unreasonable ot infer that they took part in the Anglo-Saxon conquest of Britannia (201).
 Swæfe	the Suebi	Swæfe,	44	asn	None
 Swæfe	Swæfe	Swæfum	61	dpn	None
 swegl	sky	swegle	101	dsn	None
@@ -717,12 +717,12 @@ unhnēaw	generous	unhnēaweste	73	adj	None
 unhnēaw	generous	unhnēawne,	139	adj	None
 Unwen	of Unwen	Unwenes.	114	gsm	Son of Eastgota l 113, meaning 'unexpected one'
 Wada	Wada	Wada	22	nsn	King of the Hælsings, in this poem not the father of mythical Weland or grandfather of Wudga. (Malone 206-207)
-wæcnan	awoke	onwocon.	5	pret.pv	Malone has as two words, 'on' and 'wocon'
+wæcnan	awoke	onwocon.	5	pret.pv	None
 wærloga	oath-breaker	wærlogan.	9	dpn	None
 Wærne	the Varni	Wærnum	59	dpn	The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland.
 Walas	of the Romans	Wala	78	gpn	A generic word meaning 'foreigners' but usually referring to Romans. This name was later to be come the appelation given to the land of 'Wales' or of 'foreigners'
 Wald	Wald	Wald	30	nsn	King of the Woings, otherwise unknown
-wealdan	rule	wealdan!	10	pret.sv	to have power over 
+wealdan	ruled	wealdan!	10	pret.sv	None
 wealdan	ruled	weold	18	psv	None
 wealdan	ruled	weold	20	psv	None
 wealdan	ruled	weold	22	psv	None
@@ -762,7 +762,7 @@ wesan	was	wæs	91	psv	None
 wesan	were	wæs	111	psv	None
 wesan	were	wæran	125	ppv	None
 wicingas	the Wicing	wicinga	47	gpn	None
-Wicingas	the Wicings	wicingum.	59	dpn	This is a reference to the Heaðobeards.
+Wicingas	the Wicings	wicingum.	59	dpn	This is a reference to the Heaðobeards, according to Malone, but often translated as Vikings.
 wið	against	wið	42	prep	None
 wīde	widely	wīde.	53	adv	None
 Widsið	Widsith	Widsið	1	nsn	the fictitious scop celebrated in this poem
@@ -791,18 +791,18 @@ worn	a great number (of words)	worn	9	asn	None
 wræcca	wanderers	wræccan	129	npn	None
 wraþ	hostile	wraþes	9	adj	None
 Wrosnan	Wrosnan	Wrosnum.	33	dpn	A Danish island tribe
-Wudga	Wudga	Wudgan	124	asn	THe hero Widia from _Waldere_ and the Viðga of _Þiðrrikssaga_
-Wudga	Wudga	Wudga	130	nsn	See line 124
+Wudga	Wudga	Wudgan	124	asn	THe hero Widia from <i>Waldere</i> and the Viðga of <i>Þiðrrikssaga</i>
+Wudga	Wudga	Wudga	130	nsn	None
 Wulfhere	Wulfhere	Wulfhere	119	asn	One of two princes of the Hræde who let their people in a war against the Huns (Malone 213).
-Wulfingas	the Wulfings	Wulfingum,	29	dpn	The Ylfingar of Norse tradition and the Wylfingas of _Beowulf_. Malone identifies them with the Vulgares of Paulus. (213)
+Wulfingas	the Wulfings	Wulfingum,	29	dpn	The Ylfingar of Norse tradition and the Wylfingas of <i>Beowulf</i>. Malone identifies them with the Vulgares of Paulus. (213)
 wyrcan	earning	wyrcenne,	72	dsn	None
-Wyrmhere	Wyrmhere	Wyrmhere;	119	asn	The Ormarr of the _Hervararsaga_, also the Olimarus of Saxo's 5th book. One of two princes of the Hræde who let their people in a war against the Huns (Malone 214).
+Wyrmhere	Wyrmhere	Wyrmhere;	119	asn	The Ormarr of the <i>Hervararsaga</i>, also the Olimarus of Saxo's 5th book. One of two princes of the Hræde who let their people in a war against the Huns (Malone 214).
 yfel	evil things	yfles	51	gsn	None
 ymb	about	ymb	121	prep	None
-Yte	the Jutes	Ytum	26	dpn	King of the Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215).
+Yte	the Jutes	Ytum	26	dpn	The Euts or Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215).
 Yumbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 þa	then	þa	9	adv	None
-þā	when	þa	94	conj	None
+þā	when	þā	94	conj	None
 þā	then	þā	97	adv	None
 þǣr	there	þǣr	52	adv	None
 þǣr	there	þǣr	65	adv	None
@@ -830,8 +830,8 @@ Yumbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 þeod	men	þeodna	11	npn	None
 þēod	band	þēode;	128	asn	None
 þeodenstol	king-stool	þeodenstol	13	n	None
-þeodric	Theodric	þeodric	24	nsn	Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern.
-þeodric	Theodric	þeodric,	115	asn	This Theodric is not the same as the one above according to Chambers (See Malone 204). Chambers associates this Theodric as Dietrich von Bern, which would make Seafola above Sabene von Rabene. Malone considers this impossible based on Jiriczek's paper (1920 in _Englische Studien_) in which Seafola is identified as the Wolfdietrich villain.
+þeodric	Theodric	þeodric,	115	asn	This Theodric is not the same as the one above according to Chambers (See Malone 204). Chambers associates this Theodric as Dietrich von Bern, which would make Seafola above Sabene von Rabene. Malone considers this impossible based on Jiriczek's paper (1920 in <i>Englische Studien</i>) in which Seafola is identified as the Wolfdietrich villain.
+Þeodric	Theodric	Þeodric	24	nsn	Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern.
 þoncword	thank-words	þoncword	137	apn	None
 þonne	when	þonne	100	conj	None
 þonne	then	Ðonne	103	conj	None

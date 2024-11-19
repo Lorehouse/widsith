@@ -66,11 +66,11 @@
     </l>
     <l n='5'>
       <word n='024' form='æþele' lemma='æþelo' pos='npn' gender='f' gloss='noble'/>
-      <word n='025' form='onwocon.' lemma='wæcnan' verb='strong' pos='pret.pv' gloss='awoke' comment="Malone has as two words, 'on' and 'wocon'"/>
+      <word n='025' form='onwocon.' lemma='wæcnan' verb='strong' pos='pret.pv' gloss='awoke' note="Malone has as two words, 'on' and 'wocon'"/>
       <caesura/>
       <word n='026' form='Hē' lemma='hē' pos='nsppn' gender='m' gloss='he'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Ealhhilde,' lemma='Ealhhilde' pos='dsn' gloss='Ealhhilde' comment="Eormanric's wife "/>
+      <word n='' form='Ealhhilde,' lemma='Ealhhilde' pos='dsn' gloss='Ealhhilde' comment="Ermanric's wife, daughter of the Eadwine of line 98. Whether she was a Langobard is debated, Guest 1838 calling her father the 'lord of the Myrgings'. Malone connects her wtih the Scandinavian Swanhild of legend (140), though there is none of the enmity between Ealhhild and her husband that there is between Swanhild and hers."/>
     </l>
     <l n='6'>
       <word n='' form='fælre' lemma='fæle' pos='adj' gloss='gracious'/>
@@ -148,7 +148,7 @@
       <word n='' form='Alexandreas' lemma='Alexandreas' pos='nsn' gloss='Alexander' comment="proper name, Alexander the great"/>
       <caesura/>
       <word n='' form='ealra' lemma='eal' pos='adj' gloss='all'/>
-      <word n='' form='ricost' lemma='rice' pos='adj' gloss='powerful' comment="realms? Alexander's was the best of all realms?"/>
+      <word n='' form='ricost' lemma='rice' pos='adj' gloss='powerful' note="realms? Alexander's was the best of all realms?"/>
     </l>
     <l n='16'>
       <word n='' form='monna' lemma='monn' pos='gpn' gloss='men'/>
@@ -170,7 +170,7 @@
       <word n='' form='hæbbe.' lemma='habban' pos='psv' verb='weak' gloss='have'/>
     </l>
     <l n='18'>
-      <word n='' form='Ætla' lemma='Ætla' pos='apn' gloss='Atilla' comment="the Hun"/>
+      <word n='' form='Ætla' lemma='Ætla' pos='apn' gloss='Atilla' comment="the Hun."/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
       <word n='' form='Hunum,' lemma='Hunas' pos='ipn' gloss='the Huns'/>
       <caesura/>
@@ -204,10 +204,10 @@
     <l n='22'>
       <word n='' form='Witta' lemma='Witta' pos='nsn' gloss='Witta' comment="King of the Swæfe, and according to Bede, grandfather to Hengest and Horsa."/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
-      <word n='' form='Swæfum,' lemma='Swæfe' pos='dpn' gloss='Swæfe'/>
+      <word n='' form='Swæfum,' lemma='Swæfe' pos='dpn' gloss='Swæfe' comment="The Eider-Suebi, a branch of the Suebi that settled in western Sleswick. Malone mentions that with their close association with the Angles as well as Bede's mention of their ruler Witta being the grandfather of Hengest, it is not unreasonable ot infer that they took part in the Anglo-Saxon conquest of Britannia (201)."/>
       <caesura/>
       <word n='' form='Wada' lemma='Wada' pos='nsn' gloss='Wada' comment="King of the Hælsings, in this poem not the father of mythical Weland or grandfather of Wudga. (Malone 206-207)"/>
-      <word n='' form='Hælsingum,' lemma='Hælsingas' pos='ipn' gloss='Hælsings'/>
+      <word n='' form='Hælsingum,' lemma='Hælsingas' pos='ipn' gloss='Hælsings' comment="An unknown tribe who etymology may be connected to the Chalusos river mapped by Ptolemy. Malone goes on to associate them with the Hæleþan of line 81 (Malone 158)."/>
     </l>
     <l n='23'>
       <word n='' form='Meaca' lemma='Meaca' pos='nsn' gloss='Meaca' comment=" Unknown king of the Myrgings"/>
@@ -217,7 +217,7 @@
       <word n='' form='Hundingum.' lemma='Hundingas' pos='dpn' gloss='the Hundings' sameas='the Langobards' comment="nickname for the Langobards"/>
     </l>
     <l n='24'>
-      <word n='' form='þeodric' lemma='þeodric' pos='nsn' gloss='Theodric' comment="Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern."/>
+      <word n='' form='Þeodric' lemma='Þeodric' pos='nsn' gloss='Theodric' comment="Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern."/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
       <word n='' form='Froncum,' lemma='Froncan' pos='dpn' gloss='the Franks'/>
       <caesura/>
@@ -237,8 +237,8 @@
       <word n='' form='Eowum' lemma='Eowan' pos='dpn' gloss='the Eows' comment="A tribe Conybeare associates with the Baltic island of Öland"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Ytum' lemma='Yte' pos='dpn' gloss='the Jutes' comment="King of the Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215)."/>
-      <word n='' form='Gefwulf,' lemma='Gefwulf' pos='nsn' gloss='Gefwulf' comment="King of the Euts (Ytum), but otherwise unknown"/>
+      <word n='' form='Ytum' lemma='Yte' pos='dpn' gloss='the Jutes' comment="The Euts or Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215)."/>
+      <word n='' form='Gefwulf,' lemma='Gefwulf' pos='nsn' gloss='Gefwulf' comment="King of the Jutes (Ytum), but otherwise unknown"/>
     </l>
     <l n='27'>
       <word n='' form='Fin' lemma='Fin' pos='nsn' gloss='Fin' comment="King of rhe Frisians and the Finn from Beowulf and the &lt;i&gt;Finnsburuh Fragment&lt;/i&gt;"/>
@@ -374,7 +374,7 @@
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Swæfe,' lemma='Swæfe' pos='asn' gloss='the Suebi'/>
       <caesura/>
-      <word n='' form='swā' lemma='swā' pos='conj' gloss='as' comment="modal"/>
+      <word n='' form='swā' lemma='swā' pos='conj' gloss='as' note="modal"/>
       <word n='' form='hit' lemma='hē' pos='asn' gloss='he'/>
       <word n='' form='Offa' lemma='Offa' pos='asn' gloss='Offa'/>
       <word n='' form='geslog' lemma='geslean' pos='psv' verb='strong' gloss='won'/>
@@ -774,7 +774,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Myrgingum,' lemma='Myrgingas' pos='dpn' gloss='the Myrgings' comment="Widsith himself was a Myrging "/>
+      <word n='' form='Myrgingum,' lemma='Myrgingas' pos='dpn' gloss='the Myrgings'/>
     </l>
     <l n='85'>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -789,7 +789,7 @@
       <word n='' form='Amoþingum.' lemma='Amoþingas' pos='dpn' gloss='the Amothings' comment="Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the &lt;i&gt;Ynglingasaga&lt;/i&gt; by Snorri"/>
       <caesura/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Eastþyringum' lemma='Eastþyringas' pos='dpn' gloss='Thuringians' comment="Still the best sausages in Germany"/>
+      <word n='' form='Eastþyringum' lemma='Eastþyringas' pos='dpn' gloss='Thuringians' comment="### Still the best sausages in Germany"/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
     </l>
@@ -1064,7 +1064,7 @@
       <word n='' form='Incgenþeow.' lemma='Incgenþeow' pos='asn' gloss='Incgenþeow' comment="Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf."/>
     </l>
     <l n='117'>
-      <word n='' form='Eadwine' lemma='Eadwine' pos='asn' gloss='Edwin' comment="Audoin, again"/>
+      <word n='' form='Eadwine' lemma='Eadwine' pos='asn' gloss='Edwin' comment="### Audoin, again"/>
       <word n='' form='sōhte' lemma='sēcan' pos='pret.sv' verb='weak' gloss='sought'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -1188,7 +1188,7 @@
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='wīfum,' lemma='wīf' pos='ipn' gloss='women'/>
       <caesura/>
-      <word n='' form='Wudga' lemma='Wudga' pos='nsn' gloss='Wudga' comment="See line 124"/>
+      <word n='' form='Wudga' lemma='Wudga' pos='nsn' gloss='Wudga'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Hama.' lemma='Hama' pos='nsn' gloss='Hama' comment="The Heime of German lore, an exile who has carved out a kingdom for himself and is paired in this poem with Wudga. Malone states that the poet clearly thought of them as joint rulers of a single kingdom, though Chambers argues they were outlaws a la Robin Hood (pg 159-160). This is the Hama of Beowulf who carried off the bright necklace of the Brosings."/>
     </l>

@@ -1,5 +1,5 @@
 h1 {
-  font-family: 'Noto Serif', 'Georgia', Times;
+  font-family: 'Merriweather', 'Georgia', Times;
   text-align: center;
 }
 h2 {
@@ -11,7 +11,7 @@ table {
 	margin-right: auto;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	font-family: 'Noto Serif', 'Georgia', Times, serif;
+	font-family: 'Merriweather', 'Georgia', Times, serif;
 	font-size: 22px;
   text-align: center;
   vertical-align: middle;
@@ -20,7 +20,7 @@ table td {
   padding: 8px;
 }
 .form-row {
-  font-family: 'Noto Serif', 'Georgia', Times, serif;
+  font-family: 'Merriweather', 'Georgia', Times, serif;
   font-weight: bold;
   line-height: 10px;
 }

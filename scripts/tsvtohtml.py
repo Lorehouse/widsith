@@ -1,28 +1,31 @@
 import csv
 
 def tsv_to_html(tsv_file, html_file):
-    with open(tsv_file, 'r', newline='', encoding='utf-8') as file:
-        reader = csv.reader(file, delimiter='\t')
-        data = list(reader)
+    tsv_file = open(tsv_file, encoding="utf-8")
+    tsv_file.readline()
     
     
     with open(html_file, 'w', encoding='utf-8') as file:
-        file.write('<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Glossary</title>\n\t<link rel="stylesheet" href="glossstyles.css">\n</head>\n<body>\n')
+        file.write('<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Glossary</title>\n\t<link rel="stylesheet" href="glossstyles.css">\n\t<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@200;400;700&display=swap" rel="stylesheet">\n</head>\n<body>\n')
         file.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button>')
         file.write('<h1>Glossary</h1>')
         file.write('<table border="1">\n')
-        for column in data[0]:
-            file.write(f'    <th>{column}</th>\n')
+        file.write('\t<th>Lemma</th>\n\t<th>Form</th>\n\t<th>Line</th>\n\t<th>POS</th>\n\t<th>Gloss</th>\n')
+        for line in tsv_file:
+            lemma, gloss, form, line, pos, comment = line.strip().split("\t")
+            file.write(f'\t<tr>\n\t<td class="lemma">{lemma}</td>\n\t<td class="form">{form}</td>\n\t<td class="line">{line}</td>\n\t<td class="POS">{pos}</td>\n\t<td class="gloss">{gloss}</td>\n\t</tr>\n')
+        # for column in data[0]:
+        #     file.write(f'    <th>{column}</th>\n')
         
-        for row in data[1:]:
-            file.write('  <tr>\n')
-            for column in row:
-                file.write(f'    <td>{column}</td>\n')
-            file.write('  </tr>\n')
+        # for row in data[1:]:
+        #     file.write('  <tr>\n')
+        #     for column in row:
+        #         file.write(f'    <td>{column}</td>\n')
+        #     file.write('  </tr>\n')
         
         
         file.write('</table>\n</body>\n</html>')
     print(f"Your file has been created at '{html_file}'.")
 
 
-tsv_to_html('../sorted-glosstest.tsv', '../views/glossary.html')
+tsv_to_html('../ne-gloss-sorted.tsv', '../views/glossary2.html')

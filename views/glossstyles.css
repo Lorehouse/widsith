@@ -1,25 +1,57 @@
-table {
-	width: 70%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	font-family: 'Lora', 'Georgia', Times, serif;
-	font-size: 20px;
-}
-.button {
-	width: 75px;
-	height: 35px;
-	color: DarkRed;
-	font-size: 15px;
-	background-color: White;
-	transition-duration: 0.3s;
-	opacity: 0.5;
-	border-radius: 6px;
-}
-.button:hover{
-	opacity: 1;
-}
-h1{
-    text-align: center;
-}
+h1 {
+	font-family: "Merriweather", serif;
+	font-weight: 700;
+  }
+  table {
+	  width: 70%;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-top: 50px;
+	  margin-bottom: 50px;
+	  font-family: 'Merriweather', 'Lora', Times, serif;
+	  font-size: 18px;
+  }
+  
+  td, th {
+	padding: 10px;
+  }
+  .lemma {
+	font-weight: 700;
+  }
+  .gloss {
+	font-style: italic;
+  }
+  .lemma,
+  .gloss {
+	vertical-align: top;
+  }
+  .POS {
+	font-variant: small-caps;
+  }
+  .POS,
+  .line {
+	font-family: "Roboto";
+	font-weight: 200;
+	text-align: center;
+	vertical-align: top;
+  }
+  .comment {
+	font-size: 16px;
+  }
+  .button {
+	  width: 75px;
+	  height: 35px;
+	  color: DarkRed;
+	font-family: 'Roboto';
+	  font-size: 15px;
+	  background-color: White;
+	  transition-duration: 0.3s;
+	  opacity: 0.5;
+	  border-radius: 6px;
+  }
+  .button:hover{
+	  opacity: 1;
+  }
+  h1{
+	  text-align: center;
+  }
