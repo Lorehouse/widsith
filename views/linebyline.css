@@ -2,11 +2,17 @@ h1 {
   font-family: 'Merriweather', 'Georgia', Times;
   text-align: center;
 }
+a {
+  font-family: 'Merriweather', 'Georgia', Times, serif;
+  color: DarkRed;
+}
 h2 {
   text-align: center;
 }
-h2.translationhead {
+.translation {
   text-align: left;
+  padding-left: 50px;
+  font-family: 'Merriweather', 'Georgia', Times, serif;
 }
 table {
 	width: 70%;
