@@ -5,6 +5,9 @@ h1 {
 h2 {
   text-align: center;
 }
+h2.translationhead {
+  text-align: left;
+}
 table {
 	width: 70%;
 	margin-left: auto;

@@ -83,7 +83,7 @@ for line, group_df in df.groupby('Line'):
             f.write(f'<a href="https://lorehord.com/views/line/line-{prevline}.html">Previous</a>')
             f.write(f'<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</a>')
             f.write('\n\t</div>') 
-            f.write('\n\t<h2>Translation</h2><br>\n')
+            f.write('\n\t< class="translationhead">Translation</h2><br>\n')
             f.write(f'\t<p class="translation">{html_line}</p>\n')
             f.write("</html>")
 
