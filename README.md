@@ -3,11 +3,13 @@ This project is part of a thesis for a Master of English Language and Literature
 
 - [Side-by-side view](https://lorehord.com/views/alignment1.html)
 
+- [Line-by-line view (rough)](https://lorehord.com/views/line/line-1)
+
 - [Glossary](https://lorehord.com/views/glossary.html)
 
-- [Named Entities List (rough)](https://lorehord.com/views/named-entities-gloss.html)
+- [Named Entities List](https://lorehord.com/views/named-entities-gloss.html)
 
-- [Line-by-line view (very rough)](https://lorehord.com/views/line/line-1)
+
 
 ## Background and Context
 Old English poetry has been a fascination for hundreds of years and it’s a pity the Germans got to it first. Signum has a strong Old English language and literature program, something that has become harder and harder to find in these days of restricting humanities budgets, trimming department sizes, and emphasizing professional training over the value of human thought and experiences that are preserved, curated, and taught in humanities departments. In the modern era, it would be foolish to waste the plethora of digital tools that allow for richer, more thorough study of texts. The goal of this project would be to select a single Old English poem in its normalized form, use TEI XML markup to tag the text linguistically and stylistically, use some of the myriad of tools (such as Lexos and the Classical Language Toolkit) and resources (like the York-Toronto Parsed Corpus of Old English Poetry and the Dictionary of Old English Web Corpus) to produce a rich markup and render a publishable aligned-translation that would benefit students and scholars working on the language and literature of the Anglo-Saxons. 

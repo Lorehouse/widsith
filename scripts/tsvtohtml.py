@@ -28,4 +28,4 @@ def tsv_to_html(tsv_file, html_file):
     print(f"Your file has been created at '{html_file}'.")
 
 
-tsv_to_html('../ne-gloss-sorted.tsv', '../views/glossary2.html')
+tsv_to_html('../ne-gloss-sorted.tsv', '../views/glossary.html')

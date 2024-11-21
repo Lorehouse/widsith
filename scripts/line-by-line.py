@@ -2,6 +2,7 @@ import pandas as pd
 from lxml import etree
 
 df = pd.read_csv('../linebylinegloss.tsv', sep='\t', encoding='utf-8')
+translatefile = '../widsith-oe.xml'
 
 for line, group_df in df.groupby('Line'):
     html_data = pd.DataFrame([group_df[col].tolist() for col in group_df.columns if col != 'Line'], 
@@ -31,8 +32,10 @@ for line, group_df in df.groupby('Line'):
         nextline = int(line) + 1
     else: 
         nextline = line
-
-    prevline = int(line) - 1
+    if line == 1:
+        prevline = 1
+    else:
+        prevline = int(line) - 1
 
     with open(filename, "w", encoding='utf=8') as f:
         f.write(f'<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Line {line}</title>\n\t')
@@ -43,7 +46,7 @@ for line, group_df in df.groupby('Line'):
         f.write(modified_html)
         f.write('\n\t<div class="button-container">\n\t\t')
         f.write(f'<a href="https://lorehord.com/views/line/line-{prevline}.html">Previous</a>')
-        f.write(f'<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</buttaon>')
+        f.write(f'<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</a>')
         f.write('\n\t</div>')
         
 
