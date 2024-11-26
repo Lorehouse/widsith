@@ -82,8 +82,12 @@ for line, group_df in df.groupby('Line'):
             f.write('\n\t<div class="button-container">\n\t\t')
             if line != 1:
                 f.write(f'<a href="https://lorehord.com/views/line/line-{prevline}.html">Previous</a>')
+            else:
+                f.write('<a></a>')
             if line != 143:
                 f.write(f'<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</a>')
+            else:
+                f.write('<a></a>')
             f.write('\n\t</div>') 
             f.write('\n\t<h2 class="translation">Translation</h2><br>\n')
             f.write(f'\t<p class="translation">{html_line}</p>\n')
