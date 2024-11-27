@@ -41,7 +41,7 @@ for line, group_df in df.groupby('Line'):
                              index=[col for col in group_df.columns if col != 'Line'])
     html_output = html_data.to_html(header=False, index=False, border=0)
 
-    tree = etree.HTML(html_output)
+    tree = etree.HTML(html_output).xpath('//table')[0]
     rows = tree.xpath('//tr')
     
     for idx, row in enumerate(rows):
@@ -74,9 +74,9 @@ for line, group_df in df.groupby('Line'):
 
         with open(filename, "w", encoding='utf-8') as f:
             f.write(f'<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Line {line_no}</title>\n\t')
-            f.write('<link rel="stylesheet" href="../linebyline.css">\n<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@200;400;700&display=swap" rel="stylesheet">\n</head>\n<body>\n')
+            f.write('<link rel="stylesheet" href="../linebyline.css">\n<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@200;400;700&display=swap" rel="stylesheet">\n</head>\n<body>\n')
             f.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button><br>\n')
-            f.write(f'<h1>Widsið</h1>\n')            
+            f.write(f'<main>\n\t<h1>Widsið</h1>\n')            
             f.write(f'<h2>Line {line_no}</h2>\n')
             f.write(modified_html)
             f.write('\n\t<div class="button-container">\n\t\t')
@@ -91,7 +91,7 @@ for line, group_df in df.groupby('Line'):
             f.write('\n\t</div>') 
             f.write('\n\t<h2 class="translation">Translation</h2><br>\n')
             f.write(f'\t<p class="translation">{html_line}</p>\n')
-            f.write("</html>")
+            f.write("\t</main>\n\t</body>\n\t</html>")
 
         print(f"HTML file created as '{filename}'")
     else:
