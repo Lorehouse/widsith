@@ -90,19 +90,19 @@ gefricgan	learned (by asking)	gefrægen	17	ppn	None
 habban	have	hæbbe.	17	psv	None
 Ætla	Atilla	Ætla	18	apn	the Hun.
 wealdan	ruled	weold	18	psv	None
-Hunas	the Huns	Hunum,	18	ipn	None
+Hunas	the Huns	Hunum,	18	ipn	https://en.wikipedia.org/wiki/Huns
 Eormanrīc	Ermanric	Eormanric	18	nsn	None
-Gotan	the Goths	Gotum,	18	ipn	None
+Gotan	the Goths	Gotum,	18	ipn	https://en.wikipedia.org/wiki/Goths
 Becca	Becca	Becca	19	nsn	from OE Beocca, possibly identified with Bikki from <i>Snorra Edda<i> and <i>Völsungasaga</i>, Ermanric's treacherous retainer, and Bicco in Saxo's <i>Gesta Danorum</i> but Malone dismisses this as linguistically improbable (pg 131).
 Baningas	the Baningas	Baningum,	19	dpn	Malone has a long note here connecting Baningum with Bainaib (Cuntz 1923) and Ptolemy's Βαινοχαιμαι, whom he argues are separate from the Bohemians (Boihœmum, Marquart)
 Burgendan	the Burgundians	Burgendum	19	dpn	a Germanic tribe dwelling in the Rhine region and later the Rhone.
 Gifica	Gifica	Gifica.	19	nsn	Also the Gibica mentioned in King Gundobad's <i>Leges Burgudionum</i> (see Malone 154), believed by F. Bluhme to be the father of Gundomar, Gislahari (Gislhere, line 123) and Gundahari(Guðhere, line 66). Malone speculates that these may represent each a generation.
 Casere	Caesar	Casere	20	nsn	The Byzantine Roman emperor in Constantinople
 wealdan	ruled	weold	20	psv	None
-Creacas	the Greeks	Creacum	20	dpn	None
+Creacas	the Greeks	Creacum	20	dpn	interesting to note that this is not the Romans any more
 ond	and	ond	20	conj	None
-Cælic	Caelic	Cælic	20	nsn	None
-Finnas	the Finns	Finnum,	20	dpn	None
+Cælic	Caelic	Cælic	20	nsn	@@@
+Finnas	the Finns	Finnum,	20	dpn	@@@
 Hagena	Hagen	Hagena	21	nsn	a king of the Rugians, famous from the Hild Saga, also the foe of Heoden below
 Holmrygas	the Rugians	Holmrygum	21	dpn	All editions note that the 'g' is missing from the manuscript and they add it back in. Malone, in his glossary, makes the additional correction of a 'c', rendering this <i>holmrycgas</i>, <i>holmrycgum</i>. Malone identifies the Rugians as the Hulmerugi of Jordanes, in the islands of the estuary of the Vistula. (174)
 ond	and	ond	21	conj	None
@@ -119,13 +119,13 @@ Mearchealf	Mearchealf	Mearchealf	23	nsn	unknowng king of the Hundings, but his n
 Hundingas	the Hundings	Hundingum.	23	dpn	nickname for the Langobards
 Þeodric	Theodric	Þeodric	24	nsn	Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern.
 wealdan	ruled	weold	24	psv	None
-Froncan	the Franks	Froncum,	24	dpn	None
+Froncan	the Franks	Froncum,	24	dpn	@@@
 Þyle	Thyle	Þyle	24	nsn	King of the Rondings. Malone explains the name as the eponym of the Þilir, a tribe in the Telemark, giving identification to the Rondings below.
 Rondingas	The Rondings	Rondingum,	24	dpn	The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a <i>mark</i> or borderland. (Malone 191-192)
 Breoca	Breoca	Breoca	25	nsn	The Breca of <i>Beowulf</i> fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)
 Brondingas	Brondings	Brondingum,	25	dpn	an unknown tribe, though Malone has some great speculation here (133-134)
 Billing	Billing	Billing	25	nsn	Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a <i>bill</i>
-Wern	the Werns	Wernum.	25	dpn	None
+Wern	the Werns	Wernum.	25	dpn	@@@
 Oswine	Oswin	Oswine	26	nsn	Otherwise unknown
 wealdan	ruled	weold	26	psv	None
 Eowan	the Eows	Eowum	26	dpn	A tribe Conybeare associates with the Baltic island of Öland
@@ -134,11 +134,11 @@ Yte	the Jutes	Ytum	26	dpn	The Euts or Jutes, one of the three tribes Bede names 
 Gefwulf	Gefwulf	Gefwulf,	26	nsn	King of the Jutes (Ytum), but otherwise unknown
 Fin	Fin	Fin	27	nsn	King of rhe Frisians and the Finn from Beowulf and the <i>Finnsburuh Fragment</i>
 Folcwalding	son of Folcwalda	Folcwalding	27	nsn	The patronymic of Finn's father, but Chambers suggests that it was a title that alliterated conveniently rather than Finn's father's real name (1921, 200)
-Frēsan	the Frisian	Fresna	27	asn	None
+Frēsan	the Frisian	Fresna	27	asn	@@@
 cynn	tribe	cynne.	27	isn	None
 Sigehere	Sighere	Sigehere	28	nsn	King of the Sea-Danes, the Sigarr of the <i>Snorra Edda</i>
 lengan	longest	lengest	28	adv	None
-Sæ-dene	the Sea-Danes	Sæ-denum	28	dpn	None
+Sæ-dene	the Sea-Danes	Sæ-denum	28	dpn	@@@
 wealdan	ruled	weold,	28	psv	None
 Hnæf	Hnæf	Hnæf	29	nsn	King of the Hocingas, appears in both Beowulf and the <i>Finnsburuh Fragment</i>
 Hocingas	the Hocings	Hocingum,	29	dpn	The Hocings are clarified as Danes in <i>Beowulf</i> (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.
@@ -151,12 +151,12 @@ Wod	Wod	Wod	30	nsn	King of the Þyringas, otherwise unknown
 Sæferð	Sæferð	Sæferð	31	nsn	King of the Sycgan, some debate that he is the Sigeferþ of Beowulf and Holthausen translates the name Seefried. We cannot be certain of his identity.
 Sycgan	Sycgan	Sycgum,	31	dpn	Only otherwise known from the Finnsburug Fragment, l24, where they are the Secgena(gpn).
 Sweon	Swedes	Sweom	31	dpn	The Swedes of Uppland
-nsn	Ongenþeow	Ongendþeow,	31	Ongendþeow	A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.
+Ongendþeow	Ongenþeow	Ongendþeow,	31	nsn	A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.
 Sceafthere	Sceafthere	Sceafthere	32	nsn	unknown king but his name means 'spear-army (compare with Rondhere, 'shield-army).
-Yumbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
+Ymbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 Sceafa	Sheaf	Sceafa	32	nsn	A king of the Langobards but Price 1826 identified him as the mythical 'Scef', father of the equally mythical 'Scyld Scefing'. Malone rejects this association because Scyld was, of course, mythical.
 Longbeardan	the Langobards	Longbeardum,	32	dpn	None
-Hun	Hunn	Hun	33	nsn	None
+Hun	Hunn	Hun	33	nsn	@@@
 Hætwere	the Hætwere	Hætwerum	33	dpn	None
 ond	and	ond	33	conj	None
 Holen	Holen	Holen	33	nsn	Malone takes Holen to mean 'protector' in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE <i>holegn</i> meaning 'holly'. (Malone 173)
@@ -164,13 +164,13 @@ Wrosnan	Wrosnan	Wrosnum.	33	dpn	A Danish island tribe
 Hringwald	Hringwald	Hringweald	34	nsn	means Ring-Ruler, great name 
 wesan	was	wæs	34	psv	None
 hāten	called	hāten	34	ppv	None
-Herefaran	 of the Herefarens	Herefarena	34	gpn	None
+Herefaran	of the Herefarens	Herefarena	34	gpn	@@@
 cyning	king	cyning.	34	gsn	None
 Offa	Offa	Offa	35	nsn	King of Ongel also in Beowulf, and as Uffa in Saxo Grammaticus and Sweyn Aageson. Latter half of the 4th century and king of the Angles. 
 wealdan	ruled	weold	35	psv	None
 Ongel	the Angles	Ongle,	35	dpn	None
 Alewih	Alewih	Alewih	35	nsn	unknown Danish king
-Dene	the Danes	Denum;	35	dpn	None
+Dene	the Danes	Denum;	35	dpn	@@@
 se	that	se	36	dem.pn	None
 wesan	was	wæs	36	psv	None
 sē	those	þāra	36	gpn	None

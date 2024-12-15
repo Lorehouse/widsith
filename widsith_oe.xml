@@ -25,7 +25,7 @@
         <l n="5">æþele onwocon. <caesura/> Hē mid <persName>Ealhhilde</persName>,</l>
         <l n="6">fælre freoþuwebban, <caesura/> forman sīþe</l>
         <l n="7"><persName sameAs='Eormanrīc'>Hreðcyninges</persName> <caesura/> ham gesōhte</l>
-        <l n="8">eastan of <placeName>Ongle</placeName>, <caesura/> <persName sameAs="Eormanrīc">Eormanrīces</persName>,</l>
+        <l n="8">eastan of <placeName sameAs="Ongel">Ongle</placeName>, <caesura/> <persName sameAs="Eormanrīc">Eormanrīces</persName>,</l>
         <l n="9">wraþes wærlogan. <caesura/> Ongon þā worn sprecan:</l>
         <l n="10">"Fela ic monna gefrægn <caesura/> mǣgþum wealdan!</l>
         <l n="11">Sceal þeodna gehwylc <caesura/> þeawum lifgan,</l>
@@ -40,7 +40,7 @@
         <l n="20"><persName>Casere</persName> weold <name sameAs="Creacas">Creacum</name> <caesura/> ond <persName>Cælic</persName> <name sameAs="Finnas">Finnum</name>,</l>
         <l n="21"><persName>Hagena</persName> <name sameAs="Holmrygas">Holm-Rygum</name> <caesura/> ond <persName>Heoden</persName> <name sameAs="Glomman">Glommum</name>.</l>
         <l n="22"><persName>Witta</persName> weold <name sameAs="Swæfe">Swæfum</name>, <caesura/> <persName>Wada</persName> <name sameAs="Hælsingas">Hælsingum</name>,</l>
-        <l n="23"><persName>Meaca</persName> <name sameAs="Myrgingas">Myrgingum</name>, <caesura/> <persName>Mearchealf</persName> <name sameAs="Hundignas">Hundingum</name>.</l>
+        <l n="23"><persName>Meaca</persName> <name sameAs="Myrgingas">Myrgingum</name>, <caesura/> <persName>Mearchealf</persName> <name sameAs="Hundingas">Hundingum</name>.</l>
         <l n="24"><persName>Þeodric</persName> weold <name sameAs="Froncan">Froncum</name>, <caesura/> <persName>Þyle</persName> <name sameAs="Rondingas">Rondingum</name>,</l>
         <l n="25"><persName>Breoca</persName> <name sameAs="Brondingas">Brondingum</name>, <caesura/> <persName>Billing</persName> <name sameAs="Wern">Wernum</name>.</l>
         <l n="26"><persName>Oswine</persName> weold <name sameAs="Eowan">Eowum</name> <caesura/> ond <name sameAs="Yte">Ytum</name> <persName>Gefwulf</persName>,</l>
@@ -51,7 +51,7 @@
         <l n="31"><persName>Sæferð</persName> <name sameAs="Sycgan">Sycgum</name>, <caesura/> <name sameAs="Sweon">Sweom</name> <persName>Ongendþeow</persName>,</l>
         <l n="32"><persName>Sceafthere</persName> <name sameAs="Yumbran">Ymbrum</name>, <caesura/> <persName>Sceafa</persName> <name sameAs="Longbeardan">Longbeardum</name>,</l>
         <l n="33"><persName>Hun</persName> <name sameAs="Hætwere">Hætwerum</name> <caesura/> ond <persName>Holen</persName> <name sameAs="Wrosnan">Wrosnum</name>.</l>
-        <l n="34"><persName>Hringweald</persName> wæs haten <caesura/> <name sameAs="Herefaran">Herefarena</name> cyning.</l>
+        <l n="34"><persName sameAs="Hringwald">Hringweald</persName> wæs haten <caesura/> <name sameAs="Herefaran">Herefarena</name> cyning.</l>
         <l n="35"><persName>Offa</persName> weold <name sameAs="Ongel">Ongle</name>, <caesura/> <persName>Alewih</persName> <name sameAs="Dene">Denum</name>;</l>
         <l n="36">se wæs þāra manna <caesura/> mōdgast ealra,</l>
         <l n="37">nō hwæþre hē ofer <persName sameAs="Offa">Offan</persName> <caesura/> eorlscype fremede,</l>

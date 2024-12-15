@@ -43,12 +43,12 @@ bryttian	distribute	bryttian.	102	v	None
 Burgendan	the Burgundians	Burgendum	19	dpn	a Germanic tribe dwelling in the Rhine region and later the Rhone.
 Burgendan	the Burgundians	Burgendum,	65	ipn	None
 burgwaran	townspeople	burgwarena	90	gpn	None
-Cælic	Caelic	Cælic	20	nsn	None
+Cælic	Caelic	Cælic	20	nsn	@@@
 Casere	Caesar	Casere	20	nsn	The Byzantine Roman emperor in Constantinople
 Casere	Caesar	Casere,	76	dsn	Malone argues on pg 135 for an Eastern Roman emperor here, possibly Justinian
 cnihtwesende	being a youth	cnihtwesende,	39	pp	None
 cnōsl	kindred	cnōsle	52	dsn	None
-Creacas	the Greeks	Creacum	20	dpn	None
+Creacas	the Greeks	Creacum	20	dpn	interesting to note that this is not the Romans any more
 Creacas	the Greeks	Creacum	76	ipn	None
 cunnan	knew	cuþan,	107	pret.pv	None
 cunnian	experience	cunnade	52	pret.psv	None
@@ -63,7 +63,7 @@ cynn	tribe	cynne.	27	isn	None
 cynn	tribe	cynn	47	asn	None
 cyst	a choice gift	cystum	56	ipn	None
 Dēan	Deans	Deanum	63	dpn	unknown tribe in the southern Scandinavian peninsula, the Daukiones of Ptolemy (ii.11.16, Malone 135)
-Dene	the Danes	Denum;	35	dpn	None
+Dene	the Danes	Denum;	35	dpn	@@@
 dohtor	daughter	dohtor	98	n	None
 dōm	reputation	dōm	140	asn	None
 dōm	glory	dōm.	143	asn	None
@@ -121,7 +121,7 @@ feor	far	feor	53	adj	None
 fēring	journeying	fēringe,	131	dsn	None
 Fīfeldore	the Eider estuary	Fifeldore;	43	dsn	None
 Fin	Fin	Fin	27	nsn	King of rhe Frisians and the Finn from Beowulf and the <i>Finnsburuh Fragment</i>
-Finnas	the Finns	Finnum,	20	dpn	None
+Finnas	the Finns	Finnum,	20	dpn	@@@
 Finnas	the Finns	Finnum	76	ipn	None
 flēogan	fly	fleag	127	pret.sv	None
 flett	great hall	flette	3	dsn	None
@@ -148,12 +148,12 @@ fremman	achieve	fremede,	37	pret.sv	None
 frēomǣg	generous kinsmen	frēomǣgum	53	dpn	None
 Freoþerīc	Freoþeric	Freoþeric,	124	asn	unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). 
 freoþuwebbe	peace-weaver	freoþuwebban,	6	dsn	None
-Frēsan	the Frisian	Fresna	27	asn	None
+Frēsan	the Frisian	Fresna	27	asn	@@@
 Frēsan	the Frisians	Frysum	68	dpn	None
 Fridla	Fridla	Fridlan	113	asn	Gothic king Fridigernus
 frōd	wise	frōdne	114	adj	None
 from	from	from	4	prep	None
-Froncan	the Franks	Froncum,	24	dpn	None
+Froncan	the Franks	Froncum,	24	dpn	@@@
 Froncan	the Franks	Froncum	68	ipn	None
 fruma	first among	fruma,	90	n	None
 Frumtingas	the Framtings	Frumtingum.	68	dpn	The people of King Framta, a faction of the Suevi in Spain. See <i>Historia Svevorum</i>(Malone 152)
@@ -210,7 +210,7 @@ gōd	good	gōdne	114	adj	None
 gold	gold	goldes,	91	gsn	None
 gold	gold	golde	129	isn	None
 goldhroden	gold-adorned	goldhrodene	102	adj	None
-Gotan	the Goths	Gotum,	18	ipn	None
+Gotan	the Goths	Gotum,	18	ipn	https://en.wikipedia.org/wiki/Goths
 Gotan	the Goths	Gotena	89	gpn	None
 Gotan	of the Ostrogoths	Gotena,	109	gsn	None
 grom	hostile	grome	128	adj	None
@@ -265,7 +265,7 @@ Heorot	Heorot	Heorote	49	dsn	Heorot of Hroðgar in <i>Beowulf</i>.
 heorte	heart	heortan	73	asn	None
 hēr	here	hēr	134	nsn	None
 here	army	here	120	nsn	None
-Herefaran	 of the Herefarens	Herefarena	34	gpn	None
+Herefaran	of the Herefarens	Herefarena	34	gpn	@@@
 Herelingas	Herelingas	Herelingas,	112	apn	The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).
 hlēodryhten	lord protector	hlēodryhtne,	94	dsn	None
 hlēoþor	song	hlēoþor	105	n	None
@@ -285,8 +285,8 @@ Hroðgar	Hroðgar	Hroðgar	45	nsn	Our old buddy
 Hronan	Hronan	Hronum	63	dpn	a tribe otherwise unknown. Lots of possibilities (Malone 176).
 Hroþwulf	Hroþwulf	Hroþwulf	45	nsn	Hroþgar's nephew
 hū	how	hū	56	adv	None
-Hun	Hunn	Hun	33	nsn	None
-Hunas	the Huns	Hunum,	18	ipn	None
+Hun	Hunn	Hun	33	nsn	@@@
+Hunas	the Huns	Hunum,	18	ipn	https://en.wikipedia.org/wiki/Huns
 Hunas	The Huns	Hunum	57	dpn	None
 hund	hundred	hund	91	num	None
 Hundingas	the Hundings	Hundingum.	23	dpn	nickname for the Langobards
@@ -479,7 +479,6 @@ nemnan	name	nemnan	126	v	None
 nō	not at all	nō	37	adv	None
 None	None	a	111	None	None
 norþ	north	norð	138	adv	None
-nsn	Ongenþeow	Ongendþeow,	31	Ongendþeow	A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.
 of	from	of	8	prep	None
 of	from	of	127	prep	None
 ofer	over	ofer	2	prep	None
@@ -578,6 +577,7 @@ Ongel	the Angles land	Ongle,	8	dpn	The original homeland of the Angles before Br
 Ongel	the Angles	Ongle,	35	dpn	None
 Ongel	the Angles	Engle	44	asn	None
 Ongendmyrgingas	the Ongendmyrgings	Ongendmyrgingum	85	dpn	Malone has this combined with the previous word to form the Ongendmyrgingum but neither Chambers nor the ASPR does this. If it were correct, it might be identical to the later Wiþmyrgingas in 116. Malone takes his cue from Rieger and Langenfelt in following the structure of 'Ongendþeow' and placing the Ongend as a prefix of the word. Because of the presence of the 'regular' Myrgings in this same stanza, I have opted for Malone's reading.
+Ongendþeow	Ongenþeow	Ongendþeow,	31	nsn	A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.
 onginnan	began	Ongon	9	pret.sv	None
 onlūcan	unlocked	onleac,	1	pret.sv	None
 ord	vanguard	ord	48	asn	None
@@ -600,7 +600,7 @@ Rondingas	The Rondings	Rondingum,	24	dpn	The men of Telemark, famously weird ski
 Rugas	the Rugi	Rugum	69	dpn	### Who are the Rugis??
 Rumstan	Rumstan	Rumstan	123	asn	 often connected with the Germanic hero Rimstien, but Widsith seems to associate him with Gislhere of the Burgundians and the German hero is a Goth. Malone (192) supposes the hero was forgotten and then his name reborrowed as the Gothic legend cycle grew.
 Rumwalas	Rome-foreigners	Rumwalum.	69	dpn	Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors ### Check Weiskott
-Sæ-dene	the Sea-Danes	Sæ-denum	28	dpn	None
+Sæ-dene	the Sea-Danes	Sæ-denum	28	dpn	@@@
 Sæferð	Sæferð	Sæferð	31	nsn	King of the Sycgan, some debate that he is the Sigeferþ of Beowulf and Holthausen translates the name Seefried. We cannot be certain of his identity.
 sǣmest	worst	sǣmestan,	125	adj	None
 sǣne	stingy	sǣne	67	adj	None
@@ -735,7 +735,7 @@ wēl	well	wēl	107	adv	None
 Wenlas	Wenlas	Wenlum	59	dpn	The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)
 wer	men	werum	130	ipn	None
 wergan	defend	wergan	121	v	None
-Wern	the Werns	Wernum.	25	dpn	None
+Wern	the Werns	Wernum.	25	dpn	@@@
 wesan	was	wæs	14	psv	None
 wesan	was	wæs	34	psv	None
 wesan	was	wæs	36	psv	None
@@ -799,8 +799,8 @@ wyrcan	earning	wyrcenne,	72	dsn	None
 Wyrmhere	Wyrmhere	Wyrmhere;	119	asn	The Ormarr of the <i>Hervararsaga</i>, also the Olimarus of Saxo's 5th book. One of two princes of the Hræde who let their people in a war against the Huns (Malone 214).
 yfel	evil things	yfles	51	gsn	None
 ymb	about	ymb	121	prep	None
+Ymbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 Yte	the Jutes	Ytum	26	dpn	The Euts or Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215).
-Yumbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 þa	then	þa	9	adv	None
 þā	when	þā	94	conj	None
 þā	then	þā	97	adv	None

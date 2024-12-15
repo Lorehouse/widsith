@@ -172,10 +172,10 @@
     <l n='18'>
       <word n='' form='Ætla' lemma='Ætla' pos='apn' gloss='Atilla' comment="the Hun."/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
-      <word n='' form='Hunum,' lemma='Hunas' pos='ipn' gloss='the Huns'/>
+      <word n='' form='Hunum,' lemma='Hunas' pos='ipn' gloss='the Huns' comment="https://en.wikipedia.org/wiki/Huns"/>
       <caesura/>
       <word n='' form='Eormanric' lemma='Eormanrīc' pos='nsn' gloss='Ermanric'/>
-      <word n='' form='Gotum,' lemma='Gotan' pos='ipn' gloss='the Goths'/>
+      <word n='' form='Gotum,' lemma='Gotan' pos='ipn' gloss='the Goths' comment="https://en.wikipedia.org/wiki/Goths"/>
     </l>
     <l n='19'>
       <word n='' form='Becca' lemma='Becca' pos='nsn' gloss='Becca' comment="from OE Beocca, possibly identified with Bikki from &lt;i&gt;Snorra Edda&lt;i&gt; and &lt;i&gt;Völsungasaga&lt;/i&gt;, Ermanric's treacherous retainer, and Bicco in Saxo's &lt;i&gt;Gesta Danorum&lt;/i&gt; but Malone dismisses this as linguistically improbable (pg 131)."/>
@@ -187,11 +187,11 @@
     <l n='20'>
       <word n='' form='Casere' lemma='Casere' pos='nsn' gloss='Caesar' comment="The Byzantine Roman emperor in Constantinople"/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
-      <word n='' form='Creacum' lemma='Creacas' pos='dpn' gloss='the Greeks'/>
+      <word n='' form='Creacum' lemma='Creacas' pos='dpn' gloss='the Greeks' comment="interesting to note that this is not the Romans any more"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Cælic' lemma='Cælic' pos='nsn' gloss='Caelic'/>
-      <word n='' form='Finnum,' lemma='Finnas' pos='dpn' gloss='the Finns'/>
+      <word n='' form='Cælic' lemma='Cælic' pos='nsn' gloss='Caelic' comment="@@@"/>
+      <word n='' form='Finnum,' lemma='Finnas' pos='dpn' gloss='the Finns' comment="@@@"/>
     </l>
     <l n='21'>
       <word n='' form='Hagena' lemma='Hagena' pos='nsn' gloss='Hagen' comment="a king of the Rugians, famous from the Hild Saga, also the foe of Heoden below"/>
@@ -219,7 +219,7 @@
     <l n='24'>
       <word n='' form='Þeodric' lemma='Þeodric' pos='nsn' gloss='Theodric' comment="Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern."/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
-      <word n='' form='Froncum,' lemma='Froncan' pos='dpn' gloss='the Franks'/>
+      <word n='' form='Froncum,' lemma='Froncan' pos='dpn' gloss='the Franks' comment="@@@"/>
       <caesura/>
       <word n='' form='Þyle' lemma='Þyle' pos='nsn' gloss='Thyle' comment="King of the Rondings. Malone explains the name as the eponym of the Þilir, a tribe in the Telemark, giving identification to the Rondings below."/>
       <word n='' form='Rondingum,' lemma='Rondingas' pos='dpn' gloss='The Rondings' comment="The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a &lt;i&gt;mark&lt;/i&gt; or borderland. (Malone 191-192)"/>
@@ -229,7 +229,7 @@
       <word n='' form='Brondingum,' lemma='Brondingas' pos='dpn' gloss='Brondings' comment="an unknown tribe, though Malone has some great speculation here (133-134)"/>
       <caesura/>
       <word n='' form='Billing' lemma='Billing' pos='nsn' gloss='Billing' comment="Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a &lt;i&gt;bill&lt;/i&gt;"/>
-      <word n='' form='Wernum.' lemma='Wern' pos='dpn' gloss='the Werns'/>
+      <word n='' form='Wernum.' lemma='Wern' pos='dpn' gloss='the Werns' comment="@@@"/>
     </l>
     <l n='26'>
       <word n='' form='Oswine' lemma='Oswine' pos='nsn' gloss='Oswin' comment="Otherwise unknown"/>
@@ -244,14 +244,14 @@
       <word n='' form='Fin' lemma='Fin' pos='nsn' gloss='Fin' comment="King of rhe Frisians and the Finn from Beowulf and the &lt;i&gt;Finnsburuh Fragment&lt;/i&gt;"/>
       <word n='' form='Folcwalding' lemma='Folcwalding' pos='nsn' gloss='son of Folcwalda' comment="The patronymic of Finn's father, but Chambers suggests that it was a title that alliterated conveniently rather than Finn's father's real name (1921, 200)"/>
       <caesura/>
-      <word n='' form='Fresna' lemma='Frēsan' pos='asn' gloss='the Frisian'/>
+      <word n='' form='Fresna' lemma='Frēsan' pos='asn' gloss='the Frisian' comment="@@@"/>
       <word n='' form='cynne.' lemma='cynn' pos='isn' gender='n' gloss='tribe'/>
     </l>
     <l n='28'>
       <word n='' form='Sigehere' lemma='Sigehere' pos='nsn' gloss='Sighere' comment="King of the Sea-Danes, the Sigarr of the &lt;i&gt;Snorra Edda&lt;/i&gt;"/>
       <word n='' form='lengest' lemma='lengan' feat='superlative' pos='adv' gloss='longest'/>
       <caesura/>
-      <word n='' form='Sæ-denum' lemma='Sæ-dene' pos='dpn' gloss='the Sea-Danes'/>
+      <word n='' form='Sæ-denum' lemma='Sæ-dene' pos='dpn' gloss='the Sea-Danes' comment="@@@"/>
       <word n='' form='weold,' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
     </l>
     <l n='29'>
@@ -273,17 +273,17 @@
       <word n='' form='Sycgum,' lemma='Sycgan' pos='dpn' gloss='Sycgan' comment="Only otherwise known from the Finnsburug Fragment, l24, where they are the Secgena(gpn)."/>
       <caesura/>
       <word n='' form='Sweom' lemma='Sweon' pos='dpn' gloss='Swedes' comment="The Swedes of Uppland"/>
-      <word n='' form='Ongendþeow,' lemma='nsn' pos='Ongendþeow' gloss='Ongenþeow' comment="A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr."/>
+      <word n='' form='Ongendþeow,' lemma='Ongendþeow' pos='nsn' gloss='Ongenþeow' comment="A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr."/>
     </l>
     <l n='32'>
       <word n='' form='Sceafthere' lemma='Sceafthere' pos='nsn' gloss='Sceafthere' comment="unknown king but his name means 'spear-army (compare with Rondhere, 'shield-army)."/>
-      <word n='' form='Ymbrum,' lemma='Yumbran' pos='dpn' gloss='the Ymbran' comment="An unknown tribe"/>
+      <word n='' form='Ymbrum,' lemma='Ymbran' pos='dpn' gloss='the Ymbran' comment="An unknown tribe"/>
       <caesura/>
       <word n='' form='Sceafa' lemma='Sceafa' pos='nsn' gloss='Sheaf' comment="A king of the Langobards but Price 1826 identified him as the mythical 'Scef', father of the equally mythical 'Scyld Scefing'. Malone rejects this association because Scyld was, of course, mythical."/>
       <word n='' form='Longbeardum,' lemma='Longbeardan' pos='dpn' gloss='the Langobards'/>
     </l>
     <l n='33'>
-      <word n='' form='Hun' lemma='Hun' pos='nsn' gloss='Hunn'/>
+      <word n='' form='Hun' lemma='Hun' pos='nsn' gloss='Hunn' comment="@@@"/>
       <word n='' form='Hætwerum' lemma='Hætwere' pos='dpn' gloss='the Hætwere'/>###
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -295,7 +295,7 @@
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='hāten' lemma='hāten' pos='ppv' gloss='called'/>
       <caesura/>
-      <word n='' form='Herefarena' lemma='Herefaran' pos='gpn' gloss=' of the Herefarens'/>
+      <word n='' form='Herefarena' lemma='Herefaran' pos='gpn' gloss='of the Herefarens' comment="@@@"/>
       <word n='' form='cyning.' lemma='cyning' pos='gsn' gender='m' gloss='king'/>
     </l>
     <l n='35'>
@@ -304,7 +304,7 @@
       <word n='' form='Ongle,' lemma='Ongel' pos='dpn' gloss='the Angles'/>
       <caesura/>
       <word n='' form='Alewih' lemma='Alewih' pos='nsn' gloss='Alewih' comment="unknown Danish king"/>
-      <word n='' form='Denum;' lemma='Dene' pos='dpn' gloss='the Danes'/>
+      <word n='' form='Denum;' lemma='Dene' pos='dpn' gloss='the Danes' comment="@@@"/>
     </l>
     <l n='36'>
       <word n='' form='se' lemma='se' pos='dem.pn' gloss='that'/>
