@@ -155,9 +155,9 @@ Ongendþeow	Ongenþeow	Ongendþeow,	31	nsn	A king of the Swedes mentioned in Beo
 Sceafthere	Sceafthere	Sceafthere	32	nsn	unknown king but his name means 'spear-army (compare with Rondhere, 'shield-army).
 Ymbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 Sceafa	Sheaf	Sceafa	32	nsn	A king of the Langobards but Price 1826 identified him as the mythical 'Scef', father of the equally mythical 'Scyld Scefing'. Malone rejects this association because Scyld was, of course, mythical.
-Longbeardan	the Langobards	Longbeardum,	32	dpn	None
+Longbeardan	the Langobards	Longbeardum,	32	dpn	@@@
 Hun	Hunn	Hun	33	nsn	@@@
-Hætwere	the Hætwere	Hætwerum	33	dpn	None
+Hætwere	the Hætwere	Hætwerum	33	dpn	@@@
 ond	and	ond	33	conj	None
 Holen	Holen	Holen	33	nsn	Malone takes Holen to mean 'protector' in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE <i>holegn</i> meaning 'holly'. (Malone 173)
 Wrosnan	Wrosnan	Wrosnum.	33	dpn	A Danish island tribe
@@ -181,7 +181,7 @@ nō	not at all	nō	37	adv	None
 hwæþre	however	hwæþre	37	adv	None
 hē	he	hē	37	nsppn	None
 ofer	more than	ofer	37	prep	None
-Offa	Offa	Offan	37	dsn	None
+Offa	Offa	Offan	37	dsn	@@@
 eorlscipe	manliness	eorlscype	37	asn	None
 fremman	achieve	fremede,	37	pret.sv	None
 ac	but	ac	38	conj	None
@@ -206,7 +206,7 @@ gemǣran	defined	gemǣrde	42	pret.sv	None
 wið	against	wið	42	prep	None
 Myrgingas	the Myrgings	Myrgingum	42	dpn	None
 bī	by	bī	43	prep	None
-Fīfeldore	the Eider estuary	Fifeldore;	43	dsn	None
+Fīfeldore	Fifeldore	Fīfeldore;	43	dsn	the Eider estuary
 healdan	held	heoldon	43	pret.pv	None
 forð	thenceforth	forð	43	adv	None
 sīþþan	afterwards	sīþþan	43	adv	None
@@ -283,7 +283,7 @@ mid	with	mid	57	prep	None
 Hunas	The Huns	Hunum	57	dpn	None
 ond	and	ond	57	conj	None
 mid	with	mid	57	prep	None
-Hreðgotan	Ostrogoths	Hreðgotum,	57	dpn	None
+Hreðgotan	Ostrogoths	Hreðgotum,	57	dpn	@@@
 mid	with	mid	58	prep	None
 Sweon	Swedes	Sweom	58	dpn	None
 ond	and	ond	58	conj	None
@@ -291,7 +291,7 @@ mid	with	mid	58	prep	None
 Gēatas	the Geats	Geatum	58	dpn	The Geats are common knowledge
 ond	and	ond	58	conj	None
 mid	with	mid	58	prep	None
-Suþ-dene	the south-Danes	Suþ-denum.	58	dpn	None
+Suþ-dene	the south-Danes	Suþ-denum.	58	dpn	@@@
 mid	with	mid	59	prep	None
 Wenlas	Wenlas	Wenlum	59	dpn	The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)
 ic	I	ic	59	pn	None
@@ -327,7 +327,7 @@ Seaxan	the Saxons	Seaxum	62	dpn	The original Saxons of Germany
 ic	I	ic	62	pn	None
 wesan	was	wæs	62	psv	None
 ond	and	ond	62	conj	None
-Sycga	the Sycgans	Sycgum	62	dpn	None
+Sycga	the Sycgans	Sycgum	62	dpn	@@@
 ond	and	ond	62	conj	None
 mid	with	mid	62	prep	None
 Sweordwere	Suardones	Sweordwerum.	62	dpn	From Tacitus, as Malone so adeptly argues in 202-203.
@@ -340,7 +340,7 @@ mid	with	mid	63	prep	None
 Dēan	Deans	Deanum	63	dpn	unknown tribe in the southern Scandinavian peninsula, the Daukiones of Ptolemy (ii.11.16, Malone 135)
 ond	and	ond	63	conj	None
 mid	with	mid	63	prep	None
-Heaþoreamas	HeaÞoramas	Heaþoreamum.	63	dpn	None
+Heaþoreamas	HeaÞoramas	Heaþoreamum.	63	dpn	@@@
 mid	with	mid	64	prep	None
 Þyringas	the Thuringians	Þyringum	64	dpn	None
 ic	I	ic	64	pn	None
@@ -379,7 +379,7 @@ ond	and	ond	68	conj	None
 mid	with	mid	68	prep	None
 Frumtingas	the Framtings	Frumtingum.	68	dpn	The people of King Framta, a faction of the Suevi in Spain. See <i>Historia Svevorum</i>(Malone 152)
 mid	with	mid	69	prep	None
-Rugas	the Rugi	Rugum	69	dpn	### Who are the Rugis??
+Rugas	the Rugi	Rugum	69	dpn	@@@ Who are the Rugis??
 ic	I	ic	69	pn	None
 wesan	was	wæs	69	psv	None
 ond	and	ond	69	conj	None
@@ -387,12 +387,12 @@ mid	with	mid	69	prep	None
 Glomman	the Glomman	Glommum	69	dpn	A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary.
 ond	and	ond	69	conj	None
 mid	with	mid	69	prep	None
-Rumwalas	Rome-foreigners	Rumwalum.	69	dpn	Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors ### Check Weiskott
+Rumwalas	Rome-foreigners	Rumwalum.	69	dpn	Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors @@@ Check Weiskott
 swylce	likewise	Swylce	70	adv	None
 ic	I	ic	70	pn	None
 wesan	was	wæs	70	psv	None
 on	in	on	70	prep	None
-Eatul	Italy	Eatule	70	dsn	None
+Eatul	Italy	Eatule	70	dsn	Italy
 mid	with	mid	70	prep	None
 Ælfwine	Ælfwine	Ælfwine,	70	dsn	King Alboin of the Langobards, called Elvewine in König Rother(Gillespie 36)
 se	that	se	71	dem.pn	None
@@ -426,7 +426,7 @@ ic	I	ic	76	pn	None
 wesan	was	wæs	76	psv	None
 ond	and	ond	76	conj	None
 mid	with	mid	76	prep	None
-Finnas	the Finns	Finnum	76	ipn	None
+Finnas	the Finns	Finnum	76	ipn	@@@
 ond	and	ond	76	conj	None
 mid	with	mid	76	prep	None
 Casere	Caesar	Casere,	76	dsn	Malone argues on pg 135 for an Eastern Roman emperor here, possibly Justinian
@@ -447,7 +447,7 @@ ic	I	ic	79	pn	None
 wesan	was	wæs	79	psv	None
 ond	and	ond	79	conj	None
 mid	with	mid	79	prep	None
-Peohtas	the Picts	Peohtum	79	dpn	###
+Peohtas	the Picts	Peohtum	79	dpn	@@@
 ond	and	ond	79	conj	None
 mid	with	mid	79	prep	None
 Scridefinnas	The Lapps	Scridefinnum;	79	dpn	The Lapps of arctic Norway, Scride- (skis) exists to differentiate them from the Finns proper.
@@ -457,7 +457,7 @@ ic	I	ic	80	pn	None
 wesan	was	wæs	80	psv	None
 ond	and	ond	80	conj	None
 mid	with	mid	80	prep	None
-Leonas	the Leonas	Leonum	80	dpn	None
+Leonas	the Leonas	Leonum	80	dpn	@@@
 ond	and	ond	80	conj	None
 mid	with	mid	80	prep	None
 Longbeardan	The Langobards	Longbeardum,	80	dpn	None
@@ -470,20 +470,20 @@ ond	and	ond	81	conj	None
 mid	with	mid	81	prep	None
 Hundingas	the Hundings	Hundingum.	81	dpn	None
 mid	with	mid	82	prep	None
-Israhelas	the Israelites	Israhelum	82	dpn	None
+Israhelas	the Israelites	Israhelum	82	dpn	@@@
 ic	I	ic	82	pn	None
 wesan	was	wæs	82	psv	None
 ond	and	ond	82	conj	None
 mid	with	mid	82	prep	None
-Exsyringas	the Assyrians	Exsyringum,	82	dpn	None
+Exsyringas	the Assyrians	Exsyringum,	82	dpn	@@@
 mid	with	mid	83	prep	None
-Ebreas	the Hebrews	Ebreum	83	dpn	None
+Ebreas	the Hebrews	Ebreum	83	dpn	@@@
 ond	and	ond	83	conj	None
 mid	with	mid	83	prep	None
 Indeas	THe Hindus	Indeum	83	dpn	Inhabitants of India
 ond	and	ond	83	conj	None
 mid	with	mid	83	prep	None
-Egypte	the Egyptians	Egyptum.	83	dpn	None
+Egypte	the Egyptians	Egyptum.	83	dpn	@@@
 mid	with	mid	84	prep	None
 Moide	the Moids	Moidum	84	dpn	Malone 183: Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.
 ic	I	ic	84	pn	None
@@ -502,7 +502,7 @@ ond	and	ond	86	conj	None
 mid	with	mid	86	prep	None
 Amoþingas	the Amothings	Amoþingum.	86	dpn	Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the <i>Ynglingasaga</i> by Snorri
 mid	with	mid	86	prep	None
-Eastþyringas	Thuringians	Eastþyringum	86	dpn	### Still the best sausages in Germany
+Eastþyringas	Thuringians	Eastþyringum	86	dpn	@@@ Still the best sausages in Germany
 ic	I	ic	86	pn	None
 wesan	was	wæs	86	psv	None
 ond	and	ond	87	conj	None
@@ -654,7 +654,7 @@ Heðca	Hache	Heðcan	112	asn	Malone corrects this to Hehca, and associates him w
 sēcan	sought	sōhte	112	pret.sv	None
 ic	I	ic	112	pn	None
 ond	and	ond	112	conj	None
-Beadeca	Beadecan	Beadecan	112	asn	None
+Beadeca	Beadecan	Beadecan	112	asn	@@@
 ond	and	ond	112	conj	None
 Herelingas	Herelingas	Herelingas,	112	apn	The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).
 Emerca	Emerca	Emercan	113	asn	Emerca is the Gothic hero Erpamara, found in Jordanes 43
@@ -683,7 +683,7 @@ Sifeca	Sifeca	Sifecan,	116	asn	An evil counselor of unknown origin but with lots
 Hlīþe	Lotherus	Hlīþe	116	asn	Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)
 ond	and	ond	116	conj	None
 Incgenþeow	Incgenþeow	Incgenþeow.	116	asn	Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf.
-Eadwine	Edwin	Eadwine	117	asn	### Audoin, again
+Eadwine	Edwin	Eadwine	117	asn	@@@ Audoin, again
 sēcan	sought	sōhte	117	pret.sv	None
 ic	I	ic	117	pn	None
 ond	and	ond	117	conj	None
@@ -695,7 +695,7 @@ ond	and	ond	118	conj	None
 sē	the	þā	118	asn	None
 wlonc	proud	wloncan	118	adj	None
 gedryht	company	gedryht	118	asn	None
-Wiþmyrgingas	the Wiþmyrgings	Wiþmyrginga.	118	gpn	### need to check Chambers 123, 215, 221, but Malone (211) has these as the Myrgings who dwell in the valley of the With (Vid) river, and perhaps identical to the Ongendmyrgings.
+Wiþmyrgingas	the Wiþmyrgings	Wiþmyrginga.	118	gpn	@@@ need to check Chambers 123, 215, 221, but Malone (211) has these as the Myrgings who dwell in the valley of the With (Vid) river, and perhaps identical to the Ongendmyrgings.
 Wulfhere	Wulfhere	Wulfhere	119	asn	One of two princes of the Hræde who let their people in a war against the Huns (Malone 213).
 sēcan	sought	sōhte	119	pret.sv	None
 ic	I	ic	119	pn	None
@@ -708,7 +708,7 @@ wig	warfare	wig	119	nsn	None
 ne	not	ne	119	negative	None
 ālicgan	rest	ālæg,	119	pret.sv	None
 þonne	when	þonne	120	conj	None
-Hræde	Hræde	Hræda	120	gsn	###
+Hræde	Hræde	Hræda	120	gsn	@@@
 here	army	here	120	nsn	None
 heard	hard	heardum	120	adj	None
 sweord	swords	sweordum	120	ipn	None
@@ -730,7 +730,7 @@ ond	and	ond	123	conj	None
 Gislhere	Gislaharius	Gislhere,	123	asn	King of the Burgundians, who Malone speculates would have been an ancestor of the more famous Guðhere
 Wiþergield	Wiþergield	Wiþergield	124	asn	The Wiðergyld of Beowulf 2051, a Heathobeard.
 ond	and	ond	124	conj	None
-Freoþerīc	Freoþeric	Freoþeric,	124	asn	unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). 
+Freoþerīc	Freoþeric	Freoþerīc,	124	asn	unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). 
 Wudga	Wudga	Wudgan	124	asn	THe hero Widia from <i>Waldere</i> and the Viðga of <i>Þiðrrikssaga</i>
 ond	and	ond	124	conj	None
 Hama	Hama	Haman;	124	asn	None

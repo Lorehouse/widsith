@@ -280,11 +280,11 @@
       <word n='' form='Ymbrum,' lemma='Ymbran' pos='dpn' gloss='the Ymbran' comment="An unknown tribe"/>
       <caesura/>
       <word n='' form='Sceafa' lemma='Sceafa' pos='nsn' gloss='Sheaf' comment="A king of the Langobards but Price 1826 identified him as the mythical 'Scef', father of the equally mythical 'Scyld Scefing'. Malone rejects this association because Scyld was, of course, mythical."/>
-      <word n='' form='Longbeardum,' lemma='Longbeardan' pos='dpn' gloss='the Langobards'/>
+      <word n='' form='Longbeardum,' lemma='Longbeardan' pos='dpn' gloss='the Langobards' comment="@@@"/>
     </l>
     <l n='33'>
       <word n='' form='Hun' lemma='Hun' pos='nsn' gloss='Hunn' comment="@@@"/>
-      <word n='' form='Hætwerum' lemma='Hætwere' pos='dpn' gloss='the Hætwere'/>###
+      <word n='' form='Hætwerum' lemma='Hætwere' pos='dpn' gloss='the Hætwere' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Holen' lemma='Holen' pos='nsn' gloss='Holen' comment="Malone takes Holen to mean 'protector' in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE &lt;i&gt;holegn&lt;/i&gt; meaning 'holly'. (Malone 173)"/>
@@ -320,7 +320,7 @@
       <word n='' form='hwæþre' lemma='hwæþre' pos='adv' gloss='however'/>
       <word n='' form='hē' lemma='hē' pos='nsppn' gender='m' gloss='he'/>
       <word n='' form='ofer' lemma='ofer' pos='prep' with='acc' gloss='more than'/>
-      <word n='' form='Offan' lemma='Offa' pos='dsn' gloss='Offa'/>
+      <word n='' form='Offan' lemma='Offa' pos='dsn' gloss='Offa' comment="@@@"/>
       <caesura/>
       <word n='' form='eorlscype' lemma='eorlscipe' pos='asn' gender='m' gloss='manliness'/>
       <word n='' form='fremede,' lemma='fremman' pos='pret.sv' verb='weak' gloss='achieve'/>
@@ -363,7 +363,7 @@
     </l>
     <l n='43'>
       <word n='' form='bī' lemma='bī' pos='prep' with='dative' gloss='by'/>
-      <word n='' form='Fifeldore;' lemma='Fīfeldore' pos='dsn' gloss='the Eider estuary'/>
+      <word n='' form='Fīfeldore;' lemma='Fīfeldore' pos='dsn' gloss='Fifeldore' comment="the Eider estuary"/>
       <caesura/>
       <word n='' form='heoldon' lemma='healdan' pos='pret.pv' verb='strong' gloss='held'/>
       <word n='' form='forð' lemma='forð' pos='adv' gloss='thenceforth'/>
@@ -483,7 +483,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Hreðgotum,' lemma='Hreðgotan' pos='dpn' gloss='Ostrogoths'/>
+      <word n='' form='Hreðgotum,' lemma='Hreðgotan' pos='dpn' gloss='Ostrogoths' comment="@@@"/>
     </l>
     <l n='58'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -494,7 +494,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Suþ-denum.' lemma='Suþ-dene' pos='dpn' gloss='the south-Danes'/>
+      <word n='' form='Suþ-denum.' lemma='Suþ-dene' pos='dpn' gloss='the south-Danes' comment="@@@"/>
     </l>
     <l n='59'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -541,7 +541,7 @@
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Sycgum' lemma='Sycga' pos='dpn' gloss='the Sycgans'/>
+      <word n='' form='Sycgum' lemma='Sycga' pos='dpn' gloss='the Sycgans' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -558,7 +558,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Heaþoreamum.' lemma='Heaþoreamas' pos='dpn' gloss='HeaÞoramas'/>
+      <word n='' form='Heaþoreamum.' lemma='Heaþoreamas' pos='dpn' gloss='HeaÞoramas' comment="@@@"/>
     </l>
     <l n='64'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -597,7 +597,7 @@
       <word n='' form='Næs' lemma='wesan' feat='neg' pos='psv' gloss='was not'/>
       <word n='' form='þǣt' lemma='þǣt' pos='nsn' gloss='that'/>
       <word n='' form='sǣne' lemma='sǣne' pos='adj' gloss='stingy'/>
-      <word n='' form='cyning!' lemma='cyning' pos='nsn' gender='m' gloss='king'/>###
+      <word n='' form='cyning!' lemma='cyning' pos='nsn' gender='m' gloss='king'/>@@@
     </l>
     <l n='68'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -614,7 +614,7 @@
     </l>
     <l n='69'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Rugum' lemma='Rugas' pos='dpn' gloss='the Rugi' sameas='the Holmrycgas' comment="### Who are the Rugis??"/>
+      <word n='' form='Rugum' lemma='Rugas' pos='dpn' gloss='the Rugi' sameas='the Holmrycgas' comment="@@@ Who are the Rugis??"/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -623,14 +623,14 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Rumwalum.' lemma='Rumwalas' pos='dpn' gloss='Rome-foreigners' comment="Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors ### Check Weiskott"/>
+      <word n='' form='Rumwalum.' lemma='Rumwalas' pos='dpn' gloss='Rome-foreigners' comment="Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors @@@ Check Weiskott"/>
     </l>
     <l n='70'>
       <word n='' form='Swylce' lemma='swylce' pos='adv' gloss='likewise'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='on' lemma='on' pos='prep' with='dat' gloss='in'/>
-      <word n='' form='Eatule' lemma='Eatul' pos='dsn' gloss='Italy'/>
+      <word n='' form='Eatule' lemma='Eatul' pos='dsn' gloss='Italy' comment="Italy"/>
       <caesura/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
       <word n='' form='Ælfwine,' lemma='Ælfwine' pos='dsn' gloss='Ælfwine' comment="King Alboin of the Langobards, called Elvewine in König Rother(Gillespie 36)"/>
@@ -682,7 +682,7 @@
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Finnum' lemma='Finnas' pos='ipn' gloss='the Finns'/>
+      <word n='' form='Finnum' lemma='Finnas' pos='ipn' gloss='the Finns' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -712,7 +712,7 @@
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Peohtum' lemma='Peohtas' pos='dpn' gloss='the Picts' comment="###"/>
+      <word n='' form='Peohtum' lemma='Peohtas' pos='dpn' gloss='the Picts' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -725,7 +725,7 @@
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Leonum' lemma='Leonas' pos='dpn' gloss='the Leonas'/>
+      <word n='' form='Leonum' lemma='Leonas' pos='dpn' gloss='the Leonas' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -744,24 +744,24 @@
     </l>
     <l n='82'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Israhelum' lemma='Israhelas' pos='dpn' gloss='the Israelites'/>
+      <word n='' form='Israhelum' lemma='Israhelas' pos='dpn' gloss='the Israelites' comment="@@@"/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Exsyringum,' lemma='Exsyringas' pos='dpn' gloss='the Assyrians'/>
+      <word n='' form='Exsyringum,' lemma='Exsyringas' pos='dpn' gloss='the Assyrians' comment="@@@"/>
     </l>
     <l n='83'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Ebreum' lemma='Ebreas' pos='dpn' gloss='the Hebrews'/>
+      <word n='' form='Ebreum' lemma='Ebreas' pos='dpn' gloss='the Hebrews' comment="@@@"/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
       <word n='' form='Indeum' lemma='Indeas' pos='dpn' gloss='THe Hindus' comment="Inhabitants of India"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Egyptum.' lemma='Egypte' pos='dpn' gloss='the Egyptians'/>
+      <word n='' form='Egyptum.' lemma='Egypte' pos='dpn' gloss='the Egyptians' comment="@@@"/>
     </l>
     <l n='84'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -789,7 +789,7 @@
       <word n='' form='Amoþingum.' lemma='Amoþingas' pos='dpn' gloss='the Amothings' comment="Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the &lt;i&gt;Ynglingasaga&lt;/i&gt; by Snorri"/>
       <caesura/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Eastþyringum' lemma='Eastþyringas' pos='dpn' gloss='Thuringians' comment="### Still the best sausages in Germany"/>
+      <word n='' form='Eastþyringum' lemma='Eastþyringas' pos='dpn' gloss='Thuringians' comment="@@@ Still the best sausages in Germany"/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
     </l>
@@ -1020,7 +1020,7 @@
       <word n='' form='sōhte' lemma='sēcan' pos='pret.sv' verb='weak' gloss='sought'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Beadecan' lemma='Beadeca' pos='asn' gloss='Beadecan'/>
+      <word n='' form='Beadecan' lemma='Beadeca' pos='asn' gloss='Beadecan' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Herelingas,' lemma='Herelingas' pos='apn' gloss='Herelingas' comment="The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170)."/>
@@ -1064,7 +1064,7 @@
       <word n='' form='Incgenþeow.' lemma='Incgenþeow' pos='asn' gloss='Incgenþeow' comment="Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf."/>
     </l>
     <l n='117'>
-      <word n='' form='Eadwine' lemma='Eadwine' pos='asn' gloss='Edwin' comment="### Audoin, again"/>
+      <word n='' form='Eadwine' lemma='Eadwine' pos='asn' gloss='Edwin' comment="@@@ Audoin, again"/>
       <word n='' form='sōhte' lemma='sēcan' pos='pret.sv' verb='weak' gloss='sought'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -1080,7 +1080,7 @@
       <word n='' form='wloncan' lemma='wlonc' pos='adj' gloss='proud'/>
       <word n='' form='gedryht' lemma='gedryht' pos='asn' gloss='company'/>
       <caesura/>
-      <word n='' form='Wiþmyrginga.' lemma='Wiþmyrgingas' pos='gpn' gloss='the Wiþmyrgings' comment="### need to check Chambers 123, 215, 221, but Malone (211) has these as the Myrgings who dwell in the valley of the With (Vid) river, and perhaps identical to the Ongendmyrgings."/>
+      <word n='' form='Wiþmyrginga.' lemma='Wiþmyrgingas' pos='gpn' gloss='the Wiþmyrgings' comment="@@@ need to check Chambers 123, 215, 221, but Malone (211) has these as the Myrgings who dwell in the valley of the With (Vid) river, and perhaps identical to the Ongendmyrgings."/>
     </l>
     <l n='119'>
       <word n='' form='Wulfhere' lemma='Wulfhere' pos='asn' gloss='Wulfhere' comment="One of two princes of the Hræde who let their people in a war against the Huns (Malone 213)."/>
@@ -1098,7 +1098,7 @@
     </l>
     <l n='120'>
       <word n='' form='þonne' lemma='þonne' pos='conj' gloss='when'/>
-      <word n='' form='Hræda' lemma='Hræde' pos='gsn' gloss='Hræde' comment="###"/>
+      <word n='' form='Hræda' lemma='Hræde' pos='gsn' gloss='Hræde' comment="@@@"/>
       <word n='' form='here' lemma='here' pos='nsn' gloss='army'/>
       <caesura/>
       <word n='' form='heardum' lemma='heard' pos='adj' gloss='hard'/>
@@ -1132,7 +1132,7 @@
     <l n='124'>
       <word n='' form='Wiþergield' lemma='Wiþergield' pos='asn' gloss='Wiþergield' comment="The Wiðergyld of Beowulf 2051, a Heathobeard."/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Freoþeric,' lemma='Freoþerīc' pos='asn' gloss='Freoþeric' comment="unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). "/>
+      <word n='' form='Freoþerīc,' lemma='Freoþerīc' pos='asn' gloss='Freoþeric' comment="unidentified king or hero, sometimes conneced with the Heathobards and other times with Rederic, King of the Rugians, but Malone mentions there is no evidence for this (150). "/>
       <caesura/>
       <word n='' form='Wudgan' lemma='Wudga' pos='asn' gloss='Wudga' comment="THe hero Widia from &lt;i&gt;Waldere&lt;/i&gt; and the Viðga of &lt;i&gt;Þiðrrikssaga&lt;/i&gt;"/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>

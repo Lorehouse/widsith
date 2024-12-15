@@ -49,7 +49,7 @@
         <l n="29"><persName>Hnæf</persName> <name sameAs="Hocingas">Hocingum</name>, <caesura/> <persName>Helm</persName> <name sameAs="Wulfingas">Wulfingum</name>,</l>
         <l n="30"><persName>Wald</persName> <name sameAs="Woingas">Woingum</name>, <caesura/> <persName>Wod</persName> Þyringum,</l>
         <l n="31"><persName>Sæferð</persName> <name sameAs="Sycgan">Sycgum</name>, <caesura/> <name sameAs="Sweon">Sweom</name> <persName>Ongendþeow</persName>,</l>
-        <l n="32"><persName>Sceafthere</persName> <name sameAs="Yumbran">Ymbrum</name>, <caesura/> <persName>Sceafa</persName> <name sameAs="Longbeardan">Longbeardum</name>,</l>
+        <l n="32"><persName>Sceafthere</persName> <name sameAs="Ymbran">Ymbrum</name>, <caesura/> <persName>Sceafa</persName> <name sameAs="Longbeardan">Longbeardum</name>,</l>
         <l n="33"><persName>Hun</persName> <name sameAs="Hætwere">Hætwerum</name> <caesura/> ond <persName>Holen</persName> <name sameAs="Wrosnan">Wrosnum</name>.</l>
         <l n="34"><persName sameAs="Hringwald">Hringweald</persName> wæs haten <caesura/> <name sameAs="Herefaran">Herefarena</name> cyning.</l>
         <l n="35"><persName>Offa</persName> weold <name sameAs="Ongel">Ongle</name>, <caesura/> <persName>Alewih</persName> <name sameAs="Dene">Denum</name>;</l>
@@ -60,7 +60,7 @@
         <l n="40">Nænig efeneald him <caesura/> eorlscipe māran</l>
         <l n="41">on ōrette. <caesura/> Āne sweorde</l>
         <l n="42">merce gemǣrde <caesura/> wið <name sameAs="Myrgingas">Myrgingum</name></l>
-        <l n="43">bī <placeName>Fifeldore</placeName>; <caesura/> heoldon forð sīþþan</l>
+        <l n="43">bī <placeName>Fīfeldore</placeName>; <caesura/> heoldon forð sīþþan</l>
         <l n="44"><name sameAs="Ongel">Engle</name> ond <name sameAs="Swæfe">Swæfe</name>, <caesura/> swā hit <persName>Offa</persName> geslog.</l>
         <l n="45"><persName>Hroþwulf</persName> ond <persName>Hroðgar</persName> <caesura/> heoldon lengest</l>
         <l n="46">sibbe ætsomne <caesura/> suhtorfædran,</l>
@@ -75,7 +75,7 @@
         <l n="55">mǣnan fore mengo <caesura/> in meoduhealle</l>
         <l n="56">hū me cynegōde <caesura/> cystum dohten.</l>
         <l n="57">Ic wæs mid <name sameAs="Hunas">Hunum</name> <caesura/> ond mid <name sameAs="Hreðgotan">Hreðgotum</name>,</l>
-        <l n="58">mid <name sameAs="Sweon">Sweom</name> ond mid <name sameAs="Gēatas">Gēatum</name> <caesura/> ond mid <name sameAs="Suþ-denum">Suþ-denum</name>.</l>
+        <l n="58">mid <name sameAs="Sweon">Sweom</name> ond mid <name sameAs="Gēatas">Gēatum</name> <caesura/> ond mid <name sameAs="Suþ-dene">Suþ-denum</name>.</l>
         <l n="59">Mid <name sameAs="Wenlas">Wenlum</name> ic wæs ond mid <name sameAs="Wærne">Wærnum</name> <caesura/> ond mid <name sameAs="Wicingas">Wicingum</name>.</l>
         <l n="60">Mid <name sameAs="Gefþan">Gefþum</name> ic wæs ond mid <name sameAs="Winedas">Winedum</name> <caesura/> ond mid <name sameAs="Gefflēgan">Gefflēgum</name>.</l>
         <l n="61">Mid <name sameAs="Ongel">Englum</name> ic wæs ond mid <name sameAs="Swæfe">Swæfum</name> <caesura/> ond mid <name sameAs="Ænēnas">Ænenum</name>.</l>
@@ -91,9 +91,9 @@
         <l n="71">se hæfde moncynnes, <caesura/> mīne gefrǣge,</l>
         <l n="72">lēohteste hond <caesura/> lofes to wyrcenne,</l>
         <l n="73">heortan unhnēaweste <caesura/> hringa gedāles,</l>
-        <l n="74">beorhtra bēaga, <caesura/> bearn <persName>Eadwines</persName>.</l>
+        <l n="74">beorhtra bēaga, <caesura/> bearn <persName sameAs="Eadwine">Eadwines</persName>.</l>
         <l n="75">Mid <name sameAs="Sercingas">Sercingum</name> ic wæs <caesura/> ond mid <name sameAs="Seringas">Seringum</name>;</l>
-        <l n="76">mid <name sameAs="Creacas">Creacum</name> ic wæs ond mid <name sameAs="Ginnas">Finnum</name> <caesura/> ond mid <persName>Casere</persName>,</l>
+        <l n="76">mid <name sameAs="Creacas">Creacum</name> ic wæs ond mid <name sameAs="Finnas">Finnum</name> <caesura/> ond mid <persName>Casere</persName>,</l>
         <l n="77">se þe wīnburga <caesura/> geweald āhte,</l>
         <l n="78">wiolena ond wilna, <caesura/> ond <placeName sameAs="Walas">Wala</placeName> rīces.</l>
         <l n="79">Mid <name sameAs="Scottas">Scottum</name> ic wæs ond mid <name sameAs="Peohtas">Peohtum</name> <caesura/> ond mid <name sameAs="Scridefinnas">Scridefinnum</name>;</l>
@@ -135,13 +135,13 @@
         <l n="115"><persName sameAs="Secca">Seccan</persName> sōhte ic ond <persName sameAs="Becca">Beccan</persName>, <caesura/> <persName sameAs="Seafola">Seafolan</persName> ond <persName>Þeodric</persName>,</l>
         <l n="116"><persName>Heaþoric</persName> ond <persName sameAs="Sifeca">Sifecan</persName>, <caesura/> <persName>Hlīþe</persName> ond <persName>Incgenþeow</persName>.</l>
         <l n="117"><persName>Eadwine</persName> sōhte ic ond <persName sameAs="Elsa">Elsan</persName>, <caesura/> <persName>Ægelmund</persName> ond <persName>Hungar</persName>,</l>
-        <l n="118">ond þā wloncan gedryht <caesura/> <name sameAs="Wiþmyrginga">Wiþmyrginga</name>.</l>
+        <l n="118">ond þā wloncan gedryht <caesura/> <name sameAs="Wiþmyrgingas">Wiþmyrginga</name>.</l>
         <l n="119"><persName>Wulfhere</persName> sōhte ic ond <persName>Wyrmhere</persName>; <caesura/> ful oft þǣr wig ne ālæg,</l>
-        <l n="120">þonne <persName>Hræda</persName> here <caesura/> heardum sweordum</l>
+        <l n="120">þonne <persName sameAs="Hræde">Hræda</persName> here <caesura/> heardum sweordum</l>
         <l n="121">ymb <placeName>Wistlawudu</placeName> <caesura/> wergan sceoldon</l>
         <l n="122">ealdne ēþelstōl <caesura/> <persName sameAs="Ætla">Ætlan</persName> lēodum.</l>
         <l n="123"><persName>Rædhere</persName> sōhte ic ond <persName>Rondhere</persName>, <caesura/> <persName>Rumstan</persName> ond <persName>Gislhere</persName>,</l>
-        <l n="124"><persName>Wiþergield</persName> ond <persName>Freoþeric</persName>, <caesura/> <persName sameAs="Wudga">Wudgan</persName> ond <persName sameAs="Hama">Haman</persName>;</l>
+        <l n="124"><persName>Wiþergield</persName> ond <persName>Freoþerīc</persName>, <caesura/> <persName sameAs="Wudga">Wudgan</persName> ond <persName sameAs="Hama">Haman</persName>;</l>
         <l n="125">ne wæran þæt gesīþa <caesura/> þā sǣmestan,</l>
         <l n="126">þēah þe ic hȳ anīhst <caesura/> nemnan sceolde.</l>
         <l n="127">Ful oft of þām hēape <caesura/> hwīnende fleag</l>
