@@ -145,3 +145,7 @@
 * [[Foot_making-of-anglecynn]]
 * [[woganbrowne_hero-in-christian-reception]]
 * add long vowel marks consistently
+
+#### 2024-12-27
+* definitely fell off the wagon of taking notes. 
+* [[Thesis_paper_planning]]
