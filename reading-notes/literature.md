@@ -24,3 +24,5 @@
 * Reynolds, 1953 "Le poèm anglo-saxon *Widsith*: réalité et fiction." *Le Moyen Age, 59*
 * [[howe_cultural-construction-of-reading]]
 * [[woganbrowne_hero-in-christian-reception]]
+* [[the-digital-middle-ages-introduction]]
+* [[Beyond-translation]]

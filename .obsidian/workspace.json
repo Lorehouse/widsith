@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing-progress/Thesis_paper_planning.md",
+                "file": "Beyond-translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thesis_paper_planning"
+              "title": "Beyond-translation"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing-progress/Thesis_paper_planning.md",
+                "file": "Beyond-translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thesis_paper_planning"
+              "title": "Backlinks for Beyond-translation"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing-progress/Thesis_paper_planning.md",
+                "file": "Beyond-translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thesis_paper_planning"
+              "title": "Outgoing links from Beyond-translation"
             }
           },
           {
@@ -172,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing-progress/Thesis_paper_planning.md"
+                "file": "Beyond-translation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thesis_paper_planning"
+              "title": "Outline of Beyond-translation"
             }
           }
         ]
@@ -195,10 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43a4b64c2ced8bf4",
+  "active": "a90c244335c9e85a",
   "lastOpenFiles": [
-    "progresslog.md",
+    "reading-notes/literature.md",
+    "Beyond-translation.md",
+    "reading-notes/the-digital-middle-ages-introduction.md",
     "writing-progress/Thesis_paper_planning.md",
+    "progresslog.md",
     "Untitled.md",
     "writing-progress",
     "niles_oe-heroic-poems-book.md",
