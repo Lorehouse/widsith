@@ -149,3 +149,8 @@
 #### 2024-12-27
 * definitely fell off the wagon of taking notes. 
 * [[Thesis_paper_planning]]
+
+#### 2024-12-29
+* did some reading but need to do more. Got Zotero linked with Obsidian but I'm not sure how to work with that yet. 
+* Conversations with Claude!!! What! Claude Sonnet 3.5 is an amazing LLM. I will start a new note or multiple notes called [[conversations-with-claude]]
+* Claude is helping me come up with a focus timeline and I'd like to start an kanban board for tasks to work on this semester.

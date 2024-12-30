@@ -4,57 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd7025f5fd503f0",
+        "id": "2a235d2b0389f036",
         "type": "tabs",
         "children": [
           {
-            "id": "9cbfc91fe031fc46",
+            "id": "921773349ddbe223",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "writing-progress/Writing Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "a90c244335c9e85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beyond-translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beyond-translation"
-            }
-          },
-          {
-            "id": "21c5b4322d17da10",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "61b738be44750f0e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-trello",
+              "title": "Writing Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#administrative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,11 +85,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4add13b4bca17155",
@@ -126,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beyond-translation.md",
+                "file": "writing-progress/Writing Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beyond-translation"
+              "title": "Backlinks for Writing Kanban"
             }
           },
           {
@@ -145,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beyond-translation.md",
+                "file": "writing-progress/Writing Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Beyond-translation"
+              "title": "Outgoing links from Writing Kanban"
             }
           },
           {
@@ -172,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beyond-translation.md"
+                "file": "writing-progress/Writing Kanban.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Beyond-translation"
+              "title": "Outline of Writing Kanban"
             }
           }
         ]
@@ -192,16 +173,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a90c244335c9e85a",
+  "active": "921773349ddbe223",
   "lastOpenFiles": [
-    "reading-notes/literature.md",
-    "Beyond-translation.md",
-    "reading-notes/the-digital-middle-ages-introduction.md",
-    "writing-progress/Thesis_paper_planning.md",
+    "writing-progress/writing-planning.md",
+    "Untitled Kanban 1.md",
+    "writing-progress/Writing Kanban.md",
+    "conversations-with-claude.md",
     "progresslog.md",
+    "digital-spatial-humanities.md",
+    "gorzDigitalSpatialHumanities2024.md",
+    "reading-notes/literature.md",
+    "reading-notes/modelling-digital-scholarly-editing.md",
+    "2024-12-29.md",
+    "reading-notes/the-digital-middle-ages-introduction.md",
+    "reading-notes/Beyond-translation.md",
+    "writing-progress/Thesis_paper_planning.md",
     "Untitled.md",
     "writing-progress",
     "niles_oe-heroic-poems-book.md",

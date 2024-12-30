@@ -1,0 +1,1 @@
+Görz, Günther. “Digital Spatial Humanities – Some Methodological Remarks and Two Historical Examples.” _Geographical Research in the Digital Humanities_, edited by Finn Dammann and Dominik Kremer, 1st ed., transcript Verlag, 2024, pp. 15–36. _JSTOR_, [https://www.jstor.org/stable/jj.13083323.4](https://www.jstor.org/stable/jj.13083323.4).

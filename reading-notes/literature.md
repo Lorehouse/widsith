@@ -26,3 +26,5 @@
 * [[woganbrowne_hero-in-christian-reception]]
 * [[the-digital-middle-ages-introduction]]
 * [[Beyond-translation]]
+* [[modelling-digital-scholarly-editing]]
+* [[digital-spatial-humanities]]
