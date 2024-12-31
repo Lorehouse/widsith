@@ -7,7 +7,7 @@ _________
 - "fluid text is a fact, not a theory" from John Bryant
 - *"ever since antiquity the purpose of editorial work has been the production of the one, true, 'official' version of the text from the many that are available." (42)*
 - *"For example, with highly elaborative traditions such as epic or sermons alteration and therefore the creation of new versions was considered normal practice, at least for some types of texts. The textual variety of medieval texts has been seen (and in some cases is still seen) by many scholars as a problem to fix in the quest for the original text." (44)*
-- *"In his (Cerquiglini) vision, manuscripts are no longer simply witnesses to works but witnesses to culture, and ought therefore to be studied in their own right." (44-45)*
+- *"In his \[Cerquiglini's] vision, manuscripts are no longer simply witnesses to works but witnesses to culture, and ought therefore to be studied in their own right." (44-45)*
 - Addressing the critical apparatus of producing critical editions: *"However, criticism of the apparatus still stands: its highly condensed and abbreviated formalism, elaborated for a technology where space is limited, constitutes a cultural threshold only accessible by people with the highest level of education in the very specific field that has produced such a product." (45)* 
 - *"John Lavagnino for instance, presents the case of the variorum edition of S.T. Coleridge's poems edited by J.C.C. Mays, but then he agrees that such an edition is not easy to use, as it takes 'six volumes for what a conventional presentation could easily fit into one'."(46)* Here the Digital Tolkien Project is an example of a project that aims to make accessible a multitude of versions and the evolution of various tales and poems across a lifetime of the author's work. 
 - *"Critical editions are often difficult and time-consuming to produce and, in  the case of very complex textual traditions, can become lifelong projects, representing the culmination of the intellectual career of a scholar." (46)* Something to think about.
@@ -29,7 +29,7 @@ Peter Robinson, 'Electronic Editions for Everyone', in *Text and Genre in Recons
 Elena Pierazzo, 'Digital Documentary Editions and the Others', *Scholarly Editing*, 35.
 (2014), http://www.scholarlyediting.org/2014/essays/essay.pierazzo.html
 
-C. M. Sperberg-McQueen, 'How to Teach your Edition how to Swim', *Literary and Linguistic Computing*, 24 (2009), 27-52 (p. 30), http://dx.doi.org/10.1093/lc/fqn034 
+C. M. Sperberg-McQueen, 'How to Teach your Edition how to Swim', *Literary and Linguistic Computing*, 24 (2009), 27-52 (p. 30), [https://doi.org/10.1093/llc/fqn034](https://doi.org/10.1093/llc/fqn034)
 
 *The Literary Text in the Digital Age*, ed. by Richard Finneran (Ann Arbor: University of Michigan Press, 1996), p.x.
 
