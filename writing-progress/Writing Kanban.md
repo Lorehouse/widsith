@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] Create diagrams showing workflow from text to digital edition #integration #nice
 - [ ] Plan March submission deadline with Dr. Goering. #admin #need #lvl1
 - [ ] Schedule regular progress reviews #admin #need #lvl1
+- [ ] Set up call with Dr. Crane @{2025-02-03} #admin #need #lvl1
 
 
 ## Research Backlog
@@ -26,6 +27,7 @@ kanban-plugin: board
 - [ ] Study Peter Baker's Old English work #research #nice
 - [ ] Review Perseus Project evolution case studies #research #nice
 - [ ] Study Scaife reader technical documentation #research #need
+- [ ] Read [[Linguistic means of determing the dates of Old English literary texts]] #research #nice #lvl1
 
 
 ## Writing Backlog
@@ -38,6 +40,7 @@ kanban-plugin: board
 
 ## Technical Backlog
 
+- [ ] 
 - [ ] Document integration with Scaife reader #technical #need #lvl1
 - [ ] Document XML schema (I just used TEI) #technical #need #lvl2
 - [ ] test alignment with sample from another poem #technical #nice
@@ -49,11 +52,11 @@ kanban-plugin: board
 
 - [ ] create thesis document template #admin #need #lvl1
 - [ ] PAY TUITION #admin #lvl1
-- [ ] Set up call with Nelson #admin #lvl1
 
 
 ## In Progress
 
+- [ ] Set up call with Nelson #admin #lvl1
 - [ ] Read [[Beyond-translation]] paper #research #need
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
 
@@ -66,6 +69,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [ ] [[Set up call with Dr. Crane]]
 - [ ] Ask Claude what a technical appendix is
 
 

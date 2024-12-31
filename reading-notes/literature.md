@@ -28,3 +28,11 @@
 * [[Beyond-translation]]
 * [[modelling-digital-scholarly-editing]]
 * [[digital-spatial-humanities]]
+* Crane, What Do You Do with [[a Million Books]]?
+* Crane, [[Text, Information, Knowledge]], and the Evolving Record of Humanity
+* Crane, [[New technology and new roles]]: The need for "corpus editors"
+* [[Beyond Variants]], Damon
+* The Battle We [[Forgot to Fight]], Del Turco
+* [[Old Wine in New Bottles?]] Driscoll
+* Franzini, et al. [[A Catalogue of Digital Editions]]
+* 
