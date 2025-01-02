@@ -222,7 +222,7 @@
       <word n='' form='Froncum,' lemma='Froncan' pos='dpn' gloss='the Franks' comment="@@@"/>
       <caesura/>
       <word n='' form='Þyle' lemma='Þyle' pos='nsn' gloss='Thyle' comment="King of the Rondings. Malone explains the name as the eponym of the Þilir, a tribe in the Telemark, giving identification to the Rondings below."/>
-      <word n='' form='Rondingum,' lemma='Rondingas' pos='dpn' gloss='The Rondings' comment="The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a &lt;i&gt;mark&lt;/i&gt; or borderland. (Malone 191-192)"/>
+      <word n='' form='Rondingum,' lemma='Rondingas' pos='dpn' gloss='The Rondings' comment="The men of Telemark (tgn, 7003654, http://vocab.getty.edu/page/tgn/7003654), famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a &lt;i&gt;mark&lt;/i&gt; or borderland. (Malone 191-192)"/>
     </l>
     <l n='25'>
       <word n='' form='Breoca' lemma='Breoca' pos='nsn' gloss='Breoca' comment="The Breca of &lt;i&gt;Beowulf&lt;/i&gt; fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)"/>
@@ -234,7 +234,7 @@
     <l n='26'>
       <word n='' form='Oswine' lemma='Oswine' pos='nsn' gloss='Oswin' comment="Otherwise unknown"/>
       <word n='' form='weold' lemma='wealdan' pos='psv' feat='with instrumental' gloss='ruled'/>
-      <word n='' form='Eowum' lemma='Eowan' pos='dpn' gloss='the Eows' comment="A tribe Conybeare associates with the Baltic island of Öland"/>
+      <word n='' form='Eowum' lemma='Eowan' pos='dpn' gloss='the Eows' comment="A tribe Conybeare associates with the Baltic island of  (tgn, 7009847, http://vocab.getty.edu/page/tgn/7009847"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Ytum' lemma='Yte' pos='dpn' gloss='the Jutes' comment="The Euts or Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215)."/>
@@ -272,7 +272,7 @@
       <word n='' form='Sæferð' lemma='Sæferð' pos='nsn' gloss='Sæferð' comment="King of the Sycgan, some debate that he is the Sigeferþ of Beowulf and Holthausen translates the name Seefried. We cannot be certain of his identity."/>
       <word n='' form='Sycgum,' lemma='Sycgan' pos='dpn' gloss='Sycgan' comment="Only otherwise known from the Finnsburug Fragment, l24, where they are the Secgena(gpn)."/>
       <caesura/>
-      <word n='' form='Sweom' lemma='Sweon' pos='dpn' gloss='Swedes' comment="The Swedes of Uppland"/>
+      <word n='' form='Sweom' lemma='Sweon' pos='dpn' gloss='Swedes' comment="The Swedes of Uppland (tgn, 7009866, http://vocab.getty.edu/page/tgn/7009866)"/>
       <word n='' form='Ongendþeow,' lemma='Ongendþeow' pos='nsn' gloss='Ongenþeow' comment="A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr."/>
     </l>
     <l n='32'>
@@ -363,7 +363,7 @@
     </l>
     <l n='43'>
       <word n='' form='bī' lemma='bī' pos='prep' with='dative' gloss='by'/>
-      <word n='' form='Fīfeldore;' lemma='Fīfeldore' pos='dsn' gloss='Fifeldore' comment="the Eider estuary"/>
+      <word n='' form='Fīfeldore;' lemma='Fīfeldore' pos='dsn' gloss='Fifeldore' comment="the Eider estuary, (tgn, 7074620) http://vocab.getty.edu/page/tgn/7074620"/>
       <caesura/>
       <word n='' form='heoldon' lemma='healdan' pos='pret.pv' verb='strong' gloss='held'/>
       <word n='' form='forð' lemma='forð' pos='adv' gloss='thenceforth'/>
@@ -372,7 +372,7 @@
     <l n='44'>
       <word n='' form='Engle' lemma='Ongel' pos='asn' gloss='the Angles'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Swæfe,' lemma='Swæfe' pos='asn' gloss='the Suebi'/>
+      <word n='' form='Swæfe,' lemma='Swæfe' pos='asn' gloss='the Suebi' comment="@@@"/>
       <caesura/>
       <word n='' form='swā' lemma='swā' pos='conj' gloss='as' note="modal"/>
       <word n='' form='hit' lemma='hē' pos='asn' gloss='he'/>
@@ -498,12 +498,12 @@
     </l>
     <l n='59'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Wenlum' lemma='Wenlas' pos='dpn' gloss='Wenlas' comment="The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)"/>
+      <word n='' form='Wenlum' lemma='Wenlas' pos='dpn' gloss='Wenlas' comment="The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (tgn, 7004795, http://vocab.getty.edu/page/tgn/7004195) (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)"/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Wærnum' lemma='Wærne' pos='dpn' gloss='the Varni' comment="The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland."/>
+      <word n='' form='Wærnum' lemma='Wærne' pos='dpn' gloss='the Varni' comment="The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland (tgn, 7004795, http://vocab.getty.edu/page/tgn/7004195)."/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -568,7 +568,7 @@
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Þrowendum,' lemma='Þrowend' pos='dpn' gloss='Þrowend' comment="The inhabitants of Norway's Trøndelagen, the Þrøndr (Malone 205)."/>
+      <word n='' form='Þrowendum,' lemma='Þrowend' pos='dpn' gloss='Þrowend' comment="The inhabitants of Norway's Trøndelagen (tgn, 8712604, http://vocab.getty.edu/page/tgn/8712604), the Þrøndr (Malone 205)."/>
     </l>
     <l n='65'>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -619,7 +619,7 @@
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Glommum' lemma='Glomman' pos='dpn' gloss='the Glomman' comment="A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary."/>
+      <word n='' form='Glommum' lemma='Glomman' pos='dpn' gloss='the Glomman' comment="A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary (tgn 1228010, http://vocab.getty.edu/page/tgn/1128010)."/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -733,10 +733,10 @@
     </l>
     <l n='81'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='hæðnum' lemma='hæþen' pos='dpn' gloss='heathens' comment="Various editors believe this to be the word 'heathen' as below is the word 'hero', but Malone argues in the spirit of Lappenberg 1838, that these are the inhabitants of the Norwegian region called Hedemark (Malone 159). I am currently adopting the 'heathens and heroes' reading but am open to changing my mind."/>
+      <word n='' form='hæðnum' lemma='hæþen' pos='dpn' gloss='heathens' comment="Various editors believe this to be the word 'heathen' as below is the word 'hero', but Malone argues in the spirit of Lappenberg 1838, that these are the inhabitants of the Norwegian region called Hedemark (tgn 7003643, http://vocab.getty.edu/page/tgn/7003643) (Malone 159). I am currently adopting the 'heathens and heroes' reading but am open to changing my mind."/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='hæleþum' lemma='hæleþ' pos='dpn' gloss='heroes' comment="WOW this is interesting. I had interpreted this on my read-through as 'heroes' but Malone and some other writers identify this with the inhabitants ot the Hala heret in &lt;i&gt;Jordebog&lt;/i&gt; of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as &lt;i&gt;Hæreþum&lt;/i&gt;, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn 'hæleþ' or hero, which I am adopting for the time being. I will copy this note into my log."/>
+      <word n='' form='hæleþum' lemma='hæleþ' pos='dpn' gloss='heroes' comment="WOW this is interesting. I had interpreted this on my read-through as 'heroes' but Malone and some other writers identify this with the inhabitants of the @@@ (typo?) Hala heret in &lt;i&gt;Jordebog&lt;/i&gt; of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as &lt;i&gt;Hæreþum&lt;/i&gt;, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn 'hæleþ' or hero, which I am adopting for the time being. I will copy this note into my log."/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
@@ -765,7 +765,7 @@
     </l>
     <l n='84'>
       <word n='' form='mid' lemma='mid' pos='prep' with='dat' gloss='with'/>
-      <word n='' form='Moidum' lemma='Moide' pos='dpn' gloss='the Moids' comment="Malone 183: Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe."/>
+      <word n='' form='Moidum' lemma='Moide' pos='dpn' gloss='the Moids' comment="Malone 183: Moide are the inhabitates of Møn (tgn 7003643, http://vocab.getty.edu/page/tgn/7003574) in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe."/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='wæs' lemma='wesan' pos='psv' verb='strong' gloss='was'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
@@ -778,7 +778,7 @@
     </l>
     <l n='85'>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Mofdingum' lemma='Mofdingas' pos='dpn' gloss='Mofdings' comment="Malone changes this to the 'Ofdingas' for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument (pg2 186-187)."/>
+      <word n='' form='Mofdingum' lemma='Mofdingas' pos='dpn' gloss='Mofdings' comment="Malone changes this to the 'Ofdingas' for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument (pgs 186-187)."/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Ongendmyrgingum' lemma='Ongendmyrgingas' pos='dpn' gloss='the Ongendmyrgings' comment="Malone has this combined with the previous word to form the Ongendmyrgingum but neither Chambers nor the ASPR does this. If it were correct, it might be identical to the later Wiþmyrgingas in 116. Malone takes his cue from Rieger and Langenfelt in following the structure of 'Ongendþeow' and placing the Ongend as a prefix of the word. Because of the presence of the 'regular' Myrgings in this same stanza, I have opted for Malone's reading."/>
@@ -851,7 +851,7 @@
     <l n='93'>
       <word n='' form='þone' lemma='sē' pos='aspn' gloss='that'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
-      <word n='' form='Eadgilse' lemma='Eadgils' pos='dsn' gloss='Eadgils' comment="King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139"/>
+      <word n='' form='Eadgilse' lemma='Eadgils' pos='dsn' gloss='Eadgils' comment="King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139."/>
       <caesura/>
       <word n='' form='on' lemma='on' pos='prep' with='acc' gloss='in'/>
       <word n='' form='ǣht' lemma='ǣht' pos='asn' gloss='possession'/>
@@ -902,7 +902,7 @@
       <word n='' form='duguþe,' lemma='duguþ' pos='gsn' gloss='a body of royal fighting men'/>
       <caesura/>
       <word n='' form='dohtor' lemma='dohtor' pos='n' gender='f' gloss='daughter'/>
-      <word n='' form='Eadwines.' lemma='Eadwine' pos='gsn' gloss='of Edwin' comment="The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish ging (Malone 140) "/>
+      <word n='' form='Eadwines.' lemma='Eadwine' pos='gsn' gloss='of Edwin' comment="The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish king (Malone 140) "/>
     </l>
     <l n='99'>
       <word n='' form='Hyre' lemma='hē' pos='gsn' gender='f' gloss='her'/>
@@ -1023,7 +1023,7 @@
       <word n='' form='Beadecan' lemma='Beadeca' pos='asn' gloss='Beadecan' comment="@@@"/>
       <caesura/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
-      <word n='' form='Herelingas,' lemma='Herelingas' pos='apn' gloss='Herelingas' comment="The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170)."/>
+      <word n='' form='Herelingas,' lemma='Herelingas' pos='apn' gloss='Herelingas' comment="The followers of Herela, or King Herla of Water Map @@@, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170)."/>
     </l>
     <l n='113'>
       <word n='' form='Emercan' lemma='Emerca' pos='asn' gloss='Emerca' comment="Emerca is the Gothic hero Erpamara, found in Jordanes 43"/>
@@ -1059,12 +1059,12 @@
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Sifecan,' lemma='Sifeca' pos='asn' gloss='Sifeca' comment="An evil counselor of unknown origin but with lots of speculation (Malone 199)."/>
       <caesura/>
-      <word n='' form='Hlīþe' lemma='Hlīþe' pos='asn' gloss='Lotherus' comment="Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)"/>
+      <word n='' form='Hlīþe' lemma='Hlīþe' pos='asn' gloss='Lotherus' comment="Hlǫðr of the Hervararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)"/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>
       <word n='' form='Incgenþeow.' lemma='Incgenþeow' pos='asn' gloss='Incgenþeow' comment="Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf."/>
     </l>
     <l n='117'>
-      <word n='' form='Eadwine' lemma='Eadwine' pos='asn' gloss='Edwin' comment="@@@ Audoin, again"/>
+      <word n='' form='Eadwine' lemma='Eadwine' pos='asn' gloss='Edwin'/>
       <word n='' form='sōhte' lemma='sēcan' pos='pret.sv' verb='weak' gloss='sought'/>
       <word n='' form='ic' lemma='ic' pos='pn' gloss='I'/>
       <word n='' form='ond' lemma='ond' pos='conj' gloss='and'/>

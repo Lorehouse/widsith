@@ -28,6 +28,16 @@ kanban-plugin: board
 - [ ] Review Perseus Project evolution case studies #research #nice
 - [ ] Study Scaife reader technical documentation #research #need
 - [ ] Read [[Linguistic means of determing the dates of Old English literary texts]] #research #nice #lvl1
+- [ ] [[Kirschenbaum, What is Digital Humanities]] #research
+- [ ] [[Digital Documentary Editions]] by Elena Pierazzo #research
+- [ ] [[Reader Roles in Scholarly Editions]] Rasmussen #research
+- [ ] [[What is a Scholarly Digital Edition?]] Sahle, #research
+- [ ] [[New Technology and new roles]], the need for "corpus editors", Crane and Ryan #research
+- [ ] [[Beyond Variants]], Damon #research
+- [ ] [[Battle we forgot to fight]], Del Turco #research
+- [ ] [[Old Wine in New Bottles]], Driscoll and Pierazzo #research
+- [ ] [[A Catalogue of Digital Editions]] Franzini et al. #research
+- [ ] [[Barely Beyond the Book?]] van Zundert #research
 
 
 ## Writing Backlog
@@ -59,6 +69,10 @@ kanban-plugin: board
 - [ ] Set up call with Nelson #admin #lvl1
 - [ ] Read [[Beyond-translation]] paper #research #need
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
+- [ ] [[Beyond Translation]] Crane #research
+- [ ] [[The Digital Middle Ages Intro]] Birnbaum #research
+- [ ] [[What do you do with a million Books]] Crane, #research
+- [ ] [[Text, Information, Knowledge]] and the Evolving Record of Humanity. #research
 
 
 ## Review/Revise
@@ -69,11 +83,16 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [ ] [[Set up call with Dr. Crane]]
-- [ ] Ask Claude what a technical appendix is
+- [x] [[Set up call with Dr. Crane]]
+- [x] [[Modelling Digital Scholarly Editing]] Elena Pierazzo #DigitalText
+- [x] [[Edition, Project, Database]] Kenneth Price #DigitalText #DTP
 
 
+***
 
+## Archive
+
+- [x] Ask Claude what a technical appendix is
 
 %% kanban:settings
 ```
