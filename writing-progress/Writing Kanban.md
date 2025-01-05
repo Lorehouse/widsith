@@ -66,13 +66,9 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Set up call with Nelson #admin #lvl1
-- [ ] Read [[Beyond-translation]] paper #research #need
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
-- [ ] [[Beyond Translation]] Crane #research
 - [ ] [[The Digital Middle Ages Intro]] Birnbaum #research
 - [ ] [[What do you do with a million Books]] Crane, #research
-- [ ] [[Text, Information, Knowledge]] and the Evolving Record of Humanity. #research
 
 
 ## Review/Revise
@@ -83,6 +79,8 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] Read [[Beyond-translation]] paper #research #need
+- [x] Set up call with Nelson #admin #lvl1
 - [x] [[Set up call with Dr. Crane]]
 - [x] [[Modelling Digital Scholarly Editing]] Elena Pierazzo #DigitalText
 - [x] [[Edition, Project, Database]] Kenneth Price #DigitalText #DTP
@@ -93,6 +91,8 @@ kanban-plugin: board
 ## Archive
 
 - [x] Ask Claude what a technical appendix is
+- [x] [[Text, Information, Knowledge]] and the Evolving Record of Humanity. #research
+- [x] [[Beyond Translation]] Crane #research
 
 %% kanban:settings
 ```
