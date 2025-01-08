@@ -1,0 +1,1 @@
+Note in word-tagging.xml on line 21 about what should be included in comments.

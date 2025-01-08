@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "5013587f073e5634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Correct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Correct"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4add13b4bca17155",
@@ -162,8 +178,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b4ace03be8d374b9",
+  "active": "5013587f073e5634",
   "lastOpenFiles": [
+    "questions for Nelson.md",
+    "To Correct.md",
+    "README.md",
     "venvwidsith/Lib/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.md",
     "Other Projects.md",
     "Medieval Electronic Scholarly Alliance (MESA).md",
@@ -181,15 +200,12 @@
     "reading-notes/TGN locations.md",
     "reading-notes/Set up call with Dr. Crane.md",
     "reading-notes/Beyond-translation.md",
-    "README.md",
     "gorzDigitalSpatialHumanities2024.md",
     "2024-12-29.md",
     "].md",
-    "Untitled.md",
     "reading-notes/literature.md",
     "Untitled Kanban 1.md",
     "progresslog.md",
-    "digital-spatial-humanities.md",
     "writing-progress"
   ]
 }
