@@ -56,12 +56,13 @@ kanban-plugin: board
 - [ ] test alignment with sample from another poem #technical #nice
 - [ ] prepare code samples for thesis appendix #technical #need #lvl2
 - [ ] Prepare demo of extensibility #nice #technical
+- [ ] Get NE into line-by-line view #need #technical
 
 
 ## This Week
 
+- [ ] Change CSS font to a Noto font #need #technical
 - [ ] create thesis document template #admin #need #lvl1
-- [ ] PAY TUITION #admin #lvl1
 
 
 ## In Progress
@@ -79,6 +80,7 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [x] PAY TUITION #admin #lvl1
 - [x] Read [[Beyond-translation]] paper #research #need
 - [x] Set up call with Nelson #admin #lvl1
 - [x] [[Set up call with Dr. Crane]]

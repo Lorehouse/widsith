@@ -37,7 +37,7 @@ gesecan	sought	gesohte	7	pret.sv	None
 eastan	east	eastan	8	adv	None
 of	from	of	8	prep	None
 Ongel	the Angles land	Ongle,	8	dpn	The original homeland of the Angles before Britain, and probably covered most of Sleswick,
-Eormanrīc	Ermanric	Eormanrīces,	8	gsn	Ostrogothic king in the late middle 4th century, see his contemporary historian, Ammanius Marcellinus, as well as Jordanes. Ammanius tells that his great empire was so threatened by Huns and Alans that he committed suicide, though Jordanes leaves this out (Malone 146). Son of Amelunc and uncle of Dietrich von Berne (Þeodric), <i>Dietrichs Flucht</i> paints him very badly, as do other Old German heroic tales (Gillespie 37, 38). Malone argues that these later heroic tales do not reflect the historical king, who seems to have behaved correctly for an old Germanic warlord (146-149).
+Eormanrīc	Ermanric	Eormanrīces,	8	gsn	Ostrogothic king in the late middle 4th century, see his contemporary historian, Ammanius Marcellinus, as well as Jordanes. Ammanius tells that his great empire was so threatened by Huns and Alans that he committed suicide, though Jordanes leaves this out (Malone 146). Son of Amelunc and uncle of Dietrich von Berne (Þeodric), <i>Dietrichs Flucht</i> paints him very badly, as do other Old German heroic tales (Gillespie 37, 38). Malone argues that these later heroic tales do not reflect the historical king, who seems to have behaved correctly for an old Germanic warlord (146-149). https://en.wikipedia.org/wiki/Ermanaric
 wraþ	hostile	wraþes	9	adj	None
 wærloga	oath-breaker	wærlogan.	9	dpn	None
 onginnan	began	Ongon	9	pret.sv	None
@@ -72,7 +72,7 @@ Hwala	Hwala	Hwala	14	nsn	Grandson of Sceaf but otherwise unknown
 hwil	a while	hwile	14	asn	None
 sel	best	selast,	14	adj	None
 ond	and	ond	15	conj	None
-Alexandreas	Alexander	Alexandreas	15	nsn	proper name, Alexander the great
+Alexandreas	Alexander	Alexandreas	15	nsn	proper name, Alexander the great: https://en.wikipedia.org/wiki/Alexander_the_Great
 eal	all	ealra	15	adj	None
 rice	powerful	ricost	15	adj	None
 monn	men	monna	16	gpn	None
@@ -88,25 +88,25 @@ ofer	over	ofer	17	prep	None
 folde	the earth	foldan	17	asn	None
 gefricgan	learned (by asking)	gefrægen	17	ppn	None
 habban	have	hæbbe.	17	psv	None
-Ætla	Atilla	Ætla	18	apn	the Hun.
+Ætla	Atilla	Ætla	18	apn	the famous Hun.
 wealdan	ruled	weold	18	psv	None
-Hunas	the Huns	Hunum,	18	ipn	https://en.wikipedia.org/wiki/Huns
+Hunas	the Huns	Hunum,	18	ipn	These are the Huns of history, a nomadic people: https://en.wikipedia.org/wiki/Huns
 Eormanrīc	Ermanric	Eormanric	18	nsn	None
-Gotan	the Goths	Gotum,	18	ipn	https://en.wikipedia.org/wiki/Goths
+Gotan	the Goths	Gotum,	18	ipn	Malone views these as the Ostrogoths, but this is disputed and he may have ruled a broad range of the Gothic peoples. https://en.wikipedia.org/wiki/Goths
 Becca	Becca	Becca	19	nsn	from OE Beocca, possibly identified with Bikki from <i>Snorra Edda<i> and <i>Völsungasaga</i>, Ermanric's treacherous retainer, and Bicco in Saxo's <i>Gesta Danorum</i> but Malone dismisses this as linguistically improbable (pg 131).
 Baningas	the Baningas	Baningum,	19	dpn	Malone has a long note here connecting Baningum with Bainaib (Cuntz 1923) and Ptolemy's Βαινοχαιμαι, whom he argues are separate from the Bohemians (Boihœmum, Marquart)
 Burgendan	the Burgundians	Burgendum	19	dpn	a Germanic tribe dwelling in the Rhine region and later the Rhone.
 Gifica	Gifica	Gifica.	19	nsn	Also the Gibica mentioned in King Gundobad's <i>Leges Burgudionum</i> (see Malone 154), believed by F. Bluhme to be the father of Gundomar, Gislahari (Gislhere, line 123) and Gundahari(Guðhere, line 66). Malone speculates that these may represent each a generation.
 Casere	Caesar	Casere	20	nsn	The Byzantine Roman emperor in Constantinople
 wealdan	ruled	weold	20	psv	None
-Creacas	the Greeks	Creacum	20	dpn	interesting to note that this is not the Romans any more
+Creacas	the Greeks	Creacum	20	dpn	The Roman emperor now ruled the Greeks predominantly.
 ond	and	ond	20	conj	None
-Cælic	Caelic	Cælic	20	nsn	@@@
-Finnas	the Finns	Finnum,	20	dpn	@@@
+Cælic	Caelic	Cælic	20	nsn	There is considerable debate about this name, with Grienberger 1922 arguing that it is a nickname meaning 'cup', but it is more commonly considered to be related to the term 'Kalevala'.
+Finnas	the Finns	Finnum,	20	dpn	There is some fascinating argument about these peoples. While at first it seems obvious that these are the Finns of Finland (and this is the widely accept view), arguments have been made that these are the Lapps, or even the Irish. Malone points out that the Finns are mentioned again in line 76 and distinguished from the Scridefinns a few lines later who are definitely the Lapps, as well as from the 'Scottum' (who are the Irish) and that means these Finns are the Finns proper.
 Hagena	Hagen	Hagena	21	nsn	a king of the Rugians, famous from the Hild Saga, also the foe of Heoden below
 Holmrygas	the Rugians	Holmrygum	21	dpn	All editions note that the 'g' is missing from the manuscript and they add it back in. Malone, in his glossary, makes the additional correction of a 'c', rendering this <i>holmrycgas</i>, <i>holmrycgum</i>. Malone identifies the Rugians as the Hulmerugi of Jordanes, in the islands of the estuary of the Vistula. (174)
 ond	and	ond	21	conj	None
-Heoden	Heoden	Heoden	21	nsn	The ASPR XML has this word tagged as 'unclear' and boy howdy is it ever. The OEPIF project shows it as very unclear as well. Malone reads it as Henden but says it is the character Heoden of the Hild saga (pg 168). Chambers and ASPR both record it as 'Heoden', so that is what I'm going to stick with for now.
+Heoden	Heoden	Heoden	21	nsn	The ASPR XML has this word tagged as 'unclear' and it truly is. The OEPIF project shows it as very unclear as well. Malone reads it as Henden but says it is the character Heoden of the Hild saga (pg 168). Chambers and ASPR both record it as 'Heoden', so that is what I'm going to stick with for now.
 Glomman	the Glomman	Glommum.	21	dpn	None
 Witta	Witta	Witta	22	nsn	King of the Swæfe, and according to Bede, grandfather to Hengest and Horsa.
 wealdan	ruled	weold	22	psv	None
@@ -119,26 +119,26 @@ Mearchealf	Mearchealf	Mearchealf	23	nsn	unknowng king of the Hundings, but his n
 Hundingas	the Hundings	Hundingum.	23	dpn	nickname for the Langobards
 Þeodric	Theodric	Þeodric	24	nsn	Malone has him as the oldest son of Clovis and king of the Franks, and says that this Theodric is the same Theodric as in l. 115. Chambers and other dispute this. This Theodric is, indeed, Hugdietrich, king of the Franks (as stated in the poem), but l.115 would then be Dietrich of Bern.
 wealdan	ruled	weold	24	psv	None
-Froncan	the Franks	Froncum,	24	dpn	@@@
+Froncan	the Franks	Froncum,	24	dpn	These are the Franks of history, though an earlier name for the tribe seems to have been Hugas, a name that survived in poetry and also as the name 'Hugh'.
 Þyle	Thyle	Þyle	24	nsn	King of the Rondings. Malone explains the name as the eponym of the Þilir, a tribe in the Telemark, giving identification to the Rondings below.
-Rondingas	The Rondings	Rondingum,	24	dpn	The men of Telemark, famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a <i>mark</i> or borderland. (Malone 191-192)
+Rondingas	The Rondings	Rondingum,	24	dpn	The men of Telemark (tgn, 7003654, http://vocab.getty.edu/page/tgn/7003654), famously weird skiers with whom no self-respecting Alpine skier would associate. The name means 'borderers' and seems to be a poetic appelation based on their region being called a <i>mark</i> or borderland. (Malone 191-192)
 Breoca	Breoca	Breoca	25	nsn	The Breca of <i>Beowulf</i> fame, the great swimmer, though his name likely refers to being a great breaker of rings or breaker of shield walls. (Malone 133)
 Brondingas	Brondings	Brondingum,	25	dpn	an unknown tribe, though Malone has some great speculation here (133-134)
 Billing	Billing	Billing	25	nsn	Malone 132-133) According to Chambers and Redin the name is derived from a kind of sword called a <i>bill</i>
-Wern	the Werns	Wernum.	25	dpn	@@@
+Wern	the Werns	Wernum.	25	dpn	The Varini of Tacitus and the Varni of Procopius and perhaps the Varinnae of Pliny (Malone 207). Procopius placed then east of the Rhine, Tacitus seems to put them in Jutland. https://en.wikipedia.org/wiki/Warini
 Oswine	Oswin	Oswine	26	nsn	Otherwise unknown
 wealdan	ruled	weold	26	psv	None
-Eowan	the Eows	Eowum	26	dpn	A tribe Conybeare associates with the Baltic island of Öland
+Eowan	the Eows	Eowum	26	dpn	A tribe Conybeare associates with the Baltic island of  (tgn, 7009847, http://vocab.getty.edu/page/tgn/7009847
 ond	and	ond	26	conj	None
 Yte	the Jutes	Ytum	26	dpn	The Euts or Jutes, one of the three tribes Bede names as taking part in the English conquest of Britain (Malone 215).
 Gefwulf	Gefwulf	Gefwulf,	26	nsn	King of the Jutes (Ytum), but otherwise unknown
 Fin	Fin	Fin	27	nsn	King of rhe Frisians and the Finn from Beowulf and the <i>Finnsburuh Fragment</i>
 Folcwalding	son of Folcwalda	Folcwalding	27	nsn	The patronymic of Finn's father, but Chambers suggests that it was a title that alliterated conveniently rather than Finn's father's real name (1921, 200)
-Frēsan	the Frisian	Fresna	27	asn	@@@
+Frēsan	the Frisian	Fresna	27	asn	These are the Frisians of history. https://en.wikipedia.org/wiki/Frisians
 cynn	tribe	cynne.	27	isn	None
 Sigehere	Sighere	Sigehere	28	nsn	King of the Sea-Danes, the Sigarr of the <i>Snorra Edda</i>
 lengan	longest	lengest	28	adv	None
-Sæ-dene	the Sea-Danes	Sæ-denum	28	dpn	@@@
+Sæ-dene	the Sea-Danes	Sæ-denum	28	dpn	It is uncertain whether the prefix 'Sæ' means to restrict these to only the Danes of the islands or as an epithet to emphasize the dominance of the Danes on the sea, but either way these are simply the Danes.
 wealdan	ruled	weold,	28	psv	None
 Hnæf	Hnæf	Hnæf	29	nsn	King of the Hocingas, appears in both Beowulf and the <i>Finnsburuh Fragment</i>
 Hocingas	the Hocings	Hocingum,	29	dpn	The Hocings are clarified as Danes in <i>Beowulf</i> (1090, 1158), Here-Scyldings (1069, 1108, 1154), and Healfdenes (1069). Malone has notes on them on pgs 172-173.
@@ -150,27 +150,27 @@ Wod	Wod	Wod	30	nsn	King of the Þyringas, otherwise unknown
 Þyringas	the Thuringians	Þyringum,	30	dpn	Either the Thoringi of Gregory of Tours or the Tungri (Thuringians) of inland Germany. It is not impossible that these are actually the same tribe. (Malone 206)
 Sæferð	Sæferð	Sæferð	31	nsn	King of the Sycgan, some debate that he is the Sigeferþ of Beowulf and Holthausen translates the name Seefried. We cannot be certain of his identity.
 Sycgan	Sycgan	Sycgum,	31	dpn	Only otherwise known from the Finnsburug Fragment, l24, where they are the Secgena(gpn).
-Sweon	Swedes	Sweom	31	dpn	The Swedes of Uppland
+Sweon	Swedes	Sweom	31	dpn	The Swedes of Uppland (tgn, 7009866, http://vocab.getty.edu/page/tgn/7009866)
 Ongendþeow	Ongenþeow	Ongendþeow,	31	nsn	A king of the Swedes mentioned in Beowulf (as Ongenþoew), his name becongs Angantyr in Old Norse. The Ongend- element means sting or prick and Malone then extrapolates to 'phallus', associating Ongend- with a priest of a fertility cult, perhaps Yngvi Freyr.
 Sceafthere	Sceafthere	Sceafthere	32	nsn	unknown king but his name means 'spear-army (compare with Rondhere, 'shield-army).
 Ymbran	the Ymbran	Ymbrum,	32	dpn	An unknown tribe
 Sceafa	Sheaf	Sceafa	32	nsn	A king of the Langobards but Price 1826 identified him as the mythical 'Scef', father of the equally mythical 'Scyld Scefing'. Malone rejects this association because Scyld was, of course, mythical.
-Longbeardan	the Langobards	Longbeardum,	32	dpn	@@@
-Hun	Hunn	Hun	33	nsn	@@@
-Hætwere	the Hætwere	Hætwerum	33	dpn	@@@
+Longbeardan	the Langobards	Longbeardum,	32	dpn	the Langobards of history. Originating in Scandinavia, this tribe migrated south and settled in the region of Lombardy. The name presumably comes from the words meaning 'long beards'. https://en.wikipedia.org/wiki/Lombards
+Hun	Hunn	Hun	33	nsn	This is a king of the Hætwere who appears also in an Icelandic thula and as the champion Hunn who fought in the Battle of Bravellir.
+Hætwere	the Hætwere	Hætwerum	33	dpn	These are the Hetware of <i>Beowulf</i>.
 ond	and	ond	33	conj	None
-Holen	Holen	Holen	33	nsn	Malone takes Holen to mean 'protector' in l 80 of the Exeter Book Gnomic Verses. Others associate it with OE <i>holegn</i> meaning 'holly'. (Malone 173)
+Holen	Holen	Holen	33	nsn	Malone takes Holen to mean 'protector' in l80 of the Exeter Book Gnomic Verses. Others associate it with OE <i>holegn</i> meaning 'holly'. (Malone 173)
 Wrosnan	Wrosnan	Wrosnum.	33	dpn	A Danish island tribe
-Hringwald	Hringwald	Hringweald	34	nsn	means Ring-Ruler, great name 
+Hringwald	Hringwald	Hringweald	34	nsn	means Ring-Ruler 
 wesan	was	wæs	34	psv	None
 hāten	called	hāten	34	ppv	None
-Herefaran	of the Herefarens	Herefarena	34	gpn	@@@
+Herefaran	of the Herefarens	Herefarena	34	gpn	A tribe no longer known to us.
 cyning	king	cyning.	34	gsn	None
 Offa	Offa	Offa	35	nsn	King of Ongel also in Beowulf, and as Uffa in Saxo Grammaticus and Sweyn Aageson. Latter half of the 4th century and king of the Angles. 
 wealdan	ruled	weold	35	psv	None
 Ongel	the Angles	Ongle,	35	dpn	None
 Alewih	Alewih	Alewih	35	nsn	unknown Danish king
-Dene	the Danes	Denum;	35	dpn	@@@
+Dene	the Danes	Denum;	35	dpn	These are the Danes, a Germanic tribe first mentioned by Latin and Greek writers. https://en.wikipedia.org/wiki/Danes_(tribe)
 se	that	se	36	dem.pn	None
 wesan	was	wæs	36	psv	None
 sē	those	þāra	36	gpn	None
@@ -181,7 +181,7 @@ nō	not at all	nō	37	adv	None
 hwæþre	however	hwæþre	37	adv	None
 hē	he	hē	37	nsppn	None
 ofer	more than	ofer	37	prep	None
-Offa	Offa	Offan	37	dsn	@@@
+Offa	Offa	Offan	37	dsn	A king of Ongel (or Angel). https://en.wikipedia.org/wiki/Offa_of_Angel
 eorlscipe	manliness	eorlscype	37	asn	None
 fremman	achieve	fremede,	37	pret.sv	None
 ac	but	ac	38	conj	None
@@ -206,7 +206,7 @@ gemǣran	defined	gemǣrde	42	pret.sv	None
 wið	against	wið	42	prep	None
 Myrgingas	the Myrgings	Myrgingum	42	dpn	None
 bī	by	bī	43	prep	None
-Fīfeldore	Fifeldore	Fīfeldore;	43	dsn	the Eider estuary
+Fīfeldore	Fifeldore	Fīfeldore;	43	dsn	the Eider estuary, (tgn, 7074620) http://vocab.getty.edu/page/tgn/7074620
 healdan	held	heoldon	43	pret.pv	None
 forð	thenceforth	forð	43	adv	None
 sīþþan	afterwards	sīþþan	43	adv	None
@@ -217,9 +217,9 @@ swā	as	swā	44	conj	None
 hē	he	hit	44	asn	None
 Offa	Offa	Offa	44	asn	None
 geslean	won	geslog	44	psv	None
-Hroþwulf	Hroþwulf	Hroþwulf	45	nsn	Hroþgar's nephew
+Hroþwulf	Hroþwulf	Hroþwulf	45	nsn	Hroþgar's nephew, and the famous Hrólfr Kraki of his own saga. https://en.wikipedia.org/wiki/Hr%C3%B3lfr_Kraki
 ond	and	ond	45	conj	None
-Hroðgar	Hroðgar	Hroðgar	45	nsn	Our old buddy
+Hroðgar	Hroðgar	Hroðgar	45	nsn	The renowned king of Beowulf fame. https://en.wikipedia.org/wiki/Hrothgar
 healdan	held	heoldon	45	pret.pv	None
 lengest	longest	lengest	45	adv	None
 sibb	kinship	sibbe	46	gsn	None
@@ -236,7 +236,7 @@ ord	vanguard	ord	48	asn	None
 forbīgan	humbled	forbīgdan,	48	pret.pv	None
 forhēawan	cut to pieces	forhēowan	49	pret.pv	None
 æt	at	æt	49	prep	None
-Heorot	Heorot	Heorote	49	dsn	Heorot of Hroðgar in <i>Beowulf</i>.
+Heorot	Heorot	Heorote	49	dsn	Heorot of Hroðgar in <i>Beowulf</i>, https://en.wikipedia.org/wiki/Heorot.
 Heaðobeardan	of the Heathobards	Heaðobeardna	49	gpn	These are the Heathobards of Beowulf. Malone presumes that they were closely related to the Langobards.
 þrym	force	þrym.	49	asn	None
 swā	as	Swā	50	conj	None
@@ -283,7 +283,7 @@ mid	with	mid	57	prep	None
 Hunas	The Huns	Hunum	57	dpn	None
 ond	and	ond	57	conj	None
 mid	with	mid	57	prep	None
-Hreðgotan	Ostrogoths	Hreðgotum,	57	dpn	@@@
+Hreðgotan	Ostrogoths	Hreðgotum,	57	dpn	Malone takes this a poetical epithet for the Ostrogoths chosen to alliterate with the Huns. (175).
 mid	with	mid	58	prep	None
 Sweon	Swedes	Sweom	58	dpn	None
 ond	and	ond	58	conj	None
@@ -291,19 +291,19 @@ mid	with	mid	58	prep	None
 Gēatas	the Geats	Geatum	58	dpn	The Geats are common knowledge
 ond	and	ond	58	conj	None
 mid	with	mid	58	prep	None
-Suþ-dene	the south-Danes	Suþ-denum.	58	dpn	@@@
+Suþ-dene	the south-Danes	Suþ-denum.	58	dpn	This simply means the South-Danes. In Beowulf, there are North-, East-. West-, and South-Danes, but the Widsith poet only distinguishes the South-Danes (Malone 136, 201).
 mid	with	mid	59	prep	None
-Wenlas	Wenlas	Wenlum	59	dpn	The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)
+Wenlas	Wenlas	Wenlum	59	dpn	The Wendlas of Beowulf 348, though whether he was Wendlas of the Vandili of Pliny, or of the Winnili (the Langobards), or still further a dweller of the Vendel of northern Jutland (tgn, 7004795, http://vocab.getty.edu/page/tgn/7004195) (called the Wandali by Saxo Grammaticus), is unknown for certain. (Malone 209)
 ic	I	ic	59	pn	None
 wesan	was	wæs	59	psv	None
 ond	and	ond	59	conj	None
 mid	with	mid	59	prep	None
-Wærne	the Varni	Wærnum	59	dpn	The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland.
+Wærne	the Varni	Wærnum	59	dpn	The Varni of Procopius and the Varini of Tacitus, and perhaps the Varinnae of Pliny. Procopius puts this tribe east of the Rhine, in the region controlled by the Saxons. Tacitus puts them in Jutland (tgn, 7004795, http://vocab.getty.edu/page/tgn/7004195).
 ond	and	ond	59	conj	None
 mid	with	mid	59	prep	None
 Wicingas	the Wicings	wicingum.	59	dpn	This is a reference to the Heaðobeards, according to Malone, but often translated as Vikings.
 mid	with	mid	60	prep	None
-Gefþan	The Gibids	Gefþum	60	dpn	A tribe of the Gothic family mentioned in Beowulf @@@ Better notes.
+Gefþan	The Gepids	Gefþum	60	dpn	A tribe of the Gothic family mentioned in Beowulf and the Gepids of history. https://en.wikipedia.org/wiki/Gepids
 ic	I	ic	60	pn	None
 wesan	was	wæs	60	psv	None
 ond	and	ond	60	conj	None
@@ -327,7 +327,7 @@ Seaxan	the Saxons	Seaxum	62	dpn	The original Saxons of Germany
 ic	I	ic	62	pn	None
 wesan	was	wæs	62	psv	None
 ond	and	ond	62	conj	None
-Sycga	the Sycgans	Sycgum	62	dpn	@@@
+Sycga	the Sycgans	Sycgum	62	dpn	A tribe only otherwise known from the 'Secgena' of the <i>Finnsburh Fragment</i> l24. 
 ond	and	ond	62	conj	None
 mid	with	mid	62	prep	None
 Sweordwere	Suardones	Sweordwerum.	62	dpn	From Tacitus, as Malone so adeptly argues in 202-203.
@@ -340,17 +340,17 @@ mid	with	mid	63	prep	None
 Dēan	Deans	Deanum	63	dpn	unknown tribe in the southern Scandinavian peninsula, the Daukiones of Ptolemy (ii.11.16, Malone 135)
 ond	and	ond	63	conj	None
 mid	with	mid	63	prep	None
-Heaþoreamas	HeaÞoramas	Heaþoreamum.	63	dpn	@@@
+Heaþoreamas	HeaÞoramas	Heaþoreamum.	63	dpn	This tribe appears in <i>Beowulf;/i> line 519 and while possibilities for their identity have been suggested, there is nothing conclusive known about them.
 mid	with	mid	64	prep	None
 Þyringas	the Thuringians	Þyringum	64	dpn	None
 ic	I	ic	64	pn	None
 wesan	was	wæs	64	psv	None
 ond	and	ond	64	conj	None
 mid	with	mid	64	prep	None
-Þrowend	Þrowend	Þrowendum,	64	dpn	The inhabitants of Norway's Trøndelagen, the Þrøndr (Malone 205).
+Þrowend	Þrowend	Þrowendum,	64	dpn	The inhabitants of Norway's Trøndelagen (tgn, 8712604, http://vocab.getty.edu/page/tgn/8712604), the Þrøndr (Malone 205).
 ond	and	ond	65	conj	None
 mid	with	mid	65	prep	None
-Burgendan	the Burgundians	Burgendum,	65	ipn	None
+Burgendan	the Burgundians	Burgendum,	65	ipn	The Burgundians of history. https://en.wikipedia.org/wiki/Burgundians
 þǣr	there	þǣr	65	adv	None
 ic	I	ic	65	pn	None
 bēag	necklace	bēag	65	asn	None
@@ -379,12 +379,12 @@ ond	and	ond	68	conj	None
 mid	with	mid	68	prep	None
 Frumtingas	the Framtings	Frumtingum.	68	dpn	The people of King Framta, a faction of the Suevi in Spain. See <i>Historia Svevorum</i>(Malone 152)
 mid	with	mid	69	prep	None
-Rugas	the Rugi	Rugum	69	dpn	@@@ Who are the Rugis??
+Rugas	the Rugi	Rugum	69	dpn	These are the same people as the Holmrycgas of line 21, known to history as the Rugii or the Rugians. https://en.wikipedia.org/wiki/Rugii 
 ic	I	ic	69	pn	None
 wesan	was	wæs	69	psv	None
 ond	and	ond	69	conj	None
 mid	with	mid	69	prep	None
-Glomman	the Glomman	Glommum	69	dpn	A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary.
+Glomman	the Glomman	Glommum	69	dpn	A tribe perhaps the same as Tacitus's Lemovii on the Oder estuary (tgn 1228010, http://vocab.getty.edu/page/tgn/1128010).
 ond	and	ond	69	conj	None
 mid	with	mid	69	prep	None
 Rumwalas	Rome-foreigners	Rumwalum.	69	dpn	Malone (193) identifies the Rumwalas as the eastern Roman empire, which is heavily disputed by other authors @@@ Check Weiskott
@@ -426,7 +426,7 @@ ic	I	ic	76	pn	None
 wesan	was	wæs	76	psv	None
 ond	and	ond	76	conj	None
 mid	with	mid	76	prep	None
-Finnas	the Finns	Finnum	76	ipn	@@@
+Finnas	the Finns	Finnum	76	ipn	None
 ond	and	ond	76	conj	None
 mid	with	mid	76	prep	None
 Casere	Caesar	Casere,	76	dsn	Malone argues on pg 135 for an Eastern Roman emperor here, possibly Justinian
@@ -442,12 +442,12 @@ ond	and	ond	78	conj	None
 Walas	of the Romans	Wala	78	gpn	A generic word meaning 'foreigners' but usually referring to Romans. This name was later to be come the appelation given to the land of 'Wales' or of 'foreigners'
 rīce	realm	rīces.	78	gsn	None
 mid	with	mid	79	prep	None
-Scottas	the Irish	Scottum	79	dpn	Not the Scots
+Scottas	the Irish	Scottum	79	dpn	Not the Scots, actually the Irish.
 ic	I	ic	79	pn	None
 wesan	was	wæs	79	psv	None
 ond	and	ond	79	conj	None
 mid	with	mid	79	prep	None
-Peohtas	the Picts	Peohtum	79	dpn	@@@
+Peohtas	the Picts	Peohtum	79	dpn	The Picts of history. https://en.wikipedia.org/wiki/Picts
 ond	and	ond	79	conj	None
 mid	with	mid	79	prep	None
 Scridefinnas	The Lapps	Scridefinnum;	79	dpn	The Lapps of arctic Norway, Scride- (skis) exists to differentiate them from the Finns proper.
@@ -457,52 +457,52 @@ ic	I	ic	80	pn	None
 wesan	was	wæs	80	psv	None
 ond	and	ond	80	conj	None
 mid	with	mid	80	prep	None
-Leonas	the Leonas	Leonum	80	dpn	@@@
+Leonas	the Leonas	Leonum	80	dpn	Malone identifies these as the Leuoni of Ptolemy, a tribe located in central Skandia. (Malone 180)
 ond	and	ond	80	conj	None
 mid	with	mid	80	prep	None
 Longbeardan	The Langobards	Longbeardum,	80	dpn	None
 mid	with	mid	81	prep	None
-hæþen	heathens	hæðnum	81	dpn	Various editors believe this to be the word 'heathen' as below is the word 'hero', but Malone argues in the spirit of Lappenberg 1838, that these are the inhabitants of the Norwegian region called Hedemark (Malone 159). I am currently adopting the 'heathens and heroes' reading but am open to changing my mind.
+hæþen	heathens	hæðnum	81	dpn	Various editors believe this to be the word 'heathen' as below is the word 'hero', but Malone argues in the spirit of Lappenberg 1838, that these are the inhabitants of the Norwegian region called Hedemark (tgn 7003643, http://vocab.getty.edu/page/tgn/7003643) (Malone 159). I am currently adopting the 'heathens and heroes' reading but am open to changing my mind.
 ond	and	ond	81	conj	None
 mid	with	mid	81	prep	None
-hæleþ	heroes	hæleþum	81	dpn	WOW this is interesting. I had interpreted this on my read-through as 'heroes' but Malone and some other writers identify this with the inhabitants ot the Hala heret in <i>Jordebog</i> of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as <i>Hæreþum</i>, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn 'hæleþ' or hero, which I am adopting for the time being. I will copy this note into my log.
+hæleþ	heroes	hæleþum	81	dpn	I had interpreted this on my read-through as 'heroes' but Malone and some other writers identify this with the inhabitants of the <i>Halla heret</i> in <i>Jordebog</i> of King Valdemar II of Denmark. Lappenberg 1838 and Grein read it as <i>Hæreþum</i>, identifying the tribe with the Charudes of classical antiquity (all in Malone 157). Mackie and Dobbie keep the MS reading and take it as the dpn 'hæleþ' or hero, which I am adopting for the time being. I will copy this note into my log.
 ond	and	ond	81	conj	None
 mid	with	mid	81	prep	None
 Hundingas	the Hundings	Hundingum.	81	dpn	None
 mid	with	mid	82	prep	None
-Israhelas	the Israelites	Israhelum	82	dpn	@@@
+Israhelas	the Israelites	Israhelum	82	dpn	The people of the region of Israel, possibly distinguishing the kingdom of Israel from the Kingdom of Judah in the next line.
 ic	I	ic	82	pn	None
 wesan	was	wæs	82	psv	None
 ond	and	ond	82	conj	None
 mid	with	mid	82	prep	None
-Exsyringas	the Assyrians	Exsyringum,	82	dpn	@@@
+Exsyringas	the Assyrians	Exsyringum,	82	dpn	The Assyrians of history https://en.wikipedia.org/wiki/Assyrian_people#Early_Christian_period
 mid	with	mid	83	prep	None
-Ebreas	the Hebrews	Ebreum	83	dpn	@@@
+Ebreas	the Hebrews	Ebreum	83	dpn	The Hebrews may be distinguished from the Israelites as possibly being the Kingdom of Judah.
 ond	and	ond	83	conj	None
 mid	with	mid	83	prep	None
 Indeas	THe Hindus	Indeum	83	dpn	Inhabitants of India
 ond	and	ond	83	conj	None
 mid	with	mid	83	prep	None
-Egypte	the Egyptians	Egyptum.	83	dpn	@@@
+Egypte	the Egyptians	Egyptum.	83	dpn	The Egyptians
 mid	with	mid	84	prep	None
-Moide	the Moids	Moidum	84	dpn	Malone 183: Moide are the inhabitates of Møn in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.
+Moide	the Moids	Moidum	84	dpn	Malone 183: Moide are the inhabitates of Møn (tgn 7003643, http://vocab.getty.edu/page/tgn/7003574) in the Danish archipelago, and a well known harbor and battle-site. Earlier editors associated the Moide with the Medes but this spelling would be a one-off then, as the Medes are usuall spelled Meðas or Mœðe.
 ic	I	ic	84	pn	None
 wesan	was	wæs	84	psv	None
 ond	and	ond	84	conj	None
 mid	with	mid	84	prep	None
-Perse	the Perse	Persum	84	dpn	because of the exotic peoples listed in the previous sentence, these often get translated to the Medes and the Persians; however, Malone points out that in this couplet, they are actually paired with Scandinavian and Germanic tribes. Because of this, the identity of the Perse is unknown. 
+Perse	the Perse	Persum	84	dpn	because of the exotic peoples listed in the previous sentence, these often get translated to the Medes and the Persians; however, Malone points out that in this couplet, they are actually paired with Scandinavian and Germanic tribes within the sentence. Because of this, the identity of the Perse is unknown. 
 ond	and	ond	84	conj	None
 mid	with	mid	84	prep	None
 Myrgingas	the Myrgings	Myrgingum,	84	dpn	None
 ond	and	ond	85	conj	None
-Mofdingas	Mofdings	Mofdingum	85	dpn	Malone changes this to the 'Ofdingas' for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument (pg2 186-187).
+Mofdingas	Mofdings	Mofdingum	85	dpn	Malone changes this to the 'Ofdingas' for complex reasons. Nobody else does this, so I have elected to leave it, though he makes a compelling argument (pgs 186-187).
 ond	and	ond	85	conj	None
 Ongendmyrgingas	the Ongendmyrgings	Ongendmyrgingum	85	dpn	Malone has this combined with the previous word to form the Ongendmyrgingum but neither Chambers nor the ASPR does this. If it were correct, it might be identical to the later Wiþmyrgingas in 116. Malone takes his cue from Rieger and Langenfelt in following the structure of 'Ongendþeow' and placing the Ongend as a prefix of the word. Because of the presence of the 'regular' Myrgings in this same stanza, I have opted for Malone's reading.
 ond	and	ond	86	conj	None
 mid	with	mid	86	prep	None
 Amoþingas	the Amothings	Amoþingum.	86	dpn	Inhabitants of the island of Hindø in Norway, which appears in cap. 29 of the <i>Ynglingasaga</i> by Snorri
 mid	with	mid	86	prep	None
-Eastþyringas	Thuringians	Eastþyringum	86	dpn	@@@ Still the best sausages in Germany
+Eastþyringas	Thuringians	Eastþyringum	86	dpn	The Thuringii of history. https://en.wikipedia.org/wiki/Thuringii
 ic	I	ic	86	pn	None
 wesan	was	wæs	86	psv	None
 ond	and	ond	87	conj	None
@@ -544,7 +544,7 @@ sceatt	denarii	sceatta	92	gpn	None
 scillingrīm	shilling count	scillingrīme;	92	dsn	None
 sē	that	þone	93	aspn	None
 ic	I	ic	93	pn	None
-Eadgils	Eadgils	Eadgilse	93	dsn	King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139
+Eadgils	Eadgils	Eadgilse	93	dsn	King of the Myrgings, otherwise unknown. Malone has LOTS to say on pgs 137-139.
 on	in	on	93	prep	None
 ǣht	possession	ǣht	93	asn	None
 syllan	gave	sealde,	93	pret.sv	None
@@ -578,7 +578,7 @@ forgiefan	gave	forgeaf	97	pret.sv	None
 dryhtcwēn	queen of the army	dryhtcwēn	98	n	None
 duguþ	a body of royal fighting men	duguþe,	98	gsn	None
 dohtor	daughter	dohtor	98	n	None
-Eadwine	of Edwin	Eadwines.	98	gsn	The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish ging (Malone 140) 
+Eadwine	of Edwin	Eadwines.	98	gsn	The father of Ealhhild but the timeline doesn't work for him to then also be Audoin, the Langobardish king (Malone 140) 
 hē	her	Hyre	99	gsn	None
 lof	praise	lof	99	asn	None
 lengan	stretched	lengde	99	pret.sv	None
@@ -645,7 +645,6 @@ ic	I	ic	110	pn	None
 gesīþ	battle comrades	gesīþa	110	apn	None
 sē	the	þa	110	art	None
 sēl	best	sēlestan;	110	art	None
-None	None	a	111	None	None
 sē	that	þæt	111	nsn	None
 wesan	were	wæs	111	psv	None
 innweorud	native peoples	innweorud	111	n	None
@@ -654,9 +653,9 @@ Heðca	Hache	Heðcan	112	asn	Malone corrects this to Hehca, and associates him w
 sēcan	sought	sōhte	112	pret.sv	None
 ic	I	ic	112	pn	None
 ond	and	ond	112	conj	None
-Beadeca	Beadecan	Beadecan	112	asn	@@@
+Beadeca	Beadecan	Beadecan	112	asn	Malone speculates that this may be the Baduila (later called Totila) of history https://en.wikipedia.org/wiki/Totila (Malone 130).
 ond	and	ond	112	conj	None
-Herelingas	Herelingas	Herelingas,	112	apn	The followers of Herela, or King Herla of Water Map, the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).
+Herelingas	Herelingas	Herelingas,	112	apn	The followers of Herela, or King Herla of medieval writer Walter Map (https://en.wikipedia.org/wiki/Walter_Map), the leader of the Wild Host (or Woden in disguise), but the poet here is likely referring to the Harlun brothers (Malone 170).
 Emerca	Emerca	Emercan	113	asn	Emerca is the Gothic hero Erpamara, found in Jordanes 43
 sēcan	sought	sōhte	113	pret.sv	None
 ic	I	ic	113	pn	None
@@ -680,10 +679,10 @@ ond	and	ond	115	conj	None
 Heaþoric	Heathoric	Heaþoric	116	asn	Malone  states that this is the Heiðrekr of the <i>Harvararsaga</i>, and while the phonology does not precisely align, the three remaining names in this line are all from <i>Hervararsaga</i>. He also draws a connection between this Heaþoric and the Hæðcyn of <i>Beowulf</i>.
 ond	and	ond	116	conj	None
 Sifeca	Sifeca	Sifecan,	116	asn	An evil counselor of unknown origin but with lots of speculation (Malone 199).
-Hlīþe	Lotherus	Hlīþe	116	asn	Hlǫðr of the HErvararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)
+Hlīþe	Lotherus	Hlīþe	116	asn	Hlǫðr of the Hervararsaga, Lotherus of Saxo Grammaticus, a mythical Gothic or Geatish king, though in the past he was identified with King Leth of the Langobards (Grienberger 1922, 377)
 ond	and	ond	116	conj	None
 Incgenþeow	Incgenþeow	Incgenþeow.	116	asn	Angantyr of the Hervararsaga and the historical King Ongenþeow of Sweden, who appears in Beowulf.
-Eadwine	Edwin	Eadwine	117	asn	@@@ Audoin, again
+Eadwine	Edwin	Eadwine	117	asn	None
 sēcan	sought	sōhte	117	pret.sv	None
 ic	I	ic	117	pn	None
 ond	and	ond	117	conj	None
@@ -708,12 +707,12 @@ wig	warfare	wig	119	nsn	None
 ne	not	ne	119	negative	None
 ālicgan	rest	ālæg,	119	pret.sv	None
 þonne	when	þonne	120	conj	None
-Hræde	Hræde	Hræda	120	gsn	@@@
+Hræde	Hræde	Hræda	120	gsn	Malone interprets this name as 'he of the nest', which refers to the Geatas, the men of the nest (174).
 here	army	here	120	nsn	None
 heard	hard	heardum	120	adj	None
 sweord	swords	sweordum	120	ipn	None
 ymb	about	ymb	121	prep	None
-Wistlawudu	The Wistle wood	Wistlawudu	121	gpn	The forest of the Vistula goths
+Wistlawudu	The Wistle wood	Wistlawudu	121	gpn	The forest of the Vistula goths. https://en.wikipedia.org/wiki/Vistula
 wergan	defend	wergan	121	v	None
 sculan	shall	sceoldon	121	pret.pv	None
 eal	old	ealdne	122	adj	None
