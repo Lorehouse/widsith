@@ -57,6 +57,7 @@ kanban-plugin: board
 - [ ] prepare code samples for thesis appendix #technical #need #lvl2
 - [ ] Prepare demo of extensibility #nice #technical
 - [ ] Get NE into line-by-line view #need #technical
+- [ ] Figure out wikipedia hyperlinks in NE comments #need #technical
 
 
 ## This Week
@@ -82,10 +83,9 @@ kanban-plugin: board
 **Complete**
 - [x] PAY TUITION #admin #lvl1
 - [x] Read [[Beyond-translation]] paper #research #need
+- [x] Push named entities glossary update to site #need #lvl1 #technical
 - [x] Set up call with Nelson #admin #lvl1
 - [x] [[Set up call with Dr. Crane]]
-- [x] [[Modelling Digital Scholarly Editing]] Elena Pierazzo #DigitalText
-- [x] [[Edition, Project, Database]] Kenneth Price #DigitalText #DTP
 
 
 ***
@@ -95,6 +95,8 @@ kanban-plugin: board
 - [x] Ask Claude what a technical appendix is
 - [x] [[Text, Information, Knowledge]] and the Evolving Record of Humanity. #research
 - [x] [[Beyond Translation]] Crane #research
+- [x] [[Edition, Project, Database]] Kenneth Price #DigitalText #DTP
+- [x] [[Modelling Digital Scholarly Editing]] Elena Pierazzo #DigitalText
 
 %% kanban:settings
 ```
