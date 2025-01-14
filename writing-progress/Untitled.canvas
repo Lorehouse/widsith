@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"c9ff2897a9cc8983","type":"text","text":"Scholarly Applications and Future Possibilities, \n3,000 words","x":-520,"y":720,"width":250,"height":160,"color":"2"},
+		{"id":"6a09cf8d24a11cd9","type":"text","text":"Digital Edition: Design and Process, \n3,000 words","x":-520,"y":320,"width":250,"height":160,"color":"5"},
+		{"id":"a392ca573233f08a","type":"text","text":"Philological Foundation\n2,500 words","x":-520,"y":-40,"width":250,"height":140,"color":"6"},
+		{"id":"e0ee69132f64a16d","type":"text","text":"Introduction\n1,000 words","x":-520,"y":-420,"width":250,"height":140,"color":"4"},
+		{"id":"24be6f378f434e03","type":"text","text":"Lit Review","x":-395,"y":140,"width":250,"height":60},
+		{"id":"25f8a5feab6ef257","type":"text","text":"DH Lit review","x":-395,"y":920,"width":250,"height":60},
+		{"id":"ea4807b3a06a606b","x":-520,"y":1120,"width":250,"height":160,"color":"3","type":"text","text":"Conclusion \n250 words"}
+	],
+	"edges":[]
+}
