@@ -70,7 +70,6 @@ kanban-plugin: board
 
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
 - [ ] [[The Digital Middle Ages Intro]] Birnbaum #research
-- [ ] [[What do you do with a million Books]] Crane, #research
 
 
 ## Review/Revise
@@ -83,6 +82,7 @@ kanban-plugin: board
 **Complete**
 - [x] PAY TUITION #admin #lvl1
 - [x] Read [[Beyond-translation]] paper #research #need
+- [x] [[What do you do with a million Books]] Crane, #research
 - [x] Push named entities glossary update to site #need #lvl1 #technical
 - [x] Set up call with Nelson #admin #lvl1
 - [x] [[Set up call with Dr. Crane]]
