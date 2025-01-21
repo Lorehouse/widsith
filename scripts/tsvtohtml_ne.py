@@ -5,7 +5,7 @@ def tsv_to_html(tsv_file, html_file):
     tsv_file.readline()
     
     with open(html_file, 'w', encoding='utf-8') as file:
-        file.write('<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Named Entities Glossary</title>\n\t<link rel="stylesheet" href="glossstyles.css">\n\t<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@200;400;700&display=swap" rel="stylesheet">\n</head>\n<body>\n')
+        file.write('<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Named Entities Glossary</title>\n\t<link rel="stylesheet" href="glossstyles.css">\n\t<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">\n</head>\n<body>\n')
         file.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button>\n')
         file.write('<h1>Named Entities Glossary</h1>')
         file.write('<table border="1">\n')

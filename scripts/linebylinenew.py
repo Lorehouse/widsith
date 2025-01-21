@@ -74,7 +74,7 @@ for line, group_df in df.groupby('Line'):
 
         with open(filename, "w", encoding='utf-8') as f:
             f.write(f'<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Line {line_no}</title>\n\t')
-            f.write('<link rel="stylesheet" href="../linebyline.css">\n<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">\n</head>\n<body>\n')
+            f.write('<link rel="stylesheet" href="../linebyline.css">\n<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">\n</head>\n<body>\n')
             f.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button><br>\n')
             f.write(f'<main>\n\t<h1>Widsið</h1>\n')            
             f.write(f'<h2>Line {line_no}</h2>\n')

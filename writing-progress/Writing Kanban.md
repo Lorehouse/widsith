@@ -22,7 +22,6 @@ kanban-plugin: board
 
 ## Research Backlog
 
-- [ ] Analyze [[Medieval Electronic Scholarly Alliance (MESA)]] #research #nice
 - [ ] Research successful extensible DH projects like [[Canonicity Project]] #research #need
 - [ ] Study Peter Baker's Old English work #research #nice
 - [ ] Review Perseus Project evolution case studies #research #nice
@@ -31,7 +30,7 @@ kanban-plugin: board
 - [ ] [[Kirschenbaum, What is Digital Humanities]] #research
 - [ ] [[Digital Documentary Editions]] by Elena Pierazzo #research
 - [ ] [[Reader Roles in Scholarly Editions]] Rasmussen #research
-- [ ] [[What is a Scholarly Digital Edition?]] Sahle, #research
+- [ ] [[What is a Scholarly Digital Edition]] Sahle, #research
 - [ ] [[New Technology and new roles]], the need for "corpus editors", Crane and Ryan #research
 - [ ] [[Beyond Variants]], Damon #research
 - [ ] [[Battle we forgot to fight]], Del Turco #research
@@ -43,9 +42,7 @@ kanban-plugin: board
 ## Writing Backlog
 
 - [ ] Write abstract #need #writing #lvl3
-- [ ] Outline future corpus expansion possibilities [[writing-planning]] #writing #need
 - [ ] Position work in DH context #writing #need
-- [ ] Draft methodology section on XML markup approach [[writing-planning]] #writing #need
 
 
 ## Technical Backlog
@@ -62,24 +59,27 @@ kanban-plugin: board
 
 ## This Week
 
+- [ ] Draft methodology section on XML markup approach [[writing-planning]] #writing #need
 - [ ] Change CSS font to a Noto font #need #technical
-- [ ] create thesis document template #admin #need #lvl1
 
 
 ## In Progress
 
+- [ ] create thesis document template #admin #need #lvl1
+- [ ] Outline future corpus expansion possibilities [[writing-planning]] #writing #need
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
 - [ ] [[The Digital Middle Ages Intro]] Birnbaum #research
 
 
 ## Review/Revise
 
-- [ ] set up reference management system (Zotero) #need #admin #lvl1
 
 
 ## Complete
 
 **Complete**
+- [x] set up reference management system (Zotero) #need #admin #lvl1
+- [x] Analyze [[Medieval Electronic Scholarly Alliance (MESA)]] #research #nice
 - [x] PAY TUITION #admin #lvl1
 - [x] Read [[Beyond-translation]] paper #research #need
 - [x] [[What do you do with a million Books]] Crane, #research
