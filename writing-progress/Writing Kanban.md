@@ -29,8 +29,6 @@ kanban-plugin: board
 - [ ] Read [[Linguistic means of determing the dates of Old English literary texts]] #research #nice #lvl1
 - [ ] [[Kirschenbaum, What is Digital Humanities]] #research
 - [ ] [[Digital Documentary Editions]] by Elena Pierazzo #research
-- [ ] [[Reader Roles in Scholarly Editions]] Rasmussen #research
-- [ ] [[What is a Scholarly Digital Edition]] Sahle, #research
 - [ ] [[New Technology and new roles]], the need for "corpus editors", Crane and Ryan #research
 - [ ] [[Beyond Variants]], Damon #research
 - [ ] [[Battle we forgot to fight]], Del Turco #research
@@ -80,6 +78,8 @@ kanban-plugin: board
 **Complete**
 - [x] set up reference management system (Zotero) #need #admin #lvl1
 - [x] Analyze [[Medieval Electronic Scholarly Alliance (MESA)]] #research #nice
+- [x] [[Reader Roles in Scholarly Editions]] Rasmussen #research
+- [x] [[What is a Scholarly Digital Edition]] Sahle, #research
 - [x] PAY TUITION #admin #lvl1
 - [x] Read [[Beyond-translation]] paper #research #need
 - [x] [[What do you do with a million Books]] Crane, #research

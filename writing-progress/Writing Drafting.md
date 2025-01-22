@@ -45,10 +45,22 @@ By providing word forms and part-of-speech tagging, as well as a line-by-line al
 ## Working with the digital text
 
 ### What is a digital text?
+What differentiates a digital edition from a print edition? This question at first has a simple, obvious answer: one exists in paper and ink, the other on a computer screen. While not factually untrue, this does not begin to do justice to the history and possibilities of either edition. A print edition has features that a digital edition should not pretend to, and a digital edition has possibilities that the constrains of print media could not attain to.
+
+A print edition is limited by the medium of the codex form. The vast ideas of mankind cannot be contained on a page-by-page system, yet for hundreds of years, this was the main and best way of containing and conveying information to as wide an audience as possible. Therefore, choices had to be made. An excellent example of this exists in the _Widsith_ body of scholarship, in the differences between the Chambers and the Malone scholarly editions. Both of these editions display a deep knowledge of the language, the history, and the text. In dealing with the difficulties of displaying the poem in its original language while also annotating it for linguistic features, historical facts, and references to other scholarship and literary references, however, the space constraints demanded they make choices, and they made very different choices.
+
+Chambers's text is characterized by footnotes on each page, often so extensive that the poem itself is limited to only four or even a single line on that page followed by a large block of notes. The benefits of this choice are clear: fluidity of reading is sacrificed for the sake of referencing convenience. Malone makes the opposite choice, printing the versions of his poem in a single chunk followed by notes on the text referring back to line numbers. This decision allows the poem to be seen at once and its brevity to be taken in as well as its overall structure, something that Malone makes much of. In study, however, it necessitates a constant flipping back of pages to compare the notes to the poem. Neither method is superior, they simply emphasize different goals of the editor and allow for different reading experiences.
+
+A digital edition does not have page constraints. The poem can easily be displayed entirely on one page with no flipping or turn. Hyperlinks mean that one can switch from text to notes without hunting for line numbers. This is a feature that many ebook readers have used to great effect, while still maintaining similar sensations to that of print media. An ebook, however, chooses to be held to the constraints of a book with only minor convenience additions to provide a familiar experience to a reader. A truly digital edition does not need to bother with that sense of familiarity. As digital libraries have grown and evolved, they have been able to shake off the lingering habits of print media and embrace more fully the potential of the digital medium.
+
+While this edition does not, due to time constraints, display the wide capabilities of digital editions as much as I should like, the ability to experience the poem, with its modern alignment, as a single monolith, as well as the ability to read it with notes on each individual lines, does to an extent demonstrate the ability. Additionally, there exists a single glossary page and a single named-entities glossary page to recreate the experience of that section of a text at the back of the book. They can, however, be accessed by hyperlink now, and the search bar enables rapid locating of the desired word or entity.
 
 ### References and other digital libraries
 
 ### XML and tagging
+How does a digital edition come into being, then? The answer to this question obviously varies greatly from text to text, but the process for this Widsith began with finding a few authoritative versions of the poem, as well as comparison with the manuscript. Scans of the manuscript are available at both the Old English Poetry in Facsimile project, as well as the University of Exeter Digital Humanities lab. It was not my goal to produce a facsimile edition from the manuscript, so I only used the scans for reference as I built my own edition and did not work directly from them for extensive periods. I also gathered Chambers's, Malone's, and the Anglo-Saxon Poetic Record's. From here I did a light markup of each in XML (eXtensible Markup Language) for ease of alignment and comparison.
+
+XML is the foundation of most digital editions, as it allows the writer to add machine-readable tags and then write scripts in a programming language (mine is Python) to do large-scale work on the text that would be onerous to do manually. A sample below shows the markup on my own edition of Widsith.
 
 ### Display choices and flexibility
 
@@ -68,3 +80,15 @@ These three roles--reader, user, co-worker--are not discrete individuals but "th
 This leads us to the future of this project. What hopes for the future can be safely cherished? This edition is already prepared for incorporation in the Perseus Digital Library, and all the files will be available for anyone who wants to use this edition to build upon. Perseus has a long history of contribution by scholars, and my hope is that we can build within that existing structure rather than requiring me to create something new, incrementally, from scratch. Because Perseus already contains a wealth of Greek and Latin texts, many of which share references within _Widsith_, I hope that the linking of these references might be made simpler. Also, by working within such a strong existing framework, I don't create yet another site for scholars to visit; this is a single location where one can interact with a multitude of texts.
 
 In the longer term, I hope that not only I, but other scholars who want to join me, can mark up more and more of the Old English Poetic Corpus and easily integrate them into Perseus. There is simply not enough lifetime for me to do this on my own, but slowly and surely I believe there is great potential for all of these texts, in a reliable scholarly form, to be collected in one place, and surrounded by the digital tools to allow richer close scrutiny and distant study.
+
+## Summary 
+
+### Academic
+
+### Digital
+
+### Future
+
+### Restate Thesis
+
+## Conclusion
