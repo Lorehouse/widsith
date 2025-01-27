@@ -97,7 +97,6 @@ for line, group_df in df.groupby('Line'):
             f.write('\n\t</div>') 
             f.write('\n\t<h2 class="translation">Translation</h2><br>\n')
             f.write(f'\t<p class="translation">{html_line}</p>\n')
-            f.write("\t</main>\n")
             f.write("\n\t<h2 class='translation'>Named Entities</h2>\n")
             
             comment_rows = comments_df[comments_df['Line'] == line_no]
@@ -106,7 +105,7 @@ for line, group_df in df.groupby('Line'):
                 ne_comment = row['Comment']
                 f.write(f'\t<p class="translation">{lemma}: {ne_comment}</p>\n')
 
-            f.write("\n\t</body>\n\t</html>")
+            f.write("\t</main>\n\t</body>\n\t</html>")
 
         print(f"HTML file created as '{filename}'")
     else:
