@@ -77,3 +77,6 @@ h2.translation {
 p.translation {
   margin-top: 0;
 }
+span.named-entity {
+  font-weight: bold;
+}
