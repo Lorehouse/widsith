@@ -99,10 +99,11 @@ for line, group_df in df.groupby('Line'):
             f.write(f'\t<p class="translation">{html_line}</p>\n')
 
             comment_rows = comments_df[comments_df['Line'] == line_no]
+            f.write("\n\t<h2 class='translation'>Named Entities</h2>\n")
             for _, row in comment_rows.iterrows():
                 lemma = row['Lemma']
                 ne_comment = row['Comment']
-                f.write("\n\t<h2 class='translation'>Named Entities</h2>\n")
+                
                 f.write(f'\t<ul>\n\t\t<li><span class="named-entity">{lemma}</span>: {ne_comment}</li>\n\t</ul>\n')
 
             f.write("\t</main>\n\t</body>\n\t</html>")
