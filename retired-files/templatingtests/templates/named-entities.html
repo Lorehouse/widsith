@@ -1,0 +1,9 @@
+
+<h2 class="translation">Named Entities</h2><br>
+<ul class="named-entities">
+    {% for entity in namedentities %}
+    {% if lineno in entity.line %} 
+    <li>{{entity.lemma}}: {{entity.info}}</li> 
+    {% endif %}
+    {% endfor %}
+</ul>
