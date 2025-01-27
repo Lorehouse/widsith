@@ -10,7 +10,7 @@ def read_xml_file(file_path):
 # Define the XML and TSV file paths
 df = pd.read_csv('../linebylinegloss.tsv', sep='\t', encoding='utf-8')
 translatefile = '../modern-english/translationone.xml'
-comment_file_path = '../sandbox/commentdoc.tsv'
+comment_file_path = '../transitiondocs/commentdoc.tsv'
 
 def printoneline(xml_file, line_no):
     tree = etree.parse(xml_file)

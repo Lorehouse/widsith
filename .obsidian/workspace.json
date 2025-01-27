@@ -198,6 +198,9 @@
   },
   "active": "afae320bd1a25de7",
   "lastOpenFiles": [
+    "transitiondocs/commentdoc.tsv",
+    "scripts/commentdoc.tsv",
+    "scripts/comments.py",
     "writing-progress/Writing Drafting.md",
     "What is a Scholarly Digital Edition.md",
     "reading-notes/modelling-digital-scholarly-editing.md",
@@ -229,7 +232,6 @@
     "reading-notes/Foot_making-of-anglecynn.md",
     "reading-notes/Beyond-translation.md",
     "writing-progress/Questions for Dr. Crane.md",
-    "archived-files/To Correct.md",
     "writing-progress"
   ]
 }

@@ -13,5 +13,5 @@ def comment_file(tsv_file, html_file):
     print(f"Your file has been created at '{html_file}'.")
     return html_file
 
-
-comment_file('../transitiondocs/unorderedgloss.tsv', 'commentdoc.tsv')
+if __name__ == "__main__":
+    comment_file('../transitiondocs/unorderedgloss.tsv', '../transitiondocs/commentdoc.tsv')
