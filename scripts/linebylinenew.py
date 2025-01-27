@@ -10,6 +10,7 @@ def read_xml_file(file_path):
 # Define the XML and TSV file paths
 df = pd.read_csv('../linebylinegloss.tsv', sep='\t', encoding='utf-8')
 translatefile = '../modern-english/translationone.xml'
+comment_file_path = '../sandbox/commentdoc.tsv'
 
 def printoneline(xml_file, line_no):
     tree = etree.parse(xml_file)
@@ -34,6 +35,11 @@ def printoneline(xml_file, line_no):
 
 # Read the XML content from the file
 xml_content = read_xml_file(translatefile)
+
+# Load the comments TSV file without a header and assign column names manually
+comments_df = pd.read_csv(comment_file_path, sep='\t', encoding='utf-8', header=None)
+comments_df.columns = ['Line', 'Lemma', 'Comment']
+print("Column names in comments_df:", comments_df.columns)  # Debug statement
 
 for line, group_df in df.groupby('Line'):
     # Convert the dataframe group to HTML
@@ -91,7 +97,16 @@ for line, group_df in df.groupby('Line'):
             f.write('\n\t</div>') 
             f.write('\n\t<h2 class="translation">Translation</h2><br>\n')
             f.write(f'\t<p class="translation">{html_line}</p>\n')
-            f.write("\t</main>\n\t</body>\n\t</html>")
+            f.write("\t</main>\n")
+            f.write("\n\t<h2 class='translation'>Named Entities</h2>\n")
+            
+            comment_rows = comments_df[comments_df['Line'] == line_no]
+            for _, row in comment_rows.iterrows():
+                lemma = row['Lemma']
+                ne_comment = row['Comment']
+                f.write(f'\t<p class="translation">{lemma}: {ne_comment}</p>\n')
+
+            f.write("\n\t</body>\n\t</html>")
 
         print(f"HTML file created as '{filename}'")
     else:
