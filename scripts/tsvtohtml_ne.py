@@ -20,5 +20,5 @@ def tsv_to_html(tsv_file, html_file):
     print(f"Your file has been created at '{html_file}'.")
     return html_file
 
-
-tsv_to_html('../ne-gloss-sorted.tsv', '../views/named-entities-gloss.html')
+if __name__ == "__main__":
+    tsv_to_html('../ne-gloss-sorted.tsv', '../views/named-entities-gloss.html')
