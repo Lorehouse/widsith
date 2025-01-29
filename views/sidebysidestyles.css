@@ -1,18 +1,17 @@
 .container {
     display: flex;
-    padding: 50px;
-    column-gap: 50px;
+    justify-content: center;
+    padding: 1rem;
+    gap: 2rem;
 }
 .column {
-    flex: 1;
-    padding-left: 40px;
+    padding-left: 3ch;
     padding-top: 25px;
-      padding-right: 80px;
+    padding-right: 5ch;
     border: 1px solid #ccc;
-    margin: 5px auto;
 }
 .button {
-    width: 75px;
+    width: 75px;;
     height: 35px;
     color: DarkRed;
     font-size: 15px;
@@ -31,26 +30,20 @@ body {
 h3 {
     font-style:italic;
 }
-.column {
-    flex: 1;
-    padding-left: 40px;
-    padding-top: 25px;
-      padding-right: 80px;
-    border: 1px solid #ccc;
-    margin: 5px auto;
-}
+
 div {
     line-height: 1rem;
 }
 .poetry-line {
     position: relative;
-    padding-right: 75px; 
-    padding-left: 10px;
+    max-width: 60ch;
+    padding-left: 1ch;
 }
 .poetry-line::after {
     content: attr(data-line);
     font-family: "Arial", sans serif;
     font-size: 14px;
+    justify-content: right;
     position: absolute;
     right: 0;
     top: 0;
