@@ -10,7 +10,7 @@ Neophilologus (2013) 97:175-183
 * Kemp Malone argued it was compiled as a whole in the late 7th century.
 * Chambers, claiming a moderate view, dates it to the late 7th century as a whole. 
 * Frank, Hill, and Niles argue for a later date (Neidorf claims without providing any evidence for it)
-* "Frank, Hill, and Niles offer no substantial engagement with the dating arguments of earlier _Widsið_ scholars. The reader is simplet left to imagine that there really is no evidence for an early dating of _Widsið_ and that scholarship had operated under a delusion for over 100 and 50 years." (166)
+* "Frank, Hill, and Niles offer no substantial engagement with the dating arguments of earlier _Widsið_ scholars. The reader is simply left to imagine that there really is no evidence for an early dating of _Widsið_ and that scholarship had operated under a delusion for over 100 and 50 years." (166)
 * "A graver consequence is that, by creating the impression that all Old English poems are undatable, Anglo-Saxonists have limited the potential usefulness of their object of study for historians concerned with the chronology and pattern of medieval cultural developments."(167)
 * Manuscript unlikely to have been written after 975 (167)
 * "Yet, while the existence of a _koine_ certainly does account for the use of many dialectally restricted poetic vocabularly words (i.e., Northumbrian _mece_), it does not explain the presence of proper names rendered in dialectally distinct orthography."(169)

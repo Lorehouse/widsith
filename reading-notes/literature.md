@@ -1,7 +1,7 @@
 ## Books
 * Malone, _Widsith_ 1968
 * Amos, 1980, *Linguistic means of determining the dates of Old English literary texts.*
-* Chambers, _Widsith_ heckin long time ago
+* Chambers, _Widsith_ 1912
 * Hogg and Fulk, _A Grammar Of Old English_
 * Clash and Dobbie, _Anglo Saxon Poetic Records_
 * Chase 1981, _The Dating of Beowulf
@@ -27,7 +27,6 @@
 * [[the-digital-middle-ages-introduction]]
 * [[Beyond-translation]]
 * [[modelling-digital-scholarly-editing]]
-* [[digital-spatial-humanities]]
 * Crane, What Do You Do with [[a Million Books]]?
 * Crane, [[Text, Information, Knowledge]], and the Evolving Record of Humanity
 * Crane, [[New technology and new roles]]: The need for "corpus editors"

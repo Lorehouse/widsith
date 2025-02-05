@@ -1,0 +1,17 @@
+Chapter on Widsith and have some quotes and thoughts:
+
+## Notes and Quotes
+
+"Unlike other catalogue poems, they (Widsith and Deor) do not limit the speaker to a simple didactic device for the expression of traditional matter" (166).
+
+"Thus one should not be quite so certain no significant thematic material exists between poet and speaker" (167).
+
+"One may suspect that the poets of *Deor* and *Widsið* tell us more about their own sense of their lives than some critics seem to believe. ...they tell us how these poets conceived of their vocation" (167).
+
+"Thus the concern that some readers have expressed at the longevity of Widsith's career reveals a fundamental misreading of the poem. As his name suggests, Widsith is a "wide-journeyer" through time and space. He assumes the figura of poet which the author of miash felt to be common to the imaginative world of his poem" (168).
+
+"Although there are reasons to be skeptical of Malone's interpretation, at least in its more exteme forms, I concur with his two distinct but related aesthetic judgments of Widsith: that the poem is "a little masterpiece in structure and style" and that the "plan of the poem as a whole seems to have been original with the Widsith poet."!! Unless one reads Widsith as the greatest "scissors-and-past" job in English literature, however, Malone's valid judgments of its artistry are difficult to reconcile with his theory of its compositon. To the contrary, I believe that one must give more credit for originality to the poet and far less priority to his sources. Since there are no demonstrated sources for the thulas, the critic must, to quote Malone's dictum. "follow the text."" (171)
+
+Howe objects to the verb forms that Malone uses to distinguish the sections of the poem, as pronoun + verb combinations such as "ic gefrægn", "ic sohte", and "ic wæs" require a speaker and therefore raise the question: "who is this speaker? Why has he traveled so much and over such a long time?" While his argument against Malone based on how poets reuse material is not unsound, this particular argument doesn't stand up in light of oral traditional forms. There is, presumably, a poet speaking this poem before the existence of the composed, written form we have received. These forms would make sense coming from a speaker even with the logical leaps of a reciter who claimed to have traveled enormous distances and many generations. One could draw comparisons to the stories we tell children, whether joking about how we wrote on stone tablets and rode dinosaurs to school as children or narrating longer mythical arcs that may use a first person. There is no expectation that the person narrating in first person is telling an unvarnished history of himself. The frame is, necessarily, a sort of "tall tale". And while we see this approach commonly in children's stories, it is less because this sort of fabulous narrative is suitable only for children and more because the innate oral storytelling lives on in the tales that we tell children but could just as easily and enjoyably tell adults.
+
+I wonder if the difference in portrayal of Hrothgar and Hrothwulf as noble peace keepers in Widsið as opposed to the tragic figures of inevitable doom they are in _Beowulf_ (I am referencing Howe 179) could be considered a mark for the later dating of _Beowulf_ and the earlier dating of _Widsið_. (thinking of Amleth vs Hamlet here).

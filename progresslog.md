@@ -154,3 +154,8 @@
 * did some reading but need to do more. Got Zotero linked with Obsidian but I'm not sure how to work with that yet. 
 * Conversations with Claude!!! What! Claude Sonnet 3.5 is an amazing LLM. I will start a new note or multiple notes called [[conversations-with-claude]]
 * Claude is helping me come up with a focus timeline and I'd like to start an kanban board for tasks to work on this semester.
+
+#### 2025-2-3
+
+* have made significant writing progress and have a brain dump here: [[February 3 brain dump]]
+* going to commit to finish the paper and then doing a lot of reading to up my game.

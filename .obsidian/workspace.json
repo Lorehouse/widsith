@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a Scholarly Digital Edition.md",
+                "file": "reading-notes/neidorf_dating-of-widsith.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "What is a Scholarly Digital Edition"
+              "title": "neidorf_dating-of-widsith"
             }
           },
           {
@@ -30,45 +39,72 @@
               "state": {
                 "file": "writing-progress/Writing Drafting.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Writing Drafting"
             }
           },
           {
-            "id": "0c203285e0b2ee3d",
+            "id": "8007e2e36522c820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading-notes/howe_cultural-construction-of-reading.md",
+                "file": "February 3 brain dump.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "howe_cultural-construction-of-reading"
+              "title": "February 3 brain dump"
             }
           },
           {
-            "id": "187ac9e1240f711b",
+            "id": "635dde6fb19de3e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on James Call.md",
+                "file": "reading-notes/niles_anthropology-of-the-past.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Notes on James Call"
+              "title": "niles_anthropology-of-the-past"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +123,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -124,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4add13b4bca17155",
@@ -210,43 +248,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "187ac9e1240f711b",
+  "active": "afae320bd1a25de7",
   "lastOpenFiles": [
-    "reading-notes/howe_cultural-construction-of-reading.md",
-    "Notes on James Call.md",
-    "reading-notes/woganbrowne_hero-in-christian-reception.md",
-    "reading-notes/What do you do with a million Books.md",
+    "reading-notes/neidorf_dating-of-widsith.md",
     "reading-notes/weiskott_meter-of-widsith.md",
-    "reading-notes/literature.md",
-    "reading-notes/Foot_making-of-anglecynn.md",
     "writing-progress/Writing Drafting.md",
+    "reading-notes/pascual_metrical-history.md",
+    "writing-progress/Writing Kanban.md",
+    "reading-notes/niles_anthropology-of-the-past.md",
+    "reading-notes/literature.md",
+    "February 3 brain dump.md",
+    "The Old English Catalogue Poems.md",
+    "progresslog.md",
+    "reading-notes/Foot_making-of-anglecynn.md",
+    "reading-notes/woganbrowne_hero-in-christian-reception.md",
+    "reading-notes/howe_cultural-construction-of-reading.md",
+    "reading-notes/niles_oe-heroic-poems-book.md",
+    "reading-notes/What do you do with a million Books.md",
+    "reading-notes/Text, Information, Knowledge.md",
+    "Untitled Kanban.md",
+    "reading-notes/Beyond-translation.md",
+    "Notes on James Call.md",
     "reading-notes/modelling-digital-scholarly-editing.md",
     "Repairs to NE Gloss.md",
     "transitiondocs/commentdoc.tsv",
     "scripts/commentdoc.tsv",
     "scripts/comments.py",
     "What is a Scholarly Digital Edition.md",
-    "writing-progress/Writing Kanban.md",
     "Scaife Notes.md",
     "retired-files/line-by-line.py",
     "retired-files",
     "views/glosspipeline.html",
     "reading-notes/Medieval Electronic Scholarly Alliance (MESA).md",
     "writing-progress/Thesis_paper_planning.md",
-    "Untitled Kanban.md",
     "reading-notes/Reader Roles in Scholarly Editions.md",
-    "writing-progress/writing-planning.md",
-    "writing-progress/Templates/Subsection template.md",
-    "writing-progress/Templates/Major Section Outline.md",
     "writing-progress/Untitled.canvas",
-    "writing-progress/questions for Nelson.md",
-    "README.md",
-    "progresslog.md",
-    "Other Projects.md",
-    "reading-notes/Text, Information, Knowledge.md",
     "archived-files",
     "writing-progress/Templates",
-    "reading-notes/Beyond-translation.md",
     "writing-progress"
   ]
 }

@@ -15,9 +15,6 @@ kanban-plugin: board
 - [ ] Draft visualization of system architecture #integration #nice
 - [ ] Develop examples of potential research questions enabled by your system #integration #need #lvl3
 - [ ] Create diagrams showing workflow from text to digital edition #integration #nice
-- [ ] Plan March submission deadline with Dr. Goering. #admin #need #lvl1
-- [ ] Schedule regular progress reviews #admin #need #lvl1
-- [ ] Set up call with Dr. Crane @{2025-02-03} #admin #need #lvl1
 
 
 ## Research Backlog
@@ -51,19 +48,17 @@ kanban-plugin: board
 - [ ] test alignment with sample from another poem #technical #nice
 - [ ] prepare code samples for thesis appendix #technical #need #lvl2
 - [ ] Prepare demo of extensibility #nice #technical
-- [ ] Get NE into line-by-line view #need #technical
-- [ ] Figure out wikipedia hyperlinks in NE comments #need #technical
 
 
 ## This Week
 
+- [ ] Plan March submission deadline with Dr. Goering. #admin #need #lvl1
+- [ ] Set up call with Dr. Crane @{2025-02-03} #admin #need #lvl1
 - [ ] Draft methodology section on XML markup approach [[writing-planning]] #writing #need
-- [ ] Change CSS font to a Noto font #need #technical
 
 
 ## In Progress
 
-- [ ] create thesis document template #admin #need #lvl1
 - [ ] Outline future corpus expansion possibilities [[writing-planning]] #writing #need
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
 - [ ] [[The Digital Middle Ages Intro]] Birnbaum #research
@@ -76,6 +71,11 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
+- [ ] Schedule regular progress reviews #admin #need #lvl1
+- [ ] Get NE into line-by-line view #need #technical
+- [ ] Figure out wikipedia hyperlinks in NE comments #need #technical
+- [ ] Change CSS font to a Noto font #need #technical
+- [ ] create thesis document template #admin #need #lvl1
 - [x] set up reference management system (Zotero) #need #admin #lvl1
 - [x] Analyze [[Medieval Electronic Scholarly Alliance (MESA)]] #research #nice
 - [x] [[Reader Roles in Scholarly Editions]] Rasmussen #research
