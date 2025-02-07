@@ -53,12 +53,12 @@ kanban-plugin: board
 ## This Week
 
 - [ ] Plan March submission deadline with Dr. Goering. #admin #need #lvl1
-- [ ] Set up call with Dr. Crane @{2025-02-03} #admin #need #lvl1
 - [ ] Draft methodology section on XML markup approach [[writing-planning]] #writing #need
 
 
 ## In Progress
 
+- [ ] Set up call with Dr. Crane @{2025-02-03} #admin #need #lvl1
 - [ ] Outline future corpus expansion possibilities [[writing-planning]] #writing #need
 - [ ] read [["Digital Scholarly Editing: Theories and Practices"]] #research #need #lvl1
 - [ ] [[The Digital Middle Ages Intro]] Birnbaum #research

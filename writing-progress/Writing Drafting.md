@@ -3,12 +3,12 @@ Signum University
 Spring 2025  
 Dr. Nelson Goering
 
-# Widsith and the Digital Age
+# Widsið and the Digital Age
 
 ## Introduction
 
 
-### What is Widsith?
+### What is Widsið?
 Widsið spoke.
 
 When one speaks, what is the implication? If a writer writes, "Jack said", there is a sense that he is merely speaking in a normal way and the writer is conveying that information. However, if the same passage instead says "Jack spoke", it implies that there is significance to the speech. There has been silence from Jack; he was not speaking before (this is not an assumption with "said" as it may be relaying just a part of a continuous speech). There is significance to Jack's speaking; perhaps he made an announcement, or spoke over a device like a phone, or on behalf of somebody. It is not merely saying.
@@ -22,11 +22,11 @@ The Exeter Book itself is one of the oldest manuscripts we have in Old English, 
 Fragments of the lists may be of varying ages, and later compiled together by a single poet, who is not presumed to be the scribe. It is one of these fragments that Alfred Anscombe dated as far back as 460 AD, and Kemp Malone proposed the compilation of the whole dated no later than the late 7th century. Later authors reject these early dates, but as Neidorf notes that "Frank, Hill, and Niles offer no substantial engagement with the dating arguments of earlier _Widsið_ scholars. The reader is simply left to imagine that there really is no evidence for an early dating of _Widsið_ and that scholarship had operated under a delusion for over 100 and 50 years" (166). Using onomastic evidence and dialectic vocabulary, as well as the absence of the Saxons from the poem, pretty significant oversight if it was written at a later date when the Saxons were a dominant people, Neidorf argues adeptly for sustaining the earlier dating. Weiskott refutes Neidorf's orthographical examples on the grounds that a poet copying lists would copy their original orthography, arguing a later date from a metrical standpoint. Pascual also takes up the argument, siding rather on the early end, also with a metrical perspective. The back and forth between these three terrific scholars is an interesting read and also strongly motivating to scholars who want to dive into this text for themselves.
 ### Thesis Statement
 
-The age and content of _Widsið_ are what make it such an excellent project for digital representation. The long catalogues of names and people, now figures of a shadowy past, can be overwhelming. The fact that the poem, though short at only 143 lines, does not have a strong narrative arc, means that it is not a first choice for students of Old English. Yet the language is clear and systematic, and the repeated syntax excellent for reinforcing linguistic concepts to young language learners. When one reads _Helm Wulfingum_ (29), it is apparent that _Helm_ is in the nominative with no ending, and _Wulfingum_ in the plural dative "-um" ending rather than the nominative "-as" to demonstrate Helm "verbed" (in this case _weold_) the Wulfings. This pattern is then repeated over and over with almost no variation except when _Finn Folcwalding_ _[weold] Frēsna cynne_ (27), or when _Hringweald wæs haten Herefarena cyning_. These exceptions would then stand out because of their difference from the pattern and introduce new concepts.
+The age and content of _Widsið_ are what make it such an excellent project for digital representation. The long catalogues of names and people, now figures of a shadowy past, can be overwhelming. The fact that the poem, though short at only 143 lines, does not have a strong narrative arc, means that it is not a first choice for students of Old English. Yet the language is clear and systematic, and the repeated syntax excellent for reinforcing linguistic concepts to young language learners. When one reads _Helm Wulfingum_ (29), it is apparent that _Helm_ is in the nominative with no ending, and _Wulfingum_ in the plural dative "-um" ending rather than the nominative "-as" to demonstrate Helm "verbed" (in this case _weold_) the Wulfings. This pattern is then repeated over and over with almost no variation except when _Finn Folcwalding_ _\[weold] Frēsna cynne_ (27), or when _Hringweald wæs haten Herefarena cyning_. These exceptions would then stand out because of their difference from the pattern and introduce new concepts.
 
 Beyond that, the ability of digital technology to provide hyperlinking of texts and information sites, allowing quick access to information on named entities, makes _Widsið_ an appealing project. The potential of a digital edition of a text to make it accessible to casual readers, students, and high-level scholars is a flexibility and breadth of reach that a paper text would struggle or fail to live up to.
 
-@@@ More here
+@@@ More here (200 words)
 ## Literary Review
 
 Why Widsith? Of all the prose and poetry in the Old English corpus, what makes this poem such an appealing seminal project? Unlike, say, The Wanderer or The Seafarer, Widsith is filled with references to people and places both mythical and historical. It also is only 143 lines long, making this a manageable example work which can be thoroughly annotated and displayed. For instance, Beowulf also contains plentiful references to named entities that are known from other sources, but its unwieldy 3,182 lines of inconsistent quality make it a significantly more advanced project.
@@ -54,7 +54,7 @@ By providing word forms and part-of-speech tagging, as well as a line-by-line al
 
 ## Working with the Historical Text
 
-### Literature referenced in creating the text
+### Literature referenced in creating the text (500 words)
 @@@
 
 #### The Structure of Widsith
@@ -76,11 +76,17 @@ This last thula is less cohesive than the previous two, with frequent one-line o
 It is at this point that the first-person narrative ends and it is not unreasonable to assume this is where the prologue begins, wrapping up the frame narrative with which the poem opened. The poet (no longer Widsith, as his speech has ended), states that the life of the scop is that of wandering and seeking out great warriors to immortalize in song to those who will pay for it. The final line declares that "He who works for praise has under the heavens lasting glory" (143). It is, perhaps, up to the reader to decide who has the greater share of the praise in _Widsith_: the kings and warrior, or the scop himself.
 
 ### Creating the translation
-@@@
+The first step in creating a digital edition is to become thoroughly acquainted with the text in its original language. The high-resolution scans available on the Exeter website allowed me to consult the manuscript as necessary, but mainly I worked from three existing and highly acclaimed print editions. These were the Krapp and Dobbie _Anglo-Saxon Poetic Records_ (ASPR) version, the Campbell edition, and the Malone edition. A lightly XML-tagged version of the Krapp and Dobbie text is available from the Bodleian website. The Campbell and Malone texts were not available in a digital form, so these were created by comparing the ASPR to the physical versions of these and correcting it to match. Then, assuming the ASPR to be a reasonably standard and reliable version, I compared the rich and detailed commentaries provided by Malone and Campbell to make informed choices in my own edition. By the time I had an edition I was happy with, I was comfortable working within the structure and language of the poem.
+
+One of the first goals after getting familiar with the poem in Old English with Malone's glossary and Bosworth-Toller in hand (or in browser, in the case of Bosworth-Toller), it was time to translate the poem, a process that is always trickier than it seems. If the words are assembled without regard to form and part-of-speech, this word salad can be turned into a passable poem that is quite frequently wrong. Because Old English relies heavily on inflection to convey meaning, the word order is deceptive, even nonsensical to a modern English-speaker. My aid in this matter was the Joseph Wright _Old English Grammar_, an old but still very reliable work. While I do possess a hard copy, the Bosworth-Toller website links each word to entry in which it appears in Wright's _Grammar,_ displayed from the Internet Archive. After this, some refining was necessary, as certain terms are disputed.
 
 ### Making choices for the glossary
-@@@
 
+The translation complete, I proceeded to tag each individual token (in this case words, though that is not always the smallest unit of text in a work) with the lemma, part-of-speech, gloss, and any extra information necessary. Part-of-speech can be quite simple or immensely complicated, depending on the goal of the project. It is not difficult to simply tag things as "noun", "verb", "adjective", etc., but this has limited usefulness in an inflected language like Old English. It is preferable to list whether the noun is, say, nominative and plural or if a verb is strong or weak. Beyond this, one can label verbs stems from proto-Germanic, or add the gender of the nouns, adjectives, and other gendered parts of speech. In my edition my main goal was to provide a medium between the two extremes. Malone's tagging is extremely dense and thorough, essential for close linguistic study, but much of that tagging is for people interested in historical linguistics who already have a strong knowledge of the Germanic and Proto-Indo-European language families.
+
+After about 15 lines of word-tagging, I grew overwhelmed by the length of time this required, especially as I was skipping named entities so that I could return to them and add information about the person, place, or people-group to which the noun referred. Switching tack, I moved to focusing on them exclusively, a much more manageable project, and extremely interesting. The variety and interest of the named entities were the main reason I selected _Widsið_ as my prototype of a digital Old English text. It was essential that some amount of information be included in the reading environment itself, enough to give a reader enough background about the named people, places, and groups that the poem had context and meaning, but not so much as to overwhelm the reader who wanted to focus on the poem itself. This involved summarizing considerably information from Chambers's edition that spent considerable time on the people and legends that form the backdrop of the lists of _Widsið_ and Malone's glossary that, while less rich than Chambers, is still thorough and lengthy.
+
+Up until this point I had been working with printed copies of both editions, but to finish the word tagging after the named entity tagging was complete, I used that most basic of digital text tools: OCR, or Optical Character Recognition. Working from a scanned version of Malone's _Widsith_, and aided by the Bosworth-Toller and Wright's _Grammar_, both also in digital form, I was able to use search functions to make much easier the hunt for each word, with numerous spelling quirks and the characters such as ð, þ, or æ that are not native to modern English. The ease with which I was able to finish the tagging once I was in a fully digital environment reinforced my appreciation for the flexibility and potential in a digital text edition.
 
 ## Working with the digital text
 
@@ -93,21 +99,27 @@ Chambers's text is characterized by footnotes on each page, often so extensive t
 
 A digital edition does not have page constraints. The poem can easily be displayed entirely on one page with no flipping or turn. Hyperlinks mean that one can switch from text to notes without hunting for line numbers. This is a feature that many ebook readers have used to great effect, while still maintaining similar sensations to that of print media. An ebook, however, chooses to be held to the constraints of a book with only minor convenience additions to provide a familiar experience to a reader. A truly digital edition does not need to bother with that sense of familiarity. As digital libraries have grown and evolved, they have been able to shake off the lingering habits of print media and embrace more fully the potential of the digital medium.
 
-While this edition does not, due to time constraints, display the wide capabilities of digital editions as much as I should like, the ability to experience the poem, with its modern alignment, as a single monolith, as well as the ability to read it with notes on each individual lines, does to an extent demonstrate the ability. Additionally, there exists a single glossary page and a single named-entities glossary page to recreate the experience of that section of a text at the back of the book. They can, however, be accessed by hyperlink now, and the search bar enables rapid locating of the desired word or entity.
+### References and other digital libraries (500 words)
 
-### References and other digital libraries
-@@@
+There are thousands of fantastic digital libraries and reading environments in various states of development. For projects focused on the Medieval period, the Medieval Academy of America 
 
+@Early English laws (completed)
+@Digital Bodleian
+@Menota
+@Old English Poetry in Facsimile
+@Electronic Beowulf
+@Perseus Scaife
 ### XML and tagging
 How does a digital edition come into being, then? The answer to this question obviously varies greatly from text to text, but the process for this Widsith began with finding a few authoritative versions of the poem, as well as comparison with the manuscript. Scans of the manuscript are available at both the Old English Poetry in Facsimile project, as well as the University of Exeter Digital Humanities lab. It was not my goal to produce a facsimile edition from the manuscript, so I only used the scans for reference as I built my own edition and did not work directly from them for extensive periods. I also gathered Chambers's, Malone's, and the Anglo-Saxon Poetic Record's. From here I did a light markup of each in XML (eXtensible Markup Language) for ease of alignment and comparison.
 
 XML is the foundation of most digital editions, as it allows the writer to add machine-readable tags and then write scripts in a programming language (mine is Python) to do large-scale work on the text that would be onerous to do manually. A sample below shows the markup on my own edition of Widsith.
 
-### Display choices and flexibility
-@@@
+### Display choices and flexibility (500 words)
 
-### Code and HTML generation
-@@@
+While this edition does not, due to time constraints, display the wide capabilities of digital editions as much as I should like, the ability to experience the poem, with its modern alignment, as a single monolith, as well as the ability to read it with notes on each individual lines, does to an extent demonstrate the ability. Additionally, there exists a single glossary page and a single named-entities glossary page to recreate the experience of that section of a text at the back of the book. They can, however, be accessed by hyperlink now, and the search bar enables rapid locating of the desired word or entity.
+
+### Code and HTML generation (250 words)
+@@@ What's in the repo and what the pipeline was
 
 ## The Future
 In thinking about the possibilities for this digital edition, it was critical to look into the existing digital libraries, which are plentiful, to understand both what was possible and what was important. The key decision was from the beginning identifying the audience that might benefit most from this edition. One of the issues facing digital editions is that, as Rasmussen describes, "it is possible that these changes have been driven less by the concrete use of new media than by assumptions about their potential" (120). **@@@Question for Dr. Crane about usage vs possibilities.** The ability to consult with Dr. Gregory Crane of Tufts University and creator of the Perseus Digital Library, one of most well-established and respected digital libraries in existence, was invaluable in discerning and prioritizing. In considering Rasmussen's three categories of reader roles, reader, user and co-worker, as applied to digital scholarly editions, I had to consider what sort of reader, user, or co-worker would join me on this endeavor.
@@ -124,7 +136,7 @@ This leads us to the future of this project. What hopes for the future can be sa
 
 In the longer term, I hope that not only I, but other scholars who want to join me, can mark up more and more of the Old English Poetic Corpus and easily integrate them into Perseus. There is simply not enough lifetime for me to do this on my own, but slowly and surely I believe there is great potential for all of these texts, in a reliable scholarly form, to be collected in one place, and surrounded by the digital tools to allow richer close scrutiny and distant study.
 
-## Summary 
+## Summary (800 words)
 
 ### Academic
 

@@ -49,7 +49,7 @@
     * Strong verbs (skip the numbering as that's really just relevant to proto-Germanic) and Weak verbs (Weak verbs classes are obvious from the infinitive)
     * Annotate his bigger changes but don't 
     * Chambers _Widsith_
-    * _Anglo-Saxon Poetic Records_ Clasp and Dobbie -- More editorial consensus
+    * _Anglo-Saxon Poetic Records_ Krapp and Dobbie -- More editorial consensus
     * Lit Review: Transmission history, Articles by Neidorf, Weiskott, and Pascual (very recent), John Niles paper on Widsith and the Anthropology of the Past (can be peculiar), scholarship on it in relationship to other texts.
     * People who have argued it's a poetic showcase of all the things the poet _could_ discuss.
     * Call in two weeks 2024-24-06 at 0915

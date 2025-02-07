@@ -56,6 +56,32 @@
             }
           },
           {
+            "id": "ea6332be322e2c3f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "writing-progress/Writing Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Writing Kanban"
+            }
+          },
+          {
             "id": "8007e2e36522c820",
             "type": "leaf",
             "state": {
@@ -250,15 +276,19 @@
   },
   "active": "afae320bd1a25de7",
   "lastOpenFiles": [
+    "writing-progress/Writing Kanban.md",
+    "writing-progress/Writing Drafting.md",
+    "reading-notes/The Old English Catalogue Poems.md",
+    "reading-notes/Notes on James Call.md",
+    "writing-progress/February 3 brain dump.md",
+    "retired-files/hamlet4reference.xml",
+    "The Old English Catalogue Poems.md",
+    "February 3 brain dump.md",
     "reading-notes/neidorf_dating-of-widsith.md",
     "reading-notes/weiskott_meter-of-widsith.md",
-    "writing-progress/Writing Drafting.md",
     "reading-notes/pascual_metrical-history.md",
-    "writing-progress/Writing Kanban.md",
     "reading-notes/niles_anthropology-of-the-past.md",
     "reading-notes/literature.md",
-    "February 3 brain dump.md",
-    "The Old English Catalogue Poems.md",
     "progresslog.md",
     "reading-notes/Foot_making-of-anglecynn.md",
     "reading-notes/woganbrowne_hero-in-christian-reception.md",
@@ -279,9 +309,6 @@
     "retired-files/line-by-line.py",
     "retired-files",
     "views/glosspipeline.html",
-    "reading-notes/Medieval Electronic Scholarly Alliance (MESA).md",
-    "writing-progress/Thesis_paper_planning.md",
-    "reading-notes/Reader Roles in Scholarly Editions.md",
     "writing-progress/Untitled.canvas",
     "archived-files",
     "writing-progress/Templates",
