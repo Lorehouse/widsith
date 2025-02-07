@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing-progress/Writing Drafting.md",
+                "file": "reading-notes/The Old English Catalogue Poems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Writing Drafting"
+              "title": "The Old English Catalogue Poems"
             }
           },
           {
@@ -128,9 +128,33 @@
               "icon": "lucide-file",
               "title": "niles_anthropology-of-the-past"
             }
+          },
+          {
+            "id": "c8e13554cb6d641d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing-progress/Writing Drafting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Writing Drafting"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,11 +298,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "afae320bd1a25de7",
+  "active": "c8e13554cb6d641d",
   "lastOpenFiles": [
-    "writing-progress/Writing Kanban.md",
-    "writing-progress/Writing Drafting.md",
     "reading-notes/The Old English Catalogue Poems.md",
+    "writing-progress/Writing Drafting.md",
+    "writing-progress/Writing Kanban.md",
     "reading-notes/Notes on James Call.md",
     "writing-progress/February 3 brain dump.md",
     "retired-files/hamlet4reference.xml",
