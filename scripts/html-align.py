@@ -30,16 +30,16 @@ def alignment_files(file_path1, file_path2):
 def html_generator(in_file1, in_file2, outfile):
     in_file1, in_file2 = alignment_files(in_file1, in_file2)
     with open(outfile, "w", encoding="utf-8") as outfile:
-        outfile.write('<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<meta charset="UTF-8">\n\t<meta name="viewport" content="width=device-width, initial-scale=1.0">\n\t<title>Side by Side Widsið</title>\n\t<link rel="stylesheet" href="sidebysidestyles.css">\n</head>\n')
-        outfile.write('<body>\n\t<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button>\n\t<div class="container">\n\t\t<div class="column">\n\t\t\t<h2>Widsið</h2>\n\t\t\t<h3>Old English</h3>\n\t\t\t<p>')
+        outfile.write('<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<meta charset="UTF-8">\n\t<meta name="viewport" content="width=device-width, initial-scale=1.0">\n\t<title>Side by Side Beowulf</title>\n\t<link rel="stylesheet" href="sidebysidestyles.css">\n</head>\n')
+        outfile.write('<body>\n\t<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button>\n\t<div class="container">\n\t\t<div class="column">\n\t\t\t<h2>Beowulf</h2>\n\t\t\t<h3>Old English</h3>\n\t\t\t<p>')
         outfile.write(f'\n{in_file1}\n')
-        outfile.write('\t\t\t</p>\n\t\t</div>\n\n\t\t<div class="column">\n\t\t\t<h2>Widsith</h2>\n\t\t\t<h3>Modern English</h3>\n\t\t\t<p>')
+        outfile.write('\t\t\t</p>\n\t\t</div>\n\n\t\t<div class="column">\n\t\t\t<h2>Beowulf</h2>\n\t\t\t<h3>Modern English</h3>\n\t\t\t<p>')
         outfile.write(f'\n{in_file2}\n')
         outfile.write('</p>\n\t\t</div>\n\t</div>\n</body>\n</html>')
     print(f"Your file has been created")
 
-oe_xml = "../widsith_oe.xml"
-me_xml =  "../modern-english/translationone.xml"
-alignment_html = "../views/alignment2.html"
+oe_xml = "../beowulf/beowulf-ang1-lnums.xml"
+me_xml = "../beowulf/beowulf-eng1-lnums.xml"
+alignment_html = "../views/beowulf-alignment.html"
 
 html_generator(oe_xml, me_xml, alignment_html)

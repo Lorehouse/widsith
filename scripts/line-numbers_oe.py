@@ -16,6 +16,7 @@ def add_line_numbers(xml_file, output_file):
         line.set('n', str(idx))
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
 
-input_file = '../widsith_oe.xml'
-output_file = 'l-nums.xml'
+input_file = '../Beowulf/anon.beowulf.perseus-ang1.xml'
+output_file = '../Beowulf/beowulf-ang1-lnums.xml'
+print(f"Line numbers added to the file: '{output_file}'")
 add_line_numbers(input_file, output_file)

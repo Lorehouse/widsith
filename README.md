@@ -3,11 +3,13 @@ This project is part of a thesis for a Master of English Language and Literature
 
 - [Side-by-side view](https://lorehord.com/views/alignment1.html)
 
-- [Line-by-line view (rough)](https://lorehord.com/views/line/line-1)
+- [Line-by-line view](https://lorehord.com/views/line/line-1)
 
 - [Glossary](https://lorehord.com/views/glossary.html)
 
 - [Named Entities List](https://lorehord.com/views/named-entities-gloss.html)
+
+- [Example: Beowulf Side-by-side view](https://lorehord.com/views/beowulf-alignment.html)
 
 
 
