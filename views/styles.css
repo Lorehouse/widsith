@@ -32,7 +32,7 @@ p {
     display: block;
     margin-bottom: 1em;
     text-indent: 1.5em;
-    line-height: 1.5;
+    line-height: 1.75;
     text-align: justify;
 }
 
@@ -58,13 +58,13 @@ h3 {
 }
 .abstract {
   font-family: "roboto", sans serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 .author {
   text-align: center;
   font-family: "roboto", sans serif;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 14px;
 }
 emph {
   font-style: italic;
