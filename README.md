@@ -9,6 +9,8 @@ This project is part of a thesis for a Master of English Language and Literature
 
 - [Named Entities List](https://lorehord.com/views/named-entities-gloss.html)
 
+- [Thesis](https://lorehord.com/views/thesis.html)
+
 - [Example: Beowulf Side-by-side view](https://lorehord.com/views/beowulf-alignment.html)
 
 
