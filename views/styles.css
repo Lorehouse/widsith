@@ -70,3 +70,13 @@ h3 {
 emph {
   font-style: italic;
 }
+
+.bibl {
+    font-family: roboto;
+    display: block;
+    margin-bottom: 1em;
+    padding-left: 2rem;
+    text-indent: -2rem;
+    line-height: 1.75;
+    text-align: justify;
+}
