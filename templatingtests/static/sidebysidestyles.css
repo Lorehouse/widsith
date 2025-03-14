@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200;400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    gap: 2rem;
+}
+.column {
+    padding-left: 3ch;
+    padding-top: 25px;
+    padding-right: 5ch;
+    border: 1px solid #ccc;
+}
+.button {
+    width: 75px;;
+    height: 35px;
+    color: DarkRed;
+    font-size: 15px;
+    background-color: White;
+    transition-duration: 0.3s;
+    opacity: 0.5;
+    border-radius: 6px;
+}
+.button:hover{
+    opacity: 1;
+}
+body {
+    font-family:'Noto Serif', Times, serif;
+    text-align: left;
+}
+h3 {
+    font-style:italic;
+}
+
+div {
+    line-height: 1rem;
+}
+.poetry-line {
+    position: relative;
+    max-width: 60ch;
+    padding-left: 1ch;
+}
+.poetry-line::after {
+    content: attr(data-line);
+    font-family: "Arial", sans serif;
+    font-size: 14px;
+    justify-content: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.poetry-line:hover::after {
+    opacity: 0.6;
+}
+.poetry-line:first-of-type::first-letter {
+    color: DarkRed;
+    padding: 0.2rem;
+    font-size: 3.9em;
+    float:left;
+    line-height:0.7;
+}
+p {
+    line-height: 1.5;
+}

@@ -81,86 +81,64 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
-body {
-  font-family: 'Noto Serif', 'Georgia', Times, serif;
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
-}
-
-.content-wrapper {
-    max-width: 50rem;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-  }
-
-l {
-  width: 20%;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  text-align: justify;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-main {
-    text-align: center;
-}
-
-p {
-    display: block;
-    margin-bottom: 1em;
-    text-indent: 1.5em;
-    line-height: 1.75;
-    text-align: justify;
-}
-
 h1 {
-    display: block;
-    margin-bottom: 2em;
-    text-align: center;
-    letter-spacing: .05ch;
-    font-weight: bold;
-}
-h2 {
-  display: block;
-  margin-bottom: 1em;
-  text-align: left;
-  font-weight: bold;
-  font-style: italic;
-}
-h3 {
-  text-align: left;
-  font-family: "roboto", sans serif;
-  font-weight: bold;
-}
-.abstract {
-  font-family: "roboto", sans serif;
-  font-size: 15px;
-}
-.author {
-  text-align: center;
-  font-family: "roboto", sans serif;
-  font-weight: 400;
-  font-size: 14px;
-}
-emph {
-  font-style: italic;
-}
-
-.bibl {
-    font-family: roboto;
-    display: block;
-    margin-bottom: 1em;
-    padding-left: 2rem;
-    text-indent: -2rem;
-    line-height: 1.75;
-    text-align: justify;
-}
-/* Responsive styles*/ 
+	font-family: "Noto Serif", serif;
+	font-weight: 700;
+  }
+  table {
+	  width: 70%;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-top: 50px;
+	  margin-bottom: 50px;
+	  font-family: 'Noto Serif', 'Lora', Times, serif;
+	  font-size: 18px;
+  }
+  
+  td, th {
+	padding: 10px;
+  }
+  .lemma {
+	font-weight: 700;
+  }
+  .gloss {
+	font-style: italic;
+  }
+  .lemma,
+  .gloss {
+	vertical-align: top;
+  }
+  .POS {
+	font-variant: small-caps;
+  }
+  .POS,
+  .line {
+	font-family: "Roboto";
+	font-weight: 200;
+	text-align: center;
+	vertical-align: top;
+  }
+  .comment {
+	font-size: 16px;
+  }
+  .button {
+	  width: 75px;
+	  height: 35px;
+	  color: DarkRed;
+	font-family: 'Roboto';
+	  font-size: 15px;
+	  background-color: White;
+	  transition-duration: 0.3s;
+	  opacity: 0.5;
+	  border-radius: 6px;
+  }
+  .button:hover{
+	  opacity: 1;
+  }
+  h1{
+	  text-align: center;
+  }
+  /* Responsive styles*/ 
 @media screen and (max-width: 768px) {
     .header {
       flex-direction: column;
