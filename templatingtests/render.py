@@ -33,11 +33,11 @@ render_template(
     page_title="Widsið Translation and Thesis"
 )
 
-render_template(
-    'glossary.html',
-    'glossary.html',
-    page_title="Widsið Glossary",
-)
+# render_template(
+#     'glossary.html',
+#     'glossary.html',
+#     page_title="Widsið Glossary",
+# )
 
 render_template(
     'named_entities.html',
@@ -45,6 +45,25 @@ render_template(
     page_title="Named Entities",
 )
 
+render_template(
+    'furtherreading.html',
+    'furtherreading.html',
+    page_title="Further Reading",
+)
+
+render_template(
+    'beowulf_alignment.html',
+    'beowulf_alignment.html', 
+    page_title="Beowulf Alignment",
+)
+
+for i in range(1, 144):
+    render_template(
+        f'line/line-{i}.html',
+        f'linebyline/line-{i}.html',
+        lineno=i,
+        page_title=f"Widsið Line {i}"
+    )
 
 
 print("All templates rendered successfully!")

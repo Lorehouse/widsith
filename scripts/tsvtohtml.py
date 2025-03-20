@@ -6,7 +6,7 @@ def tsv_to_html(tsv_file, html_file):
     
     
     with open(html_file, 'w', encoding='utf-8') as file:
-        file.write('<html>\n<head>\n\t<meta charset="UTF-8">\n\t<title>Glossary</title>\n\t<link rel="stylesheet" href="glossstyles.css">\n\t<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;400;700&display=swap" rel="stylesheet">\n\t<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">\n</head>\n<body>\n')
+        file.write('{% extends "base.html" %}\n{% block title %}{{ page_title }}{% endblock %}}\n{% block extra_css %}\n<link rel="stylesheet" href="../static/glossstyles.css">\n{% endblock %}\n{% block content %}\n')
         file.write('<button class="button" onclick="document.location=\'https://lorehord.com/\'">Home</button>')
         file.write('<h1>Glossary</h1>')
         file.write('<table border="1">\n')
@@ -24,6 +24,6 @@ def tsv_to_html(tsv_file, html_file):
         #     file.write('  </tr>\n')
         
         
-        file.write('</table>\n</body>\n</html>')
+        file.write('</table>\n{% endblock %}')
     print(f"Your file has been created at '{html_file}'.")
     return (html_file)

@@ -1,13 +1,43 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Glossary</title>
-	<link rel="stylesheet" href="glossstyles.css">
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;400;700&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@200;400;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Widsið Glossary</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    
+<link rel="stylesheet" href="../static/glossstyles.css">
+
 </head>
 <body>
-<button class="button" onclick="document.location='https://lorehord.com/'">Home</button><h1>Glossary</h1><table border="1">
+    <header class="header">
+        <div class="site-title">Widsið</div>
+        <nav class="nav-container">
+          <ul class="nav-menu">
+            <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+            <li class="nav-item dropdown">
+              <a href="#" class="nav-link">Widsið  ▾</a>
+              <div class="dropdown-content">
+                <a href="views/alignment1.html">Parallel Version</a>
+                <a href="views/line/line-1">Line by Line view</a>
+                <a href="views/glossary.html">Glossary</a>
+                <a href="views/named-entities-gloss.html">Named Entities</a>
+                <a href="views/beowulf-alignment.html">Beowulf Example</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a href="#" class="nav-link">Thesis  ▾</a>
+              <div class="dropdown-content">
+                <a href="views/thesis.html">Thesis Paper</a>
+                <a href="views/furtherreading.html">Further Reading</a>
+              </div>
+            </li>
+            <li class="nav-item"><a href="views/contact.html" class="nav-link">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+      
+<h1>Glossary</h1><table border="1">
 	<th>Lemma</th>
 	<th>Form</th>
 	<th>Line</th>
@@ -5922,5 +5952,8 @@
 	<td class="gloss">the Thuringians</td>
 	</tr>
 </table>
-</body>
+
+
+  </main>
+  </body>
 </html>
