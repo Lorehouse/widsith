@@ -2,7 +2,7 @@ from jinja2 import Environment, FileSystemLoader
 import os
 
 template_dir = os.path.join(os.path.dirname(__file__), 'templates')
-output_dir = os.path.join(os.path.dirname(__file__), 'output')
+output_dir = os.path.join(os.path.dirname(__file__), '../views')
 
 os.makedirs(output_dir, exist_ok=True)
 

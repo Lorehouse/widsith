@@ -6,8 +6,6 @@
 {% block content %}
 <link rel="stylesheet" href="../../static/linebyline.css">
 </head>
-<body>
-<main>
 	<h1>Widsið</h1>
 <h2>Line 70</h2>
 <table class="dataframe">
@@ -49,17 +47,21 @@
       <td>Ælfwine</td>
     </tr>
   </tbody>
-</table><a href="https://lorehord.com/views/line/line-69.html">Previous</a><a href="https://lorehord.com/views/line/line-71.html">Next</a>
+</table>
+	<div class="button-container">
+		<a href="https://lorehord.com/views/line/line-69.html">Previous</a>
+		<a href="https://lorehord.com/views/line/line-71.html">Next</a>
 	</div>
 	<h2 class="translation">Translation</h2><br>
 	<p class="translation">Likewise I was in Italy with Aelfwine</p>
 
-	<h2 class='translation'>Named Entities</h2>
+	<div class='namedentities' style='text-align: justify;'>
+		<h2 class='translation'>Named Entities</h2>
 	<ul>
 		<li><span class="named-entity">Eatul</span>: Italy</li>
-	</ul>
-	<ul>
+	</ul>	<ul>
 		<li><span class="named-entity">Ælfwine</span>: King Alboin of the Langobards, called Elvewine in König Rother(Gillespie 36)</li>
 	</ul>
+	</div>
 </table>
 {% endblock %}

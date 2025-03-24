@@ -6,8 +6,6 @@
 {% block content %}
 <link rel="stylesheet" href="../../static/linebyline.css">
 </head>
-<body>
-<main>
 	<h1>Widsið</h1>
 <h2>Line 34</h2>
 <table class="dataframe">
@@ -41,17 +39,21 @@
       <td>king</td>
     </tr>
   </tbody>
-</table><a href="https://lorehord.com/views/line/line-33.html">Previous</a><a href="https://lorehord.com/views/line/line-35.html">Next</a>
+</table>
+	<div class="button-container">
+		<a href="https://lorehord.com/views/line/line-33.html">Previous</a>
+		<a href="https://lorehord.com/views/line/line-35.html">Next</a>
 	</div>
 	<h2 class="translation">Translation</h2><br>
 	<p class="translation">Hringwald was called the Herefaren's king.</p>
 
-	<h2 class='translation'>Named Entities</h2>
+	<div class='namedentities' style='text-align: justify;'>
+		<h2 class='translation'>Named Entities</h2>
 	<ul>
 		<li><span class="named-entity">Hringwald</span>: means Ring-Ruler</li>
-	</ul>
-	<ul>
+	</ul>	<ul>
 		<li><span class="named-entity">Herefaran</span>: A tribe no longer known to us.</li>
 	</ul>
+	</div>
 </table>
 {% endblock %}

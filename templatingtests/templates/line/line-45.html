@@ -6,8 +6,6 @@
 {% block content %}
 <link rel="stylesheet" href="../../static/linebyline.css">
 </head>
-<body>
-<main>
 	<h1>Widsið</h1>
 <h2>Line 45</h2>
 <table class="dataframe">
@@ -41,17 +39,21 @@
       <td>longest</td>
     </tr>
   </tbody>
-</table><a href="https://lorehord.com/views/line/line-44.html">Previous</a><a href="https://lorehord.com/views/line/line-46.html">Next</a>
+</table>
+	<div class="button-container">
+		<a href="https://lorehord.com/views/line/line-44.html">Previous</a>
+		<a href="https://lorehord.com/views/line/line-46.html">Next</a>
 	</div>
 	<h2 class="translation">Translation</h2><br>
 	<p class="translation">Hrothwulf and Hrothgar held longest </p>
 
-	<h2 class='translation'>Named Entities</h2>
+	<div class='namedentities' style='text-align: justify;'>
+		<h2 class='translation'>Named Entities</h2>
 	<ul>
 		<li><span class="named-entity">Hroþwulf</span>: Hroþgar's nephew, and the famous Hrólfr Kraki of his own saga. <a href='https://en.wikipedia.org/wiki/Hr%C3%B3lfr_Kraki'>Wikipedia</a></li>
-	</ul>
-	<ul>
+	</ul>	<ul>
 		<li><span class="named-entity">Hroðgar</span>: The renowned king of Beowulf fame. <a href='https://en.wikipedia.org/wiki/Hrothgar'>Wikipedia</a></li>
 	</ul>
+	</div>
 </table>
 {% endblock %}

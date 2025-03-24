@@ -160,6 +160,72 @@ emph {
     line-height: 1.75;
     text-align: justify;
 }
+table {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 22px;
+  text-align: center;
+  vertical-align: middle;
+}
+table td {
+  padding: 8px;
+}
+.form-row {
+  font-weight: bold;
+  line-height: 10px;
+}
+.lemma-row {
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 6px;
+}
+.pos-row {
+  font-family: 'Roboto', sans-serif;
+  font-variant: small-caps;
+  font-size: 12px;
+  opacity: .5;
+  line-height: 4px;
+}
+.gloss-row {
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.button {
+	width: 75px;
+	height: 35px;
+	color: DarkRed;
+	font-size: 15px;
+	background-color: White;
+	transition-duration: 0.3s;
+	opacity: 0.5;
+	border-radius: 6px;
+}
+.button:hover{
+	opacity: 1;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.translation {
+  text-align: left;
+}
+h2.translation {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+p.translation {
+  margin-top: 0;
+}
+span.named-entity {
+  font-weight: bold;
+}
 /* Responsive styles*/ 
 @media screen and (max-width: 768px) {
     .header {

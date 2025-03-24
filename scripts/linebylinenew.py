@@ -80,31 +80,30 @@ for line, group_df in df.groupby('Line'):
 
         with open(filename, "w", encoding='utf-8') as f:
             f.write('{% extends "base.html" %}\n{% block title %}{{ page_title }}{% endblock %}\n{% block extra_css %}\n<link rel="stylesheet" href="../../static/linebyline.css">\n{% endblock %}\n{% block content %}\n')
-            f.write('<link rel="stylesheet" href="../../static/linebyline.css">\n</head>\n<body>\n')
-            f.write(f'<main>\n\t<h1>Widsið</h1>\n')            
+            f.write('<link rel="stylesheet" href="../../static/linebyline.css">\n</head>\n')
+            f.write(f'\t<h1>Widsið</h1>\n')            
             f.write(f'<h2>Line {line_no}</h2>\n')
             f.write(modified_html)
             if line != 1:
-                f.write(f'<a href="https://lorehord.com/views/line/line-{prevline}.html">Previous</a>')
+                f.write(f'\n\t<div class="button-container">\n\t\t<a href="https://lorehord.com/views/line/line-{prevline}.html">Previous</a>\n')
             else:
-                f.write('<a></a>')
+                f.write('\n\t<div class="button-container">\n\t\t<a></a>')
             if line != 143:
-                f.write(f'<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</a>')
+                f.write(f'\t\t<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</a>\n\t</div>')
             else:
-                f.write('<a></a>')
-            f.write('\n\t</div>') 
+                f.write('\n\t\t<a></a></div>')
             f.write('\n\t<h2 class="translation">Translation</h2><br>\n')
             f.write(f'\t<p class="translation">{html_line}</p>\n')
 
             comment_rows = comments_df[comments_df['Line'] == line_no]
-            f.write("\n\t<h2 class='translation'>Named Entities</h2>\n")
+            f.write("\n\t<div class='namedentities' style='text-align: justify;'>\n\t\t<h2 class='translation'>Named Entities</h2>\n")
             for _, row in comment_rows.iterrows():
                 lemma = row['Lemma']
                 ne_comment = row['Comment']
                 
-                f.write(f'\t<ul>\n\t\t<li><span class="named-entity">{lemma}</span>: {ne_comment}</li>\n\t</ul>\n')
+                f.write(f'\t<ul>\n\t\t<li><span class="named-entity">{lemma}</span>: {ne_comment}</li>\n\t</ul>')
 
-            f.write('</table>\n{% endblock %}')
+            f.write('\n\t</div>\n</table>\n{% endblock %}')
 
         print(f"HTML file created as '{filename}'")
     else:

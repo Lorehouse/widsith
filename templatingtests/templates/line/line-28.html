@@ -6,8 +6,6 @@
 {% block content %}
 <link rel="stylesheet" href="../../static/linebyline.css">
 </head>
-<body>
-<main>
 	<h1>Widsið</h1>
 <h2>Line 28</h2>
 <table class="dataframe">
@@ -37,17 +35,21 @@
       <td>ruled</td>
     </tr>
   </tbody>
-</table><a href="https://lorehord.com/views/line/line-27.html">Previous</a><a href="https://lorehord.com/views/line/line-29.html">Next</a>
+</table>
+	<div class="button-container">
+		<a href="https://lorehord.com/views/line/line-27.html">Previous</a>
+		<a href="https://lorehord.com/views/line/line-29.html">Next</a>
 	</div>
 	<h2 class="translation">Translation</h2><br>
 	<p class="translation">Sighere ruled the Sea-Danes the longest,</p>
 
-	<h2 class='translation'>Named Entities</h2>
+	<div class='namedentities' style='text-align: justify;'>
+		<h2 class='translation'>Named Entities</h2>
 	<ul>
 		<li><span class="named-entity">Sigehere</span>: King of the Sea-Danes, the Sigarr of the <i>Snorra Edda</i></li>
-	</ul>
-	<ul>
+	</ul>	<ul>
 		<li><span class="named-entity">Sæ-dene</span>: It is uncertain whether the prefix 'Sæ' means to restrict these to only the Danes of the islands or as an epithet to emphasize the dominance of the Danes on the sea, but either way these are simply the Danes.</li>
 	</ul>
+	</div>
 </table>
 {% endblock %}

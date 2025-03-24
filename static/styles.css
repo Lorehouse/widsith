@@ -106,6 +106,14 @@ l {
   margin-right: auto;
 }
 
+ul {
+  text-align: justify;
+}
+
+.namedentities{
+  text-align: justify;
+}
+
 main {
     text-align: center;
 }

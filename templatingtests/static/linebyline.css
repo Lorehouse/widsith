@@ -172,6 +172,10 @@ span.named-entity {
   font-weight: bold;
 }
 
+.namedentities {
+  text-align: justify;
+}
+
 /* Responsive styles*/ 
 @media screen and (max-width: 768px) {
   .header {
