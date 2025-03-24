@@ -60,7 +60,7 @@ render_template(
 for i in range(1, 144):
     render_template(
         f'line/line-{i}.html',
-        f'linebyline/line-{i}.html',
+        f'line/line-{i}.html',
         lineno=i,
         page_title=f"Widsið Line {i}"
     )
