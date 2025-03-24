@@ -38,8 +38,8 @@ def html_generator(in_file1, in_file2, outfile):
         outfile.write('</p>\n\t\t</div>\n\t</div>\n</body>\n</html>')
     print(f"Your file has been created")
 
-oe_xml = "../beowulf/beowulf-ang1-lnums.xml"
-me_xml = "../beowulf/beowulf-eng1-lnums.xml"
+oe_xml = "../beowulf-ang1-lnums.xml"
+me_xml = "../modern-english/ModE-l-nums.xml"
 alignment_html = "../views/beowulf-alignment.html"
 
 html_generator(oe_xml, me_xml, alignment_html)

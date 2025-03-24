@@ -29,7 +29,7 @@ render_template(
 # You can add more pages here
 render_template(
     'index.html',
-    'index.html',
+    f'../index.html',
     page_title="Widsið Translation and Thesis"
 )
 
@@ -39,6 +39,11 @@ render_template(
 #     page_title="Widsið Glossary",
 # )
 
+render_template(
+    'alignment1.html',
+    'alignment1.html',
+    page_title="Alignment",
+)
 render_template(
     'named_entities.html',
     'named_entities.html',
