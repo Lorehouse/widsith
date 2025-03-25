@@ -9,3 +9,10 @@ def pipeline(startxml):
     print(f"Your file has been created at {finalgloss}.")
 
 pipeline("../word-tagging.xml")
+
+# def claudegloss():
+#     sorted = sortgloss("../claude-gloss.tsv")
+#     finalgloss = tsv_to_html(sorted, "../templatingtests/templates/claude-gloss.html")
+#     print(f"Your file has been created at {finalgloss}.")
+
+# claudegloss()

@@ -44,6 +44,7 @@ render_template(
     'alignment1.html',
     page_title="Alignment",
 )
+
 render_template(
     'named_entities.html',
     'named_entities.html',
@@ -69,6 +70,19 @@ for i in range(1, 144):
         lineno=i,
         page_title=f"Widsið Line {i}"
     )
+
+render_template(
+    'contact.html',
+    'contact.html',
+    page_title="Contact",
+    email="sarahjmonnier@gmail.com"
+)
+
+render_template(
+    'llm_glossary.html',
+    'llm_glossary.html',
+    page_title="LLM Glossary",
+)
 
 
 print("All templates rendered successfully!")

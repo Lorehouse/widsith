@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ page_title }}{% endblock %}
+{% block extra_css %}
+<link rel="stylesheet" href="../static/glossstyles.css">
+{% endblock %}
+{% block content %}
+<button class="button" onclick="document.location='https://lorehord.com/'">Home</button><h1>Glossary</h1><table border="1">
+	<th>Lemma</th>
+	<th>Form</th>
+	<th>Line</th>
+	<th>POS</th>
+	<th>Gloss</th>
