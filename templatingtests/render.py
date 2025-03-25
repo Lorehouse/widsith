@@ -72,9 +72,9 @@ for i in range(1, 144):
     )
 
 render_template(
-    'contact.html',
-    'contact.html',
-    page_title="Contact",
+    'acknowledgements.html',
+    'acknowledgements.html',
+    page_title="acknowledgements",
     email="sarahjmonnier@gmail.com"
 )
 
