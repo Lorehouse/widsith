@@ -75,13 +75,20 @@ var ZoteroItem = class {
     this.raw = raw;
   }
   getKey() {
-    return this.raw.key;
+    return this.raw.data.key;
   }
   getTitle() {
-    return this.raw.title || this.raw.shortTitle || this.getNoteExcerpt() || "[No Title]";
+    return this.raw.data.title || this.raw.data.shortTitle || this.getNoteExcerpt() || "[No Title]";
   }
   getShortTitle() {
-    return this.raw.shortTitle;
+    return this.raw.data.shortTitle;
+  }
+  getCreatorSummary() {
+    if (this.raw.hasOwnProperty("meta") && this.raw.meta.hasOwnProperty("creatorSummary")) {
+      return this.raw.meta.creatorSummary;
+    } else {
+      return this.getAuthor() ? this.getAuthor().fullName : "";
+    }
   }
   getAuthors() {
     return this.getCreators().filter((creator) => creator.creatorType === "author").map(this.normalizeName);
@@ -90,15 +97,19 @@ var ZoteroItem = class {
     return this.getAuthors()[0];
   }
   getCreators() {
-    return this.raw.creators || [];
+    return this.raw.data.creators || [];
   }
   getDate() {
-    return this.raw.date ? this.formatDate(this.raw.date) : { year: null, month: null, day: null };
+    let date = this.raw.data.date;
+    if (this.raw.hasOwnProperty("meta") && this.raw.meta.hasOwnProperty("parsedDate")) {
+      date = this.raw.meta.parsedDate;
+    }
+    return date ? this.formatDate(date) : { year: null, month: null, day: null };
   }
   getNoteExcerpt() {
-    if (this.raw.note) {
+    if (this.raw.data.note) {
       const div = document.createElement("div");
-      div.appendChild((0, import_obsidian2.sanitizeHTMLToDom)(this.raw.note));
+      div.appendChild((0, import_obsidian2.sanitizeHTMLToDom)(this.raw.data.note));
       return (div.textContent || div.innerText || "").trim().substring(0, 50) + "...";
     }
     return "";
@@ -125,9 +136,9 @@ var ZoteroItem = class {
       return null;
     }
     return {
-      year: dateObject.getFullYear(),
-      month: dateObject.getMonth() + 1,
-      day: dateObject.getDate()
+      year: dateObject.getUTCFullYear(),
+      month: dateObject.getUTCMonth() + 1,
+      day: dateObject.getUTCDate()
     };
   }
   getValues() {
@@ -137,7 +148,8 @@ var ZoteroItem = class {
       shortTitle: this.getShortTitle(),
       date: this.getDate(),
       authors: this.getAuthors(),
-      firstAuthor: this.getAuthor()
+      firstAuthor: this.getAuthor(),
+      creatorSummary: this.getCreatorSummary()
     };
   }
 };
@@ -168,7 +180,7 @@ var LocalAPIV3Adapter = class {
       url: `${this.baseUrl}/items?` + new URLSearchParams(parameters).toString(),
       method: "get",
       contentType: "application/json"
-    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.data.itemType)).map((item) => new ZoteroItem(item.data))).catch(() => {
+    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.data.itemType)).map((item) => new ZoteroItem(item))).catch(() => {
       new import_obsidian3.Notice(`Couldn't connect to Zotero, please check the app is open and Zotero Local API is enabled`);
       return [];
     });
@@ -195,7 +207,7 @@ var ZotServerAdapter = class {
         condition: "quicksearch-titleCreatorYear",
         value: parameters.q
       }])
-    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.itemType)).map((item) => new ZoteroItem(item))).catch(() => {
+    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.itemType)).map((item) => new ZoteroItem({ data: item }))).catch(() => {
       new import_obsidian3.Notice(`Couldn't connect to Zotero, please check the app is open and ZotServer is installed`);
       return [];
     });
@@ -218,17 +230,14 @@ var ZoteroSuggestModal = class extends import_obsidian4.SuggestModal {
     return this.adapter.search(query);
   }
   renderSuggestion(item, el) {
-    const authors = item.getAuthors();
+    const creator = item.getCreatorSummary();
     el.createEl("div", { text: item.getTitle() });
-    if (authors.length > 0) {
-      let text = authors[0].fullName + " ";
-      if (authors.length > 1) {
-        text += "et al. ";
-      }
-      el.createEl("small", { text });
-      if (item.getDate()) {
-        el.createEl("small", { text: `(${item.getDate().year}) ` });
-      }
+    if (creator) {
+      el.createEl("small", { text: `${creator} ` });
+    }
+    const year = item.getDate().year;
+    if (year) {
+      el.createEl("small", { text: `(${year}) ` });
     }
     el.createEl("small", { text: `[${item.getKey()}]`, cls: "zotero-bridge__text-secondary" });
   }
