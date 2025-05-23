@@ -91,11 +91,11 @@ for line, group_df in df.groupby('Line'):
             f.write(f'<h2>Line {line_no}</h2>\n')
             f.write(modified_html)
             if line != 1:
-                f.write(f'\n\t<div class="button-container">\n\t\t<a href="https://lorehord.com/views/line/line-{prevline}.html">Previous</a>\n')
+                f.write(f'\n\t<div class="button-container">\n\t\t<a href="https://lorehord.com/views/riddle1/line-{prevline}.html">Previous</a>\n')
             else:
                 f.write('\n\t<div class="button-container">\n\t\t<a></a>')
             if line != 143:
-                f.write(f'\t\t<a href="https://lorehord.com/views/line/line-{nextline}.html">Next</a>\n\t</div>')
+                f.write(f'\t\t<a href="https://lorehord.com/views/riddle1/line-{nextline}.html">Next</a>\n\t</div>')
             else:
                 f.write('\n\t\t<a></a></div>')
             f.write('\n\t<h2 class="translation">Translation</h2><br>\n')
