@@ -1,0 +1,38 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Widsith</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Not Applicable</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Wikisource</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader> -->
+  <text>
+    <body>
+      <head>Exeter Book Riddle One</head>
+      <lg>
+        <l n="1">Whoever of men is so wise and so clever,</l>
+        <l n="2">That they may tell, who drives me on my journey</l>
+        <l n="3">When I arise strong, and fierce at times,</l>
+        <l n="4">mighty thunder, at times wreaking,</l>
+        <l n="5">Travel throughout the earth, I burn halls,</l>
+        <l n="6">Plunder buildings. Smoke rises,</l>
+        <l n="7">grey over roofs. Din is over the eart,</l>
+        <l n="8">the slaughter of men, when I stir the woods,</l>
+        <l n="9">the bold groves, and fell trees,</l>
+        <l n="10">stir the seas, high powers</l>
+        <l n="11"> driven on my way, wide sent;</l>
+        <l n="12">I have on my back that which before had covered</l>
+        <l n="13">earth-dwellers, flesh and spirits,</l>
+        <l n="14">together on the sea. Say who covers me,</l>
+        <l n="15">or what I am called, who these burdens bears.</l>
+      </lg>
+    </body>
+  </text>

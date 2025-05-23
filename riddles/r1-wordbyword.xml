@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<div rend="linenumber" xml:id="A3.22.1">
+    <head>Riddles 1</head>
+    <bibl>Krapp and Dobbie, 1936 180; Krapp, G.P. and Dobbie, E.V.K., The Exeter Book, ASPR 3 (New York).</bibl>
+    <lg>
+        <l n='1'>
+        	<word n='001' form='Hwylc' lemma='hwylc' pos='pron.interr' gloss='which'/>
+        	<word n='002' form='is' lemma='bēon' pos='pres.3sg' gloss='is'/>
+        	<word n='003' form='hæleþa' lemma='hæleþ' pos='gp' gloss='of men'/>
+        	<word n='004' form='þæs' lemma='sē' pos='dp.dem' gloss='so'/>
+        	<word n='005' form='horsc' lemma='horsc' pos='nsm' gloss='wise'/>
+        	<caesura/>
+        	<word n='006' form='ond' lemma='ond' pos='conj' gloss='and'/>
+        	<word n='007' form='þæs' lemma='sē' pos='dp.dem' gloss='so'/>
+        	<word n='008' form='hygecræftig' lemma='hygecræftig' pos='nsm' gloss='clever-minded'/>
+        </l>
+        <l n='2'>
+        	<word n='009' form='þæt' lemma='þæt' pos='conj' gloss='that'/>
+        	<word n='010' form='þæt' lemma='þæt' pos='as.dem' gloss='that'/>
+        	<word n='011' form='mæge' lemma='magan' pos='pres.subj.3sg' gloss='may'/>
+        	<word n='012' form='asecgan,' lemma='asecgan' pos='inf' gloss='tell'/>
+        	<caesura/>
+        	<word n='013' form='hwa' lemma='hwā' pos='pron.interr' gloss='who'/>
+        	<word n='014' form='mec' lemma='ic' pos='as.pers' gloss='me'/>
+        	<word n='015' form='on' lemma='on' pos='prep' gloss='on'/>
+        	<word n='016' form='sið' lemma='sīþ' pos='as' gloss='journey'/>
+        	<word n='017' form='wræce,' lemma='wrecan' pos='pres.subj.3sg' gloss='drives'/>
+        </l>
+        <l n='3'>
+        	<word n='018' form='þonne' lemma='þonne' pos='adv' gloss='when'/>
+        	<word n='019' form='ic' lemma='ic' pos='ns.pers' gloss='I'/>
+        	<word n='020' form='astige' lemma='āstīgan' pos='pres.1sg' gloss='rise up'/>
+        	<word n='021' form='strong,' lemma='strang' pos='nsm' gloss='strong'/>
+        	<caesura/>
+        	<word n='022' form='stundum' lemma='stund' pos='dp' gloss='at times'/>
+        	<word n='023' form='reþe,' lemma='hrēoh' pos='nsm' gloss='fierce'/>
+        </l>
+        <l n='4'>
+        	<word n='024' form='þrymful' lemma='þrymful' pos='nsm' gloss='mighty'/>
+        	<word n='025' form='þunie,' lemma='þunian' pos='pres.1sg' gloss='thunder'/>
+        	<caesura/>
+        	<word n='026' form='þragum' lemma='þrāg' pos='dp' gloss='at times'/>
+        	<word n='027' form='wræce' lemma='wrecan' pos='pres.1sg' gloss='wreak'/>
+        </l>
+        <l n='5'>
+        	<word n='028' form='fere' lemma='faran' pos='pres.1sg' gloss='travel'/>
+        	<word n='029' form='geond' lemma='geond' pos='prep' gloss='throughout'/>
+        	<word n='030' form='foldan,' lemma='folde' pos='as' gloss='earth'/>
+        	<caesura/>
+        	<word n='031' form='folcsalo' lemma='folcsalo' pos='ap' gloss='halls'/>
+        	<word n='032' form='bærne,' lemma='byrnan' pos='pres.1sg' gloss='burn'/>
+        </l>
+        <l n='6'>
+        	<word n='033' form='ræced' lemma='reced' pos='ap' gloss='buildings'/>
+        	<word n='034' form='reafige?' lemma='rēafian' pos='pres.1sg' gloss='plunder'/>
+        	<caesura/>
+        	<word n='035' form='Recas' lemma='rēc' pos='np' gloss='smoke'/>
+        	<word n='036' form='stigað,' lemma='stīgan' pos='pres.3pl' gloss='rises'/>
+        </l>
+        <l n='7'>
+        	<word n='037' form='haswe' lemma='hasu' pos='npm' gloss='grey'/>
+        	<word n='038' form='ofer' lemma='ofer' pos='prep' gloss='over'/>
+        	<word n='039' form='hrofum.' lemma='hrōf' pos='dp' gloss='roofs'/>
+        	<caesura/>
+        	<word n='040' form='Hlin' lemma='hlīn' pos='ns' gloss='noise'/>
+        	<word n='041' form='bið' lemma='bēon' pos='pres.3sg' gloss='is'/>
+        	<word n='042' form='on' lemma='on' pos='prep' gloss='on'/>
+        	<word n='043' form='eorþan,' lemma='eorþe' pos='ds' gloss='earth'/>
+        </l>
+        <l n='8'>
+        	<word n='044' form='wælcwealm' lemma='wælcwealm' pos='ns' gloss='slaughter'/>
+        	<word n='045' form='wera,' lemma='wer' pos='gp' gloss='of men'/>
+        	<caesura/>
+        	<word n='046' form='þonne' lemma='þonne' pos='adv' gloss='when'/>
+        	<word n='047' form='ic' lemma='ic' pos='ns.pers' gloss='I'/>
+        	<word n='048' form='wudu' lemma='wudu' pos='as' gloss='wood'/>
+        	<word n='049' form='hrere,' lemma='hrēran' pos='pres.1sg' gloss='stir'/>
+        </l>
+        <l n='9'>
+        	<word n='050' form='bearwas' lemma='bearwe' pos='ap' gloss='groves'/>
+        	<word n='051' form='bledhwate,' lemma='blēdhwæt' pos='apm' gloss='bold'/>
+        	<caesura/>
+        	<word n='052' form='beamas' lemma='bēam' pos='ap' gloss='trees'/>
+        	<word n='053' form='fylle,' lemma='fyllan' pos='pres.1sg' gloss='fell'/>
+        </l>
+        <l n='10'>
+        	<word n='054' form='holme' lemma='holm' pos='ds' gloss='sea'/>
+        	<word n='055' form='gehrefed,' lemma='gehrefan' pos='pp' gloss='stirred'/>
+        	<caesura/>
+        	<word n='056' form='heahum' lemma='hēah' pos='dp' gloss='high'/>
+        	<word n='057' form='meahtum' lemma='meaht' pos='dp' gloss='powers'/>
+        </l>
+        <l n='11'>
+        	<word n='058' form='wrecen' lemma='wrecan' pos='pp' gloss='driven'/>
+        	<word n='059' form='on' lemma='on' pos='prep' gloss='on'/>
+        	<word n='060' form='waþe,' lemma='wāþ' pos='as' gloss='journey'/>
+        	<caesura/>
+        	<word n='061' form='wide' lemma='wīde' pos='adv' gloss='widely'/>
+        	<word n='062' form='sended;' lemma='sendan' pos='pp' gloss='sent'/>
+        </l>
+        <l n='12'>
+        	<word n='063' form='hæbbe' lemma='habban' pos='pres.1sg' gloss='have'/>
+        	<word n='064' form='me' lemma='ic' pos='ds.pers' gloss='me'/>
+        	<word n='065' form='on' lemma='on' pos='prep' gloss='on'/>
+        	<word n='066' form='hrycge' lemma='hrycg' pos='ds' gloss='back'/>
+        	<caesura/>
+        	<word n='067' form='þæt' lemma='þæt' pos='as.rel' gloss='that which'/>
+        	<word n='068' form='ær' lemma='ǣr' pos='adv' gloss='before'/>
+        	<word n='069' form='hadas' lemma='had' pos='ap' gloss='forms'/>
+        	<word n='070' form='wreah' lemma='wrēon' pos='pret.3sg' gloss='covered'/>
+        </l>
+        <l n='13'>
+        	<word n='071' form='foldbuendra,' lemma='foldbuend' pos='gp' gloss='earth-dwellers'/>
+        	<caesura/>
+        	<word n='072' form='flæsc' lemma='flǣsc' pos='as' gloss='flesh'/>
+        	<word n='073' form='ond' lemma='ond' pos='conj' gloss='and'/>
+        	<word n='074' form='gæstas,' lemma='gāst' pos='ap' gloss='spirits'/>
+        </l>
+        <l n='14'>
+        	<word n='075' form='somod' lemma='somod' pos='adv' gloss='together'/>
+        	<word n='076' form='on' lemma='on' pos='prep' gloss='on'/>
+        	<word n='077' form='sunde.' lemma='sund' pos='ds' gloss='sea'/>
+        	<caesura/>
+        	<word n='078' form='Saga' lemma='secgan' pos='imp.2sg' gloss='say'/>
+        	<word n='079' form='hwa' lemma='hwā' pos='pron.interr' gloss='who'/>
+        	<word n='080' form='mec' lemma='ic' pos='as.pers' gloss='me'/>
+        	<word n='081' form='þecce,' lemma='þeccan' pos='pres.subj.3sg' gloss='covers'/>
+        </l>
+        <l n='15'>
+        	<word n='082' form='oþþe' lemma='oþþe' pos='conj' gloss='or'/>
+        	<word n='083' form='hu' lemma='hū' pos='adv.interr' gloss='how'/>
+        	<word n='084' form='ic' lemma='ic' pos='ns.pers' gloss='I'/>
+        	<word n='085' form='hatte,' lemma='hātan' pos='pres.1sg.pass' gloss='am called'/>
+        	<caesura/>
+        	<word n='086' form='þe' lemma='þū' pos='ns.rel' gloss='who'/>
+        	<word n='087' form='þa' lemma='sē' pos='ap.dem' gloss='the'/>
+        	<word n='088' form='hlæst' lemma='hlæst' pos='ap' gloss='burdens'/>
+        	<word n='089' form='bere.' lemma='beran' pos='pres.1sg' gloss='bear'/>
+        </l>
+    </lg>
+</div>

@@ -1,14 +1,26 @@
 import csv
+import sys
 from pyuca import Collator
 
-def sortgloss(infile):
+
+def main():
+    if len(sys.argv) != 3:
+        print("Usage: python sortgloss.py input_file.tsv output_file.tsv")
+        sys.exit(1)
+    
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
+    print(f"Processing: {input_file}")
+    sortgloss(input_file, output_file)
+
+def sortgloss(infile, outfile):
     c = Collator()
 
     def sort_key(entry):
         return c.sort_key(entry[0])
 
     readfile = infile
-    writefile = "../transitiondocs/sortedgloss.tsv"
+    writefile = outfile
 
     with open(readfile, "r", newline="", encoding="utf-8") as infile:
         reader = csv.reader(infile, delimiter="\t")
@@ -22,3 +34,6 @@ def sortgloss(infile):
 
     print("Your file has been alphabetized.")
     return writefile
+
+if __name__ == "__main__":
+    main()
