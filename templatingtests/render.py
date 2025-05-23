@@ -18,58 +18,58 @@ def render_template(template_name, output_name, **kwargs):
     
     print(f"Rendered {output_name}")
 
-# Render the thesis page
-# render_template(
-#     'thesis.html',
-#     'thesis.html',
-#     page_title="Widsið and the Digital Age",
-#     author="Sarah Monnier"
-# )
+#Render the thesis page
+render_template(
+    'thesis.html',
+    'thesis.html',
+    page_title="Widsið and the Digital Age",
+    author="Sarah Monnier"
+)
 
-# # You can add more pages here
-# render_template(
-#     'index.html',
-#     f'../index.html',
-#     page_title="Widsið Translation and Thesis"
-# )
-
-# # render_template(
-# #     'glossary.html',
-# #     'glossary.html',
-# #     page_title="Widsið Glossary",
-# # )
+# You can add more pages here
+render_template(
+    'index.html',
+    f'../index.html',
+    page_title="Widsið Translation and Thesis"
+)
 
 # render_template(
-#     'alignment1.html',
-#     'alignment1.html',
-#     page_title="Alignment",
+#     'glossary.html',
+#     'glossary.html',
+#     page_title="Widsið Glossary",
 # )
 
-# render_template(
-#     'named_entities.html',
-#     'named_entities.html',
-#     page_title="Named Entities",
-# )
+render_template(
+    'alignment1.html',
+    'alignment1.html',
+    page_title="Alignment",
+)
 
-# render_template(
-#     'furtherreading.html',
-#     'furtherreading.html',
-#     page_title="Further Reading",
-# )
+render_template(
+    'named_entities.html',
+    'named_entities.html',
+    page_title="Named Entities",
+)
 
-# render_template(
-#     'beowulf_alignment.html',
-#     'beowulf_alignment.html', 
-#     page_title="Beowulf Alignment",
-# )
+render_template(
+    'furtherreading.html',
+    'furtherreading.html',
+    page_title="Further Reading",
+)
 
-# for i in range(1, 144):
-#     render_template(
-#         f'line/line-{i}.html',
-#         f'line/line-{i}.html',
-#         lineno=i,
-#         page_title=f"Widsið Line {i}"
-#     )
+render_template(
+    'beowulf_alignment.html',
+    'beowulf_alignment.html', 
+    page_title="Beowulf Alignment",
+)
+
+for i in range(1, 144):
+    render_template(
+        f'line/line-{i}.html',
+        f'line/line-{i}.html',
+        lineno=i,
+        page_title=f"Widsið Line {i}"
+    )
 for i in range(1, 16):
     render_template(
         f'riddle1/line-{i}.html',
@@ -78,18 +78,18 @@ for i in range(1, 16):
         page_title=f"Riddle One Line {i}"
     )
 
-# render_template(
-#     'acknowledgements.html',
-#     'acknowledgements.html',
-#     page_title="acknowledgements",
-#     email="sarahjmonnier@gmail.com"
-# )
+render_template(
+    'acknowledgements.html',
+    'acknowledgements.html',
+    page_title="acknowledgements",
+    email="sarahjmonnier@gmail.com"
+)
 
-# render_template(
-#     'llm_glossary.html',
-#     'llm_glossary.html',
-#     page_title="LLM Glossary",
-# )
+render_template(
+    'llm_glossary.html',
+    'llm_glossary.html',
+    page_title="LLM Glossary",
+)
 
 
 print("All templates rendered successfully!")
