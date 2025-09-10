@@ -79,9 +79,9 @@ for line, group_df in df.groupby('Line'):
             prevline = line_no - 1
 
         with open(filename, "w", encoding='utf-8') as f:
-            f.write('{% extends "base.html" %}\n{% block title %}{{ page_title }}{% endblock %}\n{% block extra_css %}\n<link rel="stylesheet" href="../../static/linebyline.css">\n{% endblock %}\n{% block content %}\n')
-            f.write('<link rel="stylesheet" href="../../static/linebyline.css">\n</head>\n')
-            f.write(f'\t<h1>Widsið</h1>\n')            
+            f.write('{% extends "base.html" %}\n{% block title %}{{ page_title }}{% endblock %}\n{% block extra_css %}\n<link rel="stylesheet" href="linebyline.css">\n{% endblock %}\n{% block content %}\n')
+            f.write('<link rel="stylesheet" href="linebyline.css">\n</head>\n')
+            f.write('\t<h1>Widsið</h1>\n')            
             f.write(f'<h2>Line {line_no}</h2>\n')
             f.write(modified_html)
             if line != 1:
