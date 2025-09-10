@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <title>{% block title %}{% endblock %}</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="../static/styles.css">
-    {% block extra_css %}{% endblock %}
+    
 </head>
 <body>
     <header class="header">
@@ -33,13 +32,15 @@
                 <a href="/views/furtherreading.html">Further Reading</a>
               </div>
             </li>
-            <li class="nav-item"><a href="/views/acknowledgements.html" class="nav-link">Acknowledgements</a></li>
+            <li class="nav-item"><a href="/views/contact.html" class="nav-link">Contact</a></li>
           </ul>
         </nav>
       </header>
   <div class="content-wrapper">
-    {% block content %}
-    {% endblock %}
+    
+    <h1>Contact</h1>
+    <p>If you find an error, wish to contribute to either Widsið work or other Old English poetry, or otherwise want to chat about the possibilities of this work, please send me an email at <a href="mailto:sarahjmonnier@gmail.com">sarahjmonnier@gmail.com</a></p>
+
   </div>
   </body>
 </html>
