@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ page_title }}{% endblock %}
 {% block extra_css %}
-<link rel="stylesheet" href="../../static/linebyline.css">
+<link rel="stylesheet" href="../linebyline.css?{{ HASHES['../linebyline.css'] }}">
 {% endblock %}
 {% block content %}
-<link rel="stylesheet" href="../../static/linebyline.css">
+<link rel="stylesheet" href="../linebyline.css?{{ HASHES['../linebyline.css'] }}">
 </head>
 	<h1>Widsið</h1>
 <h2>Line 29</h2>

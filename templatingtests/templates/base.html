@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <title>{% block title %}{% endblock %}</title>
-    <link rel="stylesheet" href="../static/styles.css">
+    <link rel="stylesheet" href="styles.css?{{ HASHES['styles.css'] }}">
     {% block extra_css %}{% endblock %}
 </head>
 <body>

@@ -2,7 +2,7 @@
 
 {% block title %}{{ page_title }}{% endblock %}
 {% block extra_css %}
-<link rel="stylesheet" href="../static/glossstyles.css">
+<link rel="stylesheet" href="glossstyles.css?{{ HASHES['glossstyles.css'] }}">
 {% endblock %}
 {% block content %}
 <h1>Named Entities Glossary</h1><table border="1">
