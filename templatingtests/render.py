@@ -29,7 +29,7 @@ render_template(
 # You can add more pages here
 render_template(
     'index.html',
-    '../index.html',
+    f'../index.html',
     page_title="Widsið Translation and Thesis"
 )
 
